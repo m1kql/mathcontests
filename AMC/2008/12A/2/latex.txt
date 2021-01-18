@@ -1,0 +1,4 @@
+What is the reciprocal of $\frac{1}{2}+\frac{2}{3}$?
+ 
+$\mathrm{(A)}\ \frac{6}{7}\qquad\mathrm{(B)}\ \frac{7}{6}\qquad\mathrm{(C)}\ \frac{5}{3}\qquad\mathrm{(D)}\ 3\qquad\mathrm{(E)}\ \frac{7}{2}$
+ 

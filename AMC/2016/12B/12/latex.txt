@@ -1,0 +1,4 @@
+All the numbers $1, 2, 3, 4, 5, 6, 7, 8, 9$ are written in a $3\times3$ array of squares, one number in each square, in such a way that if two numbers are consecutive then they occupy squares that share an edge. The numbers in the four corners add up to $18$. What is the number in the center?
+ 
+$\textbf{(A)}\ 5\qquad\textbf{(B)}\ 6\qquad\textbf{(C)}\ 7\qquad\textbf{(D)}\ 8\qquad\textbf{(E)}\ 9$
+ 

@@ -1,0 +1,5 @@
+
+For a certain positive integer $n$ less than $1000$, the decimal equivalent of $\frac{1}{n}$ is $0.\overline{abcdef}$, a repeating decimal of period of $6$, and the decimal equivalent of $\frac{1}{n+6}$ is $0.\overline{wxyz}$, a repeating decimal of period $4$. In which interval does $n$ lie?
+
+$\textbf{(A)}\ [1,200]\qquad\textbf{(B)}\ [201,400]\qquad\textbf{(C)}\ [401,600]\qquad\textbf{(D)}\ [601,800]\qquad\textbf{(E)}\ [801,999]$
+

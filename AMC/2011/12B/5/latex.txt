@@ -1,0 +1,4 @@
+Let $N$ be the second smallest positive integer that is divisible by every positive integer less than $7$. What is the sum of the digits of $N$?
+ 
+$\textbf{(A)}\ 3 \qquad \textbf{(B)}\ 4 \qquad \textbf{(C)}\ 5 \qquad \textbf{(D)}\ 6 \qquad \textbf{(E)}\ 9$
+ 

@@ -1,0 +1,4 @@
+Define $x\otimes y=x^3-y$. What is $h\otimes (h\otimes h)$?
+ 
+$\mathrm{(A)}\ -h\qquad\mathrm{(B)}\ 0\qquad\mathrm{(C)}\ h\qquad\mathrm{(D)}\ 2h\qquad\mathrm{(E)}\ h^3$
+ 

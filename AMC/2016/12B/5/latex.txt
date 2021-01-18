@@ -1,0 +1,4 @@
+The War of $1812$ started with a declaration of war on Thursday, June $18$, $1812$. The peace treaty to end the war was signed $919$ days later, on December $24$, $1814$. On what day of the week was the treaty signed? 
+ 
+$\textbf{(A)}\ \text{Friday} \qquad \textbf{(B)}\ \text{Saturday} \qquad \textbf{(C)}\ \text{Sunday} \qquad \textbf{(D)}\ \text{Monday} \qquad \textbf{(E)}\ \text{Tuesday}$
+ 

@@ -1,0 +1,2 @@
+The diagram shows twenty congruent circles arranged in three rows and enclosed in a rectangle. The circles are tangent to one another and to the sides of the rectangle as shown in the diagram. The ratio of the longer dimension of the rectangle to the shorter dimension can be written as $\dfrac{1}{2}(\sqrt{p}-q)$ where $p$ and $q$ are positive integers. Find $p+q$.
+ 

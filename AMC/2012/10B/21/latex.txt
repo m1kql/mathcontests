@@ -1,0 +1,4 @@
+Four distinct points are arranged on a plane so that the segments connecting them have lengths $a$, $a$, $a$, $a$, $2a$, and $b$. What is the ratio of $b$ to $a$?
+ 
+$\textbf{(A)}\ \sqrt{3}\qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ \sqrt{5}\qquad\textbf{(D)}\ 3\qquad\textbf{(E)}\ \pi$
+ 

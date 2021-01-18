@@ -1,0 +1,4 @@
+Three fair six-sided dice are rolled. What is the probability that the values shown on two of the dice sum to the value shown on the remaining die?
+ 
+$\textbf{(A)}\ \dfrac16\qquad\textbf{(B)}\ \dfrac{13}{72}\qquad\textbf{(C)}\ \dfrac7{36}\qquad\textbf{(D)}\ \dfrac5{24}\qquad\textbf{(E)}\ \dfrac29$
+ 

@@ -1,0 +1,4 @@
+Let $n$ denote the smallest positive integer that is divisible by both $4$ and $9,$ and whose base-$10$ representation consists of only $4$'s and $9$'s, with at least one of each. What are the last four digits of $n?$
+ 
+$\textbf{(A) } 4444 \qquad\textbf{(B) } 4494 \qquad\textbf{(C) } 4944 \qquad\textbf{(D) } 9444 \qquad\textbf{(E) } 9944$
+ 

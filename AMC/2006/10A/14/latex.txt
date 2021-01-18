@@ -1,0 +1,6 @@
+A number of linked rings, each 1 cm thick, are hanging on a peg. The top ring has an outside diameter of 20 cm. The outside diameter of each of the outer rings is 1 cm less than that of the ring above it. The bottom ring has an outside diameter of 3 cm. What is the distance, in cm, from the top of the top ring to the bottom of the bottom ring? 
+ 
+
+ 
+$\mathrm{(A) \ } 171\qquad\mathrm{(B) \ } 173\qquad\mathrm{(C) \ } 182\qquad\mathrm{(D) \ } 188\qquad\mathrm{(E) \ } 210\qquad$
+ 

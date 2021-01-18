@@ -1,0 +1,4 @@
+A triangle has area $30$, one side of length $10$, and the median to that side of length $9$.  Let $\theta$ be the acute angle formed by that side and the median.  What is $\sin{\theta}$?
+ 
+$\textbf{(A)}\ \frac{3}{10}\qquad\textbf{(B)}\ \frac{1}{3}\qquad\textbf{(C)}\ \frac{9}{20}\qquad\textbf{(D)}\ \frac{2}{3}\qquad\textbf{(E)}\ \frac{9}{10}$
+ 

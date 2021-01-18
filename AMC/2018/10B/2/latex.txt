@@ -1,0 +1,6 @@
+Sam drove 96 miles in 90 minutes. His average speed during the first 30 minutes was 60 mph (miles per hour), and his average speed during the second 30 minutes was 65 mph. What was his average speed, in mph, during the last 30 minutes?
+ 
+$\textbf{(A) } 64 \qquad \textbf{(B) } 65 \qquad \textbf{(C) } 66 \qquad \textbf{(D) } 67 \qquad \textbf{(E) } 68$
+ 
+
+ 

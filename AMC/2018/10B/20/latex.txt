@@ -1,0 +1,4 @@
+A function $f$ is defined recursively by $f(1)=f(2)=1$ and  \begin{center} \[f(n)=f(n-1)-f(n-2)+n\] \end{center} for all integers $n \geq 3$. What is $f(2018)$?
+ 
+$\textbf{(A)} \text{ 2016} \qquad \textbf{(B)} \text{ 2017} \qquad \textbf{(C)} \text{ 2018} \qquad \textbf{(D)} \text{ 2019} \qquad \textbf{(E)} \text{ 2020}$
+ 

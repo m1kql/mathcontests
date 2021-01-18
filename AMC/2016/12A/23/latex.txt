@@ -1,0 +1,4 @@
+Three numbers in the interval $\left[0,1\right]$ are chosen independently and at random. What is the probability that the chosen numbers are the side lengths of a triangle with positive area?
+ 
+$\textbf{(A) }\frac16\qquad\textbf{(B) }\frac13\qquad\textbf{(C) }\frac12\qquad\textbf{(D) }\frac23\qquad\textbf{(E) }\frac56$
+ 

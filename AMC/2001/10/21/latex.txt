@@ -1,0 +1,4 @@
+A right circular cylinder with its diameter equal to its height is inscribed in a right circular cone. The cone has diameter $10$ and altitude $12$, and the axes of the cylinder and cone coincide. Find the radius of the cylinder. 
+ 
+$\textbf{(A)}\ \frac{8}3\qquad\textbf{(B)}\ \frac{30}{11}\qquad\textbf{(C)}\ 3\qquad\textbf{(D)}\ \frac{25}{8}\qquad\textbf{(E)}\ \frac{7}{2}$
+ 

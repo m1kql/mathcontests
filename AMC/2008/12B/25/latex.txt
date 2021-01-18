@@ -1,0 +1,4 @@
+Let $ABCD$ be a trapezoid with $AB||CD, AB=11, BC=5, CD=19,$ and $DA=7$. Bisectors of $\angle A$ and $\angle D$ meet at $P$, and bisectors of $\angle B$ and $\angle C$ meet at $Q$. What is the area of hexagon $ABQCDP$?
+ 
+$\textbf{(A)}\ 28\sqrt{3}\qquad \textbf{(B)}\ 30\sqrt{3}\qquad \textbf{(C)}\ 32\sqrt{3}\qquad \textbf{(D)}\ 35\sqrt{3}\qquad \textbf{(E)}\ 36\sqrt{3}$
+ 

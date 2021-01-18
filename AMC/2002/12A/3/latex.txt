@@ -1,0 +1,10 @@
+According to the standard convention for exponentiation, 
+ 
+ \begin{center} \[2^{2^{2^{2}}} = 2^{(2^{(2^2)})} = 2^{16} = 65536.\] \end{center} 
+ 
+If the order in which the exponentiations are performed is changed, how many other values are possible?
+ 
+$\mathrm{(A) \ } 0\qquad \mathrm{(B) \ } 1\qquad \mathrm{(C) \ } 2\qquad \mathrm{(D) \ } 3\qquad \mathrm{(E) \ } 4$
+ 
+
+ 

@@ -1,0 +1,4 @@
+A month with $31$ days has the same number of Mondays and Wednesdays. How many of the seven days of the week could be the first day of this month?
+ 
+$\textbf{(A)}\ 2 \qquad \textbf{(B)}\ 3 \qquad \textbf{(C)}\ 4 \qquad \textbf{(D)}\ 5 \qquad \textbf{(E)}\ 6$
+ 

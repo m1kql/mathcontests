@@ -1,0 +1,4 @@
+Four identical squares and one rectangle are placed together to form one large square as shown. The length of the rectangle is how many times as large as its width? 
+ 
+$\mathrm{(A)}\ \dfrac{5}{4} \qquad \mathrm{(B)}\ \dfrac{4}{3} \qquad \mathrm{(C)}\ \dfrac{3}{2} \qquad \mathrm{(D)}\ 2 \qquad \mathrm{(E)}\ 3$
+ 

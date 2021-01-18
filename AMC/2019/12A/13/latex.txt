@@ -1,0 +1,4 @@
+How many ways are there to paint each of the integers $2, 3, \dots, 9$ either red, green, or blue so that each number has a different color from each of its proper divisors?
+ 
+$\textbf{(A)}\ 144\qquad\textbf{(B)}\ 216\qquad\textbf{(C)}\ 256\qquad\textbf{(D)}\ 384\qquad\textbf{(E)}\ 432$
+ 

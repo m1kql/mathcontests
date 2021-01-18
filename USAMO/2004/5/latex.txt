@@ -1,0 +1,5 @@
+(Titu Andreescu)
+Let $a$, $b$, and $c$ be positive real numbers.  Prove that
+
+$(a^5 - a^2 + 3)(b^5 - b^2 + 3)(c^5 - c^2 + 3) \ge (a+b+c)^3$.
+

@@ -1,0 +1,6 @@
+Given that
+ 
+ \begin{center} \begin{eqnarray*}&(1)& x\text{ and }y\text{ are both integers between 100 and 999, inclusive;}\qquad \qquad \qquad \qquad \qquad \\     &(2)& y\text{ is the number formed by reversing the digits of }x\text{; and}\\     &(3)& z=|x-y|. \end{eqnarray*} \end{center} 
+ 
+How many distinct values of $z$ are possible?
+ 

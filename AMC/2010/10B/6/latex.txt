@@ -1,0 +1,4 @@
+A circle is centered at $O$, $\overline{AB}$ is a diameter and $C$ is a point on the circle with $\angle COB = 50^\circ$. What is the degree measure of $\angle CAB$?
+ 
+$\textbf{(A)}\ 20 \qquad \textbf{(B)}\ 25 \qquad \textbf{(C)}\ 45 \qquad \textbf{(D)}\ 50 \qquad \textbf{(E)}\ 65$
+ 

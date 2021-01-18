@@ -1,0 +1,6 @@
+In $\triangle ABC$, $AB = 86$, and $AC=97$.  A circle with center $A$ and radius $AB$ intersects $\overline{BC}$ at points $B$ and $X$.  Moreover $\overline{BX}$ and $\overline{CX}$ have integer lengths.  What is $BC$?
+ 
+
+ 
+$\textbf{(A)}\ 11\qquad\textbf{(B)}\ 28\qquad\textbf{(C)}\ 33\qquad\textbf{(D)}\ 61\qquad\textbf{(E)}\ 72$
+ 

@@ -1,0 +1,4 @@
+Yan is somewhere between his home and the stadium. To get to the stadium he can walk directly to the stadium, or else he can walk home and then ride his bicycle to the stadium. He rides 7 times as fast as he walks, and both choices require the same amount of time. What is the ratio of Yan's distance from his home to his distance from the stadium?
+ 
+$\mathrm{(A)}\ \frac 23\qquad \mathrm{(B)}\ \frac 34\qquad \mathrm{(C)}\ \frac 45\qquad \mathrm{(D)}\ \frac 56\qquad \mathrm{(E)}\ \frac 78$
+ 

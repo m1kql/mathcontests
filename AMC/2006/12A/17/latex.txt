@@ -1,0 +1,4 @@
+Square $ABCD$ has side length $s$, a circle centered at $E$ has radius $r$, and $r$ and $s$ are both rational. The circle passes through $D$, and $D$ lies on $\overline{BE}$. Point $F$ lies on the circle, on the same side of $\overline{BE}$ as $A$. Segment $AF$ is tangent to the circle, and $AF=\sqrt{9+5\sqrt{2}}$. What is $r/s$?
+ 
+$\mathrm{(A) \ } \frac{1}{2}\qquad \mathrm{(B) \ } \frac{5}{9}\qquad \mathrm{(C) \ } \frac{3}{5}\qquad \mathrm{(D) \ } \frac{5}{3}\qquad \mathrm{(E) \ }  \frac{9}{5}$
+ 

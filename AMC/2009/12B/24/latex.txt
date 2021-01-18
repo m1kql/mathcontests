@@ -1,0 +1,6 @@
+For how many values of $x$ in $[0,\pi]$ is $\sin^{ - 1}(\sin 6x) = \cos^{ - 1}(\cos x)$?
+ 
+Note: The functions $\sin^{ - 1} = \arcsin$ and $\cos^{ - 1} = \arccos$ denote inverse trigonometric functions.
+ 
+$\textbf{(A)}\ 3\qquad \textbf{(B)}\ 4\qquad \textbf{(C)}\ 5\qquad \textbf{(D)}\ 6\qquad \textbf{(E)}\ 7$
+ 

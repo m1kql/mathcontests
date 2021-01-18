@@ -1,0 +1,4 @@
+The sides of a triangle with positive area have lengths $4$, $6$, and $x$. The sides of a second triangle with positive area have lengths $4$, $6$, and $y$. What is the smallest positive number that is not a possible value of $|x-y|$?  
+ 
+$\mathrm{(A)}\ 2 \qquad\mathrm{(B)}\ 4 \qquad\mathrm{(C)}\ 6 \qquad\mathrm{(D)}\ 8 \qquad\mathrm{(E)}\ 10$
+ 

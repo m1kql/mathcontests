@@ -1,0 +1,4 @@
+A unit of blood expires after $10!=10\cdot 9 \cdot 8 \cdots 1$ seconds. Yasin donates a unit of blood at noon of January 1. On what day does his unit of blood expire?
+ 
+$\textbf{(A) }\text{January 2}\qquad\textbf{(B) }\text{January 12}\qquad\textbf{(C) }\text{January 22}\qquad\textbf{(D) }\text{February 11}\qquad\textbf{(E) }\text{February 12}$
+ 

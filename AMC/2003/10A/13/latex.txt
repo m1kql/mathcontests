@@ -1,0 +1,4 @@
+The sum of three numbers is $20$. The first is four times the sum of the other two. The second is seven times the third. What is the product of all three? 
+ 
+$\mathrm{(A) \ } 28\qquad \mathrm{(B) \ } 40\qquad \mathrm{(C) \ } 100\qquad \mathrm{(D) \ } 400\qquad \mathrm{(E) \ } 800$
+ 

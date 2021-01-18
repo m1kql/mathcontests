@@ -1,0 +1,4 @@
+Given that $2^{2004}$ is a $604$-digit number whose first digit is $1$, how many elements of the set $S = \{2^0,2^1,2^2,\ldots ,2^{2003}\}$ have a first digit of $4$? 
+ 
+$\mathrm{(A)}\ 194 \qquad \mathrm{(B)}\ 195 \qquad \mathrm{(C)}\ 196 \qquad \mathrm{(D)}\ 197 \qquad \mathrm{(E)}\ 198$
+ 

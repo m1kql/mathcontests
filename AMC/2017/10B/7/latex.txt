@@ -1,0 +1,4 @@
+Samia set off on her bicycle to visit her friend, traveling at an average speed of $17$ kilometers per hour. When she had gone half the distance to her friend's house, a tire went flat, and she walked the rest of the way at $5$ kilometers per hour. In all it took her $44$ minutes to reach her friend's house. In kilometers rounded to the nearest tenth, how far did Samia walk?
+ 
+$\textbf{(A)}\ 2.0\qquad\textbf{(B)}\ 2.2\qquad\textbf{(C)}\ 2.8\qquad\textbf{(D)}\ 3.4\qquad\textbf{(E)}\ 4.4$
+ 

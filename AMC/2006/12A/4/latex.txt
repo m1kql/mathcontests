@@ -1,0 +1,4 @@
+A digital watch displays hours and minutes with AM and PM. What is the largest possible sum of the digits in the display?
+ 
+$\mathrm{(A)}\ 17\qquad\mathrm{(B)}\ 19\qquad\mathrm{(C)}\ 21\qquad\mathrm{(D)}\ 22\qquad\mathrm{(E)}\  23$
+ 

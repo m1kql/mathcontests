@@ -1,0 +1,4 @@
+What is the largest number of solid $2\text{-in} \times 2\text{-in} \times 1\text{-in}$ blocks that can fit in a $3\text{-in} \times 2\text{-in}\times3\text{-in}$ box?
+ 
+$\textbf{(A)}\ 3\qquad\textbf{(B)}\ 4\qquad\textbf{(C)}\ 5\qquad\textbf{(D)}\ 6\qquad\textbf{(E)}\ 7$
+ 

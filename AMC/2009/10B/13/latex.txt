@@ -1,0 +1,6 @@
+As shown below, convex pentagon $ABCDE$ has sides $AB=3$, $BC=4$, $CD=6$, $DE=3$, and $EA=7$. The pentagon is originally positioned in the plane with vertex $A$ at the origin and vertex $B$ on the positive $x$-axis. The pentagon is then rolled clockwise to the right along the $x$-axis. Which side will touch the point $x=2009$ on the $x$-axis? 
+ 
+
+ 
+$\text{(A) } \overline{AB} \qquad \text{(B) } \overline{BC} \qquad \text{(C) } \overline{CD} \qquad \text{(D) } \overline{DE} \qquad \text{(E) } \overline{EA}$
+ 

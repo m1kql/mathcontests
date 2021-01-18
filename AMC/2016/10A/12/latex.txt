@@ -1,0 +1,4 @@
+Three distinct integers are selected at random between $1$ and $2016$, inclusive. Which of the following is a correct statement about the probability $p$ that the product of the three integers is odd?
+ 
+$\textbf{(A)}\ p<\dfrac{1}{8}\qquad\textbf{(B)}\ p=\dfrac{1}{8}\qquad\textbf{(C)}\ \dfrac{1}{8}<p<\dfrac{1}{3}\qquad\textbf{(D)}\ p=\dfrac{1}{3}\qquad\textbf{(E)}\ p>\dfrac{1}{3}$
+ 

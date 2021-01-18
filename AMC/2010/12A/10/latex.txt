@@ -1,0 +1,4 @@
+The first four terms of an arithmetic sequence are $p$, $9$, $3p-q$, and $3p+q$. What is the $2010^\text{th}$ term of this sequence?
+ 
+$\textbf{(A)}\ 8041 \qquad \textbf{(B)}\ 8043 \qquad \textbf{(C)}\ 8045 \qquad \textbf{(D)}\ 8047 \qquad \textbf{(E)}\ 8049$
+ 

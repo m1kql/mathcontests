@@ -1,0 +1,4 @@
+Two distinct regular tetrahedra have all their vertices among the vertices of the same unit cube.  What is the volume of the region formed by the intersection of the tetrahedra?
+ 
+$\text{(A)}\,\frac{1}{12} \qquad\text{(B)}\,\frac{\sqrt2}{12} \qquad\text{(C)}\,\frac{\sqrt3}{12} \qquad\text{(D)}\,\frac{1}{6} \qquad\text{(E)}\,\frac{\sqrt2}{6}$
+ 

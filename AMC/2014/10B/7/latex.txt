@@ -1,0 +1,4 @@
+Suppose $A>B>0$ and A is $x$% greater than $B$. What is $x$?
+ 
+$\textbf {(A) } 100\left(\frac{A-B}{B}\right) \qquad \textbf {(B) } 100\left(\frac{A+B}{B}\right) \qquad \textbf {(C) } 100\left(\frac{A+B}{A}\right)\qquad \textbf {(D) } 100\left(\frac{A-B}{A}\right) \qquad \textbf {(E) } 100\left(\frac{A}{B}\right)$
+ 

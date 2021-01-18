@@ -1,0 +1,4 @@
+In rectangle $ABCD, AB=5$ and $BC=3$. Points $F$ and $G$ are on $\overline{CD}$ so that $DF=1$ and $GC=2$. Lines $AF$ and $BG$ intersect at $E$. Find the area of $\triangle AEB$.
+ 
+$\textbf{(A) } 10 \qquad\textbf{(B) } \frac{21}{2} \qquad\textbf{(C) } 12 \qquad\textbf{(D) } \frac{25}{2} \qquad\textbf{(E) } 15$
+ 

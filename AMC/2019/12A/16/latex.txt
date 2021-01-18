@@ -1,0 +1,4 @@
+The numbers $1,2,\dots,9$ are randomly placed into the $9$ squares of a $3 \times 3$ grid. Each square gets one number, and each of the numbers is used once. What is the probability that the sum of the numbers in each row and each column is odd?
+ 
+$\textbf{(A) }\frac{1}{21}\qquad\textbf{(B) }\frac{1}{14}\qquad\textbf{(C) }\frac{5}{63}\qquad\textbf{(D) }\frac{2}{21}\qquad\textbf{(E) }\frac{1}{7}$
+ 

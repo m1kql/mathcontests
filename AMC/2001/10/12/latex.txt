@@ -1,0 +1,4 @@
+Suppose that $n$ is the product of three consecutive integers and that $n$ is divisible by $7$. Which of the following is not necessarily a divisor of $n$?
+ 
+$\textbf{(A)}\ 6 \qquad \textbf{(B)}\ 14 \qquad \textbf{(C)}\ 21 \qquad \textbf{(D)}\ 28 \qquad \textbf{(E)}\ 42$
+ 

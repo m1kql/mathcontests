@@ -1,0 +1,4 @@
+There are exactly $N$ distinct rational numbers $k$ such that $|k|<200$ and  \begin{center} \[5x^2+kx+12=0\] \end{center}  has at least one integer solution for $x$.  What is $N$?
+ 
+$\textbf{(A) }6\qquad \textbf{(B) }12\qquad \textbf{(C) }24\qquad \textbf{(D) }48\qquad \textbf{(E) }78\qquad$
+ 

@@ -1,0 +1,4 @@
+For real numbers $w$ and $z$,  \begin{center} \[\cfrac{\frac{1}{w} + \frac{1}{z}}{\frac{1}{w} - \frac{1}{z}} = 2014.\] \end{center}  What is $\frac{w+z}{w-z}$? 
+ 
+$\textbf{(A) }-2014\qquad\textbf{(B) }\frac{-1}{2014}\qquad\textbf{(C) }\frac{1}{2014}\qquad\textbf{(D) }1\qquad\textbf{(E) }2014$
+ 

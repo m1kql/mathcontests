@@ -1,0 +1,4 @@
+The average of the numbers $1, 2, 3,\cdots, 98, 99,$ and $x$ is $100x$. What is $x$?
+ 
+$\textbf{(A)}\ \dfrac{49}{101} \qquad \textbf{(B)}\ \dfrac{50}{101} \qquad \textbf{(C)}\ \dfrac{1}{2} \qquad \textbf{(D)}\ \dfrac{51}{101} \qquad \textbf{(E)}\ \dfrac{50}{99}$
+ 

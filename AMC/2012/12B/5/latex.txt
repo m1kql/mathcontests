@@ -1,0 +1,4 @@
+Two integers have a sum of 26. when two more integers are added to the first two, the sum is 41. Finally, when two more integers are added to the sum of the previous 4 integers, the sum is 57. What is the minimum number of even integers among the 6 integers?
+ 
+$\textbf{(A)}\ 1\qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ 3\qquad\textbf{(D)}\ 4\qquad\textbf{(E)}\ 5$
+ 

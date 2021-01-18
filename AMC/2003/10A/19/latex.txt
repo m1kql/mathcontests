@@ -1,0 +1,6 @@
+A semicircle of diameter $1$ sits at the top of a semicircle of diameter $2$, as shown. The shaded area inside the smaller semicircle and outside the larger semicircle is called a lune. Determine the area of this lune. 
+ 
+
+ 
+$\mathrm{(A) \ } \frac{1}{6}\pi-\frac{\sqrt{3}}{4}\qquad \mathrm{(B) \ } \frac{\sqrt{3}}{4}-\frac{1}{12}\pi\qquad \mathrm{(C) \ } \frac{\sqrt{3}}{4}-\frac{1}{24}\pi\qquad \mathrm{(D) \ } \frac{\sqrt{3}}{4}+\frac{1}{24}\pi\qquad \mathrm{(E) \ } \frac{\sqrt{3}}{4}+\frac{1}{12}\pi$
+ 

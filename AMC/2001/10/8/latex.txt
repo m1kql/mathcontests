@@ -1,0 +1,4 @@
+Wanda, Darren, Beatrice, and Chi are tutors in the school math lab. Their schedule is as follows: Darren works every third school day, Wanda works every fourth school day, Beatrice works every sixth school day, and Chi works every seventh school day. Today they are all working in the math lab. In how many school days from today will they next be together tutoring in the lab?
+ 
+$\textbf{(A) }42\qquad\textbf{(B) }84\qquad\textbf{(C) }126\qquad\textbf{(D) }168\qquad\textbf{(E) }252$
+ 

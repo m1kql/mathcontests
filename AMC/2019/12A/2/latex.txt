@@ -1,0 +1,4 @@
+Suppose $a$ is $150\%$ of $b$. What percent of $a$ is $3b$?
+ 
+$\textbf{(A) } 50 \qquad \textbf{(B) } 66\frac{2}{3} \qquad \textbf{(C) } 150 \qquad \textbf{(D) } 200 \qquad \textbf{(E) } 450$
+ 

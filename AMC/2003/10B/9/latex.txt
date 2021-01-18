@@ -1,0 +1,6 @@
+Find the value of $x$ that satisfies the equation
+ 
+$25^{-2} = \frac{5^{48/x}}{5^{26/x} \cdot 25^{17/x}}.$
+ 
+$\textbf{(A) } 2 \qquad\textbf{(B) } 3 \qquad\textbf{(C) } 5 \qquad\textbf{(D) } 6 \qquad\textbf{(E) } 9$
+ 

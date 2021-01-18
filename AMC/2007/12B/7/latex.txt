@@ -1,0 +1,4 @@
+All sides of the convex pentagon $ABCDE$ are of equal length, and $\angle A = \angle B = 90^{\circ}$. What is the degree measure of $\angle E$? 
+ 
+$\mathrm {(A)}\ 90 \qquad \mathrm {(B)}\ 108 \qquad \mathrm {(C)}\ 120 \qquad \mathrm {(D)}\ 144 \qquad \mathrm {(E)}\ 150$
+ 

@@ -1,0 +1,4 @@
+Three unit squares and two line segments connecting two pairs of vertices are shown. What is the area of $\triangle ABC$?
+ 
+$\textbf{(A)}\ \frac16 \qquad\textbf{(B)}\ \frac15 \qquad\textbf{(C)}\ \frac29 \qquad\textbf{(D)}\ \frac13 \qquad\textbf{(E)}\ \frac{\sqrt{2}}{4}$
+ 

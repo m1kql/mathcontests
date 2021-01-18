@@ -1,0 +1,6 @@
+Positive integers $a$ and $b$ are each less than $6$. What is the smallest possible value for $2 \cdot a - a \cdot b$?
+ 
+
+ 
+$\textbf{(A)}\ -20\qquad\textbf{{(B)}}\ -15\qquad\textbf{{(C)}}\ -10\qquad\textbf{{(D)}}\ 0\qquad\textbf{{(E)}}\ 2$
+ 

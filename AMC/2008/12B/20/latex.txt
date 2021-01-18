@@ -1,0 +1,4 @@
+Michael walks at the rate of $5$ feet per second on a long straight path. Trash pails are located every $200$ feet along the path. A garbage truck traveling at $10$ feet per second in the same direction as Michael stops for $30$ seconds at each pail. As Michael passes a pail, he notices the truck ahead of him just leaving the next pail. How many times will Michael and the truck intersect? 
+ 
+$\mathrm{(A)}\ 4\qquad\mathrm{(B)}\ 5\qquad\mathrm{(C)}\ 6\qquad\mathrm{(D)}\ 7\qquad\mathrm{(E)}\ 8$
+ 

@@ -1,0 +1,1 @@
+Let $ABCD$ be a cyclic quadrilateral. Prove that  \begin{center} \[|AB - CD| + |AD - BC| \geq 2|AC - BD|.\] \end{center} 

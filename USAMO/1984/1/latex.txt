@@ -1,0 +1,1 @@
+In the polynomial $x^4 - 18x^3 + kx^2 + 200x - 1984 = 0$, the product of $2$ of its roots is $- 32$. Find $k$.

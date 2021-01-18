@@ -1,0 +1,8 @@
+A region $S$ in the complex plane is defined by
+ 
+ \begin{center} \[S = \{x + iy: - 1\le x\le1, - 1\le y\le1\}.\] \end{center} 
+ 
+A complex number $z = x + iy$ is chosen uniformly at random from $S$. What is the probability that $\left(\frac34 + \frac34i\right)z$ is also in $S$?
+ 
+$\textbf{(A)}\ \frac12\qquad \textbf{(B)}\ \frac23\qquad \textbf{(C)}\ \frac34\qquad \textbf{(D)}\ \frac79\qquad \textbf{(E)}\ \frac78$
+ 

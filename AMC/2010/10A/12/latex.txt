@@ -1,0 +1,4 @@
+Logan is constructing a scaled model of his town. The city's water tower stands 40 meters high, and the top portion is a sphere that holds 100,000 liters of water. Logan's miniature water tower holds 0.1 liters. How tall, in meters, should Logan make his tower?
+ 
+$\textbf{(A)}\ 0.04 \qquad \textbf{(B)}\ \frac{0.4}{\pi} \qquad \textbf{(C)}\ 0.4 \qquad \textbf{(D)}\ \frac{4}{\pi} \qquad \textbf{(E)}\ 4$
+ 

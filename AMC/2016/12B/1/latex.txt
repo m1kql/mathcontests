@@ -1,0 +1,4 @@
+What is the value of $\frac{2a^{-1}+\frac{a^{-1}}{2}}{a}$ when $a= \frac{1}{2}$?
+ 
+$\textbf{(A)}\ 1\qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ \frac{5}{2}\qquad\textbf{(D)}\ 10\qquad\textbf{(E)}\ 20$
+ 

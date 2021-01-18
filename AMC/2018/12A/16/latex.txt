@@ -1,0 +1,4 @@
+Which of the following describes the set of values of $a$ for which the curves $x^2+y^2=a^2$ and $y=x^2-a$ in the real $xy$-plane intersect at exactly $3$ points?
+ 
+$\textbf{(A) }a=\frac14 \qquad \textbf{(B) }\frac14 < a < \frac12 \qquad \textbf{(C) }a>\frac14 \qquad \textbf{(D) }a=\frac12 \qquad \textbf{(E) }a>\frac12 \qquad$
+ 

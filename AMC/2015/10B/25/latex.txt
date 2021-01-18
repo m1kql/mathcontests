@@ -1,0 +1,4 @@
+A rectangular box measures $a \times b \times c$, where $a$, $b$, and $c$ are integers and $1\leq a \leq b \leq c$. The volume and the surface area of the box are numerically equal. How many ordered triples $(a,b,c)$ are possible?
+ 
+$\textbf{(A)}\; 4 \qquad\textbf{(B)}\; 10 \qquad\textbf{(C)}\; 12 \qquad\textbf{(D)}\; 21 \qquad\textbf{(E)}\; 26$
+ 

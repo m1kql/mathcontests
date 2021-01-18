@@ -1,0 +1,4 @@
+The mean age of Amanda's $4$ cousins is $8$, and their median age is $5$. What is the sum of the ages of Amanda's youngest and oldest cousins?
+ 
+$\textbf{(A)}\ 13\qquad\textbf{(B)}\ 16\qquad\textbf{(C)}\ 19\qquad\textbf{(D)}\ 22\qquad\textbf{(E)}\ 25$
+ 

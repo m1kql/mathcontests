@@ -1,0 +1,4 @@
+The numbers from $1$ to $8$ are placed at the vertices of a cube in such a manner that the sum of the four numbers on each face is the same. What is this common sum?
+ 
+$\text{(A)}\ 14 \qquad \text{(B)}\ 16 \qquad \text{(C)}\ 18 \qquad \text{(D)}\ 20 \qquad \text{(E)}\ 24$
+ 

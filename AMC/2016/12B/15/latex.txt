@@ -1,0 +1,4 @@
+All the numbers $2, 3, 4, 5, 6, 7$ are assigned to the six faces of a cube, one number to each face. For each of the eight vertices of the cube, a product of three numbers is computed, where the three numbers are the numbers assigned to the three faces that include that vertex. What is the greatest possible value of the sum of these eight products?
+ 
+$\textbf{(A)}\ 312 \qquad \textbf{(B)}\ 343 \qquad \textbf{(C)}\ 625 \qquad \textbf{(D)}\ 729 \qquad \textbf{(E)}\ 1680$
+ 

@@ -1,0 +1,4 @@
+Triangle $ABC$ has $AB=27$, $AC=26$, and $BC=25$.  Let $I$ denote the intersection of the internal angle bisectors of $\triangle ABC$.  What is $BI$?
+ 
+$\textbf{(A)}\ 15\qquad\textbf{(B)}\ 5+\sqrt{26}+3\sqrt{3}\qquad\textbf{(C)}\ 3\sqrt{26}\qquad\textbf{(D)}\ \frac{2}{3}\sqrt{546}\qquad\textbf{(E)}\ 9\sqrt{3}$
+ 

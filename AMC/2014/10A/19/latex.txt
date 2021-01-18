@@ -1,0 +1,6 @@
+Four cubes with edge lengths $1$, $2$, $3$, and $4$ are stacked as shown. What is the length of the portion of $\overline{XY}$ contained in the cube with edge length $3$?
+ 
+$\textbf{(A)}\ \dfrac{3\sqrt{33}}5\qquad\textbf{(B)}\ 2\sqrt3\qquad\textbf{(C)}\ \dfrac{2\sqrt{33}}3\qquad\textbf{(D)}\ 4\qquad\textbf{(E)}\ 3\sqrt2$
+ 
+
+ 

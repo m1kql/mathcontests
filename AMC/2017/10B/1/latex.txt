@@ -1,0 +1,4 @@
+Mary thought of a positive two-digit number. She multiplied it by $3$ and added $11$. Then she switched the digits of the result, obtaining a number between $71$ and $75$, inclusive. What was Mary's number? 
+ 
+$\textbf{(A)}\ 11\qquad\textbf{(B)}\ 12\qquad\textbf{(C)}\ 13\qquad\textbf{(D)}\ 14\qquad\textbf{(E)}\ 15$
+ 

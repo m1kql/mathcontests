@@ -1,0 +1,4 @@
+A convex quadrilateral $ABCD$ with area $2002$ contains a point $P$ in its interior such that $PA = 24, PB = 32, PC = 28, PD = 45$. Find the perimeter of $ABCD$.
+ 
+$\mathrm{(A)}\ 4\sqrt{2002} \qquad \mathrm{(B)}\ 2\sqrt{8465} \qquad \mathrm{(C)}\ 2$ $(48+\sqrt{2002}) \qquad \mathrm{(D)}\ 2\sqrt{8633} \qquad \mathrm{(E)}\ 4(36 + \sqrt{113})$
+ 

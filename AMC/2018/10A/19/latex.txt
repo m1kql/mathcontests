@@ -1,0 +1,4 @@
+A number $m$ is randomly selected from the set $\{11,13,15,17,19\}$, and a number $n$ is randomly selected from $\{1999,2000,2001,\ldots,2018\}$. What is the probability that $m^n$ has a units digit of $1$?
+ 
+$\textbf{(A) }   \frac{1}{5}   \qquad        \textbf{(B) }   \frac{1}{4}   \qquad    \textbf{(C) }   \frac{3}{10}   \qquad   \textbf{(D) } \frac{7}{20} \qquad  \textbf{(E) }   \frac{2}{5}$
+ 

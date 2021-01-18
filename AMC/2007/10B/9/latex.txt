@@ -1,0 +1,6 @@
+A cryptographic code is designed as follows. The first time a letter appears in a given message it is replaced by the letter that is $1$ place to its right in the alphabet (asumming that the letter $A$ is one place to the right of the letter $Z$). The second time this same letter appears in the given message, it is replaced by the letter that is $1+2$ places to the right, the third time it is replaced by the letter that is $1+2+3$ places to the right, and so on. For example, with this code the word "banana" becomes "cbodqg". What letter will replace the last letter $s$ in the message
+ 
+ \begin{center} \[\text{"Lee's sis is a Mississippi miss, Chriss!"?}\] \end{center} 
+ 
+$\textbf{(A) } g \qquad\textbf{(B) } h \qquad\textbf{(C) } o \qquad\textbf{(D) } s \qquad\textbf{(E) } t$
+ 

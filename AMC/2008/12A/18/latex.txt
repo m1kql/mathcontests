@@ -1,0 +1,4 @@
+Triangle $ABC$, with sides of length $5$, $6$, and $7$, has one vertex on the positive $x$-axis, one on the positive $y$-axis, and one on the positive $z$-axis. Let $O$ be the origin. What is the volume of tetrahedron $OABC$?
+ 
+$\mathrm{(A)}\ \sqrt{85}\qquad\mathrm{(B)}\ \sqrt{90}\qquad\mathrm{(C)}\ \sqrt{95}\qquad\mathrm{(D)}\ 10\qquad\mathrm{(E)}\ \sqrt{105}$
+ 

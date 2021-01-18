@@ -1,0 +1,4 @@
+Ed and Ann both have lemonade with their lunch. Ed orders the regular size. Ann gets the large lemonade, which is 50% more than the regular. After both consume $\frac{3}{4}$ of their drinks, Ann gives Ed a third of what she has left, and 2 additional ounces. When they finish their lemonades they realize that they both drank the same amount. How many ounces of lemonade did they drink together?
+ 
+$\textbf{(A)}\ 30\qquad\textbf{(B)}\ 32\qquad\textbf{(C)}\ 36\qquad\textbf{(D)}\ 40\qquad\textbf{(E)}\ 50$
+ 

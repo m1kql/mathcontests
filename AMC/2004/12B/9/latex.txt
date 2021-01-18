@@ -1,0 +1,4 @@
+The point $(-3,2)$ is rotated $90^\circ$ clockwise around the origin to point $B$. Point $B$ is then reflected over the line $x=y$ to point $C$. What are the coordinates of $C$?
+ 
+$\mathrm{(A)}\ (-3,-2) \qquad \mathrm{(B)}\ (-2,-3) \qquad \mathrm{(C)}\ (2,-3) \qquad \mathrm{(D)}\ (2,3) \qquad \mathrm{(E)}\ (3,2)$
+ 

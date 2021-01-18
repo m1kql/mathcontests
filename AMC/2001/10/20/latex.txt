@@ -1,0 +1,4 @@
+A regular octagon is formed by cutting an isosceles right triangle from each of the corners of a square with sides of length $2000$. What is the length of each side of the octagon?
+ 
+$\textbf{(A)} \frac{1}{3}(2000) \qquad \textbf{(B)} {2000(\sqrt{2}-1)} \qquad \textbf{(C)} {2000(2-\sqrt{2})} \qquad \textbf{(D)} {1000} \qquad \textbf{(E)} {1000\sqrt{2}}$
+ 

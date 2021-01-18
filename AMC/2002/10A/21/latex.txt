@@ -1,0 +1,4 @@
+The mean, median, unique mode, and range of a collection of eight integers are all equal to 8. The largest integer that can be an element of this collection is 
+ 
+$\text{(A) }11 \qquad \text{(B) }12 \qquad \text{(C) }13 \qquad \text{(D) }14 \qquad \text{(E) }15$
+ 

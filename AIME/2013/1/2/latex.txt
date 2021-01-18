@@ -1,0 +1,4 @@
+Find the number of five-digit positive integers, $n$, that satisfy the following conditions:
+ 
+ \begin{itemize} \end{itemize} \begin{itemize} \end{itemize} \begin{itemize} \end{itemize}
+ 

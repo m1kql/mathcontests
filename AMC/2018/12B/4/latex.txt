@@ -1,0 +1,4 @@
+A circle has a chord of length 10, and the distance from the center of the circle to the chord is 5. What is the area of the circle?
+ 
+$\textbf{(A) }25\pi \qquad \textbf{(B) }50\pi \qquad \textbf{(C) }75\pi \qquad \textbf{(D) }100\pi \qquad \textbf{(E) }125\pi \qquad$
+ 

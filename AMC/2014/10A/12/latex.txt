@@ -1,0 +1,8 @@
+A regular hexagon has side length 6. Congruent arcs with radius 3 are drawn with the center at each of the vertices, creating circular sectors as shown. The region inside the hexagon but outside the sectors is shaded as shown What is the area of the shaded region?
+ 
+
+ 
+$\textbf{(A)}\ 27\sqrt{3}-9\pi\qquad\textbf{(B)}\ 27\sqrt{3}-6\pi\qquad\textbf{(C)}\ 54\sqrt{3}-18\pi\qquad\textbf{(D)}\ 54\sqrt{3}-12\pi\qquad$
+ 
+$\textbf{(E)}\ 108\sqrt{3}-9\pi$
+ 

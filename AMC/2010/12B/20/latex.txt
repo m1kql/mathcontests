@@ -1,0 +1,6 @@
+A geometric sequence $(a_n)$ has $a_1=\sin x$, $a_2=\cos x$, and $a_3= \tan x$ for some real number $x$. For what value of $n$ does $a_n=1+\cos x$?
+ 
+
+ 
+$\textbf{(A)}\ 4 \qquad \textbf{(B)}\ 5 \qquad \textbf{(C)}\ 6 \qquad \textbf{(D)}\ 7 \qquad \textbf{(E)}\ 8$
+ 

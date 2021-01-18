@@ -1,0 +1,4 @@
+Four fair six-sided dice are rolled. What is the probability that at least three of the four dice show the same value?
+ 
+$\textbf {(A) } \frac{1}{36} \qquad \textbf {(B) } \frac{7}{72} \qquad \textbf {(C) } \frac{1}{9} \qquad \textbf {(D) } \frac{5}{36} \qquad \textbf {(E) } \frac{1}{6}$
+ 

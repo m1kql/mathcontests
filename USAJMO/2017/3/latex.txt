@@ -1,0 +1,2 @@
+($*$) Let $ABC$ be an equilateral triangle and let $P$ be a point on its circumcircle. Let lines $PA$ and $BC$ intersect at $D$; let lines $PB$ and $CA$ intersect at $E$; and let lines $PC$ and $AB$ intersect at $F$. Prove that the area of triangle $DEF$ is twice that of triangle $ABC$.
+

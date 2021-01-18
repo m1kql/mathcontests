@@ -1,0 +1,4 @@
+Central High School is competing against Northern High School in a backgammon match. Each school has three players, and the contest rules require that each player play two games against each of the other school's players. The match takes place in six rounds, with three games played simultaneously in each round. In how many different ways can the match be scheduled?
+ 
+$\textbf{(A)}\ 540\qquad\textbf{(B)}\ 600\qquad\textbf{(C)}\ 720\qquad\textbf{(D)}\ 810\qquad\textbf{(E)}\ 900$
+ 

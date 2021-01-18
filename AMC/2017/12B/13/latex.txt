@@ -1,0 +1,6 @@
+In the figure below, $3$ of the $6$ disks are to be painted blue, $2$ are to be painted red, and $1$ is to be painted green. Two paintings that can be obtained from one another by a rotation or a reflection of the entire figure are considered the same. How many different paintings are possible?
+ 
+
+ 
+$\textbf{(A) } 6 \qquad \textbf{(B) } 8 \qquad \textbf{(C) } 9 \qquad \textbf{(D) } 12 \qquad \textbf{(E) } 15$
+ 

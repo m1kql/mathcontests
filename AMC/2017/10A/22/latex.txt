@@ -1,0 +1,4 @@
+Sides $\overline{AB}$ and $\overline{AC}$ of equilateral triangle $ABC$ are tangent to a circle at points $B$ and $C$ respectively. What fraction of the area of $\triangle ABC$ lies outside the circle?
+ 
+$\textbf{(A) } \frac{4\sqrt{3}\pi}{27}-\frac{1}{3}\qquad \textbf{(B) } \frac{\sqrt{3}}{2}-\frac{\pi}{8}\qquad \textbf{(C) } \frac{1}{2} \qquad \textbf{(D) } \sqrt{3}-\frac{2\sqrt{3}\pi}{9}\qquad \textbf{(E) } \frac{4}{3}-\frac{4\sqrt{3}\pi}{27}$
+ 

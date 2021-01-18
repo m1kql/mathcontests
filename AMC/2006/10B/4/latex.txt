@@ -1,0 +1,6 @@
+Circles of diameter 1 inch and 3 inches have the same center. The smaller circle is painted red, and the portion outside the smaller circle and inside the larger circle is painted blue. What is the ratio of the blue-painted area to the red-painted area? 
+ 
+
+ 
+$\mathrm{(A) \ } 2\qquad \mathrm{(B) \ } 3\qquad \mathrm{(C) \ } 6\qquad \mathrm{(D) \ } 8\qquad \mathrm{(E) \ } 9$
+ 

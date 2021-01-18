@@ -1,0 +1,4 @@
+Let $f_{1}(x)=\sqrt{1-x}$, and for integers $n \geq 2$, let $f_{n}(x)=f_{n-1}(\sqrt{n^2 - x})$. If $N$ is the largest value of $n$ for which the domain of $f_{n}$ is nonempty, the domain of $f_{N}$ is $[c]$. What is $N+c$?
+ 
+$\textbf{(A)}\ -226 \qquad \textbf{(B)}\ -144 \qquad \textbf{(C)}\ -20 \qquad \textbf{(D)}\ 20 \qquad \textbf{(E)}\ 144$
+ 

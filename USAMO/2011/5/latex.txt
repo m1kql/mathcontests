@@ -1,0 +1,1 @@
+Let $P$ be a given point inside quadrilateral $ABCD$.  Points $Q_1$ and $Q_2$ are located within $ABCD$ such that $\angle Q_1 BC = \angle ABP$, $\angle Q_1 CB = \angle DCP$, $\angle Q_2 AD = \angle BAP$, $\angle Q_2 DA = \angle CDP$.  Prove that $\overline{Q_1 Q_2} \parallel \overline{AB}$ if and only if $\overline{Q_1 Q_2} \parallel \overline{CD}$.

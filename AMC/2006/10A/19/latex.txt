@@ -1,0 +1,4 @@
+How many non-similar triangles have angles whose degree measures are distinct positive integers in arithmetic progression? 
+ 
+$\mathrm{(A) \ } 0\qquad\mathrm{(B) \ } 1\qquad\mathrm{(C) \ } 59\qquad\mathrm{(D) \ } 89\qquad\mathrm{(E) \ } 178\qquad$
+ 

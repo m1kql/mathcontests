@@ -1,0 +1,4 @@
+Points $A$ and $B$ are on a circle of radius $5$ and $AB=6$. Point $C$ is the midpoint of the minor arc $AB$. What is the length of the line segment $AC$?
+ 
+$\mathrm{(A)}\ \sqrt{10}\qquad\mathrm{(B)}\ \frac{7}{2}\qquad\mathrm{(C)}\ \sqrt{14}\qquad\mathrm{(D)}\ \sqrt{15}\qquad\mathrm{(E)}\ 4$
+ 

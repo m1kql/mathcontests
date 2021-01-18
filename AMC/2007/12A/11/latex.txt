@@ -1,0 +1,4 @@
+A finite sequence of three-digit integers has the property that the tens and units digits of each term are, respectively, the hundreds and tens digits of the next term, and the tens and units digits of the last term are, respectively, the hundreds and tens digits of the first term. For example, such a sequence might begin with the terms 247, 475, and 756 and end with the term 824. Let $S$ be the sum of all the terms in the sequence. What is the largest prime factor that always divides $S$? 
+ 
+$\mathrm{(A)}\ 3\qquad \mathrm{(B)}\ 7\qquad \mathrm{(C)}\ 13\qquad \mathrm{(D)}\ 37\qquad \mathrm{(E)}\ 43$
+ 

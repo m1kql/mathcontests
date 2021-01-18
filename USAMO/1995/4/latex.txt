@@ -1,0 +1,4 @@
+Suppose $q_1,q_2,...$ is an infinite sequence of integers satisfying the following two conditions:
+(a) $m - n$ divides $q_m - q_n$ for $m>n \geq 0$
+(b) There is a polynomial $P$ such that $|q_n|<P(n)$ for all $n$.
+Prove that there is a polynomial $Q$ such that $q_n = Q(n)$ for each $n$.

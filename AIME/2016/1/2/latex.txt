@@ -1,0 +1,2 @@
+Two dice appear to be normal dice with their faces numbered from $1$ to $6$, but each die is weighted so that the probability of rolling the number $k$ is directly proportional to $k$. The probability of rolling a $7$ with this pair of dice is $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m + n$.
+ 

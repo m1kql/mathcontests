@@ -1,0 +1,8 @@
+Figures $0$, $1$, $2$, and $3$ consist of $1$, $5$, $13$, and $25$ nonoverlapping unit squares, respectively. If the pattern were continued, how many nonoverlapping unit squares would there be in figure 100?
+ 
+
+ 
+
+ 
+$\mathrm{(A)}\ 10401 \qquad\mathrm{(B)}\ 19801 \qquad\mathrm{(C)}\ 20201 \qquad\mathrm{(D)}\ 39801 \qquad\mathrm{(E)}\ 40801$
+ 

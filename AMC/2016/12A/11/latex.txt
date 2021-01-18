@@ -1,0 +1,4 @@
+Each of the $100$ students in a certain summer camp can either sing, dance, or act. Some students have more than one talent, but no student has all three talents. There are $42$ students who cannot sing, $65$ students who cannot dance, and $29$ students who cannot act. How many students have two of these talents? 
+ 
+$\textbf{(A)}\ 16\qquad\textbf{(B)}\ 25\qquad\textbf{(C)}\ 36\qquad\textbf{(D)}\ 49\qquad\textbf{(E)}\ 64$
+ 

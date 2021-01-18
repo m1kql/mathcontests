@@ -1,0 +1,4 @@
+A set S consists of triangles whose sides have integer lengths less than 5, and no two elements of S are congruent or similar. What is the largest number of elements that S can have? 
+ 
+$\textbf{(A)}\ 8\qquad\textbf{(B)}\ 9\qquad\textbf{(C)}\ 10\qquad\textbf{(D)}\ 11\qquad\textbf{(E)}\ 12$
+ 

@@ -1,0 +1,4 @@
+Rectangle $ABCD$ has $AB=4$ and $BC=3$. Segment $EF$ is constructed through $B$ so that $EF$ is perpendicular to $DB$, and $A$ and $C$ lie on $DE$ and $DF$, respectively. What is $EF$?
+ 
+$\mathrm{(A)}\ 9 \qquad \mathrm{(B)}\ 10 \qquad \mathrm{(C)}\ \frac {125}{12} \qquad \mathrm{(D)}\ \frac {103}{9} \qquad \mathrm{(E)}\ 12$
+ 

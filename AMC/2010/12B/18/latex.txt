@@ -1,0 +1,4 @@
+A frog makes $3$ jumps, each exactly $1$ meter long. The directions of the jumps are chosen independently at random. What is the probability that the frog's final position is no more than $1$ meter from its starting position?
+ 
+$\textbf{(A)}\ \dfrac{1}{6} \qquad \textbf{(B)}\ \dfrac{1}{5} \qquad \textbf{(C)}\ \dfrac{1}{4} \qquad \textbf{(D)}\ \dfrac{1}{3} \qquad \textbf{(E)}\ \dfrac{1}{2}$
+ 

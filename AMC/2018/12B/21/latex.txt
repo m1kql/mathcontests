@@ -1,0 +1,4 @@
+In $\triangle{ABC}$ with side lengths $AB = 13$, $AC = 12$, and $BC = 5$, let $O$ and $I$ denote the circumcenter and incenter, respectively. A circle with center $M$ is tangent to the legs $AC$ and $BC$ and to the circumcircle of $\triangle{ABC}$. What is the area of $\triangle{MOI}$?
+ 
+$\textbf{(A)}\ 5/2\qquad\textbf{(B)}\ 11/4\qquad\textbf{(C)}\ 3\qquad\textbf{(D)}\ 13/4\qquad\textbf{(E)}\ 7/2$
+ 

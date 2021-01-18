@@ -1,0 +1,6 @@
+Let a, b, c, d, and e be distinct integers such that
+ 
+What is $a+b+c+d+e$?
+ 
+$\mathrm{(A)}\ 5\qquad \mathrm{(B)}\ 17\qquad \mathrm{(C)}\ 25\qquad \mathrm{(D)}\ 27\qquad \mathrm{(E)}\ 30$
+ 

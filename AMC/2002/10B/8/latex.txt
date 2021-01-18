@@ -1,0 +1,4 @@
+Suppose July of year $N$ has five Mondays. Which of the following must occurs five times in the August of year $N$? (Note: Both months have $31$ days.)
+ 
+$\textrm{(A)}\ \text{Monday} \qquad \textrm{(B)}\ \text{Tuesday} \qquad \textrm{(C)}\ \text{Wednesday} \qquad \textrm{(D)}\ \text{Thursday} \qquad \textrm{(E)}\ \text{Friday}$
+ 

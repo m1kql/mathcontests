@@ -1,0 +1,4 @@
+A point $(x,y)$ is randomly picked from inside the rectangle with  vertices $(0,0)$, $(4,0)$, $(4,1)$, and $(0,1)$. What is the probability that $x<y$? 
+ 
+$\mathrm{(A) \ } \frac{1}{8}\qquad \mathrm{(B) \ } \frac{1}{4}\qquad \mathrm{(C) \ } \frac{3}{8}\qquad \mathrm{(D) \ } \frac{1}{2}\qquad \mathrm{(E) \ } \frac{3}{4}$
+ 

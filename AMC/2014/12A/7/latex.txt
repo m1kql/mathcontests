@@ -1,0 +1,6 @@
+The first three terms of a geometric progression are $\sqrt 3$, $\sqrt[3]3$, and $\sqrt[6]3$.  What is the fourth term?
+ 
+$\textbf{(A) }1\qquad \textbf{(B) }\sqrt[7]3\qquad \textbf{(C) }\sqrt[8]3\qquad \textbf{(D) }\sqrt[9]3\qquad \textbf{(E) }\sqrt[10]3\qquad$
+ 
+
+ 

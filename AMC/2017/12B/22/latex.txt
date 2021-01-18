@@ -1,0 +1,4 @@
+Abby, Bernardo, Carl, and Debra play a game in which each of them starts with four coins. The game consists of four rounds. In each round, four balls are placed in an urn---one green, one red, and two white. The players each draw a ball at random without replacement. Whoever gets the green ball gives one coin to whoever gets the red ball. What is the probability that, at the end of the fourth round, each of the players has four coins?
+ 
+$\textbf{(A)}\quad \dfrac{7}{576} \qquad \qquad \textbf{(B)}\quad \dfrac{5}{192} \qquad\qquad \textbf{(C)}\quad \dfrac{1}{36} \qquad\qquad \textbf{(D)}\quad \dfrac{5}{144} \qquad\qquad\textbf{(E)}\quad \dfrac{7}{48}$
+ 

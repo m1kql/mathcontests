@@ -1,0 +1,4 @@
+A 16-step path is to go from $(-4,-4)$ to $(4,4)$ with each step increasing either the $x$-coordinate or the $y$-coordinate by 1. How many such paths stay outside or on the boundary of the square $-2 \le x \le 2$, $-2 \le y \le 2$ at each step?
+ 
+$\textbf{(A)}\ 92 \qquad \textbf{(B)}\ 144 \qquad \textbf{(C)}\ 1568 \qquad \textbf{(D)}\ 1698 \qquad \textbf{(E)}\ 12,800$
+ 

@@ -1,0 +1,4 @@
+What is the value of  \begin{center} \[2^{\left(0^{\left(1^9\right)}\right)}+\left(\left(2^0\right)^1\right)^9?\] \end{center} 
+ 
+$\textbf{(A) } 0 \qquad\textbf{(B) } 1 \qquad\textbf{(C) } 2 \qquad\textbf{(D) } 3 \qquad\textbf{(E) } 4$
+ 

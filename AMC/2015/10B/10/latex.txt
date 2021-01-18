@@ -1,0 +1,2 @@
+What are the sign and units digit of the product of all the odd negative integers strictly greater than $-2015$?
+ 

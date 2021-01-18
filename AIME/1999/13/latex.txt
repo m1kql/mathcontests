@@ -1,0 +1,2 @@
+Forty teams play a tournament in which every team plays every other team exactly once.  No ties occur, and each team has a $50 \%$ chance of winning any game it plays.  The probability that no two teams win the same number of games is $\frac mn,$ where $m_{}$ and $n_{}$ are relatively prime positive integers.  Find $\log_2 n.$
+ 

@@ -1,0 +1,10 @@
+In the figure below, $N$ congruent semicircles lie on the diameter of a large semicircle, with their diameters covering the diameter of the large semicircle with no overlap. Let $A$ be the combined area of the small semicircles and $B$ be the area of the region inside the large semicircle but outside the semicircles. The ratio $A:B$ is $1:18$. What is $N$?
+ 
+
+ 
+
+ 
+
+ 
+$\textbf{(A) } 16 \qquad \textbf{(B) } 17 \qquad \textbf{(C) } 18 \qquad \textbf{(D) } 19 \qquad \textbf{(E) } 36$
+ 

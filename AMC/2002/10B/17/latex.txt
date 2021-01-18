@@ -1,0 +1,4 @@
+A regular octagon $ABCDEFGH$ has sides of length two.  Find the area of $\triangle ADG$.
+ 
+$\textbf{(A) } 4 + 2\sqrt2 \qquad \textbf{(B) } 6 + \sqrt2\qquad \textbf{(C) } 4 + 3\sqrt2 \qquad \textbf{(D) } 3 + 4\sqrt2 \qquad \textbf{(E) } 8 + \sqrt2$
+ 

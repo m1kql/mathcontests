@@ -1,0 +1,4 @@
+Mia is "helping" her mom pick up $30$ toys that are strewn on the floor. Mia’s mom manages to put $3$ toys into the toy box every $30$ seconds, but each time immediately after those $30$ seconds have elapsed, Mia takes $2$ toys out of the box. How much time, in minutes, will it take Mia and her mom to put all $30$ toys into the box for the first time?
+ 
+$\textbf{(A)}\ 13.5\qquad\textbf{(B)}\ 14\qquad\textbf{(C)}\ 14.5\qquad\textbf{(D)}\ 15\qquad\textbf{(E)}\ 15.5$
+ 

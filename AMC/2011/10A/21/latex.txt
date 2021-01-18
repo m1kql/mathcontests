@@ -1,0 +1,4 @@
+Two counterfeit coins of equal weight are mixed with $8$ identical genuine coins. The weight of each of the counterfeit coins is different from the weight of each of the genuine coins. A pair of coins is selected at random without replacement from the $10$ coins. A second pair is selected at random without replacement from the remaining $8$ coins. The combined weight of the first pair is equal to the combined weight of the second pair. What is the probability that all $4$ selected coins are genuine?
+ 
+$\textbf{(A)}\ \frac{7}{11}\qquad\textbf{(B)}\ \frac{9}{13}\qquad\textbf{(C)}\ \frac{11}{15}\qquad\textbf{(D)}\ \frac{15}{19}\qquad\textbf{(E)}\ \frac{15}{16}$
+ 

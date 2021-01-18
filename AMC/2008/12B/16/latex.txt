@@ -1,0 +1,4 @@
+A rectangular floor measures $a$ by $b$ feet, where $a$ and $b$ are positive integers with $b > a$. An artist paints a rectangle on the floor with the sides of the rectangle parallel to the sides of the floor. The unpainted part of the floor forms a border of width $1$ foot around the painted rectangle and occupies half of the area of the entire floor. How many possibilities are there for the ordered pair $(a,b)$?
+ 
+$\textbf{(A)}\ 1\qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ 3\qquad\textbf{(D)}\ 4\qquad\textbf{(E)}\ 5$
+ 

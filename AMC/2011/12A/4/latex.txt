@@ -1,0 +1,4 @@
+At an elementary school, the students in third grade, fourth grade, and fifth grade run an average of $12$, $15$, and $10$ minutes per day, respectively. There are twice as many third graders as fourth graders, and twice as many fourth graders as fifth graders. What is the average number of minutes run per day by these students?
+ 
+$\textbf{(A)}\ 12 \qquad \textbf{(B)}\ \frac{37}{3} \qquad \textbf{(C)}\ \frac{88}{7} \qquad \textbf{(D)}\ 13 \qquad \textbf{(E)}\ 14$
+ 

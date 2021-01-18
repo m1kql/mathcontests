@@ -1,0 +1,4 @@
+The circular base of a hemisphere of radius $2$ rests on the base of a square pyramid of height $6$. The hemisphere is tangent to the other four faces of the pyramid. What is the edge-length of the base of the pyramid?
+ 
+$\textbf{(A)}\ 3\sqrt{2} \qquad \textbf{(B)}\ \frac{13}{3} \qquad \textbf{(C)}\ 4\sqrt{2} \qquad \textbf{(D)}\ 6 \qquad \textbf{(E)}\ \frac{13}{2}$
+ 

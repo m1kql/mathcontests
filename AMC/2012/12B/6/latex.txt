@@ -1,0 +1,12 @@
+In order to estimate the value of $x-y$ where $x$ and $y$ are real numbers with $x>y>0$, Xiaoli rounded $x$ up by a small amount, rounded $y$ down by the same amount, and then subtracted her rounded values. Which of the following statements is necessarily correct?
+ 
+(A) Her estimate is larger than $x-y$.
+ 
+(B) Her estimate is smaller than $x-y$.
+ 
+(C) Her estimate equals $x-y$.
+ 
+(D) Her estimate equals $y-x$.
+ 
+(E) Her estimate is $0$.
+ 

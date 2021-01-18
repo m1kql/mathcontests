@@ -1,0 +1,4 @@
+If $a$ is a nonzero integer and $b$ is a positive number such that $ab^2=\log_{10}b$, what is the median of the set $\{0,1,a,b,1/b\}$?
+ 
+$\mathrm{(A)}\ 0 \qquad \mathrm{(B)}\ 1 \qquad \mathrm{(C)}\ a \qquad \mathrm{(D)}\ b \qquad \mathrm{(E)}\ \frac{1}{b}$
+ 

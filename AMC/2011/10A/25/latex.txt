@@ -1,0 +1,4 @@
+Let $R$ be a square region and $n\ge4$ an integer.  A point $X$ in the interior of $R$ is called $n\text{-}ray$ partitional if there are $n$ rays emanating from $X$ that divide $R$ into $n$ triangles of equal area.  How many points are 100-ray partitional but not 60-ray partitional?
+ 
+$\text{(A)}\,1500 \qquad\text{(B)}\,1560 \qquad\text{(C)}\,2320 \qquad\text{(D)}\,2480 \qquad\text{(E)}\,2500$
+ 

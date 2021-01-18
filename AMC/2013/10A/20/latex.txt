@@ -1,0 +1,6 @@
+A unit square is rotated $45^\circ$ about its center.  What is the area of the region swept out by the interior of the square?  
+ 
+
+ 
+$\textbf{(A)}\ 1 - \frac{\sqrt2}{2} + \frac{\pi}{4}\qquad\textbf{(B)}\ \frac{1}{2} + \frac{\pi}{4} \qquad\textbf{(C)}\ 2 - \sqrt2 + \frac{\pi}{4}\qquad\textbf{(D)}\ \frac{\sqrt2}{2} + \frac{\pi}{4} \qquad\textbf{(E)}\ 1 + \frac{\sqrt2}{4} + \frac{\pi}{8}$
+ 

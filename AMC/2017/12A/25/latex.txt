@@ -1,0 +1,8 @@
+The vertices $V$ of a centrally symmetric hexagon in the complex plane are given by
+ 
+ \begin{center} \[V=\left\{   \sqrt{2}i,-\sqrt{2}i, \frac{1}{\sqrt{8}}(1+i),\frac{1}{\sqrt{8}}(-1+i),\frac{1}{\sqrt{8}}(1-i),\frac{1}{\sqrt{8}}(-1-i) \right\}.\] \end{center} 
+ 
+For each $j$, $1\leq j\leq 12$, an element $z_j$ is chosen from $V$ at random, independently of the other choices. Let $P={\prod}_{j=1}^{12}z_j$ be the product of the $12$ numbers selected. What is the probability that $P=-1$?
+ 
+$\textbf{(A) } \dfrac{5\cdot11}{3^{10}} \qquad \textbf{(B) } \dfrac{5^2\cdot11}{2\cdot3^{10}} \qquad \textbf{(C) } \dfrac{5\cdot11}{3^{9}} \qquad \textbf{(D) } \dfrac{5\cdot7\cdot11}{2\cdot3^{10}} \qquad \textbf{(E) } \dfrac{2^2\cdot5\cdot11}{3^{10}}$
+ 

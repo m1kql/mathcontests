@@ -1,0 +1,4 @@
+A thin piece of wood of uniform density in the shape of an equilateral triangle with side length $3$ inches weighs $12$ ounces. A second piece of the same type of wood, with the same thickness, also in the shape of an equilateral triangle, has side length of $5$ inches. Which of the following is closest to the weight, in ounces, of the second piece?
+ 
+$\textbf{(A)}\ 14.0\qquad\textbf{(B)}\ 16.0\qquad\textbf{(C)}\ 20.0\qquad\textbf{(D)}\ 33.3\qquad\textbf{(E)}\ 55.6$
+ 

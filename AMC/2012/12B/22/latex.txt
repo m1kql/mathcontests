@@ -1,0 +1,6 @@
+A bug travels from A to B along the segments in the hexagonal lattice pictured below. The segments marked with an arrow can be traveled only in the direction of the arrow, and the bug never travels the same segment more than once. How many different paths are there?
+ 
+
+ 
+$\textbf{(A)}\ 2112\qquad\textbf{(B)}\ 2304\qquad\textbf{(C)}\ 2368\qquad\textbf{(D)}\ 2384\qquad\textbf{(E)}\ 2400$
+ 

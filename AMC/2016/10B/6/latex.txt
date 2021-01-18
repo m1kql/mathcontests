@@ -1,0 +1,4 @@
+Laura added two three-digit positive integers. All six digits in these numbers are different. Laura's sum is a three-digit number $S$. What is the smallest possible value for the sum of the digits of $S$?
+ 
+$\textbf{(A)}\ 1\qquad\textbf{(B)}\ 4\qquad\textbf{(C)}\ 5\qquad\textbf{(D)}\ 15\qquad\textbf{(E)}\ 20$
+ 

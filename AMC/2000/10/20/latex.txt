@@ -1,0 +1,4 @@
+Let $A$, $M$, and $C$ be nonnegative integers such that $A+M+C=10$.  What is the maximum value of $A\cdot M\cdot C+A\cdot M+M\cdot C+C\cdot A$?
+ 
+$\mathrm{(A)}\ 49 \qquad\mathrm{(B)}\ 59 \qquad\mathrm{(C)}\ 69 \qquad\mathrm{(D)}\ 79 \qquad\mathrm{(E)}\ 89$
+ 

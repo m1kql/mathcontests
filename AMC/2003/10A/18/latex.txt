@@ -1,0 +1,6 @@
+What is the sum of the reciprocals of the roots of the equation 
+ 
+$\frac{2003}{2004}x+1+\frac{1}{x}=0$?
+ 
+$\mathrm{(A) \ } -\frac{2004}{2003}\qquad \mathrm{(B) \ } -1\qquad \mathrm{(C) \ } \frac{2003}{2004}\qquad \mathrm{(D) \ } 1\qquad \mathrm{(E) \ } \frac{2004}{2003}$
+ 

@@ -1,0 +1,4 @@
+Four distinct circles are drawn in a plane. What is the maximum number of points where at least two of the circles intersect?
+ 
+$\mathrm{(A)}\ 8 \qquad\mathrm{(B)}\ 9 \qquad\mathrm{(C)}\ 10 \qquad\mathrm{(D)}\ 12 \qquad\mathrm{(E)}\ 16$
+ 

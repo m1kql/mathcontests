@@ -1,0 +1,4 @@
+At each basketball practice last week, Jenny made twice as many free throws as she made at the previous practice. At her fifth practice she made $48$ free throws. How many free throws did she make at the first practice?
+ 
+$\mathrm{(A) \ } 3 \qquad \mathrm{(B) \ } 6 \qquad \mathrm{(C) \ } 9 \qquad \mathrm{(D) \ } 12\qquad \mathrm{(E) \ } 15$
+ 

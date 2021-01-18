@@ -1,0 +1,4 @@
+How many sequences of zeros and ones of length 20 have all the zeros consecutive, or all the ones consecutive, or both?
+ 
+$\textbf{(A)}\ 190\qquad\textbf{(B)}\ 192\qquad\textbf{(C)}\ 211\qquad\textbf{(D)}\ 380\qquad\textbf{(E)}\ 382$
+ 

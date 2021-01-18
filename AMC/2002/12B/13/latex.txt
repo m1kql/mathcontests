@@ -1,0 +1,4 @@
+The sum of $18$ consecutive positive integers is a perfect square. The smallest possible value of this sum is
+ 
+$\mathrm{(A)}\ 169 \qquad\mathrm{(B)}\ 225 \qquad\mathrm{(C)}\ 289 \qquad\mathrm{(D)}\ 361 \qquad\mathrm{(E)}\ 441$
+ 

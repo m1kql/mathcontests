@@ -1,0 +1,4 @@
+All three vertices of an equilateral triangle are on the parabola $y = x^2$, and one of its sides has a slope of $2$. The $x$-coordinates of the three vertices have a sum of $m/n$, where $m$ and $n$ are relatively prime positive integers. What is the value of $m + n$? 
+ 
+$\mathrm{(A)}\ {{{14}}}\qquad\mathrm{(B)}\ {{{15}}}\qquad\mathrm{(C)}\ {{{16}}}\qquad\mathrm{(D)}\ {{{17}}}\qquad\mathrm{(E)}\ {{{18}}}$
+ 

@@ -1,0 +1,6 @@
+Small lights are hung on a string 6 inches apart in the order red, red, green, green, green, red, red, green, green, green, and so on continuing this pattern of 2 red lights followed by 3 green lights. How many feet separate the 3rd red light and the 21st red light?
+ 
+Note: 1 foot is equal to 12 inches.
+ 
+$\textbf{(A)}\ 18\qquad\textbf{(B)}\ 18.5\qquad\textbf{(C)}\ 20\qquad\textbf{(D)}\ 20.5\qquad\textbf{(E)}\ 22.5$
+ 

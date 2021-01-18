@@ -1,0 +1,4 @@
+Two subsets of the set $S=\lbrace a,b,c,d,e\rbrace$ are to be chosen so that their union is $S$ and their intersection contains exactly two elements. In how many ways can this be done, assuming that the order in which the subsets are chosen does not matter?
+ 
+$\mathrm{(A)}\ 20\qquad\mathrm{(B)}\ 40\qquad\mathrm{(C)}\ 60\qquad\mathrm{(D)}\ 160\qquad\mathrm{(E)}\ 320$
+ 

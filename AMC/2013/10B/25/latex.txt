@@ -1,0 +1,4 @@
+Bernardo chooses a three-digit positive integer $N$ and writes both its base-5 and base-6 representations on a blackboard. Later LeRoy sees the two numbers Bernardo has written. Treating the two numbers as base-10 integers, he adds them to obtain an integer $S$. For example, if $N = 749$, Bernardo writes the numbers $10,\!444$ and $3,\!245$, and LeRoy obtains the sum $S = 13,\!689$. For how many choices of $N$ are the two rightmost digits of $S$, in order, the same as those of $2N$?
+ 
+$\textbf{(A)}\ 5 \qquad\textbf{(B)}\ 10 \qquad\textbf{(C)}\ 15 \qquad\textbf{(D)}\ 20 \qquad\textbf{(E)}\ 25$
+ 

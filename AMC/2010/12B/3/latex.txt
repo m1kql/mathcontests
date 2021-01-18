@@ -1,0 +1,5 @@
+
+A ticket to a school play cost $x$ dollars, where $x$ is a whole number. A group of 9th graders buys tickets costing a total of \textdollar 48, and a group of 10th graders buys tickets costing a total of \textdollar 64. How many values for $x$ are possible?
+
+$\textbf{(A)}\ 1 \qquad \textbf{(B)}\ 2 \qquad \textbf{(C)}\ 3 \qquad \textbf{(D)}\ 4 \qquad \textbf{(E)}\ 5$
+

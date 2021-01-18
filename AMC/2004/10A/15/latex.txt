@@ -1,0 +1,4 @@
+Given that $-4\leq x\leq-2$ and $2\leq y\leq4$, what is the largest possible value of $\frac{x+y}{x}$?
+ 
+$\mathrm{(A) \ } -1 \qquad \mathrm{(B) \ } -\frac12 \qquad \mathrm{(C) \ } 0 \qquad \mathrm{(D) \ } \frac12 \qquad \mathrm{(E) \ } 1$
+ 

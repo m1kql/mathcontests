@@ -1,0 +1,4 @@
+The zeros of the function $f(x) = x^2-ax+2a$ are integers. What is the sum of the possible values of $a$?
+ 
+$\textbf{(A) }7\qquad\textbf{(B) }8\qquad\textbf{(C) }16\qquad\textbf{(D) }17\qquad\textbf{(E) }18$
+ 

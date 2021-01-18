@@ -1,0 +1,4 @@
+Define $a@b = ab - b^{2}$ and $a\#b = a + b - ab^{2}$. What is $\frac {6@2}{6\#2}$?
+ 
+$\text{(A)}\ - \frac {1}{2}\qquad \text{(B)}\ - \frac {1}{4}\qquad \text{(C)}\ \frac {1}{8}\qquad \text{(D)}\ \frac {1}{4}\qquad \text{(E)}\ \frac {1}{2}$
+ 

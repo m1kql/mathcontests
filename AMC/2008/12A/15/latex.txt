@@ -1,0 +1,4 @@
+Let $k={2008}^{2}+{2}^{2008}$. What is the units digit of $k^2+2^k$?
+ 
+$\mathrm{(A)}\ 0\qquad\mathrm{(B)}\ 2\qquad\mathrm{(C)}\ 4\qquad\mathrm{(D)}\ 6\qquad\mathrm{(E)}\ 8$
+ 

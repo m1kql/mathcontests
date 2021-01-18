@@ -1,0 +1,4 @@
+Let $f : \mathbb{C} \to \mathbb{C}$ be defined by $f(z) = z^2 + iz + 1$. How many complex numbers $z$ are there such that $\text{Im}(z) > 0$ and both the real and the imaginary parts of $f(z)$ are integers with absolute value at most $10$?
+ 
+$\textbf{(A)} \ 399 \qquad \textbf{(B)} \ 401 \qquad \textbf{(C)} \ 413 \qquad \textbf{(D)} \ 431 \qquad \textbf{(E)} \ 441$
+ 

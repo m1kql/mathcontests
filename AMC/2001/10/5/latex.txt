@@ -1,0 +1,4 @@
+How many of the twelve pentominoes pictured below have at least one line of symmetry?
+ 
+$\textbf{(A)}\ 3 \qquad \textbf{(B)}\ 4 \qquad \textbf{(C)}\ 5 \qquad \textbf{(D)}\ 6 \qquad \textbf{(E)}\ 7$
+ 

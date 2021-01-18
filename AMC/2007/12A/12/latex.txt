@@ -1,0 +1,4 @@
+Integers $a, b, c,$ and $d$, not necessarily distinct, are chosen independently and at random from 0 to 2007, inclusive. What is the probability that $ad-bc$ is even?
+ 
+$\mathrm{(A)}\ \frac 38\qquad \mathrm{(B)}\ \frac 7{16}\qquad \mathrm{(C)}\ \frac 12\qquad \mathrm{(D)}\ \frac 9{16}\qquad \mathrm{(E)}\ \frac 58$
+ 

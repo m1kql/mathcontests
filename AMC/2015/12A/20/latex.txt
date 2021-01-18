@@ -1,0 +1,4 @@
+Isosceles triangles $T$ and $T'$ are not congruent but have the same area and the same perimeter.  The sides of $T$ have lengths $5$, $5$, and $8$, while those of $T'$ have lengths $a$, $a$, and $b$.  Which of the following numbers is closest to $b$?
+ 
+$\textbf{(A) }3\qquad\textbf{(B) }4\qquad\textbf{(C) }5\qquad\textbf{(D) }6\qquad\textbf{(E) }8$
+ 

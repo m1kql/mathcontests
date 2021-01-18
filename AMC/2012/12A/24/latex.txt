@@ -1,0 +1,8 @@
+Let $\{a_k\}_{k=1}^{2011}$ be the sequence of real numbers defined by $a_1=0.201,$ $a_2=(0.2011)^{a_1},$ $a_3=(0.20101)^{a_2},$ $a_4=(0.201011)^{a_3}$, and in general, 
+ 
+ \begin{center} \[a_k=\begin{cases}(0.\underbrace{20101\cdots 0101}_{k+2\text{ digits}})^{a_{k-1}}\qquad\text{if }k\text{ is odd,}\\(0.\underbrace{20101\cdots 01011}_{k+2\text{ digits}})^{a_{k-1}}\qquad\text{if }k\text{ is even.}\end{cases}\] \end{center} 
+ 
+Rearranging the numbers in the sequence  $\{a_k\}_{k=1}^{2011}$ in decreasing order produces a new sequence  $\{b_k\}_{k=1}^{2011}$.  What is the sum of all integers $k$, $1\le k \le 2011$, such that $a_k=b_k?$
+ 
+$\textbf{(A)}\ 671\qquad\textbf{(B)}\ 1006\qquad\textbf{(C)}\ 1341\qquad\textbf{(D)}\ 2011\qquad\textbf{(E)}\ 2012$
+ 

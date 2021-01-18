@@ -1,0 +1,8 @@
+Cities $A$, $B$, $C$, $D$, and $E$ are connected by roads $\widetilde{AB}$, $\widetilde{AD}$, $\widetilde{AE}$, $\widetilde{BC}$, $\widetilde{BD}$, $\widetilde{CD}$, and $\widetilde{DE}$. How many different routes are there from $A$ to $B$ that use each road exactly once? (Such a route will necessarily visit some cities more than once.)
+ 
+
+ 
+$\textbf{(A)}\ 7 \qquad \textbf{(B)}\ 9 \qquad \textbf{(C)}\ 12 \qquad \textbf{(D)}\ 16 \qquad \textbf{(E)}\ 18$
+ 
+
+ 

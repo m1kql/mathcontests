@@ -1,0 +1,4 @@
+Which of the following polynomials has the greatest real root?
+ 
+$\textbf{(A) }   x^{19}+2018x^{11}+1   \qquad        \textbf{(B) }   x^{17}+2018x^{11}+1   \qquad    \textbf{(C) }   x^{19}+2018x^{13}+1   \qquad   \textbf{(D) }  x^{17}+2018x^{13}+1 \qquad  \textbf{(E) }   2019x+2018$
+ 

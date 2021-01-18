@@ -1,0 +1,1 @@
+Show that for any positive real $x$, $[nx]\ge \sum_{1}^{n}\left(\frac{[kx]}{k}\right)$

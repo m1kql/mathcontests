@@ -1,0 +1,4 @@
+For how many positive integers $n$ is $n^2 - 3n + 2$ a prime number?
+ 
+$\mathrm{(A)}\ \text{none} \qquad\mathrm{(B)}\ \text{one} \qquad\mathrm{(C)}\ \text{two} \qquad\mathrm{(D)}\ \text{more\ than\ two,\ but\ finitely\ many} \qquad\mathrm{(E)}\ \text{infinitely\ many}$
+ 

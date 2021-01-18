@@ -1,0 +1,4 @@
+A basketball player made 5 baskets during a game. Each basket was worth either 2 or 3 points. How many different numbers could represent the total points scored by the player?
+ 
+$\mathrm{(A)}\ 2\qquad\mathrm{(B)}\ 3\qquad\mathrm{(C)}\ 4\qquad\mathrm{(D)}\ 5\qquad\mathrm{(E)}\ 6$
+ 

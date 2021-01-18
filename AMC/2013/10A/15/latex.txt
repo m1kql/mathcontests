@@ -1,0 +1,6 @@
+Two sides of a triangle have lengths $10$ and $15$.  The length of the altitude to the third side is the average of the lengths of the altitudes to the two given sides.  How long is the third side?
+ 
+
+ 
+$\textbf{(A)}\ 6 \qquad\textbf{(B)}\ 8 \qquad\textbf{(C)}\ 9 \qquad\textbf{(D)}\ 12 \qquad\textbf{(E)}\ 18$
+ 

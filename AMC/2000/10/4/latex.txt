@@ -1,0 +1,5 @@
+
+Chandra pays an on-line service provider a fixed monthly fee plus an hourly charge for connect time. Her December bill was $\$ 12.48$, but in January her bill was $\$17.54$ because she used twice as much connect time as in December. What is the fixed monthly fee?
+
+$\textbf{(A)}\ $ $2.53 \qquad\textbf{(B)}\ $ $5.06 \qquad\textbf{(C)}\ $ $6.24 \qquad\textbf{(D)}\ $ $7.42 \qquad\textbf{(E)}\ $ $8.77$
+

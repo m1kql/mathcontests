@@ -1,0 +1,4 @@
+You and five friends need to raise $1500$ dollars in donations for a charity, dividing the fundraising equally.  How many dollars will each of you need to raise?
+ 
+$\mathrm{(A) \ } 250\qquad \mathrm{(B) \ } 300 \qquad \mathrm{(C) \ } 1500 \qquad \mathrm{(D) \ } 7500 \qquad \mathrm{(E) \ } 9000$
+ 

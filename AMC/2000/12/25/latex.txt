@@ -1,0 +1,4 @@
+Eight congruent equilateral triangles, each of a different color, are used to construct a regular octahedron. How many distinguishable ways are there to construct the octahedron? (Two colored octahedrons are distinguishable if neither can be rotated to look just like the other.) 
+ 
+$\text {(A)}\ 210 \qquad \text {(B)}\ 560 \qquad \text {(C)}\ 840 \qquad \text {(D)}\ 1260 \qquad \text {(E)}\ 1680$
+ 

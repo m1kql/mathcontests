@@ -1,0 +1,4 @@
+A palindrome, such as $83438$, is a number that remains the same when its digits are reversed. The numbers $x$ and $x+32$ are three-digit and four-digit palindromes, respectively. What is the sum of the digits of $x$?
+ 
+$\textbf{(A)}\ 20 \qquad \textbf{(B)}\ 21 \qquad \textbf{(C)}\ 22 \qquad \textbf{(D)}\ 23 \qquad \textbf{(E)}\ 24$
+ 

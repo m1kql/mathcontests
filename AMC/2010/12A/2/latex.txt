@@ -1,0 +1,4 @@
+A ferry boat shuttles tourists to an island every hour starting at 10 AM until its last trip, which starts at 3 PM. One day the boat captain notes that on the 10 AM trip there were 100 tourists on the ferry boat, and that on each successive trip, the number of tourists was 1 fewer than on the previous trip. How many tourists did the ferry take to the island that day?
+ 
+$\textbf{(A)}\ 585 \qquad \textbf{(B)}\ 594 \qquad \textbf{(C)}\ 672 \qquad \textbf{(D)}\ 679 \qquad \textbf{(E)}\ 694$
+ 

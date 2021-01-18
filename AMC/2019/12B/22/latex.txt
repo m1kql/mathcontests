@@ -1,0 +1,6 @@
+Define a sequence recursively by $x_0=5$ and  \begin{center} \[x_{n+1}=\frac{x_n^2+5x_n+4}{x_n+6}\] \end{center}  for all nonnegative integers $n.$ Let $m$ be the least positive integer such that
+ 
+ \begin{center} \[x_m\leq 4+\frac{1}{2^{20}}.\] \end{center} In which of the following intervals does $m$ lie?
+ 
+$\textbf{(A) } [9,26] \qquad\textbf{(B) } [27,80] \qquad\textbf{(C) } [81,242]\qquad\textbf{(D) } [243,728] \qquad\textbf{(E) } [729,\infty)$
+ 

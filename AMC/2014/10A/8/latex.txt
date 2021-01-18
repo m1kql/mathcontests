@@ -1,0 +1,4 @@
+Which of the following numbers is a perfect square?
+ 
+$\textbf{(A)}\ \dfrac{14!15!}2\qquad\textbf{(B)}\ \dfrac{15!16!}2\qquad\textbf{(C)}\ \dfrac{16!17!}2\qquad\textbf{(D)}\ \dfrac{17!18!}2\qquad\textbf{(E)}\ \dfrac{18!19!}2$
+ 

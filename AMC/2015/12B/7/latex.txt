@@ -1,0 +1,4 @@
+A regular 15-gon has $L$ lines of symmetry, and the smallest positive angle for which it has rotational symmetry is $R$ degrees. What is $L+R$ ?
+ 
+$\textbf{(A)}\; 24 \qquad\textbf{(B)}\; 27 \qquad\textbf{(C)}\; 32 \qquad\textbf{(D)}\; 39 \qquad\textbf{(E)}\; 54$
+ 

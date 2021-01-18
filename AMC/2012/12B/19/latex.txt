@@ -1,0 +1,8 @@
+A unit cube has vertices $P_1,P_2,P_3,P_4,P_1',P_2',P_3',$ and $P_4'$. Vertices $P_2$, $P_3$, and $P_4$ are adjacent to $P_1$, and for $1\le i\le 4,$ vertices $P_i$ and $P_i'$ are opposite to each other. A regular octahedron has one vertex in each of the segments $P_1P_2$, $P_1P_3$, $P_1P_4$, $P_1'P_2'$, $P_1'P_3'$, and $P_1'P_4'$. What is the octahedron's side length?
+ 
+
+ 
+
+ 
+$\textbf{(A)}\ \frac{3\sqrt{2}}{4}\qquad\textbf{(B)}\ \frac{7\sqrt{6}}{16}\qquad\textbf{(C)}\ \frac{\sqrt{5}}{2}\qquad\textbf{(D)}\ \frac{2\sqrt{3}}{3}\qquad\textbf{(E)}\ \frac{\sqrt{6}}{2}$
+ 

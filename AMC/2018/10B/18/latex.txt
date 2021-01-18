@@ -1,0 +1,4 @@
+Three young brother-sister pairs from different families need to take a trip in a van. These six children will occupy the second and third rows in the van, each of which has three seats. To avoid disruptions, siblings may not sit right next to each other in the same row, and no child may sit directly in front of his or her sibling. How many seating arrangements are possible for this trip?
+ 
+$\textbf{(A)} \text{ 60} \qquad \textbf{(B)} \text{ 72} \qquad \textbf{(C)} \text{ 92} \qquad \textbf{(D)} \text{ 96} \qquad \textbf{(E)} \text{ 120}$
+ 

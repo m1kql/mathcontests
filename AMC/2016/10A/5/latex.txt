@@ -1,0 +1,4 @@
+A rectangular box has integer side lengths in the ratio $1: 3: 4$. Which of the following could be the volume of the box?
+ 
+$\textbf{(A)}\ 48\qquad\textbf{(B)}\ 56\qquad\textbf{(C)}\ 64\qquad\textbf{(D)}\ 96\qquad\textbf{(E)}\ 144$
+ 

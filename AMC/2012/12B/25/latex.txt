@@ -1,0 +1,6 @@
+Let $S=\{(x,y) : x\in \{0,1,2,3,4\}, y\in \{0,1,2,3,4,5\},\text{ and } (x,y)\ne (0,0)\}$. 
+ 
+Let $T$ be the set of all right triangles whose vertices are in $S$. For every right triangle $t=\triangle{ABC}$ with vertices $A$, $B$, and $C$ in counter-clockwise order and right angle at $A$, let $f(t)=\tan(\angle{CBA})$. What is  \begin{center} \[\prod_{t\in T} f(t)?\] \end{center} 
+ 
+$\textbf{(A)}\ 1\qquad\textbf{(B)}\ \frac{625}{144}\qquad\textbf{(C)}\ \frac{125}{24}\qquad\textbf{(D)}\ 6\qquad\textbf{(E)}\ \frac{625}{24}$
+ 

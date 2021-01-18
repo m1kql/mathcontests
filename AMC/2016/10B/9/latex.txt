@@ -1,0 +1,4 @@
+All three vertices of $\bigtriangleup ABC$ lie on the parabola defined by $y=x^2$, with $A$ at the origin and $\overline{BC}$ parallel to the $x$-axis. The area of the triangle is $64$. What is the length of $BC$?
+ 
+$\textbf{(A)}\ 4\qquad\textbf{(B)}\ 6\qquad\textbf{(C)}\ 8\qquad\textbf{(D)}\ 10\qquad\textbf{(E)}\ 16$
+ 

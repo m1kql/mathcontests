@@ -1,0 +1,4 @@
+In trapezoid $ABCD$ with bases $AB$ and $CD$, we have $AB = 52$, $BC = 12$, $CD = 39$, and $DA = 5$. The area of $ABCD$ is
+ 
+$\text{(A)}\ 182 \qquad \text{(B)}\ 195 \qquad \text{(C)}\ 210 \qquad \text{(D)}\ 234 \qquad \text{(E)}\ 260$
+ 

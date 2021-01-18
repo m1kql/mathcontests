@@ -1,0 +1,4 @@
+Rectangle $PQRS$ lies in a plane with $PQ=RS=2$ and $QR=SP=6$. The rectangle is rotated $90^\circ$ clockwise about $R$, then rotated $90^\circ$ clockwise about the point $S$ moved to after the first rotation. What is the length of the path traveled by point $P$?
+ 
+$\mathrm{(A)}\ \left(2\sqrt{3}+\sqrt{5}\right)\pi\qquad\mathrm{(B)}\ 6\pi\qquad\mathrm{(C)}\ \left(3+\sqrt{10}\right)\pi\qquad\mathrm{(D)}\ \left(\sqrt{3}+2\sqrt{5}\right)\pi\\\mathrm{(E)}\ 2\sqrt{10}\pi$
+ 

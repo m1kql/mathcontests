@@ -1,0 +1,4 @@
+The larger of two consecutive odd integers is three times the smaller. What is their sum?
+ 
+$\text{(A)}\ 4 \qquad \text{(B)}\ 8 \qquad \text{(C)}\ 12 \qquad \text{(D)}\ 16 \qquad \text{(E)}\ 20$
+ 

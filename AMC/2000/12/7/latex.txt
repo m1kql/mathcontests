@@ -1,0 +1,4 @@
+How many positive integers $\displaystyle b$ have the property that $\displaystyle \log_{b} 729$ is a positive integer?
+ 
+$\mathrm{(A) \ 0 } \qquad \mathrm{(B) \ 1 } \qquad \mathrm{(C) \ 2 } \qquad \mathrm{(D) \ 3 } \qquad \mathrm{(E) \ 4 }$
+ 

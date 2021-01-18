@@ -1,0 +1,4 @@
+The line $12x+5y=60$ forms a triangle with the coordinate axes. What is the sum of the lengths of the altitudes of this triangle?
+ 
+$\textbf{(A)}\; 20 \qquad\textbf{(B)}\; \dfrac{360}{17} \qquad\textbf{(C)}\; \dfrac{107}{5} \qquad\textbf{(D)}\; \dfrac{43}{2} \qquad\textbf{(E)}\; \dfrac{281}{13}$
+ 

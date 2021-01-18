@@ -1,0 +1,8 @@
+Rational numbers $a$ and $b$ are chosen at random among all rational numbers in the interval $[0,2)$ that can be written as fractions $\frac{n}{d}$ where $n$ and $d$ are integers with $1 \le d \le 5$. What is the probability that
+ 
+ \begin{center} \[(\text{cos}(a\pi)+i\text{sin}(b\pi))^4\] \end{center} 
+ 
+is a real number?
+ 
+$\textbf{(A)}\ \frac{3}{50} \qquad\textbf{(B)}\ \frac{4}{25} \qquad\textbf{(C)}\ \frac{41}{200} \qquad\textbf{(D)}\ \frac{6}{25} \qquad\textbf{(E)}\ \frac{13}{50}$
+ 

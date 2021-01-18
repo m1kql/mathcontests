@@ -1,0 +1,5 @@
+
+Consider the dark square in an array of unit squares, part of which is shown. The first ring of squares around this center square contains $8$ unit squares. The second ring contains $16$ unit squares. If we continue this process, the number of unit squares in the $100^\textmd{th}$ ring is
+
+$\textbf{(A)}\ 396 \qquad \textbf{(B)}\ 404 \qquad \textbf{(C)}\ 800 \qquad \textbf{(D)}\ 10,\!000 \qquad \textbf{(E)}\ 10,\!404$
+

@@ -1,0 +1,4 @@
+Let $ABCDE$ be an equiangular convex pentagon of perimeter $1$. The pairwise intersections of the lines that extend the sides of the pentagon determine a five-pointed star polygon. Let $s$ be the perimeter of this star. What is the difference between the maximum and the minimum possible values of $s$?
+ 
+$\textbf{(A)}\ 0 \qquad \textbf{(B)}\ \frac{1}{2} \qquad \textbf{(C)}\ \frac{\sqrt{5}-1}{2} \qquad \textbf{(D)}\  \frac{\sqrt{5}+1}{2} \qquad \textbf{(E)}\ \sqrt{5}$
+ 

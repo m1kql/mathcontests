@@ -1,0 +1,6 @@
+A unit cube is cut twice to form three triangular prisms, two of which are congruent, as shown in Figure 1. The cube is then cut in the same manner along the dashed lines shown in Figure 2. This creates nine pieces. What is the volume of the piece that contains vertex $W$?
+ 
+$(\mathrm {A}) \ \frac{1}{12} \qquad (\mathrm {B}) \ \frac{1}{9} \qquad (\mathrm {C})\ \frac{1}{8} \qquad (\mathrm {D}) \ \frac{1}{6} \qquad (\mathrm {E})\ \frac{1}{4}$
+ 
+
+ 

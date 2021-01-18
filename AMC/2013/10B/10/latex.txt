@@ -1,0 +1,4 @@
+A basketball team's players were successful on 50% of their two-point shots and 40% of their three-point shots, which resulted in 54 points. They attempted 50% more two-point shots than three-point shots. How many three-point shots did they attempt?
+ 
+$\textbf{(A) }10\qquad\textbf{(B) }15\qquad\textbf{(C) }20\qquad\textbf{(D) }25\qquad\textbf{(E) }30$
+ 

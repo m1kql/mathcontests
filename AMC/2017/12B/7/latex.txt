@@ -1,0 +1,4 @@
+The functions $\sin(x)$ and $\cos(x)$ are periodic with least period $2\pi$. What is the least period of the function $\cos(\sin(x))$?
+ 
+$\textbf{(A)}\ \frac{\pi}{2}\qquad\textbf{(B)}\ \pi\qquad\textbf{(C)}\ 2\pi \qquad\textbf{(D)}\ 4\pi \qquad\textbf{(E)}$ The function is not periodic.
+ 

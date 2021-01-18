@@ -1,0 +1,6 @@
+In the figure below, semicircles with centers at $A$ and $B$ and with radii 2 and 1, respectively, are drawn in the interior of, and sharing bases with, a semicircle with diameter $JK$. The two smaller semicircles are externally tangent to each other and internally tangent to the largest semicircle. A circle centered at $P$ is drawn externally tangent to the two smaller semicircles and internally tangent to the largest semicircle. What is the radius of the circle centered at $P$?
+ 
+
+ 
+$\textbf{(A)}\ \frac{3}{4} \qquad \textbf{(B)}\ \frac{6}{7} \qquad\textbf{(C)}\ \frac{1}{2}\sqrt{3} \qquad\textbf{(D)}\ \frac{5}{8}\sqrt{2} \qquad\textbf{(E)}\ \frac{11}{12}$
+ 

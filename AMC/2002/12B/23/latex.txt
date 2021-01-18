@@ -1,0 +1,4 @@
+In $\triangle ABC$, we have $AB = 1$ and $AC = 2$. Side $\overline{BC}$ and the median from $A$ to $\overline{BC}$ have the same length. What is $BC$?
+ 
+$\mathrm{(A)}\ \frac{1+\sqrt{2}}{2} \qquad\mathrm{(B)}\ \frac{1+\sqrt{3}}2 \qquad\mathrm{(C)}\ \sqrt{2} \qquad\mathrm{(D)}\ \frac 32 \qquad\mathrm{(E)}\ \sqrt{3}$
+ 

@@ -1,0 +1,6 @@
+
+The state income tax where Kristin lives is levied at the rate of $p\%$ of the first \textdollar 28000 of annual income plus $(p + 2)\%$ of any amount above \textdollar 28000. Kristin noticed that the state income tax she paid amounted to $(p + 0.25)\%$ of her annual income. What was her annual income?
+
+\textbf{(A)}\,\textdollar 28000 \qquad \textbf{(B)}\,\textdollar 32000 \qquad \textbf{(C)}\,\textdollar 35000 \qquad \textbf{(D)}\,\textdollar 42000 \qquad \textbf{(E)}\,\textdollar 56000
+
+

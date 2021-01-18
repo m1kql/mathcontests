@@ -1,0 +1,12 @@
+Nonzero real numbers $x$, $y$, $a$, and $b$ satisfy $x < a$ and $y < b$. How many of the following inequalities must be true?
+ 
+$\textbf{(I)}\ x+y < a+b\qquad$
+ 
+$\textbf{(II)}\ x-y < a-b\qquad$
+ 
+$\textbf{(III)}\ xy < ab\qquad$
+ 
+$\textbf{(IV)}\ \frac{x}{y} < \frac{a}{b}$
+ 
+$\textbf{(A)}\ 0\qquad\textbf{(B)}\ 1\qquad\textbf{(C)}\ 2\qquad\textbf{(D)}\ 3\qquad\textbf{(E)}\ 4$
+ 

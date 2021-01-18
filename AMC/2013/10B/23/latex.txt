@@ -1,0 +1,4 @@
+In triangle $ABC$, $AB=13$, $BC=14$, and $CA=15$. Distinct points $D$, $E$, and $F$ lie on segments $\overline{BC}$, $\overline{CA}$, and $\overline{DE}$, respectively, such that $\overline{AD}\perp\overline{BC}$, $\overline{DE}\perp\overline{AC}$, and $\overline{AF}\perp\overline{BF}$. The length of segment $\overline{DF}$ can be written as $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. What is $m+n$?
+ 
+$\textbf{(A)}\ 18\qquad\textbf{(B)}\ 21\qquad\textbf{(C)}\ 24\qquad\textbf{(D)}\ 27\qquad\textbf{(E)}\ 30$
+ 

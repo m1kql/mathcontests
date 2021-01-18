@@ -1,0 +1,4 @@
+The number $21!=51,090,942,171,709,440,000$ has over $60,000$ positive integer divisors. One of them is chosen at random. What is the probability that it is odd?
+ 
+$\textbf{(A)}\ \frac{1}{21} \qquad \textbf{(B)}\ \frac{1}{19} \qquad \textbf{(C)}\ \frac{1}{18} \qquad \textbf{(D)}\ \frac{1}{2} \qquad \textbf{(E)}\ \frac{11}{21}$
+ 

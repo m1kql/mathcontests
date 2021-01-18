@@ -1,0 +1,10 @@
+In $\triangle ABC$ points $D$ and $E$ lie on $BC$ and $AC$, respectively. If $AD$ and $BE$ intersect at $T$ so that $\frac{AT}{DT}=3$ and $\frac{BT}{ET}=4$, what is $\frac{CD}{BD}$?
+ 
+
+ 
+$\mathrm{(A) \ } \frac{1}{8} \qquad \mathrm{(B) \ } \frac{2}{9} \qquad \mathrm{(C) \ } \frac{3}{10} \qquad \mathrm{(D) \ } \frac{4}{11} \qquad \mathrm{(E) \ } \frac{5}{12}$
+ 
+
+ 
+
+ 

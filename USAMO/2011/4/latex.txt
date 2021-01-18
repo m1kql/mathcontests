@@ -1,0 +1,2 @@
+This problem is from both the 2011 USAJMO and the 2011 USAMO, so both problems redirect here.
+Consider the assertion that for each positive integer $n \ge 2$, the remainder upon dividing $2^{2^n}$ by $2^n-1$ is a power of 4. Either prove the assertion or find (with proof) a counter-example.

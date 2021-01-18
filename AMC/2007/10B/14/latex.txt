@@ -1,0 +1,4 @@
+Some boys and girls are having a car wash to raise money for a class trip to China. Initially $40\%$ of the group are girls. Shortly thereafter two girls leave and two boys arrive, and then $30\%$ of the group are girls. How many girls were initially in the group?
+ 
+$\textbf{(A) } 4 \qquad\textbf{(B) } 6 \qquad\textbf{(C) } 8 \qquad\textbf{(D) } 10 \qquad\textbf{(E) } 12$
+ 

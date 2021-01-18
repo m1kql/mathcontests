@@ -1,0 +1,6 @@
+David drives from his home to the airport to catch a flight.  He drives $35$ miles in the first hour, but realizes that he will be $1$ hour late if he continues at this speed.  He increases his speed by $15$ miles per hour for the rest of the way to the airport and arrives $30$ minutes early.  How many miles is the airport from his home?
+ 
+$\textbf{(A) }140\qquad \textbf{(B) }175\qquad \textbf{(C) }210\qquad \textbf{(D) }245\qquad \textbf{(E) }280\qquad$
+ 
+
+ 

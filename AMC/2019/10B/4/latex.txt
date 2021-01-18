@@ -1,0 +1,4 @@
+All lines with equation $ax+by=c$ such that $a,b,c$ form an arithmetic progression pass through a common point. What are the coordinates of that point?
+ 
+$\textbf{(A) } (-1,2) \qquad\textbf{(B) } (0,1) \qquad\textbf{(C) } (1,-2) \qquad\textbf{(D) } (1,0) \qquad\textbf{(E) } (1,2)$
+ 

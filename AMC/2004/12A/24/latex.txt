@@ -1,0 +1,4 @@
+A plane contains points $A$ and $B$ with $\overline{AB} = 1$. Let $S$ be the union of all disks of radius $1$ in the plane that cover $\overline{AB}$. What is the area of $S$?
+ 
+$\text {(A)} 2\pi + \sqrt3 \qquad \text {(B)} \frac {8\pi}{3} \qquad \text {(C)} 3\pi - \frac {\sqrt3}{2} \qquad \text {(D)} \frac {10\pi}{3} - \sqrt3 \qquad \text {(E)}4\pi - 2\sqrt3$
+ 

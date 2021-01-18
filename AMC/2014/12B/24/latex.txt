@@ -1,0 +1,4 @@
+Let $ABCDE$ be a pentagon inscribed in a circle such that $AB = CD = 3$, $BC = DE = 10$, and $AE= 14$.  The sum of the lengths of all diagonals of $ABCDE$ is equal to $\frac{m}{n}$, where $m$ and $n$ are relatively prime positive integers.  What is $m+n$ ?
+ 
+$\textbf{(A) }129\qquad \textbf{(B) }247\qquad \textbf{(C) }353\qquad \textbf{(D) }391\qquad \textbf{(E) }421\qquad$
+ 

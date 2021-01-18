@@ -1,0 +1,4 @@
+An integer $N$ is selected at random in the range $1\leq N \leq 2020$ . What is the probability that the remainder when $N^{16}$ is divided by $5$ is $1$?
+ 
+$\textbf{(A)}\ \frac{1}{5}\qquad\textbf{(B)}\ \frac{2}{5}\qquad\textbf{(C)}\ \frac{3}{5}\qquad\textbf{(D)}\ \frac{4}{5}\qquad\textbf{(E)}\ 1$
+ 

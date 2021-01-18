@@ -1,0 +1,4 @@
+Quadrilateral $ABCD$ has right angles at $B$ and $C$, $\triangle ABC \sim \triangle BCD$, and $AB > BC$. There is a point $E$ in the interior of $ABCD$ such that $\triangle ABC \sim \triangle CEB$ and the area of $\triangle AED$ is $17$ times the area of $\triangle CEB$. What is $\tfrac{AB}{BC}$?
+ 
+$\textbf{(A) } 1+\sqrt{2} \qquad \textbf{(B) } 2 + \sqrt{2} \qquad \textbf{(C) } \sqrt{17} \qquad \textbf{(D) } 2 + \sqrt{5} \qquad \textbf{(E) } 1 + 2\sqrt{3}$
+ 

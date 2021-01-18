@@ -1,0 +1,4 @@
+A box $2$ centimeters high, $3$ centimeters wide, and $5$ centimeters long can hold $40$ grams of clay.  A second box with twice the height, three times the width, and the same length as the first box can hold $n$ grams of clay.  What is $n$?
+ 
+$\textbf{(A)}\ 120\qquad\textbf{(B)}\ 160\qquad\textbf{(C)}\ 200\qquad\textbf{(D)}\ 240\qquad\textbf{(E)}\ 280$
+ 

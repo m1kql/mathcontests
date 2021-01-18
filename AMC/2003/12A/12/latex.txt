@@ -1,0 +1,4 @@
+Sally has five red cards numbered $1$ through $5$ and four blue cards numbered $3$ through $6$. She stacks the cards so that the colors alternate and so that the number on each red card divides evenly into the number on each neighboring blue card. What is the sum of the numbers on the middle three cards? 
+ 
+$\mathrm{(A) \ } 8\qquad \mathrm{(B) \ } 9\qquad \mathrm{(C) \ } 10\qquad \mathrm{(D) \ } 11\qquad \mathrm{(E) \ } 12$
+ 

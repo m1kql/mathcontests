@@ -1,0 +1,4 @@
+Debra flips a fair coin repeatedly, keeping track of how many heads and how many tails she has seen in total, until she gets either two heads in a row or two tails in a row, at which point she stops flipping. What is the probability that she gets two heads in a row but she sees a second tail before she sees a second head?
+ 
+$\textbf{(A) } \frac{1}{36} \qquad \textbf{(B) } \frac{1}{24} \qquad \textbf{(C) } \frac{1}{18} \qquad \textbf{(D) } \frac{1}{12} \qquad \textbf{(E) } \frac{1}{6}$
+ 

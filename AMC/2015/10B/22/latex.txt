@@ -1,0 +1,6 @@
+In the figure shown below, $ABCDE$ is a regular pentagon and $AG=1$. What is $FG + JH + CD$?
+ 
+
+ 
+$\textbf{(A) } 3 \qquad\textbf{(B) } 12-4\sqrt5 \qquad\textbf{(C) } \dfrac{5+2\sqrt5}{3} \qquad\textbf{(D) } 1+\sqrt5 \qquad\textbf{(E) } \dfrac{11+11\sqrt5}{10}$
+ 

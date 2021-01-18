@@ -1,0 +1,1 @@
+$N$ is the north pole. $A$ and $B$ are points on a great circle through $N$ equidistant from $N$. $C$ is a point on the equator. Show that the great circle through $C$ and $N$ bisects the angle $ACB$ in the spherical triangle $ABC$ (a spherical triangle has great circle arcs as sides).

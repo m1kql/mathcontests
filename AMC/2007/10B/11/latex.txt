@@ -1,0 +1,4 @@
+A circle passes through the three vertices of an isosceles triangle that has two sides of length $3$ and a base of length $2$. What is the area of this circle?
+ 
+$\textbf{(A) } 2\pi \qquad\textbf{(B) } \frac{5}{2}\pi \qquad\textbf{(C) } \frac{81}{32}\pi \qquad\textbf{(D) } 3\pi \qquad\textbf{(E) } \frac{7}{2}\pi$
+ 

@@ -1,0 +1,4 @@
+What is the hundreds digit of $(20!-15!)?$
+ 
+$\textbf{(A) }0\qquad\textbf{(B) }1\qquad\textbf{(C) }2\qquad\textbf{(D) }4\qquad\textbf{(E) }5$
+ 

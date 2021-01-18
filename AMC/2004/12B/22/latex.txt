@@ -1,0 +1,6 @@
+The square
+ 
+$\begin{tabular}{|c|c|c|} \hline 50 & \textit{b} & \textit{c} \\ \hline \textit{d} & \textit{e} & \textit{f} \\ \hline \textit{g} & \textit{h} & 2 \\ \hline \end{tabular}$is a multiplicative magic square. That is, the product of the numbers in each row, column, and diagonal is the same. If all the entries are positive integers, what is the sum of the possible values of $g$?
+ 
+$\textbf{(A)}\ 10 \qquad \textbf{(B)}\ 25 \qquad \textbf{(C)}\ 35 \qquad \textbf{(D)}\ 62 \qquad \textbf{(E)}\ 136$
+ 

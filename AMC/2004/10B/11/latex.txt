@@ -1,0 +1,4 @@
+Two eight-sided dice each have faces numbered $1$ through $8$. When the dice are rolled, each face has an equal probability of appearing on the top. What is the probability that the product of the two top numbers is greater than their sum?
+ 
+$\mathrm{(A)\ }\frac{1}{2}\qquad\mathrm{(B)\ }\frac{47}{64}\qquad\mathrm{(C)\ }\frac{3}{4}\qquad\mathrm{(D)\ }\frac{55}{64}\qquad\mathrm{(E)\ }\frac{7}{8}$
+ 

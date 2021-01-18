@@ -1,0 +1,2 @@
+The probability that a set of three distinct vertices chosen at random from among the vertices of a regular n-gon determine an obtuse triangle is $\frac{93}{125}$ . Find the sum of all possible values of $n$.
+ 

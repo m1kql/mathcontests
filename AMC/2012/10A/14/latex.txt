@@ -1,0 +1,4 @@
+Chubby makes nonstandard checkerboards that have $31$ squares on each side.  The checkerboards have a black square in every corner and alternate red and black squares along every row and column.  How many black squares are there on such a checkerboard?
+ 
+$\textbf{(A)}\ 480 \qquad\textbf{(B)}\ 481 \qquad\textbf{(C)}\ 482 \qquad\textbf{(D)}\ 483 \qquad\textbf{(E)}\ 484$
+ 

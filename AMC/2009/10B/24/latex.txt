@@ -1,0 +1,6 @@
+The keystone arch is an ancient architectural feature. It is composed of congruent isosceles trapezoids fitted together along the non-parallel sides, as shown. The bottom sides of the two end trapezoids are horizontal. In an arch made with $9$ trapezoids, let $x$ be the angle measure in degrees of the larger interior angle of the trapezoid. What is $x$? 
+ 
+
+ 
+$\text{(A) } 100 \qquad \text{(B) } 102 \qquad \text{(C) } 104 \qquad \text{(D) } 106 \qquad \text{(E) } 108$
+ 

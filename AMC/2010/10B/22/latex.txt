@@ -1,0 +1,4 @@
+Seven distinct pieces of candy are to be distributed among three bags. The red bag and the blue bag must each receive at least one piece of candy; the white bag may remain empty. How many arrangements are possible?
+ 
+$\textbf{(A)}\ 1930 \qquad \textbf{(B)}\ 1931 \qquad \textbf{(C)}\ 1932 \qquad \textbf{(D)}\ 1933 \qquad \textbf{(E)}\ 1934$
+ 

@@ -1,0 +1,4 @@
+A rectangle with positive integer side lengths in $\text{cm}$ has area $A$ $\text{cm}^2$ and perimeter $P$ $\text{cm}$. Which of the following numbers cannot equal $A+P$?
+ 
+$\textbf{(A) }100\qquad\textbf{(B) }102\qquad\textbf{(C) }104\qquad\textbf{(D) }106\qquad\textbf{(E) }108$
+ 

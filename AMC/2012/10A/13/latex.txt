@@ -1,0 +1,4 @@
+An iterative average of the numbers 1, 2, 3, 4, and 5 is computed the following way. Arrange the five numbers in some order. Find the mean of the first two numbers, then find the mean of that with the third number, then the mean of that with the fourth number, and finally the mean of that with the fifth number. What is the difference between the largest and smallest possible values that can be obtained using this procedure?
+ 
+$\textbf{(A)}\ \frac{31}{16}\qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ \frac{17}{8}\qquad\textbf{(D)}\ 3\qquad\textbf{(E)}\ \frac{65}{16}$
+ 

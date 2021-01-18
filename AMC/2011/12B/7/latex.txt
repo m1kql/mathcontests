@@ -1,0 +1,4 @@
+Let $x$ and $y$ be two-digit positive integers with mean $60$. What is the maximum value of the ratio $\frac{x}{y}$?
+ 
+$\textbf{(A)}\ 3 \qquad \textbf{(B)}\ \frac{33}{7} \qquad \textbf{(C)}\ \frac{39}{7} \qquad \textbf{(D)}\ 9 \qquad \textbf{(E)}\ \frac{99}{10}$
+ 

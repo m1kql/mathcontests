@@ -1,0 +1,4 @@
+The sum of an infinite geometric series is a positive number $S$, and the second term in the series is $1$. What is the smallest possible value of $S?$
+ 
+$\textbf{(A)}\ \frac{1+\sqrt{5}}{2} \qquad \textbf{(B)}\ 2 \qquad \textbf{(C)}\ \sqrt{5} \qquad \textbf{(D)}\ 3 \qquad \textbf{(E)}\ 4$
+ 

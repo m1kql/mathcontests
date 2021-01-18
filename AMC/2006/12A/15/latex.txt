@@ -1,0 +1,4 @@
+Suppose $\cos x=0$ and $\cos (x+z)=1/2$. What is the smallest possible positive value of $z$?
+ 
+$\mathrm{(A) \ } \frac{\pi}{6}\qquad \mathrm{(B) \ } \frac{\pi}{3}\qquad \mathrm{(C) \ } \frac{\pi}{2}\qquad \mathrm{(D) \ } \frac{5\pi}{6} \quad \mathrm{(E) \ } \frac{7\pi}{6}$
+ 

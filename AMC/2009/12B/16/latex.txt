@@ -1,0 +1,6 @@
+Trapezoid $ABCD$ has $AD||BC$, $BD = 1$, $\angle DBA = 23^{\circ}$, and $\angle BDC = 46^{\circ}$.  The ratio $BC: AD$ is $9: 5$.  What is $CD$?
+ 
+
+ 
+$\mathrm{(A)}\ \frac 79\qquad \mathrm{(B)}\ \frac 45\qquad \mathrm{(C)}\ \frac {13}{15}\qquad \mathrm{(D)}\ \frac 89\qquad \mathrm{(E)}\ \frac {14}{15}$
+ 

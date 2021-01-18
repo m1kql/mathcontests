@@ -1,0 +1,2 @@
+The complex numbers $z$ and $w$ satisfy $z^{13} = w,$ $w^{11} = z,$ and the imaginary part of $z$ is $\sin{\frac{m\pi}{n}}$, for relatively prime positive integers $m$ and $n$ with $m<n.$ Find $n.$
+ 

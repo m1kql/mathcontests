@@ -1,0 +1,4 @@
+Alicia had two containers. The first was $\tfrac{5}{6}$ full of water and the second was empty. She poured all the water from the first container into the second container, at which point the second container was $\tfrac{3}{4}$ full of water. What is the ratio of the volume of the first container to the volume of the second container?
+ 
+$\textbf{(A) } \frac{5}{8} \qquad \textbf{(B) } \frac{4}{5} \qquad \textbf{(C) } \frac{7}{8} \qquad \textbf{(D) } \frac{9}{10} \qquad \textbf{(E) } \frac{11}{12}$
+ 

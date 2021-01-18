@@ -1,0 +1,4 @@
+Let $1$; $4$; $\ldots$ and $9$; $16$; $\ldots$ be two arithmetic progressions. The set $S$ is the union of the first $2004$ terms of each sequence. How many distinct numbers are in $S$?
+ 
+$\mathrm{(A) \ } 3722 \qquad \mathrm{(B) \ } 3732 \qquad \mathrm{(C) \ } 3914 \qquad \mathrm{(D) \ } 3924 \qquad \mathrm{(E) \ } 4007$
+ 

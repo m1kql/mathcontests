@@ -1,0 +1,6 @@
+Triangle $ABC$ has a right angle at $B$, $AB=1$, and $BC=2$. The bisector of $\angle BAC$ meets $\overline{BC}$ at $D$. What is $BD$?
+ 
+
+ 
+$\text{(A) } \frac {\sqrt3 - 1}{2} \qquad \text{(B) } \frac {\sqrt5 - 1}{2} \qquad \text{(C) } \frac {\sqrt5 + 1}{2} \qquad \text{(D) } \frac {\sqrt6 + \sqrt2}{2} \qquad \text{(E) } 2\sqrt 3 - 1$
+ 

@@ -1,0 +1,4 @@
+Each face of a regular tetrahedron is painted either red, white, or blue. Two colorings are considered indistinguishable if two congruent tetrahedra with those colorings can be rotated so that their appearances are identical. How many distinguishable colorings are possible?
+ 
+$\mathrm{(A)}\ 15 \qquad \mathrm{(B)}\ 18 \qquad \mathrm{(C)}\ 27 \qquad \mathrm{(D)}\ 54 \qquad \mathrm{(E)}\ 81$
+ 

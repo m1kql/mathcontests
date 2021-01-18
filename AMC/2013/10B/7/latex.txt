@@ -1,0 +1,4 @@
+Six points are equally spaced around a circle of radius 1.  Three of these points are the vertices of a triangle that is neither equilateral nor isosceles.  What is the area of this triangle?
+ 
+$\textbf{(A)}\ \frac{\sqrt{3}}{3}\qquad\textbf{(B)}\ \frac{\sqrt{3}}{2}\qquad\textbf{(C)}\ \textbf{1}\qquad\textbf{(D)}\ \sqrt{2}\qquad\textbf{(E)}\ \text{2}$
+ 

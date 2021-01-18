@@ -1,0 +1,4 @@
+How many non-congruent triangles with perimeter $7$ have integer side lengths? 
+ 
+$\mathrm{(A) \ } 1\qquad \mathrm{(B) \ } 2\qquad \mathrm{(C) \ } 3\qquad \mathrm{(D) \ } 4\qquad \mathrm{(E) \ } 5$
+ 

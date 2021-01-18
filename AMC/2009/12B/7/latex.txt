@@ -1,0 +1,4 @@
+In a certain year the price of gasoline rose by $20\%$ during January, fell by $20\%$ during February, rose by $25\%$ during March, and fell by $x\%$ during April. The price of gasoline at the end of April was the same as it had been at the beginning of January. To the nearest integer, what is $x$
+ 
+$\mathrm{(A)}\ 12\qquad \mathrm{(B)}\ 17\qquad \mathrm{(C)}\ 20\qquad \mathrm{(D)}\ 25\qquad \mathrm{(E)}\ 35$
+ 

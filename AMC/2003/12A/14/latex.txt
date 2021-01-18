@@ -1,0 +1,6 @@
+Points $K, L, M,$ and $N$ lie in the plane of the square $ABCD$ such that $AKB$, $BLC$, $CMD$, and $DNA$ are equilateral triangles. If $ABCD$ has an area of 16, find the area of $KLMN$.
+ 
+
+ 
+$\textrm{(A)}\ 32\qquad\textrm{(B)}\ 16+16\sqrt{3}\qquad\textrm{(C)}\ 48\qquad\textrm{(D)}\ 32+16\sqrt{3}\qquad\textrm{(E)}\ 64$
+ 

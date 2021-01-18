@@ -1,0 +1,4 @@
+Eight spheres of radius 1, one per octant, are each tangent to the coordinate planes. What is the radius of the smallest sphere, centered at the origin, that contains these eight spheres?
+ 
+$\mathrm (A)\ \sqrt{2}  \qquad \mathrm (B)\ \sqrt{3}  \qquad \mathrm (C)\ 1+\sqrt{2}\qquad \mathrm (D)\ 1+\sqrt{3}\qquad \mathrm (E)\ 3$
+ 

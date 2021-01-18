@@ -1,0 +1,4 @@
+Let $\triangle A_0B_0C_0$ be a triangle whose angle measures are exactly $59.999^\circ$, $60^\circ$, and $60.001^\circ$. For each positive integer $n$ define $A_n$ to be the foot of the altitude from $A_{n-1}$ to line $B_{n-1}C_{n-1}$. Likewise, define $B_n$ to be the foot of the altitude from $B_{n-1}$ to line $A_{n-1}C_{n-1}$, and $C_n$ to be the foot of the altitude from $C_{n-1}$ to line $A_{n-1}B_{n-1}$. What is the least positive integer $n$ for which $\triangle A_nB_nC_n$ is obtuse?
+ 
+$\textbf{(A) } 10 \qquad \textbf{(B) }11 \qquad \textbf{(C) } 13\qquad \textbf{(D) } 14 \qquad \textbf{(E) } 15$
+ 

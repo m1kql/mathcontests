@@ -1,0 +1,6 @@
+Three cubes are each formed from the pattern shown. They are then stacked on a table one on top of another so that the $13$ visible numbers have the greatest possible sum. What is that sum?
+ 
+
+ 
+$\mathrm{(A)}\ 154\qquad\mathrm{(B)}\ 159\qquad\mathrm{(C)}\ 164\qquad\mathrm{(D)}\ 167\qquad\mathrm{(E)}\ 189$
+ 

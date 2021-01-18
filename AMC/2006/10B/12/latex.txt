@@ -1,0 +1,4 @@
+The lines $x=\frac{1}{4}y+a$ and $y=\frac{1}{4}x+b$ intersect at the point $(1,2)$. What is $a+b$?
+ 
+$\mathrm{(A) \ } 0\qquad \mathrm{(B) \ } \frac{3}{4}\qquad \mathrm{(C) \ } 1\qquad \mathrm{(D) \ } 2\qquad \mathrm{(E) \ } \frac{9}{4}$
+ 

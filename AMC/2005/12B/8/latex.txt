@@ -1,0 +1,6 @@
+For how many values of $a$ is it true that the line $y = x + a$ passes through the
+ 
+vertex of the parabola $y = x^2 + a^2$ ?
+ 
+$\mathrm{(A)}\ 0      \qquad \mathrm{(B)}\ 1      \qquad \mathrm{(C)}\ 2      \qquad \mathrm{(D)}\ 10      \qquad \mathrm{(E)}\ \text{infinitely many}$
+ 

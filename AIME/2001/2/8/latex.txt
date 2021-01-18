@@ -1,0 +1,2 @@
+A certain function $f$ has the properties that $f(3x) = 3f(x)$ for all positive real values of $x$, and that $f(x) = 1-|x-2|$ for $1\le x \le 3$. Find the smallest $x$ for which $f(x) = f(2001)$.
+ 

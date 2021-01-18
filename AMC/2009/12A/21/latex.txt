@@ -1,0 +1,6 @@
+Let $p(x) = x^3 + ax^2 + bx + c$, where $a$, $b$, and $c$ are complex numbers.  Suppose that
+ 
+ \begin{center} \[p(2009 + 9002\pi i) = p(2009) = p(9002) = 0\] \end{center} What is the number of nonreal zeros of $x^{12} + ax^8 + bx^4 + c$?
+ 
+$\textbf{(A)}\ 4\qquad \textbf{(B)}\ 6\qquad \textbf{(C)}\ 8\qquad \textbf{(D)}\ 10\qquad \textbf{(E)}\ 12$
+ 

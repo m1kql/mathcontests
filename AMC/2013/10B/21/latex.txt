@@ -1,0 +1,4 @@
+Two non-decreasing sequences of nonnegative integers have different first terms. Each sequence has the property that each term beginning with the third is the sum of the previous two terms, and the seventh term of each sequence is $N$. What is the smallest possible value of $N$ ?
+ 
+$\textbf{(A)}\ 55 \qquad \textbf{(B)}\ 89 \qquad \textbf{(C)}\ 104 \qquad \textbf{(D)}\ 144 \qquad \textbf{(E)}\ 273$
+ 

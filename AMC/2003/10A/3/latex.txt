@@ -1,0 +1,4 @@
+A solid box is $15$ cm by $10$ cm by $8$ cm. A new solid is formed by removing a cube $3$ cm on a side from each corner of this box. What percent of the original volume is removed? 
+ 
+$\mathrm{(A) \ } 4.5\%\qquad \mathrm{(B) \ } 9\%\qquad \mathrm{(C) \ } 12\%\qquad \mathrm{(D) \ } 18\%\qquad \mathrm{(E) \ } 24\%$
+ 

@@ -1,0 +1,2 @@
+Let $x=\frac{\sum\limits_{n=1}^{44} \cos n^\circ}{\sum\limits_{n=1}^{44} \sin n^\circ}$. What is the greatest integer that does not exceed $100x$?
+ 

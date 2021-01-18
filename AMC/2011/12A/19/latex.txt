@@ -1,0 +1,4 @@
+At a competition with $N$ players, the number of players given elite status is equal to $2^{1+\lfloor \log_{2} (N-1) \rfloor}-N$. Suppose that $19$ players are given elite status. What is the sum of the two smallest possible values of $N$?
+ 
+$\textbf{(A)}\ 38 \qquad \textbf{(B)}\ 90 \qquad \textbf{(C)}\ 154 \qquad \textbf{(D)}\ 406 \qquad \textbf{(E)}\ 1024$
+ 

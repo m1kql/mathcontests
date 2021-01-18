@@ -1,0 +1,4 @@
+Circles with radii $1$, $2$, and $3$ are mutually externally tangent. What is the area of the triangle determined by the points of tangency?
+ 
+$\textbf{(A)}\ \frac{3}{5} \qquad \textbf{(B)}\ \frac{4}{5} \qquad \textbf{(C)}\ 1 \qquad \textbf{(D)}\ \frac{6}{5} \qquad \textbf{(E)}\ \frac{4}{3}$
+ 

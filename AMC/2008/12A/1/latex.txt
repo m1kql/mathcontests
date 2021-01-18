@@ -1,0 +1,4 @@
+A bakery owner turns on his doughnut machine at $\text{8:30}\ {\small\text{AM}}$. At $\text{11:10}\ {\small\text{AM}}$ the machine has completed one third of the day's job. At what time will the doughnut machine complete the job?
+ 
+$\mathrm{(A)}\ \text{1:50}\ {\small\text{PM}}\qquad\mathrm{(B)}\ \text{3:00}\ {\small\text{PM}}\qquad\mathrm{(C)}\ \text{3:30}\ {\small\text{PM}}\qquad\mathrm{(D)}\ \text{4:30}\ {\small\text{PM}}\qquad\mathrm{(E)}\ \text{5:50}\ {\small\text{PM}}$
+ 

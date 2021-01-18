@@ -1,0 +1,4 @@
+Define binary operations $\diamondsuit$ and $\heartsuit$ by  \begin{center} \[a \, \diamondsuit \, b = a^{\log_{7}(b)} \qquad \text{and} \qquad a  \, \heartsuit \, b = a^{\frac{1}{\log_{7}(b)}}\] \end{center} for all real numbers $a$ and $b$ for which these expressions are defined. The sequence $(a_n)$ is defined recursively by $a_3 = 3\, \heartsuit\, 2$ and  \begin{center} \[a_n = (n\, \heartsuit\, (n-1)) \,\diamondsuit\, a_{n-1}\] \end{center} for all integers $n \geq 4$. To the nearest integer, what is $\log_{7}(a_{2019})$?
+ 
+$\textbf{(A) } 8 \qquad  \textbf{(B) } 9 \qquad \textbf{(C) } 10 \qquad \textbf{(D) } 11 \qquad \textbf{(E) } 12$
+ 

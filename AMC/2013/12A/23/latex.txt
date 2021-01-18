@@ -1,0 +1,4 @@
+$ABCD$ is a square of side length $\sqrt{3} + 1$. Point $P$ is on $\overline{AC}$ such that $AP = \sqrt{2}$. The square region bounded by $ABCD$ is rotated $90^{\circ}$ counterclockwise with center $P$, sweeping out a region whose area is $\frac{1}{c} (a \pi + b)$, where $a$, $b$, and $c$ are positive integers and $\text{gcd}(a,b,c) = 1$. What is $a + b + c$?
+ 
+$\textbf{(A)} \ 15 \qquad \textbf{(B)} \ 17 \qquad \textbf{(C)} \ 19 \qquad \textbf{(D)} \ 21 \qquad \textbf{(E)} \ 23$
+ 

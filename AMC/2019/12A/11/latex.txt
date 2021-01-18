@@ -1,0 +1,4 @@
+For some positive integer $k$, the repeating base-$k$ representation of the (base-ten) fraction $\frac{7}{51}$ is $0.\overline{23}_k = 0.232323..._k$. What is $k$?
+ 
+$\textbf{(A) } 13 \qquad\textbf{(B) } 14 \qquad\textbf{(C) } 15 \qquad\textbf{(D) } 16 \qquad\textbf{(E) } 17$
+ 

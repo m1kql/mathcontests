@@ -1,0 +1,4 @@
+Shelby drives her scooter at a speed of $30$ miles per hour if it is not raining, and $20$ miles per hour if it is raining. Today she drove in the sun in the morning and in the rain in the evening, for a total of $16$ miles in $40$ minutes. How many minutes did she drive in the rain?
+ 
+$\textbf{(A)}\ 18 \qquad \textbf{(B)}\ 21 \qquad \textbf{(C)}\ 24 \qquad \textbf{(D)}\ 27 \qquad \textbf{(E)}\ 30$
+ 

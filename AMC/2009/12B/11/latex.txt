@@ -1,0 +1,4 @@
+On Monday, Millie puts a quart of seeds, $25\%$ of which are millet, into a bird feeder.  On each successive day she adds another quart of the same mix of seeds without removing any seeds that are left.  Each day the birds eat only $25\%$ of the millet in the feeder, but they eat all of the other seeds.  On which day, just after Millie has placed the seeds, will the birds find that more than half the seeds in the feeder are millet?
+ 
+$\textbf{(A)}\ \text{Tuesday}\qquad \textbf{(B)}\ \text{Wednesday}\qquad \textbf{(C)}\ \text{Thursday}\qquad \textbf{(D)}\ \text{Friday}\qquad \textbf{(E)}\ \text{Saturday}$
+ 

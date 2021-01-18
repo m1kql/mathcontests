@@ -1,0 +1,4 @@
+What is the tens digit of $2015^{2016}-2017?$
+ 
+$\textbf{(A)}\ 0 \qquad \textbf{(B)}\ 1 \qquad \textbf{(C)}\ 3 \qquad \textbf{(D)}\ 5 \qquad \textbf{(E)}\ 8$
+ 

@@ -1,0 +1,4 @@
+If $a\geq b > 1,$ what is the largest possible value of $\log_{a}(a/b) + \log_{b}(b/a)?$
+ 
+$\mathrm{(A)}\ -2      \qquad \mathrm{(B)}\ 0     \qquad \mathrm{(C)}\ 2      \qquad \mathrm{(D)}\ 3      \qquad \mathrm{(E)}\ 4$
+ 

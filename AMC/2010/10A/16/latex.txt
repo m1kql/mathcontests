@@ -1,0 +1,4 @@
+Nondegenerate $\triangle ABC$ has integer side lengths, $\overline{BD}$ is an angle bisector, $AD = 3$, and $DC=8$. What is the smallest possible value of the perimeter?
+ 
+$\textbf{(A)}\ 30 \qquad \textbf{(B)}\ 33 \qquad \textbf{(C)}\ 35 \qquad \textbf{(D)}\ 36 \qquad \textbf{(E)}\ 37$
+ 

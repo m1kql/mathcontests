@@ -1,0 +1,4 @@
+A dilation of the plane—that is, a size transformation with a positive scale factor—sends the circle of radius $2$ centered at $A(2,2)$ to the circle of radius $3$ centered at $A’(5,6)$. What distance does the origin $O(0,0)$, move under this transformation?
+ 
+$\textbf{(A)}\ 0\qquad\textbf{(B)}\ 3\qquad\textbf{(C)}\ \sqrt{13}\qquad\textbf{(D)}\ 4\qquad\textbf{(E)}\ 5$
+ 

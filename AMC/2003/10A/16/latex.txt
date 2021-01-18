@@ -1,0 +1,4 @@
+What is the units digit of $13^{2003}$?
+ 
+$\mathrm{(A) \ } 1\qquad \mathrm{(B) \ } 3\qquad \mathrm{(C) \ } 7\qquad \mathrm{(D) \ } 8\qquad \mathrm{(E) \ } 9$
+ 

@@ -1,0 +1,4 @@
+Two circles intersect at points $A$ and $B$.  The minor arcs $AB$ measure $30^\circ$ on one circle and $60^\circ$ on the other circle.  What is the ratio of the area of the larger circle to the area of the smaller circle?
+ 
+$\textbf{(A) }2\qquad \textbf{(B) }1+\sqrt3\qquad \textbf{(C) }3\qquad \textbf{(D) }2+\sqrt3\qquad \textbf{(E) }4\qquad$
+ 

@@ -1,0 +1,4 @@
+In a given plane, points $A$ and $B$ are $10$ units apart. How many points $C$ are there in the plane such that the perimeter of $\triangle ABC$ is $50$ units and the area of $\triangle ABC$ is $100$ square units?
+ 
+$\textbf{(A) }0\qquad\textbf{(B) }2\qquad\textbf{(C) }4\qquad\textbf{(D) }8\qquad\textbf{(E) }\text{infinitely many}$
+ 

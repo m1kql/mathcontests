@@ -1,0 +1,4 @@
+The sum of two angles of a triangle is $\frac{6}{5}$ of a right angle, and one of these two angles is $30^{\circ}$ larger than the other. What is the degree measure of the largest angle in the triangle?
+ 
+$\textbf{(A)}\ 69 \qquad\textbf{(B)}\ 72 \qquad\textbf{(C)}\ 90 \qquad\textbf{(D)}\ 102 \qquad\textbf{(E)}\ 108$
+ 

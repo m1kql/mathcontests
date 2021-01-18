@@ -1,0 +1,4 @@
+In $\triangle ABC$, $\angle ABC=45^\circ$. Point $D$ is on $\overline{BC}$ so that $2\cdot BD=CD$ and $\angle DAB=15^\circ$. Find $\angle ACB$.
+ 
+$\text{(A) }54^\circ \qquad \text{(B) }60^\circ \qquad \text{(C) }72^\circ \qquad \text{(D) }75^\circ \qquad \text{(E) }90^\circ$
+ 

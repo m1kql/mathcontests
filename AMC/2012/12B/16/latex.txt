@@ -1,0 +1,4 @@
+Amy, Beth, and Jo listen to four different songs and discuss which ones they like. No song is liked by all three. Furthermore, for each of the three pairs of the girls, there is at least one song liked by those two girls but disliked by the third. In how many different ways is this possible?
+ 
+$\textbf{(A)}\ 108\qquad\textbf{(B)}\ 132\qquad\textbf{(C)}\ 671\qquad\textbf{(D)}\ 846\qquad\textbf{(E)}\ 1105$
+ 

@@ -1,0 +1,4 @@
+Two tour guides are leading six tourists. The guides decide to split up. Each tourist must choose one of the guides, but with the stipulation that each guide must take at least one tourist. How many different groupings of guides and tourists are possible?
+ 
+$\text{(A)}\ 56 \qquad \text{(B)}\ 58 \qquad \text{(C)}\ 60 \qquad \text{(D)}\ 62 \qquad \text{(E)}\ 64$
+ 

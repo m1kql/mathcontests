@@ -1,0 +1,4 @@
+What is the sum of all real numbers $x$ for which the median of the numbers $4,6,8,17,$ and $x$ is equal to the mean of those five numbers?
+ 
+$\textbf{(A) } -5 \qquad\textbf{(B) } 0 \qquad\textbf{(C) } 5 \qquad\textbf{(D) } \frac{15}{4} \qquad\textbf{(E) } \frac{35}{4}$
+ 

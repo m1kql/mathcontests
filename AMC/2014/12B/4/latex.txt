@@ -1,0 +1,4 @@
+Susie pays for $4$ muffins and $3$ bananas. Calvin spends twice as much paying for $2$ muffins and $16$ bananas. A muffin is how many times as expensive as a banana?
+ 
+$\textbf{(A)}\ \frac{3}{2}\qquad\textbf{(B)}\ \frac{5}{3}\qquad\textbf{(C)}\ \frac{7}{4}\qquad\textbf{(D)}\ 2\qquad\textbf{(E)}\ \frac{13}{4}$
+ 

@@ -1,0 +1,4 @@
+Isaac has written down one integer two times and another integer three times. The sum of the five numbers is 100, and one of the numbers is 28. What is the other number?
+ 
+$\textbf{(A)}\; 8 \qquad\textbf{(B)}\; 11 \qquad\textbf{(C)}\; 14 \qquad\textbf{(D)}\; 15 \qquad\textbf{(E)}\; 18$
+ 

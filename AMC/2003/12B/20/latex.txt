@@ -1,0 +1,6 @@
+Part of the graph of $f(x) = ax^3 + bx^2 + cx + d$ is shown. What is $b$?
+ 
+
+ 
+$\mathrm{(A)}\ -4 \qquad\mathrm{(B)}\ -2 \qquad\mathrm{(C)}\ 0 \qquad\mathrm{(D)}\ 2 \qquad\mathrm{(E)}\ 4$
+ 

@@ -1,0 +1,6 @@
+There is a complex number $z$ with imaginary part $164$ and a positive integer $n$ such that
+ 
+ \begin{center} \[\frac {z}{z + n} = 4i.\] \end{center} 
+ 
+Find $n$.
+ 

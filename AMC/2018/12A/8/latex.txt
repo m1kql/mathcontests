@@ -1,0 +1,6 @@
+All of the triangles in the diagram below are similar to isosceles triangle $ABC$, in which $AB=AC$. Each of the 7 smallest triangles has area 1, and $\triangle ABC$ has area 40. What is the area of trapezoid $DBCE$?
+ 
+
+ 
+$\textbf{(A) }   16   \qquad        \textbf{(B) }   18   \qquad    \textbf{(C) }   20   \qquad   \textbf{(D) }  22 \qquad  \textbf{(E) }   24$
+ 

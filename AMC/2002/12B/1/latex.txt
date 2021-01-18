@@ -1,0 +1,4 @@
+The arithmetic mean of the nine numbers in the set $\{9, 99, 999, 9999, \ldots, 999999999\}$ is a $9$-digit number $M$, all of whose digits are distinct. The number $M$ does not contain the digit
+ 
+$\mathrm{(A)}\ 0 \qquad\mathrm{(B)}\ 2 \qquad\mathrm{(C)}\ 4 \qquad\mathrm{(D)}\ 6 \qquad\mathrm{(E)}\ 8$
+ 

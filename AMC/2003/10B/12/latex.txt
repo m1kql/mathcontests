@@ -1,0 +1,5 @@
+
+Al, Betty, and Clare split \textdollar 1000 among them to be invested in different ways. Each begins with a different amount. At the end of one year, they have a total of \textdollar 1500 dollars. Betty and Clare have both doubled their money, whereas Al has managed to lose \textdollar 100 dollars. What was Al's original portion?
+
+\textbf{(A)}\ \textdollar 250 \qquad \textbf{(B)}\ \textdollar 350 \qquad \textbf{(C)}\ \textdollar 400 \qquad \textbf{(D)}\ \textdollar 450 \qquad \textbf{(E)}\ \textdollar 500
+

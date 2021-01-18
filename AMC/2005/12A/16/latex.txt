@@ -1,0 +1,6 @@
+Three circles of radius $s$ are drawn in the first quadrant of the $xy$-plane. The first circle is tangent to both axes, the second is tangent to the first circle and the $x$-axis, and the third is tangent to the first circle and the $y$-axis. A circle of radius $r > s$ is tangent to both axes and to the second and third circles. What is $r/s$?
+ 
+
+ 
+$(\mathrm {A}) \ 5 \qquad (\mathrm {B}) \ 6 \qquad (\mathrm {C})\ 8 \qquad (\mathrm {D}) \ 9 \qquad (\mathrm {E})\ 10$
+ 

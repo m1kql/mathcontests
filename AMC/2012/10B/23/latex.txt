@@ -1,0 +1,4 @@
+A solid tetrahedron is sliced off a solid wooden unit cube by a plane passing through two nonadjacent vertices on one face and one vertex on the opposite face not adjacent to either of the first two vertices. The tetrahedron is discarded and the remaining portion of the cube is placed on a table with the cut surface face down. What is the height of this object?
+ 
+$\textbf{(A)}\ \frac{\sqrt{3}}{3} \qquad\textbf{(B)}\ \frac{2 \sqrt{2}}{3}\qquad\textbf{(C)}\ 1\qquad\textbf{(D)}\ \frac{2 \sqrt{3}}{3}\qquad\textbf{(E)}\ \sqrt{2}$
+ 

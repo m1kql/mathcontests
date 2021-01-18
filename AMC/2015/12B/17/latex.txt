@@ -1,0 +1,4 @@
+An unfair coin lands on heads with a probability of $\tfrac{1}{4}$. When tossed $n>1$ times, the probability of exactly two heads is the same as the probability of exactly three heads. What is the value of $n$?
+ 
+$\textbf{(A)}\; 5 \qquad\textbf{(B)}\; 8 \qquad\textbf{(C)}\; 10 \qquad\textbf{(D)}\; 11 \qquad\textbf{(E)}\; 13$
+ 

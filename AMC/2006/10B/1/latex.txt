@@ -1,0 +1,4 @@
+What is $(-1)^{1} + (-1)^{2} + ... + (-1)^{2006}$ ?
+ 
+$\mathrm{(A) \ } -2006\qquad \mathrm{(B) \ } -1\qquad \mathrm{(C) \ } 0\qquad \mathrm{(D) \ } 1\qquad \mathrm{(E) \ } 2006$
+ 

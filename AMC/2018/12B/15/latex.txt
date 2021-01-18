@@ -1,0 +1,4 @@
+How many odd positive 3-digit integers are divisible by 3 but do not contain the digit 3?
+ 
+$\textbf{(A) } 96 \qquad \textbf{(B) } 97 \qquad \textbf{(C) } 98 \qquad \textbf{(D) } 102 \qquad \textbf{(E) } 120$
+ 

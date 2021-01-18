@@ -1,0 +1,4 @@
+For a positive integer $n$ and nonzero digits $a$, $b$, and $c$, let $A_n$ be the $n$-digit integer each of whose digits is equal to $a$; let $B_n$ be the $n$-digit integer each of whose digits is equal to $b$, and let $C_n$ be the $2n$-digit (not $n$-digit) integer each of whose digits is equal to $c$. What is the greatest possible value of $a + b + c$ for which there are at least two values of $n$ such that $C_n - B_n = A_n^2$?
+ 
+$\textbf{(A)} \text{ 12} \qquad \textbf{(B)} \text{ 14} \qquad \textbf{(C)} \text{ 16} \qquad \textbf{(D)} \text{ 18} \qquad \textbf{(E)} \text{ 20}$
+ 

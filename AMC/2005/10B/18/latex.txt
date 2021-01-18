@@ -1,0 +1,4 @@
+All of David's telephone numbers have the form $555-abc-defg$, where $a$, $b$, $c$, $d$, $e$, $f$, and $g$ are distinct digits and in increasing order, and none is either $0$ or $1$. How many different telephone numbers can David have?
+ 
+$\mathrm{(A)} 1 \qquad \mathrm{(B)} 2 \qquad \mathrm{(C)} 7 \qquad \mathrm{(D)} 8 \qquad \mathrm{(E)} 9$
+ 

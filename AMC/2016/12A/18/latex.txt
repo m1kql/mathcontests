@@ -1,0 +1,4 @@
+For some positive integer $n$, the number $110n^3$ has $110$ positive integer divisors, including $1$ and the number $110n^3$. How many positive integer divisors does the number $81n^4$ have?
+ 
+$\textbf{(A) }110\qquad\textbf{(B) }191\qquad\textbf{(C) }261\qquad\textbf{(D) }325\qquad\textbf{(E) }425$
+ 

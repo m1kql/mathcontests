@@ -1,0 +1,4 @@
+For how many positive integers $x$ is $\log_{10}(x-40) + \log_{10}(60-x) < 2$ ?
+ 
+$\textbf{(A) }10\qquad \textbf{(B) }18\qquad \textbf{(C) }19\qquad \textbf{(D) }20\qquad \textbf{(E) }\text{infinitely many}\qquad$
+ 

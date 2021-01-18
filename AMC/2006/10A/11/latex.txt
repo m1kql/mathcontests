@@ -1,0 +1,4 @@
+Which of the following describes the graph of the equation $(x+y)^2=x^2+y^2$?
+ 
+$\mathrm{(A) \ } \textrm{the\,empty\,set}\qquad \mathrm{(B) \ } \textrm{one\,point}\qquad \mathrm{(C) \ } \textrm{two\,lines} \qquad \mathrm{(D) \ } \textrm{a\,circle} \qquad \mathrm{(E) \ } \textrm{the\,entire\,plane}$
+ 

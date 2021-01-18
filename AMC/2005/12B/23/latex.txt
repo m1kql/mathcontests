@@ -1,0 +1,8 @@
+Let $S$ be the set of ordered triples $(x,y,z)$ of real numbers for which
+ 
+ \begin{center} \[\log_{10}(x+y) = z \text{ and } \log_{10}(x^{2}+y^{2}) = z+1.\] \end{center} 
+ 
+There are real numbers $a$ and $b$ such that for all ordered triples $(x,y.z)$ in $S$ we have $x^{3}+y^{3}=a \cdot 10^{3z} + b \cdot 10^{2z}.$ What is the value of $a+b?$
+ 
+$\textbf{(A)}\ \frac {15}{2} \qquad  \textbf{(B)}\ \frac {29}{2} \qquad  \textbf{(C)}\ 15 \qquad  \textbf{(D)}\ \frac {39}{2} \qquad  \textbf{(E)}\ 24$
+ 

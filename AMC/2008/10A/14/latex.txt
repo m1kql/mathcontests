@@ -1,0 +1,6 @@
+Older television screens have an aspect ratio of $4: 3$. That is, the ratio of the width to the height is $4: 3$. The aspect ratio of many movies is not $4: 3$, so they are sometimes shown on a television screen by "letterboxing" - darkening strips of equal height at the top and bottom of the screen, as shown. Suppose a movie has an aspect ratio of $2: 1$ and is shown on an older television screen with a $27$-inch diagonal. What is the height, in inches, of each darkened strip?
+ 
+
+ 
+$\mathrm{(A)}\ 2\qquad\mathrm{(B)}\ 2.25\qquad\mathrm{(C)}\ 2.5\qquad\mathrm{(D)}\ 2.7\qquad\mathrm{(E)}\ 3$
+ 

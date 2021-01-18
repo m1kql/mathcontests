@@ -1,0 +1,4 @@
+A convex polyhedron $Q$ has vertices $V_1,V_2,\ldots,V_n$, and $100$ edges. The polyhedron is cut by planes $P_1,P_2,\ldots,P_n$ in such a way that plane $P_k$ cuts only those edges that meet at vertex $V_k$. In addition, no two planes intersect inside or on $Q$. The cuts produce $n$ pyramids and a new polyhedron $R$. How many edges does $R$ have?
+ 
+$\mathrm{(A)}\ 200\qquad \mathrm{(B)}\ 2n\qquad \mathrm{(C)}\ 300\qquad \mathrm{(D)}\ 400\qquad \mathrm{(E)}\ 4n$
+ 

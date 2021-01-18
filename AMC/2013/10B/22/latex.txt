@@ -1,0 +1,6 @@
+The regular octagon $ABCDEFGH$ has its center at $J$.  Each of the vertices and the center are to be associated with one of the digits $1$ through $9$, with each digit used once, in such a way that the sums of the numbers on the lines $AJE$, $BJF$, $CJG$, and $DJH$ are all equal.  In how many ways can this be done?
+ 
+$\textbf{(A)}\ 384 \qquad\textbf{(B)}\ 576  \qquad\textbf{(C)}\ 1152 \qquad\textbf{(D)}\ 1680 \qquad\textbf{(E)}\ 3456$
+ 
+
+ 

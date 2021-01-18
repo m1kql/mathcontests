@@ -1,0 +1,4 @@
+What is the value of $2-(-2)^{-2}$ ?
+ 
+$\textbf{(A) } -2\qquad\textbf{(B) } \dfrac{1}{16}\qquad\textbf{(C) } \dfrac{7}{4}\qquad\textbf{(D) } \dfrac{9}{4}\qquad\textbf{(E) } 6$
+ 

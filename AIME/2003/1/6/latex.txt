@@ -1,0 +1,2 @@
+The sum of the areas of all triangles whose vertices are also vertices of a $1$ by $1$ by $1$ cube is $m + \sqrt{n} + \sqrt{p},$ where $m, n,$ and $p$ are integers. Find $m + n + p.$
+ 

@@ -1,0 +1,4 @@
+Jerry starts at $0$ on the real number line. He tosses a fair coin $8$ times. When he gets heads, he moves $1$ unit in the positive direction; when he gets tails, he moves $1$ unit in the negative direction. The probability that he reaches $4$ at some time during this process $\frac{a}{b},$ where $a$ and $b$ are relatively prime positive integers. What is $a + b?$ (For example, he succeeds if his sequence of tosses is $HTHHHHHH.$)
+ 
+$\textbf{(A)}\ 69\qquad\textbf{(B)}\ 151\qquad\textbf{(C)}\ 257\qquad\textbf{(D)}\ 293\qquad\textbf{(E)}\ 313$
+ 

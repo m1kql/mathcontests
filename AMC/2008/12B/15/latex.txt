@@ -1,0 +1,4 @@
+On each side of a unit square, an equilateral triangle of side length 1 is constructed. On each new side of each equilateral triangle, another equilateral triangle of side length 1 is constructed. The interiors of the square and the 12 triangles have no points in common. Let $R$ be the region formed by the union of the square and all the triangles, and $S$ be the smallest convex polygon that contains $R$. What is the area of the region that is inside $S$ but outside $R$?
+ 
+$\textbf{(A)} \; \frac{1}{4} \qquad \textbf{(B)} \; \frac{\sqrt{2}}{4} \qquad \textbf{(C)} \; 1 \qquad \textbf{(D)} \; \sqrt{3} \qquad \textbf{(E)} \; 2 \sqrt{3}$
+ 

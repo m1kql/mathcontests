@@ -1,0 +1,4 @@
+Trapezoid $ABCD$ has parallel sides $\overline{AB}$ of length $33$ and $\overline {CD}$ of length $21$. The other two sides are of lengths $10$ and $14$. The angles $A$ and $B$ are acute. What is the length of the shorter diagonal of $ABCD$?
+ 
+$\textbf{(A) }10\sqrt{6}\qquad\textbf{(B) }25\qquad\textbf{(C) }8\sqrt{10}\qquad\textbf{(D) }18\sqrt{2}\qquad\textbf{(E) }26$
+ 

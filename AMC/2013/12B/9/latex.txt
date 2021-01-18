@@ -1,0 +1,4 @@
+What is the sum of the exponents of the prime factors of the square root of the largest perfect square that divides $12!$ ?
+ 
+$\textbf{(A)}\ 5 \qquad \textbf{(B)}\ 7 \qquad \textbf{(C)}\ 8 \qquad \textbf{(D)}\ 10 \qquad \textbf{(E)}\ 12$
+ 

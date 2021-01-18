@@ -1,0 +1,4 @@
+A five-digit palindrome is a positive integer with respective digits $abcba$, where $a$ is non-zero.  Let $S$ be the sum of all five-digit palindromes.  What is the sum of the digits of $S$?
+ 
+$\textbf{(A) }9\qquad \textbf{(B) }18\qquad \textbf{(C) }27\qquad \textbf{(D) }36\qquad \textbf{(E) }45\qquad$
+ 

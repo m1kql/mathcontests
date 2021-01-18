@@ -1,0 +1,4 @@
+Pat is to select six cookies from a tray containing only chocolate chip, oatmeal, and peanut butter cookies. There are at least six of each of these three kinds of cookies on the tray. How many different assortments of six cookies can be selected? 
+ 
+$\mathrm{(A) \ } 22\qquad \mathrm{(B) \ } 25\qquad \mathrm{(C) \ } 27\qquad \mathrm{(D) \ } 28\qquad \mathrm{(E) \ } 729$
+ 

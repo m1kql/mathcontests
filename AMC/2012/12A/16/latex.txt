@@ -1,0 +1,4 @@
+Circle $C_1$ has its center $O$ lying on circle $C_2$.  The two circles meet at $X$ and $Y$.  Point $Z$ in the exterior of $C_1$ lies on circle $C_2$ and $XZ=13$, $OZ=11$, and $YZ=7$.  What is the radius of circle $C_1$?
+ 
+$\textbf{(A)}\ 5\qquad\textbf{(B)}\ \sqrt{26}\qquad\textbf{(C)}\ 3\sqrt{3}\qquad\textbf{(D)}\ 2\sqrt{7}\qquad\textbf{(E)}\ \sqrt{30}$
+ 

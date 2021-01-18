@@ -1,0 +1,4 @@
+The real numbers $c,b,a$ form an arithmetic sequence with $a\ge b\ge c> 0$. The quadratic $ax^2+bx+c$ has exactly one root. What is this root?
+ 
+$\textbf{(A)}\ -7-4\sqrt{3}\qquad\textbf{(B)}\ -2-\sqrt{3}\qquad\textbf{(C)}\ -1\qquad\textbf{(D)}\ -2+\sqrt{3}\qquad\textbf{(E)}\ -7+4\sqrt{3}$
+ 

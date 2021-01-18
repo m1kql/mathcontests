@@ -1,0 +1,6 @@
+In base $10$, the number $2013$ ends in the digit $3$.  In base $9$, on the other hand, the same number is written as $(2676)_{9}$ and ends in the digit $6$.  For how many positive integers $b$ does the base-$b$-representation of $2013$ end in the digit $3$?
+ 
+
+ 
+$\textbf{(A)}\ 6\qquad\textbf{(B)}\ 9\qquad\textbf{(C)}\ 13\qquad\textbf{(D)}\ 16\qquad\textbf{(E)}\ 18$
+ 

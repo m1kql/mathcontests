@@ -1,0 +1,4 @@
+Circles of radius $2$ and $3$ are externally tangent and are circumscribed by a third circle, as shown in the figure. Find the area of the shaded region.
+ 
+$\mathrm{(A) \ } 3\pi\qquad \mathrm{(B) \ } 4\pi\qquad \mathrm{(C) \ } 6\pi\qquad \mathrm{(D) \ } 9\pi\qquad \mathrm{(E) \ } 12\pi$
+ 

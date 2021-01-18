@@ -1,0 +1,4 @@
+A rectangular box has a total surface area of 94 square inches. The sum of the lengths of all its edges is 48 inches. What is the sum of the lengths in inches of all of its interior diagonals?
+ 
+$\textbf{(A)}\ 8\sqrt{3}\qquad\textbf{(B)}\ 10\sqrt{2}\qquad\textbf{(C)}\ 16\sqrt{3}\qquad\textbf{(D)}\ 20\sqrt{2}\qquad\textbf{(E)}\ 40\sqrt{2}$
+ 

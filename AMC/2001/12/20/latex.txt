@@ -1,0 +1,4 @@
+Points $A = (3,9)$, $B = (1,1)$, $C = (5,3)$, and $D=(a,b)$ lie in the first quadrant and are the vertices of quadrilateral $ABCD$. The quadrilateral formed by joining the midpoints of $\overline{AB}$, $\overline{BC}$, $\overline{CD}$, and $\overline{DA}$ is a square. What is the sum of the coordinates of point $D$?
+ 
+$\text{(A) }7 \qquad \text{(B) }9 \qquad \text{(C) }10 \qquad \text{(D) }12 \qquad \text{(E) }16$
+ 

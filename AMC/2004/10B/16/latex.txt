@@ -1,0 +1,4 @@
+Three circles of radius $1$ are externally tangent to each other and internally tangent to a larger circle. What is the radius of the large circle?
+ 
+$\mathrm{(A) \ } \frac{2 + \sqrt{6}}{3} \qquad \mathrm{(B) \ } 2 \qquad \mathrm{(C) \ } \frac{2 + 3\sqrt{2}}{2} \qquad \mathrm{(D) \ } \frac{3 + 2\sqrt{3}}{3} \qquad \mathrm{(E) \ } \frac{3 + \sqrt{3}}{2}$
+ 

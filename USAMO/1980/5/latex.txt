@@ -1,0 +1,1 @@
+If $x, y, z$ are reals such that $0\le x, y, z \le 1$, show that $\frac{x}{y + z + 1} + \frac{y}{z + x + 1} + \frac{z}{x + y +  1} \le 1 - (1 - x)(1 - y)(1 - z)$

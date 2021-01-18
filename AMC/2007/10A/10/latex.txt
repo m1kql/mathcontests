@@ -1,0 +1,4 @@
+The Dunbar family consists of a mother, a father, and some children. The average age of the members of the family is $20$, the father is $48$ years old, and the average age of the mother and children is $16$. How many children are in the family?
+ 
+$\text{(A)}\ 2 \qquad \text{(B)}\ 3 \qquad \text{(C)}\ 4 \qquad \text{(D)}\ 5 \qquad \text{(E)}\ 6$
+ 

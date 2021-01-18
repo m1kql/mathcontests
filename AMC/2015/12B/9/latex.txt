@@ -1,0 +1,4 @@
+Larry and Julius are playing a game, taking turns throwing a ball at a bottle sitting on a ledge. Larry throws first. The winner is the first person to knock the bottle off the ledge. At each turn the probability that a player knocks the bottle off the ledge is $\tfrac{1}{2}$, independently of what has happened before. What is the probability that Larry wins the game?
+ 
+$\textbf{(A)}\; \dfrac{1}{2} \qquad\textbf{(B)}\; \dfrac{3}{5} \qquad\textbf{(C)}\; \dfrac{2}{3} \qquad\textbf{(D)}\; \dfrac{3}{4} \qquad\textbf{(E)}\; \dfrac{4}{5}$
+ 

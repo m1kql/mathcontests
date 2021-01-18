@@ -1,0 +1,4 @@
+What is the tens digit in the sum $7!+8!+9!+...+2006!$
+ 
+$\mathrm{(A) \ } 1\qquad \mathrm{(B) \ } 3\qquad \mathrm{(C) \ } 4\qquad \mathrm{(D) \ } 6\qquad \mathrm{(E) \ } 9$
+ 

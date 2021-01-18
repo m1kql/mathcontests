@@ -1,0 +1,1 @@
+Let $A_1,A_2,...,A_{n+1}$ be distinct subsets of $[n]$ with $|A_1|=|A_2|=\cdots =|A_{n+1}|=3$.  Prove that $|A_i\cap A_j|=1$ for some pair $\{i,j\}$.

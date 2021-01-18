@@ -1,0 +1,4 @@
+Let $a<b<c$ be three integers such that $a,b,c$ is an arithmetic progression and $a,c,b$ is a geometric progression.  What is the smallest possible value of $c$?
+ 
+$\textbf{(A) }-2\qquad \textbf{(B) }1\qquad \textbf{(C) }2\qquad \textbf{(D) }4\qquad \textbf{(E) }6\qquad$
+ 

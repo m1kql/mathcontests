@@ -1,0 +1,4 @@
+At Euclid High School, the number of students taking the AMC 10 was $60$ in 2002, $66$ in 2003, $70$ in 2004, $76$ in 2005, $78$ and 2006, and is $85$ in 2007. Between what two consecutive years was there the largest percentage increase?
+ 
+$\text{(A)}\ 2002\ \text{and}\ 2003 \qquad \text{(B)}\ 2003\ \text{and}\ 2004 \qquad \text{(C)}\ 2004\ \text{and}\ 2005 \qquad \text{(D)}\ 2005\ \text{and}\ 2006 \qquad \text{(E)}\ 2006\ \text{and}\ 2007$
+ 

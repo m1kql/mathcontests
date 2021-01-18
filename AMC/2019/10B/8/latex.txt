@@ -1,0 +1,6 @@
+The figure below shows a square and four equilateral triangles, with each triangle having a side lying on a side of the square, such that each triangle has side length $2$ and the third vertices of the triangles meet at the center of the square. The region inside the square but outside the triangles is shaded. What is the area of the shaded region?
+ 
+
+ 
+$\textbf{(A) } 4 \qquad \textbf{(B) } 12 - 4\sqrt{3} \qquad \textbf{(C) } 3\sqrt{3}\qquad \textbf{(D) } 4\sqrt{3} \qquad \textbf{(E) } 16 - 4\sqrt{3}$
+ 

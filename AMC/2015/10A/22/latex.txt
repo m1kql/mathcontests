@@ -1,0 +1,4 @@
+Eight people are sitting around a circular table, each holding a fair coin. All eight people flip their coins and those who flip heads stand while those who flip tails remain seated. What is the probability that no two adjacent people will stand?
+ 
+$\textbf{(A)}\dfrac{47}{256}\qquad\textbf{(B)}\dfrac{3}{16}\qquad\textbf{(C) }\dfrac{49}{256}\qquad\textbf{(D) }\dfrac{25}{128}\qquad\textbf{(E) }\dfrac{51}{256}$
+ 

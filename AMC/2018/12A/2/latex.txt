@@ -1,0 +1,5 @@
+
+While exploring a cave, Carl comes across a collection of $5$-pound rocks worth \textdollar 14 each, $4$-pound rocks worth \textdollar 11 each, and $1$-pound rocks worth \textdollar 2 each. There are at least $20$ of each size. He can carry at most $18$ pounds. What is the maximum value, in dollars, of the rocks he can carry out of the cave?
+
+$\textbf{(A) } 48 \qquad \textbf{(B) } 49 \qquad \textbf{(C) } 50 \qquad \textbf{(D) } 51 \qquad \textbf{(E) } 52$
+

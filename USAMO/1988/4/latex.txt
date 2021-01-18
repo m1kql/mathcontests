@@ -1,0 +1,1 @@
+$\Delta ABC$ is a triangle with incenter $I$. Show that the circumcenters of $\Delta IAB$, $\Delta IBC$, and $\Delta ICA$ lie on a circle whose center is the circumcenter of $\Delta ABC$.

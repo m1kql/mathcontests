@@ -1,0 +1,4 @@
+The ratio of Mary's age to Alice's age is $3:5$. Alice is $30$ years old. How old is Mary?
+ 
+$\mathrm{(A)}\ 15\qquad\mathrm{(B)}\ 18\qquad\mathrm{(C)}\ 20\qquad\mathrm{(D)}\ 24\qquad\mathrm{(E)}\  50$
+ 

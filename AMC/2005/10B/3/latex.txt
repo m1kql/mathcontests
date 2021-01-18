@@ -1,0 +1,4 @@
+A gallon of paint is used to paint a room. One third of the paint is used on the first day. On the second day, one third of the remaining paint is used. What fraction of the original amount of paint is available to use on the third day?
+ 
+$\mathrm{(A)} \frac{1}{10} \qquad \mathrm{(B)} \frac{1}{9} \qquad \mathrm{(C)} \frac{1}{3} \qquad \mathrm{(D)} \frac{4}{9} \qquad \mathrm{(E)} \frac{5}{9}$
+ 

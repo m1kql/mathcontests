@@ -1,0 +1,4 @@
+The graph of $2x^2 + xy + 3y^2 - 11x - 20y + 40 = 0$ is an ellipse in the first quadrant of the $xy$-plane. Let $a$ and $b$ be the maximum and minimum values of $\frac yx$ over all points $(x,y)$ on the ellipse. What is the value of $a+b$?
+ 
+$\mathrm{(A)}\ 3 \qquad\mathrm{(B)}\ \sqrt{10} \qquad\mathrm{(C)}\ \frac 72 \qquad\mathrm{(D)}\ \frac 92 \qquad\mathrm{(E)}\ 2\sqrt{14}$
+ 

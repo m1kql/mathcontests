@@ -1,0 +1,4 @@
+Let $\clubsuit(x)$ denote the sum of the digits of the positive integer $x$. For example, $\clubsuit(8)=8$ and $\clubsuit(123)=1+2+3=6$. For how many two-digit values of $x$ is $\clubsuit(\clubsuit(x))=3$?
+ 
+$\textbf{(A) } 3 \qquad\textbf{(B) } 4 \qquad\textbf{(C) } 6 \qquad\textbf{(D) } 9 \qquad\textbf{(E) } 10$
+ 

@@ -1,0 +1,4 @@
+For how many ordered pairs of positive integers $(x,y)$ is $x + 2y = 100$?
+ 
+$\text {(A)} 33 \qquad \text {(B)} 49 \qquad \text {(C)} 50 \qquad \text {(D)} 99 \qquad \text {(E)}100$
+ 

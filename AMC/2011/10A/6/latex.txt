@@ -1,0 +1,4 @@
+Set $A$ has $20$ elements, and set $B$ has $15$ elements.  What is the smallest possible number of elements in $A \cup B$?
+ 
+$\textbf{(A)}5 \qquad\textbf{(B)}\ 15 \qquad\textbf{(C)}\ 20\qquad\textbf{(D)}\ 35\qquad\textbf{(E)}\ 300$
+ 

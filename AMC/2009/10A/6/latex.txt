@@ -1,0 +1,6 @@
+A circle of radius $2$ is inscribed in a semicircle, as shown. The area inside the semicircle but outside the circle is shaded. What fraction of the semicircle's area is shaded? 
+ 
+
+ 
+$\mathrm{(A)}\ \frac{1}{2} \qquad \mathrm{(B)}\ \frac{\pi}{6} \qquad \mathrm{(C)}\ \frac{2}{\pi} \qquad \mathrm{(D)}\ \frac{2}{3} \qquad \mathrm{(E)}\ \frac{3}{\pi}$
+ 

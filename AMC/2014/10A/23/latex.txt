@@ -1,0 +1,6 @@
+A rectangular piece of paper whose length is $\sqrt3$ times the width has area $A$. The paper is divided into three equal sections along the opposite lengths, and then a dotted line is drawn from the first divider to the second divider on the opposite side as shown. The paper is then folded flat along this dotted line to create a new shape with area $B$. What is the ratio $B:A$?
+ 
+
+ 
+$\textbf{(A)}\ 1:2\qquad\textbf{(B)}\ 3:5\qquad\textbf{(C)}\ 2:3\qquad\textbf{(D)}\ 3:4\qquad\textbf{(E)}\ 4:5$
+ 

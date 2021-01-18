@@ -1,0 +1,8 @@
+For each $x$ in $[0,1]$, define
+ 
+ \begin{center} \[\begin{array}{clr} f(x) & = 2x, & \text { if } 0 \leq x \leq \frac {1}{2}; \\ f(x) & = 2 - 2x, & \text { if } \frac {1}{2} < x \leq 1. \end{array}\] \end{center} 
+ 
+Let $f^{[2]}(x) = f(f(x))$, and $f^{[n + 1]}(x) = f^{[n]}(f(x))$ for each integer $n \geq 2$. For how many values of $x$ in $[0,1]$ is $f^{[2005]}(x) = \frac {1}{2}$?
+ 
+ \begin{center} \[(\text {A}) \ 0 \qquad (\text {B}) \ 2005 \qquad (\text {C})\ 4010 \qquad (\text {D}) \ 2005^2 \qquad (\text {E})\ 2^{2005}\] \end{center} 
+ 

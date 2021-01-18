@@ -1,0 +1,8 @@
+By inserting parentheses, it is possible to give the expression
+ 
+ \begin{center} \[2\times3 + 4\times5\] \end{center} 
+ 
+several values.  How many different values can be obtained?
+ 
+$\mathrm{(A)}\ 2\qquad \mathrm{(B)}\ 3\qquad \mathrm{(C)}\ 4\qquad \mathrm{(D)}\ 5\qquad \mathrm{(E)}\ 6$
+ 

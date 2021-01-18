@@ -1,0 +1,4 @@
+Square pyramid $ABCDE$ has base $ABCD$, which measures $3$ cm on a side, and altitude $AE$ perpendicular to the base, which measures $6$ cm. Point $P$ lies on $BE$, one third of the way from $B$ to $E$; point $Q$ lies on $DE$, one third of the way from $D$ to $E$; and point $R$ lies on $CE$, two thirds of the way from $C$ to $E$. What is the area, in square centimeters, of $\triangle{PQR}$?
+ 
+$\textbf{(A) } \frac{3\sqrt2}{2} \qquad\textbf{(B) } \frac{3\sqrt3}{2} \qquad\textbf{(C) } 2\sqrt2 \qquad\textbf{(D) } 2\sqrt3 \qquad\textbf{(E) } 3\sqrt2$
+ 

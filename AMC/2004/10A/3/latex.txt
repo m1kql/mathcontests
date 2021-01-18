@@ -1,0 +1,4 @@
+Alicia earns 20 dollars per hour, of which $1.45\%$ is deducted to pay local taxes.  How many cents per hour of Alicia's wages are used to pay local taxes?
+ 
+$\mathrm{(A) \ } 0.0029 \qquad \mathrm{(B) \ } 0.029 \qquad \mathrm{(C) \ } 0.29 \qquad \mathrm{(D) \ } 2.9 \qquad \mathrm{(E) \ } 29$
+ 

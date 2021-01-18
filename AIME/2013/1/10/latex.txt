@@ -1,0 +1,4 @@
+There are nonzero integers $a$, $b$, $r$, and $s$ such that the complex number $r+si$ is a zero of the polynomial $P(x)={x}^{3}-a{x}^{2}+bx-65$. For each possible combination of $a$ and $b$, let ${p}_{a,b}$ be the sum of the zeros of $P(x)$. Find the sum of the ${p}_{a,b}$'s for all possible combinations of $a$ and $b$.
+ 
+
+ 

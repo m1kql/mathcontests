@@ -1,0 +1,4 @@
+For how many positive integers $m$ does there exist at least one positive integer n such that $m \cdot n \le m + n$?
+ 
+$\mathrm{(A) \ } 4\qquad \mathrm{(B) \ } 6\qquad \mathrm{(C) \ } 9\qquad \mathrm{(D) \ } 12\qquad \mathrm{(E) \ }$  infinitely many
+ 

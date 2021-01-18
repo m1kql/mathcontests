@@ -1,0 +1,4 @@
+Real numbers $a$ and $b$ satisfy the equations $3^{a} = 81^{b + 2}$ and $125^{b} = 5^{a - 3}$. What is $ab$?
+ 
+$\text{(A)}\ -60 \qquad \text{(B)}\ -17 \qquad \text{(C)}\ 9 \qquad \text{(D)}\ 12 \qquad \text{(E)}\ 60$
+ 

@@ -1,0 +1,6 @@
+A large equilateral triangle is constructed by using toothpicks to create rows of small equilateral triangles. For example, in the figure, we have $3$ rows of small congruent equilateral triangles, with $5$ small triangles in the base row.  How many toothpicks would be needed to construct a large equilateral triangle if the base row of the triangle consists of $2003$ small equilateral triangles? 
+ 
+
+ 
+$\mathrm{(A) \ } 1,004,004 \qquad \mathrm{(B) \ } 1,005,006 \qquad \mathrm{(C) \ } 1,507,509 \qquad \mathrm{(D) \ } 3,015,018 \qquad \mathrm{(E) \ } 6,021,018$
+ 

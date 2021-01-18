@@ -1,0 +1,4 @@
+Let $S(n)$ equal the sum of the digits of positive integer $n$. For example, $S(1507) = 13$. For a particular positive integer $n$, $S(n) = 1274$. Which of the following could be the value of $S(n+1)$?
+ 
+$\textbf{(A)}\ 1 \qquad\textbf{(B)}\ 3\qquad\textbf{(C)}\ 12\qquad\textbf{(D)}\ 1239\qquad\textbf{(E)}\ 1265$
+ 

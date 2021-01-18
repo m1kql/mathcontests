@@ -1,0 +1,4 @@
+In the expression $c\cdot a^b-d$, the values of $a$, $b$, $c$, and $d$ are $0$, $1$, $2$, and $3$, although not necessarily in that order. What is the maximum possible value of the result?
+ 
+$\mathrm{(A)\ }5\qquad\mathrm{(B)\ }6\qquad\mathrm{(C)\ }8\qquad\mathrm{(D)\ }9\qquad\mathrm{(E)\ }10$
+ 

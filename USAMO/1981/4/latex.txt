@@ -1,0 +1,1 @@
+A convex polygon has $n$ sides. Each vertex is joined to a point $P$ not in the same plane. If $A, B, C$ are adjacent vertices of the polygon take the angle between the planes $PAB$ and $PBC$. The sum of the $n$ such angles equals the sum of the $n$ angles in the polygon. Show that $n=3$.

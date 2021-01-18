@@ -1,0 +1,4 @@
+How many rearrangements of $abcd$ are there in which no two adjacent letters are also adjacent letters in the alphabet?  For example, no such rearrangements could include either $ab$ or $ba$.
+ 
+$\textbf{(A)}\ 0\qquad\textbf{(B)}\ 1\qquad\textbf{(C)}\ 2\qquad\textbf{(D)}\ 3\qquad\textbf{(E)}\ 4$
+ 

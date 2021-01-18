@@ -1,0 +1,4 @@
+Call a set of integers spacy if it contains no more than one out of any three consecutive integers. How many subsets of $\{1,2,3,\ldots,12\},$ including the empty set, are spacy?
+ 
+$\mathrm{(A)}\ 121 \qquad \mathrm{(B)}\ 123 \qquad \mathrm{(C)}\ 125 \qquad \mathrm{(D)}\ 127 \qquad \mathrm{(E)}\ 129$
+ 

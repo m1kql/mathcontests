@@ -1,0 +1,4 @@
+In rectangle $ABCD$, points $F$ and $G$ lie on $AB$ so that $AF=FG=GB$ and $E$ is the midpoint of $\overline{DC}$. Also, $\overline{AC}$ intersects $\overline{EF}$ at $H$ and $\overline{EG}$ at $J$. The area of the rectangle $ABCD$ is $70$. Find the area of triangle $EHJ$.
+ 
+$\text{(A) }\frac {5}{2} \qquad \text{(B) }\frac {35}{12} \qquad \text{(C) }3 \qquad \text{(D) }\frac {7}{2} \qquad \text{(E) }\frac {35}{8}$
+ 

@@ -1,0 +1,4 @@
+Tom, Dick, and Harry are playing a game. Starting at the same time, each of them flips a fair coin repeatedly until he gets his first head, at which point he stops. What is the probability that all three flip their coins the same number of times?
+ 
+$\textbf{(A)}\ \frac{1}{8} \qquad \textbf{(B)}\ \frac{1}{7} \qquad \textbf{(C)}\ \frac{1}{6} \qquad \textbf{(D)}\ \frac{1}{4} \qquad \textbf{(E)}\ \frac{1}{3}$
+ 

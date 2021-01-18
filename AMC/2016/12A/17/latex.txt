@@ -1,0 +1,4 @@
+Let $ABCD$ be a square. Let $E, F, G$ and $H$ be the centers, respectively, of equilateral triangles with bases $\overline{AB}, \overline{BC}, \overline{CD},$ and $\overline{DA},$ each exterior to the square. What is the ratio of the area of square $EFGH$ to the area of square $ABCD$? 
+ 
+$\textbf{(A)}\ 1\qquad\textbf{(B)}\ \frac{2+\sqrt{3}}{3} \qquad\textbf{(C)}\ \sqrt{2} \qquad\textbf{(D)}\ \frac{\sqrt{2}+\sqrt{3}}{2} \qquad\textbf{(E)}\ \sqrt{3}$
+ 

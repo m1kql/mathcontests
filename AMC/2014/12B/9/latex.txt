@@ -1,0 +1,6 @@
+Convex quadrilateral $ABCD$ has $AB=3$, $BC=4$, $CD=13$, $AD=12$, and $\angle ABC=90^{\circ}$, as shown. What is the area of the quadrilateral?
+ 
+
+ 
+$\textbf{(A)}\ 30\qquad\textbf{(B)}\ 36\qquad\textbf{(C)}\ 40\qquad\textbf{(D)}\ 48\qquad\textbf{(E)}\ 58.5$
+ 

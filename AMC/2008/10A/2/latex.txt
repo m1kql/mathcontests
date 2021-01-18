@@ -1,0 +1,4 @@
+A square is drawn inside a rectangle. The ratio of the width of the rectangle to a side of the square is $2:1$. The ratio of the rectangle's length to its width is $2:1$. What percent of the rectangle's area is inside the square?
+ 
+$\mathrm{(A)}\ 12.5\qquad\mathrm{(B)}\ 25\qquad\mathrm{(C)}\ 50\qquad\mathrm{(D)}\ 75\qquad\mathrm{(E)}\ 87.5$
+ 

@@ -1,0 +1,6 @@
+The graph of the line $y=mx+b$ is shown. Which of the following is true?
+ 
+
+ 
+$\mathrm {(A)} mb<-1 \qquad \mathrm {(B)} -1<mb<0 \qquad \mathrm {(C)} mb=0 \qquad \mathrm {(D)}$ $0<mb<1 \qquad \mathrm {(E)} mb>1$
+ 

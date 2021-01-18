@@ -1,0 +1,6 @@
+In rectangle $ABCD$, $DC = 2CB$ and points $E$ and $F$ lie on $\overline{AB}$ so that $\overline{ED}$ and $\overline{FD}$ trisect $\angle ADC$ as shown. What is the ratio of the area of $\triangle DEF$ to the area of rectangle $ABCD$?
+ 
+
+ 
+$\textbf{(A)}\ \ \frac{\sqrt{3}}{6}\qquad\textbf{(B)}\ \frac{\sqrt{6}}{8}\qquad\textbf{(C)}\ \frac{3\sqrt{3}}{16}\qquad\textbf{(D)}\ \frac{1}{3}\qquad\textbf{(E)}\ \frac{\sqrt{2}}{4}$
+ 

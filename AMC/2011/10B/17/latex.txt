@@ -1,0 +1,4 @@
+In the given circle, the diameter $\overline{EB}$ is parallel to $\overline{DC}$, and $\overline{AB}$ is parallel to $\overline{ED}$. The angles $AEB$ and $ABE$ are in the ratio $4 : 5$. What is the degree measure of angle $BCD$?
+ 
+$\textbf{(A)}\ 120 \qquad\textbf{(B)}\ 125 \qquad\textbf{(C)}\ 130 \qquad\textbf{(D)}\ 135 \qquad\textbf{(E)}\ 140$
+ 

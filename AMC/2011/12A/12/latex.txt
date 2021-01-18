@@ -1,0 +1,4 @@
+A power boat and a raft both left dock $A$ on a river and headed downstream. The raft drifted at the speed of the river current. The power boat maintained a constant speed with respect to the river. The power boat reached dock $B$ downriver, then immediately turned and traveled back upriver. It eventually met the raft on the river 9 hours after leaving dock $A.$ How many hours did it take the power boat to go from $A$ to $B$?
+ 
+$\textbf{(A)}\ 3 \qquad \textbf{(B)}\ 3.5 \qquad \textbf{(C)}\  4 \qquad \textbf{(D)}\ 4.5 \qquad \textbf{(E)}\ 5$
+ 

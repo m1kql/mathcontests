@@ -1,0 +1,4 @@
+For what value of $x$ does $10^{x}\cdot 100^{2x}=1000^{5}$?
+ 
+$\textbf{(A)}\ 1 \qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ 3\qquad\textbf{(D)}\ 4\qquad\textbf{(E)}\ 5$
+ 

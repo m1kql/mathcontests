@@ -1,0 +1,4 @@
+A radio program has a quiz consisting of $3$ multiple-choice questions, each with $3$ choices. A contestant wins if he or she gets $2$ or more of the questions right. The contestant answers randomly to each question. What is the probability of winning?
+ 
+$\textbf{(A)}\ \frac{1}{27}\qquad\textbf{(B)}\ \frac{1}{9}\qquad\textbf{(C)}\ \frac{2}{9}\qquad\textbf{(D)}\ \frac{7}{27}\qquad\textbf{(E)}\ \frac{1}{2}$
+ 

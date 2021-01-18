@@ -1,0 +1,4 @@
+Let $f(x)=\sum_{k=2}^{10}(\lfloor kx \rfloor -k \lfloor x \rfloor)$, where $\lfloor r \rfloor$ denotes the greatest integer less than or equal to $r$. How many distinct values does $f(x)$ assume for $x \ge 0$?
+ 
+$\textbf{(A)}\ 32\qquad\textbf{(B)}\ 36\qquad\textbf{(C)}\ 45\qquad\textbf{(D)}\ 46\qquad\textbf{(E)}\ \text{infinitely many}$
+ 

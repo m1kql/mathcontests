@@ -1,0 +1,4 @@
+A circle with center $O$ has area $156\pi$. Triangle $ABC$ is equilateral, $\overline{BC}$ is a chord on the circle, $OA = 4\sqrt{3}$, and point $O$ is outside $\triangle ABC$. What is the side length of $\triangle ABC$?
+ 
+$\textbf{(A)}\ 2\sqrt{3} \qquad \textbf{(B)}\ 6 \qquad \textbf{(C)}\ 4\sqrt{3} \qquad \textbf{(D)}\ 12 \qquad \textbf{(E)}\ 18$
+ 

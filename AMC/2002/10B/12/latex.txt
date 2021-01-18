@@ -1,0 +1,6 @@
+For which of the following values of $k$ does the equation $\frac{x-1}{x-2} = \frac{x-k}{x-6}$ have no solution for $x$?
+ 
+$\textbf{(A) } 1\qquad \textbf{(B) } 2\qquad \textbf{(C) } 3\qquad \textbf{(D) } 4\qquad \textbf{(E) } 5$
+ 
+
+ 

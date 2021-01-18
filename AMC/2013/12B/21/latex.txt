@@ -1,0 +1,4 @@
+Consider the set of 30 parabolas defined as follows: all parabolas have as focus the point (0,0) and the directrix lines have the form $y=ax+b$ with a and b integers such that $a\in \{-2,-1,0,1,2\}$ and $b\in \{-3,-2,-1,1,2,3\}$. No three of these parabolas have a common point. How many points in the plane are on two of these parabolas?
+ 
+$\textbf{(A)}\ 720\qquad\textbf{(B)}\ 760\qquad\textbf{(C)}\ 810\qquad\textbf{(D)}\ 840\qquad\textbf{(E)}\ 870$
+ 

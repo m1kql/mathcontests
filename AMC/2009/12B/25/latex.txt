@@ -1,0 +1,6 @@
+The set $G$ is defined by the points $(x,y)$ with integer coordinates, $3\le|x|\le7$, $3\le|y|\le7$. How many squares of side at least $6$ have their four vertices in $G$?
+ 
+
+ 
+$\textbf{(A)}\ 125\qquad \textbf{(B)}\ 150\qquad \textbf{(C)}\ 175\qquad \textbf{(D)}\ 200\qquad \textbf{(E)}\ 225$
+ 

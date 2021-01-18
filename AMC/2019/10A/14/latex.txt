@@ -1,0 +1,4 @@
+For a set of four distinct lines in a plane, there are exactly $N$ distinct points that lie on two or more of the lines. What is the sum of all possible values of $N$?
+ 
+$\textbf{(A) } 14 \qquad \textbf{(B) } 16 \qquad \textbf{(C) } 18 \qquad \textbf{(D) } 19 \qquad \textbf{(E) } 21$
+ 

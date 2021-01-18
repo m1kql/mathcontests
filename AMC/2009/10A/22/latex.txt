@@ -1,0 +1,4 @@
+Two cubical dice each have removable numbers $1$ through $6$. The twelve numbers on the two dice are removed, put into a bag, then drawn one at a time and randomly reattached to the faces of the cubes, one number to each face. The dice are then rolled and the numbers on the two top faces are added. What is the probability that the sum is $7$?
+ 
+$\mathrm{(A)}\ \frac{1}{9} \qquad \mathrm{(B)}\ \frac{1}{8} \qquad \mathrm{(C)}\ \frac{1}{6} \qquad \mathrm{(D)}\ \frac{2}{11} \qquad \mathrm{(E)}\ \frac{1}{5}$
+ 

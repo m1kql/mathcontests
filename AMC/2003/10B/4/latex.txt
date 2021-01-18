@@ -1,0 +1,5 @@
+
+Rose fills each of the rectangular regions of her rectangular flower bed with a different type of flower. The lengths, in feet, of the rectangular regions in her flower bed are as shown in the figure. She plants one flower per square foot in each region. Asters cost \textdollar 1 each, begonias \textdollar 1.50 each, cannas \textdollar 2 each, dahlias \textdollar 2.50 each, and Easter lilies \textdollar 3 each. What is the least possible cost, in dollars, for her garden?
+
+$\textbf{(A) } 108 \qquad\textbf{(B) } 115 \qquad\textbf{(C) } 132 \qquad\textbf{(D) } 144 \qquad\textbf{(E) } 156$
+

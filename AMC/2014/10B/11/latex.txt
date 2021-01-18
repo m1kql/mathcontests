@@ -1,0 +1,12 @@
+For the consumer, a single discount of $n\%$ is more advantageous than any of the following discounts:
+ 
+(1) two successive $15\%$  discounts
+ 
+(2) three successive $10\%$ discounts
+ 
+(3) a $25\%$ discount followed by a $5\%$ discount
+ 
+What is the smallest possible positive integer value of $n$?
+ 
+$\textbf{(A)}\ \ 27\qquad\textbf{(B)}\ 28\qquad\textbf{(C)}\ 29\qquad\textbf{(D)}\ 31\qquad\textbf{(E)}\ 33$
+ 

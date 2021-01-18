@@ -1,0 +1,4 @@
+The area of a circle whose circumference is $24\pi$ is $k\pi$. What is the value of $k$?
+ 
+$\mathrm{(A)}\ 6 \qquad \mathrm{(B)}\ 12 \qquad \mathrm{(C)}\ 24 \qquad \mathrm{(D)}\ 36 \qquad \mathrm{(E)}\ 144$
+ 

@@ -1,0 +1,8 @@
+How many non- empty subsets $S$ of $\{1,2,3,\ldots ,15\}$ have the following two properties? 
+ 
+$(1)$  No two consecutive integers belong to $S$.
+ 
+$(2)$  If $S$ contains $k$ elements, then $S$ contains no number less than $k$.
+ 
+$\mathrm{(A) \ } 277\qquad \mathrm{(B) \ } 311\qquad \mathrm{(C) \ } 376\qquad \mathrm{(D) \ } 377\qquad \mathrm{(E) \ }  405$
+ 

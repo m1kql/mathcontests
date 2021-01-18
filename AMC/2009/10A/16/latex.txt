@@ -1,0 +1,4 @@
+Let $a$, $b$, $c$, and $d$ be real numbers with $|a-b|=2$, $|b-c|=3$, and $|c-d|=4$. What is the sum of all possible values of $|a-d|$?
+ 
+$\mathrm{(A)}\ 9 \qquad \mathrm{(B)}\ 12 \qquad \mathrm{(C)}\ 15 \qquad \mathrm{(D)}\ 18 \qquad \mathrm{(E)}\ 24$
+ 

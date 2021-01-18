@@ -1,0 +1,6 @@
+Find the positive integer $n\,$ for which
+ 
+ \begin{center} \[\lfloor\log_2{1}\rfloor+\lfloor\log_2{2}\rfloor+\lfloor\log_2{3}\rfloor+\cdots+\lfloor\log_2{n}\rfloor=1994\] \end{center} 
+ 
+(For real $x\,$, $\lfloor x\rfloor\,$ is the greatest integer $\le x.\,$)
+ 

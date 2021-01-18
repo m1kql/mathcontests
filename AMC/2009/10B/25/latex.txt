@@ -1,0 +1,4 @@
+Each face of a cube is given a single narrow stripe painted from the center of one edge to the center of the opposite edge.  The choice of the edge pairing is made at random and independently for each face.  What is the probability that there is a continuous stripe encircling the cube?
+ 
+$\mathrm{(A)}\frac 18\qquad \mathrm{(B)}\frac {3}{16}\qquad \mathrm{(C)}\frac 14\qquad \mathrm{(D)}\frac 38\qquad \mathrm{(E)}\frac 12$
+ 

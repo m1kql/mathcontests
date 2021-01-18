@@ -1,0 +1,4 @@
+Alex has $75$ red tokens and $75$ blue tokens. There is a booth where Alex can give two red tokens and receive in return a silver token and a blue token, and another booth where Alex can give three blue tokens and receive in return a silver token and a red token. Alex continues to exchange tokens until no more exchanges are possible. How many silver tokens will Alex have at the end?
+ 
+$\textbf{(A)}\ 62 \qquad \textbf{(B)}\ 82 \qquad \textbf{(C)}\ 83 \qquad \textbf{(D)}\ 102 \qquad \textbf{(E)}\ 103$
+ 

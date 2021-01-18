@@ -1,0 +1,4 @@
+Points $A(11, 9)$ and $B(2, -3)$ are vertices of $\triangle ABC$ with $AB=AC$. The altitude from $A$ meets the opposite side at $D(-1, 3)$. What are the coordinates of point $C$?
+ 
+$\textbf{(A)}\ (-8, 9)\qquad\textbf{(B)}\ (-4, 8)\qquad\textbf{(C)}\ (-4, 9)\qquad\textbf{(D)}\ (-2, 3)\qquad\textbf{(E)}\ (-1, 0)$
+ 

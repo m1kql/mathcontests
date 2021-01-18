@@ -1,0 +1,4 @@
+Hexadecimal (base-16) numbers are written using numeric digits $0$ through $9$ as well as the letters $A$ through $F$ to represent $10$ through $15$. Among the first $1000$ positive integers, there are $n$ whose hexadecimal representation contains only numeric digits. What is the sum of the digits of $n$?
+ 
+$\textbf{(A) }17\qquad\textbf{(B) }18\qquad\textbf{(C) }19\qquad\textbf{(D) }20\qquad\textbf{(E) }21$
+ 

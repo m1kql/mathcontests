@@ -1,0 +1,4 @@
+There is a smallest positive real number $a$ such that there exists a positive real number $b$ such that all the roots of the polynomial $x^3-ax^2+bx-a$ are real. In fact, for this value of $a$ the value of $b$ is unique. What is this value of $b$?
+ 
+$\textbf{(A)}\ 8\qquad\textbf{(B)}\ 9\qquad\textbf{(C)}\ 10\qquad\textbf{(D)}\ 11\qquad\textbf{(E)}\ 12$
+ 

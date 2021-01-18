@@ -1,0 +1,6 @@
+Equilateral $\triangle ABC$ has side length $1$, and squares $ABDE$, $BCHI$, $CAFG$ lie outside the triangle. What is the area of hexagon $DEFGHI$?
+ 
+
+ 
+$\textbf{(A)}\ \dfrac{12+3\sqrt3}4\qquad\textbf{(B)}\ \dfrac92\qquad\textbf{(C)}\ 3+\sqrt3\qquad\textbf{(D)}\ \dfrac{6+3\sqrt3}2\qquad\textbf{(E)}\ 6$
+ 

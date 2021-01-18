@@ -1,0 +1,6 @@
+The point $O$ is the center of the circle circumscribed about triangle $ABC$, with $\angle BOC = 120^{\circ}$ and $\angle AOB = 140^{\circ}$, as shown. What is the degree measure of $\angle ABC$?
+ 
+
+ 
+$\mathrm {(A)} 35 \qquad \mathrm {(B)} 40 \qquad \mathrm {(C)} 45 \qquad \mathrm {(D)} 50 \qquad  \mathrm {(E)} 60$
+ 

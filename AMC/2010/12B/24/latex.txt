@@ -1,0 +1,8 @@
+The set of real numbers $x$ for which 
+ 
+ \begin{center} \[\dfrac{1}{x-2009}+\dfrac{1}{x-2010}+\dfrac{1}{x-2011}\ge1\] \end{center} 
+ 
+is the union of intervals of the form $a<x\le b$. What is the sum of the lengths of these intervals?
+ 
+$\textbf{(A)}\ \dfrac{1003}{335} \qquad \textbf{(B)}\ \dfrac{1004}{335} \qquad \textbf{(C)}\ 3 \qquad \textbf{(D)}\ \dfrac{403}{134} \qquad \textbf{(E)}\ \dfrac{202}{67}$
+ 

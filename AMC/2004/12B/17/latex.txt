@@ -1,0 +1,8 @@
+For some real numbers $a$ and $b$, the equation
+ 
+ \begin{center} \[8x^3 + 4ax^2 + 2bx + a = 0\] \end{center} 
+ 
+has three distinct positive roots. If the sum of the base-$2$ logarithms of the roots is $5$, what is the value of $a$? 
+ 
+$\mathrm{(A)}\ -256 \qquad\mathrm{(B)}\ -64  \qquad\mathrm{(C)}\ -8 \qquad\mathrm{(D)}\ 64  \qquad\mathrm{(E)}\ 256$
+ 

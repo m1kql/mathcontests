@@ -1,0 +1,4 @@
+Square $EFGH$ has one vertex on each side of square $ABCD$.  Point $E$ is on $AB$ with $AE=7\cdot EB$.  What is the ratio of the area of $EFGH$ to the area of $ABCD$?
+ 
+$\text{(A)}\,\frac{49}{64}     \qquad\text{(B)}\,\frac{25}{32}     \qquad\text{(C)}\,\frac78 \qquad\text{(D)}\,\frac{5\sqrt{2}}{8}   \qquad\text{(E)}\,\frac{\sqrt{14}}{4}$
+ 

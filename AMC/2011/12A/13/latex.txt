@@ -1,0 +1,4 @@
+Triangle $ABC$ has side-lengths $AB = 12, BC = 24,$ and $AC = 18.$ The line through the incenter of $\triangle ABC$ parallel to $\overline{BC}$ intersects $\overline{AB}$ at $M$ and $\overline{AC}$ at $N.$ What is the perimeter of $\triangle AMN?$
+ 
+$\textbf{(A)}\ 27 \qquad \textbf{(B)}\ 30 \qquad \textbf{(C)}\  33 \qquad \textbf{(D)}\ 36 \qquad \textbf{(E)}\ 42$
+ 

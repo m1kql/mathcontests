@@ -1,0 +1,4 @@
+A function $f$ is defined by $f(z) = i\overline{z}$, where $i=\sqrt{-1}$ and $\overline{z}$ is the complex conjugate of $z$. How many values of $z$ satisfy both $|z| = 5$ and $f(z) = z$?
+ 
+$\mathrm{(A)}\ 0 \qquad\mathrm{(B)}\ 1 \qquad\mathrm{(C)}\ 2  \qquad\mathrm{(D)}\ 4 \qquad\mathrm{(E)}\ 8$
+ 

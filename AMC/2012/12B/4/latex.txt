@@ -1,0 +1,4 @@
+Suppose that the euro is worth 1.3 dollars. If Diana has 500 dollars and Etienne has 400 euros, by what percent is the value of Etienne's money greater that the value of Diana's money?
+ 
+$\textbf{(A)}\ 2\qquad\textbf{(B)}\ 4\qquad\textbf{(C)}\ 6.5\qquad\textbf{(D)}\ 8\qquad\textbf{(E)}\ 13$
+ 

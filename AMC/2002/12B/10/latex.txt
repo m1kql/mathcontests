@@ -1,0 +1,4 @@
+How many different integers can be expressed as the sum of three distinct members of the set $\{1,4,7,10,13,16,19\}$?
+ 
+$\mathrm{(A)}\ 13 \qquad\mathrm{(B)}\ 16 \qquad\mathrm{(C)}\ 24 \qquad\mathrm{(D)}\ 30 \qquad\mathrm{(E)}\ 35$
+ 

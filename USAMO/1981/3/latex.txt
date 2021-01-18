@@ -1,0 +1,2 @@
+Show that for any triangle, $\frac{3\sqrt{3}}{2}\ge \sin(3A) + \sin(3B) + \sin (3C) \ge -2$. 
+When does the equality hold?

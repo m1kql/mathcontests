@@ -1,0 +1,6 @@
+
+If circular arcs $AC$ and $BC$ have centers at $B$ and $A$, respectively, then there exists a circle tangent to both arc $AC$ and arc $BC$, and to $\overline{AB}$. If the length of arc $BC$ is $12$, then the circumference of the circle is
+
+$\textbf {(A)}\ 24 \qquad \textbf {(B)}\ 25 \qquad \textbf {(C)}\ 26 \qquad \textbf {(D)}\ 27 \qquad \textbf {(E)}\ 28$
+
+

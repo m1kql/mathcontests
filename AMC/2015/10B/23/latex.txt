@@ -1,0 +1,4 @@
+Let $n$ be a positive integer greater than 4 such that the decimal representation of $n!$ ends in $k$ zeros and the decimal representation of $(2n)!$ ends in $3k$ zeros. Let $s$ denote the sum of the four least possible values of $n$. What is the sum of the digits of $s$?
+ 
+$\textbf{(A) }7\qquad\textbf{(B) }8\qquad\textbf{(C) }9\qquad\textbf{(D) }10\qquad\textbf{(E) }11$
+ 

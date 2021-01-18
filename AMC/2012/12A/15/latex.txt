@@ -1,0 +1,4 @@
+A $3 \times 3$ square is partitioned into $9$ unit squares. Each unit square is painted either white or black with each color being equally likely, chosen independently and at random. The square is then rotated $90\,^{\circ}$ clockwise about its center, and every white square in a position formerly occupied by a black square is painted black. The colors of all other squares are left unchanged. What is the probability the grid is now entirely black?
+ 
+$\textbf{(A)}\ \frac{49}{512}\qquad\textbf{(B)}\ \frac{7}{64}\qquad\textbf{(C)}\ \frac{121}{1024}\qquad\textbf{(D)}\ \frac{81}{512}\qquad\textbf{(E)}\ \frac{9}{32}$
+ 

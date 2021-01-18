@@ -1,0 +1,4 @@
+Let $A$, $B$ and $C$ be three distinct points on the graph of $y=x^2$ such that line $AB$ is parallel to the $x$-axis and $\triangle ABC$ is a right triangle with area $2008$. What is the sum of the digits of the $y$-coordinate of $C$?
+ 
+$\textbf{(A)}\ 16\qquad\textbf{(B)}\ 17\qquad\textbf{(C)}\ 18\qquad\textbf{(D)}\ 19\qquad\textbf{(E)}\ 20$
+ 

@@ -1,0 +1,4 @@
+Suppose $r^{}_{}$ is a real number for which
+ 
+Find $\lfloor 100r \rfloor$. (For real $x^{}_{}$, $\lfloor x \rfloor$ is the greatest integer less than or equal to $x^{}_{}$.)
+ 

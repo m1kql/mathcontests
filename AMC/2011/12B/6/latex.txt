@@ -1,0 +1,4 @@
+Two tangents to a circle are drawn from a point $A$.  The points of contact $B$ and $C$ divide the circle into arcs with lengths in the ratio $2 : 3$.  What is the degree measure of $\angle{BAC}$?
+ 
+$\textbf{(A)}\ 24 \qquad \textbf{(B)}\ 30 \qquad \textbf{(C)}\ 36 \qquad \textbf{(D)}\ 48 \qquad \textbf{(E)}\ 60$
+ 

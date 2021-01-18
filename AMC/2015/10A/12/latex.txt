@@ -1,0 +1,4 @@
+Points $( \sqrt{\pi} , a)$ and $( \sqrt{\pi} , b)$ are distinct points on the graph of $y^2 + x^4 = 2x^2 y + 1$. What is $|a-b|$?
+ 
+$\textbf{(A)}\ 1 \qquad\textbf{(B)} \ \frac{\pi}{2} \qquad\textbf{(C)} \ 2 \qquad\textbf{(D)} \ \sqrt{1+\pi} \qquad\textbf{(E)} \ 1 + \sqrt{\pi}$
+ 

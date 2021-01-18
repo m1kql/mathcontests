@@ -1,0 +1,4 @@
+Suppose that $a$ and $b$ are digits, not both nine and not both zero, and the repeating decimal $0.\overline{ab}$ is expressed as a fraction in lowest terms. How many different denominators are possible?
+ 
+$\text{(A) }3 \qquad \text{(B) }4 \qquad \text{(C) }5 \qquad \text{(D) }8 \qquad \text{(E) }9$
+ 

@@ -1,0 +1,6 @@
+Isosceles $\triangle ABC$ has a right angle at $C$.  Point $P$ is inside $\triangle ABC$, such that $PA=11$, $PB=7$, and $PC=6$. Legs $\overline{AC}$ and $\overline{BC}$ have length $s=\sqrt{a+b\sqrt{2}}$, where $a$ and $b$ are positive integers.  What is $a+b$?
+ 
+
+ 
+$\mathrm{(A)}\ 85 \qquad \mathrm{(B)}\ 91 \qquad \mathrm{(C)}\ 108 \qquad \mathrm{(D)}\ 121 \qquad \mathrm{(E)}\ 127$
+ 

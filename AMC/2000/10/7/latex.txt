@@ -1,0 +1,6 @@
+In rectangle $ABCD$, $AD=1$, $P$ is on $\overline{AB}$, and $\overline{DB}$ and $\overline{DP}$ trisect $\angle ADC$.  What is the perimeter of $\triangle BDP$?
+ 
+
+ 
+$\mathrm{(A)}\ 3+\frac{\sqrt{3}}{3} \qquad\mathrm{(B)}\ 2+\frac{4\sqrt{3}}{3} \qquad\mathrm{(C)}\ 2+2\sqrt{2} \qquad\mathrm{(D)}\ \frac{3+3\sqrt{5}}{2} \qquad\mathrm{(E)}\ 2+\frac{5\sqrt{3}}{3}$
+ 

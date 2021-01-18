@@ -1,0 +1,4 @@
+How many three-digit numbers satisfy the property that the middle digit is the average of the first and the last digits?
+ 
+$(\mathrm {A}) \ 41 \qquad (\mathrm {B}) \ 42 \qquad (\mathrm {C})\ 43 \qquad (\mathrm {D}) \ 44 \qquad (\mathrm {E})\ 45$
+ 

@@ -1,0 +1,4 @@
+Six ants simultaneously stand on the six vertices of a regular octahedron, with each ant at a different vertex. Simultaneously and independently, each ant moves from its vertex to one of the four adjacent vertices, each with equal probability. What is the probability that no two ants arrive at the same vertex?
+ 
+$\mathrm{(A)}\ \frac {5}{256} \qquad\mathrm{(B)}\ \frac {21}{1024} \qquad\mathrm{(C)}\ \frac {11}{512} \qquad\mathrm{(D)}\ \frac {23}{1024} \qquad\mathrm{(E)}\ \frac {3}{128}$
+ 

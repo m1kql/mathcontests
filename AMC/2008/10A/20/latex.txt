@@ -1,0 +1,4 @@
+Trapezoid $ABCD$ has bases $\overline{AB}$ and $\overline{CD}$ and diagonals intersecting at $K$. Suppose that $AB = 9$, $DC = 12$, and the area of $\triangle AKD$ is $24$. What is the area of trapezoid $ABCD$?
+ 
+$\mathrm{(A)}\ 92\qquad\mathrm{(B)}\ 94\qquad\mathrm{(C)}\ 96\qquad\mathrm{(D)}\ 98 \qquad\mathrm{(E)}\ 100$
+ 

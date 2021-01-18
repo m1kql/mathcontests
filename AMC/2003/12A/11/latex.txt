@@ -1,0 +1,4 @@
+A square and an equilateral triangle have the same perimeter. Let $A$ be the area of the circle circumscribed about the square and $B$ the area of the circle circumscribed around the triangle. Find $A/B$.
+ 
+$\mathrm{(A) \ } \frac{9}{16}\qquad \mathrm{(B) \ } \frac{3}{4}\qquad \mathrm{(C) \ } \frac{27}{32}\qquad \mathrm{(D) \ } \frac{3\sqrt{6}}{8}\qquad \mathrm{(E) \ } 1$
+ 

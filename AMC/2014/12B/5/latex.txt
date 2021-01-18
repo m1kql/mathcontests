@@ -1,0 +1,6 @@
+Doug constructs a square window using $8$ equal-size panes of glass, as shown. The ratio of the height to width for each pane is $5 : 2$, and the borders around and between the panes are $2$ inches wide. In inches, what is the side length of the square window?
+ 
+
+ 
+$\textbf{(A)}\ 26\qquad\textbf{(B)}\ 28\qquad\textbf{(C)}\ 30\qquad\textbf{(D)}\ 32\qquad\textbf{(E)}\ 34$
+ 

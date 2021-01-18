@@ -1,0 +1,6 @@
+How many distinct four-tuples $(a,b,c,d)$ of rational numbers are there with
+ 
+ \begin{center} \[a\cdot\log_{10}2+b\cdot\log_{10}3+c\cdot\log_{10}5+d\cdot\log_{10}7=2005?\] \end{center} 
+ 
+$\mathrm{(A)}\ 0      \qquad \mathrm{(B)}\ 1      \qquad \mathrm{(C)}\ 17     \qquad \mathrm{(D)}\ 2004   \qquad \mathrm{(E)}\ \text{infinitely many}$
+ 

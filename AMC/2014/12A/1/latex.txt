@@ -1,0 +1,4 @@
+What is $10\cdot\left(\tfrac{1}{2}+\tfrac{1}{5}+\tfrac{1}{10}\right)^{-1}?$
+ 
+$\textbf{(A)}\ 3 \qquad\textbf{(B)}\ 8\qquad\textbf{(C)}\ \frac{25}{2} \qquad\textbf{(D)}\ \frac{170}{3}\qquad\textbf{(E)}\ 170$
+ 

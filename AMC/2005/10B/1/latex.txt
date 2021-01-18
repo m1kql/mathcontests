@@ -1,0 +1,4 @@
+A scout troop buys $1000$ candy bars at a price of five for $2$ dollars. They sell all the candy bars at the price of two for $1$ dollar.  What was their profit, in dollars?
+ 
+$\mathrm{(A)}\ 100      \qquad \mathrm{(B)}\ 200      \qquad \mathrm{(C)}\ 300      \qquad \mathrm{(D)}\ 400      \qquad \mathrm{(E)}\ 500$
+ 

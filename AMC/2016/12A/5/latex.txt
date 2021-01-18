@@ -1,0 +1,6 @@
+Goldbach's conjecture states that every even integer greater than 2 can be written as the sum of two prime numbers (for example, $2016=13+2003$). So far, no one has been able to prove that the conjecture is true, and no one has found a counterexample to show that the conjecture is false. What would a counterexample consist of?
+ 
+$\textbf{(A)}\ \text{an odd integer greater than } 2 \text{ that can be written as the sum of two prime numbers}\\ \qquad\textbf{(B)}\ \text{an odd integer greater than } 2 \text{ that cannot be written as the sum of two prime numbers}\\ \qquad\textbf{(C)}\ \text{an even integer greater than } 2 \text{ that can be written as the sum of two numbers that are not prime}\\ \qquad\textbf{(D)}\ \text{an even integer greater than } 2 \text{ that can be written as the sum of two prime numbers}\\ \qquad\textbf{(E)}\ \text{an even integer greater than } 2 \text{ that cannot be written as the sum of two prime numbers}$
+ 
+
+ 

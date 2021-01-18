@@ -1,0 +1,4 @@
+The graphs of $y=\log_3 x, y=\log_x 3, y=\log_\frac{1}{3} x,$ and $y=\log_x \dfrac{1}{3}$ are plotted on the same set of axes. How many points in the plane with positive $x$-coordinates lie on two or more of the graphs? 
+ 
+$\textbf{(A)}\ 2\qquad\textbf{(B)}\ 3\qquad\textbf{(C)}\ 4\qquad\textbf{(D)}\ 5\qquad\textbf{(E)}\ 6$
+ 

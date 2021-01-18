@@ -1,0 +1,4 @@
+How many four-digit numbers $N$ have the property that the three-digit number obtained by removing the leftmost digit is one ninth of $N$?
+ 
+$\mathrm{(A)}\ 4 \qquad\mathrm{(B)}\ 5 \qquad\mathrm{(C)}\ 6 \qquad\mathrm{(D)}\ 7 \qquad\mathrm{(E)}\ 8$
+ 

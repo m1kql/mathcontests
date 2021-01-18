@@ -1,0 +1,4 @@
+A point $P$ is selected at random from the interior of the pentagon with vertices $A = (0,2)$, $B = (4,0)$, $C = (2 \pi + 1, 0)$, $D = (2 \pi + 1,4)$, and $E=(0,4)$. What is the probability that $\angle APB$ is obtuse?
+ 
+$\text{(A) }\frac {1}{5} \qquad \text{(B) }\frac {1}{4} \qquad \text{(C) }\frac {5}{16} \qquad \text{(D) }\frac {3}{8} \qquad \text{(E) }\frac {1}{2}$
+ 

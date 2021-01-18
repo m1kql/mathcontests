@@ -1,0 +1,4 @@
+Define the operation $\star$ by $a \star b = (a+b)b.$ What is $(3 \star 5) - (5 \star 3)?$
+ 
+$\textbf{(A) } -16 \qquad\textbf{(B) } -8 \qquad\textbf{(C) } 0 \qquad\textbf{(D) } 8 \qquad\textbf{(E) } 16$
+ 

@@ -1,0 +1,4 @@
+A regular hexagon with sides of length 6 has an isosceles triangle attached to each side. Each of these triangles has two sides of length 8. The isosceles triangles are folded to make a pyramid with the hexagon as the base of the pyramid. What is the volume of the pyramid?
+ 
+$\textbf{(A)}\; 18 \qquad\textbf{(B)}\; 162 \qquad\textbf{(C)}\; 36\sqrt{21} \qquad\textbf{(D)}\; 18\sqrt{138} \qquad\textbf{(E)}\; 54\sqrt{21}$
+ 

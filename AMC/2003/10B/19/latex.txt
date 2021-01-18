@@ -1,0 +1,8 @@
+
+ 
+Three semicircles of radius $1$ are constructed on diameter $\overline{AB}$ of a semicircle of radius $2$. The centers of the small semicircles divide $\overline{AB}$ into four line segments of equal length, as shown. What is the area of the shaded region that lies within the large semicircle but outside the smaller semicircles?
+ 
+
+ 
+$\textbf{(A) } \pi - \sqrt{3} \qquad\textbf{(B) } \pi - \sqrt{2} \qquad\textbf{(C) } \frac{\pi + \sqrt{2}}{2} \qquad\textbf{(D) } \frac{\pi +\sqrt{3}}{2} \qquad\textbf{(E) } \frac{7}{6}\pi - \frac{\sqrt{3}}{2}$
+ 

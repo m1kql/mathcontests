@@ -1,0 +1,8 @@
+A collection of circles in the upper half-plane, all tangent to the $x$-axis, is constructed in layers as follows. Layer $L_0$ consists of two circles of radii $70^2$ and $73^2$ that are externally tangent. For $k \ge 1$, the circles in $\bigcup_{j=0}^{k-1}L_j$ are ordered according to their points of tangency with the $x$-axis. For every pair of consecutive circles in this order, a new circle is constructed externally tangent to each of the two circles in the pair. Layer $L_k$ consists of the $2^{k-1}$ circles constructed in this way. Let $S=\bigcup_{j=0}^{6}L_j$, and for every circle $C$ denote by $r(C)$ its radius. What is
+ 
+ \begin{center} \[\sum_{C\in S} \frac{1}{\sqrt{r(C)}}?\] \end{center} 
+ 
+
+ 
+$\textbf{(A)}\ \frac{286}{35} \qquad\textbf{(B)}\ \frac{583}{70} \qquad\textbf{(C)}\ \frac{715}{73} \qquad\textbf{(D)}\ \frac{143}{14} \qquad\textbf{(E)}\ \frac{1573}{146}$
+ 

@@ -1,0 +1,4 @@
+When 7 fair standard 6-sided dice are thrown, the probability that the sum of the numbers on the top faces is 10 can be written as  \begin{center} \[\frac{n}{6^7},\] \end{center} where $n$ is a positive integer. What is $n$?
+ 
+$\textbf{(A) }   42   \qquad        \textbf{(B) }   49   \qquad    \textbf{(C) }   56   \qquad   \textbf{(D) }  63 \qquad  \textbf{(E) }   84$
+ 

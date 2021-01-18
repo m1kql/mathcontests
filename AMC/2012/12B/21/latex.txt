@@ -1,0 +1,8 @@
+Square $AXYZ$ is inscribed in equiangular hexagon $ABCDEF$ with $X$ on $\overline{BC}$, $Y$ on $\overline{DE}$, and $Z$ on $\overline{EF}$. Suppose that $AB=40$, and $EF=41(\sqrt{3}-1)$. What is the side-length of the square?
+ 
+$\textbf{(A)}\ 29\sqrt{3} \qquad\textbf{(B)}\ \frac{21}{2}\sqrt{2}+\frac{41}{2}\sqrt{3} \qquad\textbf{(C)}\ \ 20\sqrt{3}+16 \qquad\textbf{(D)}\ 20\sqrt{2}+13 \sqrt{3} \qquad\textbf{(E)}\ 21\sqrt{6}$
+ 
+
+ 
+(diagram by djmathman)
+ 

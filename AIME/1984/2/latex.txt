@@ -1,0 +1,2 @@
+The integer $\displaystyle n$ is the smallest positive multiple of $\displaystyle 15$ such that every digit of $\displaystyle n$ is either $\displaystyle 8$ or $\displaystyle 0$. Compute $\frac{n}{15}$.
+ 

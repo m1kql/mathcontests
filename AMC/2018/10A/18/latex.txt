@@ -1,0 +1,6 @@
+How many nonnegative integers can be written in the form  \begin{center} \[a_7\cdot3^7+a_6\cdot3^6+a_5\cdot3^5+a_4\cdot3^4+a_3\cdot3^3+a_2\cdot3^2+a_1\cdot3^1+a_0\cdot3^0,\] \end{center} 
+ 
+where $a_i\in \{-1,0,1\}$ for $0\le i \le 7$?
+ 
+$\textbf{(A) } 512 \qquad  \textbf{(B) } 729 \qquad  \textbf{(C) } 1094 \qquad  \textbf{(D) } 3281 \qquad  \textbf{(E) } 59,048$
+ 

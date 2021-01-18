@@ -1,0 +1,4 @@
+How many positive integer divisors of $201^9$ are perfect squares or perfect cubes (or both)?
+ 
+${\textbf{(A) }32} \qquad {\textbf{(B) }36} \qquad {\textbf{(C) }37} \qquad {\textbf{(D) }39} \qquad {\textbf{(E) }41}$
+ 

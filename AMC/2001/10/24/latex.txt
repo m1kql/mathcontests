@@ -1,0 +1,4 @@
+In trapezoid $ABCD$, $\overline{AB}$ and $\overline{CD}$ are perpendicular to $\overline{AD}$, with $AB+CD=BC$, $AB<CD$, and $AD=7$. What is $AB\cdot CD$?
+ 
+$\textbf{(A)}\ 12 \qquad \textbf{(B)}\ 12.25 \qquad \textbf{(C)}\ 12.5 \qquad \textbf{(D)}\ 12.75 \qquad \textbf{(E)}\ 13$
+ 

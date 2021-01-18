@@ -1,0 +1,4 @@
+Convex quadrilateral $ABCD$ has $AB = 9$ and $CD = 12$.  Diagonals $AC$ and $BD$ intersect at $E$, $AC = 14$, and $\triangle AED$ and $\triangle BEC$ have equal areas.  What is $AE$?
+ 
+$\textbf{(A)}\ \frac {9}{2}\qquad \textbf{(B)}\ \frac {50}{11}\qquad \textbf{(C)}\ \frac {21}{4}\qquad \textbf{(D)}\ \frac {17}{3}\qquad \textbf{(E)}\ 6$
+ 

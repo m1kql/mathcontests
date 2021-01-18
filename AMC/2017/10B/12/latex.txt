@@ -1,0 +1,4 @@
+Elmer's new car gives $50\%$ percent better fuel efficiency, measured in kilometers per liter, than his old car. However, his new car uses diesel fuel, which is $20\%$ more expensive per liter than the gasoline his old car used. By what percent will Elmer save money if he uses his new car instead of his old car for a long trip?
+ 
+$\textbf{(A) } 20\% \qquad \textbf{(B) } 26\tfrac23\% \qquad \textbf{(C) } 27\tfrac79\% \qquad \textbf{(D) } 33\tfrac13\% \qquad \textbf{(E) } 66\tfrac23\%$
+ 

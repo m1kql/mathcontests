@@ -1,0 +1,4 @@
+A scanning code consists of a $7 \times 7$ grid of squares, with some of its squares colored black and the rest colored white. There must be at least one square of each color in this grid of $49$ squares. A scanning code is called $\textit{symmetric}$ if its look does not change when the entire square is rotated by a multiple of $90 ^{\circ}$ counterclockwise around its center, nor when it is reflected across a line joining opposite corners or a line joining midpoints of opposite sides. What is the total number of possible symmetric scanning codes?
+ 
+$\textbf{(A)} \text{ 510} \qquad \textbf{(B)} \text{ 1022} \qquad \textbf{(C)} \text{ 8190} \qquad \textbf{(D)} \text{ 8192} \qquad \textbf{(E)} \text{ 65,534}$
+ 

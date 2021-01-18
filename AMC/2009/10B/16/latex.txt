@@ -1,0 +1,4 @@
+Points $A$ and $C$ lie on a circle centered at $O$, each of $\overline{BA}$ and $\overline{BC}$ are tangent to the circle, and $\triangle ABC$ is equilateral. The circle intersects $\overline{BO}$ at $D$. What is $\frac{BD}{BO}$?
+ 
+$\text{(A) } \frac {\sqrt2}{3} \qquad \text{(B) } \frac {1}{2} \qquad \text{(C) } \frac {\sqrt3}{3} \qquad \text{(D) } \frac {\sqrt2}{2} \qquad \text{(E) } \frac {\sqrt3}{2}$
+ 

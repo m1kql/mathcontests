@@ -1,0 +1,4 @@
+How many positive two-digit integers are factors of $2^{24}-1$?
+ 
+$\textbf{(A)}\ 4 \qquad \textbf{(B)}\ 8 \qquad \textbf{(C)}\ 10 \qquad \textbf{(D)}\ 12 \qquad \textbf{(E)}\ 14$
+ 

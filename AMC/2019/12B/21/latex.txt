@@ -1,0 +1,4 @@
+How many quadratic polynomials with real coefficients are there such that the set of roots equals the set of coefficients? (For clarification: If the polynomial is $ax^2+bx+c,a\neq 0,$ and the roots are $r$ and $s,$ then the requirement is that $\{a,b,c\}=\{r,s\}$.)
+ 
+$\textbf{(A) } 3 \qquad\textbf{(B) } 4 \qquad\textbf{(C) } 5 \qquad\textbf{(D) } 6 \qquad\textbf{(E) } \text{infinitely many}$
+ 

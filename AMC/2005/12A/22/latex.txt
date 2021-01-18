@@ -1,0 +1,4 @@
+A rectangular box $P$ is inscribed in a sphere of radius $r$. The surface area of $P$ is 384, and the sum of the lengths of its 12 edges is 112. What is $r$?
+ 
+$\mathrm{(A)}\ 8\qquad \mathrm{(B)}\ 10\qquad \mathrm{(C)}\ 12\qquad \mathrm{(D)}\ 14\qquad \mathrm{(E)}\ 16$
+ 

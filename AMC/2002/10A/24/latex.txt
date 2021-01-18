@@ -1,0 +1,6 @@
+
+ 
+Tina randomly selects two distinct numbers from the set $\{ 1, 2, 3, 4, 5 \}$, and Sergio randomly selects a number from the set $\{ 1, 2, ..., 10 \}$. What is the probability that Sergio's number is larger than the sum of the two numbers chosen by Tina? 
+ 
+$\text{(A)}\ 2/5 \qquad \text{(B)}\ 9/20 \qquad \text{(C)}\ 1/2 \qquad \text{(D)}\ 11/20 \qquad \text{(E)}\ 24/25$
+ 

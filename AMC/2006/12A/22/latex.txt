@@ -1,0 +1,6 @@
+A circle of radius $r$ is concentric with and outside a  regular hexagon of side length $2$. The probability that three entire sides of hexagon are visible from a randomly chosen point on the circle is $1/2$. What is $r$?
+ 
+$\mathrm{(A) \ } 2\sqrt{2}+2\sqrt{3}\qquad \mathrm{(B) \ } 3\sqrt{3}+\sqrt{2}\qquad \mathrm{(C) \ } 2\sqrt{6}+\sqrt{3}\qquad \rm{(D) \ } 3\sqrt{2}+\sqrt{6}$
+ 
+$\mathrm{(E) \ }  6\sqrt{2}-\sqrt{3}$
+ 

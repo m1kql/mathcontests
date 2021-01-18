@@ -1,0 +1,8 @@
+The set of all real numbers $x$ for which
+ 
+ \begin{center} \[\log_{2004}(\log_{2003}(\log_{2002}(\log_{2001}{x})))\] \end{center} 
+ 
+is defined is $\{x|x > c\}$. What is the value of $c$?
+ 
+$\text {(A)} 0\qquad \text {(B)}2001^{2002} \qquad \text {(C)}2002^{2003} \qquad \text {(D)}2003^{2004} \qquad \text {(E)}2001^{2002^{2003}}$
+ 

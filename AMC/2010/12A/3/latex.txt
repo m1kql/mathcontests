@@ -1,0 +1,4 @@
+Rectangle $ABCD$, pictured below, shares $50\%$ of its area with square $EFGH$. Square $EFGH$ shares $20\%$ of its area with rectangle $ABCD$. What is $\frac{AB}{AD}$?
+ 
+$\textbf{(A)}\ 4 \qquad \textbf{(B)}\ 5 \qquad \textbf{(C)}\ 6 \qquad \textbf{(D)}\ 8 \qquad \textbf{(E)}\ 10$
+ 

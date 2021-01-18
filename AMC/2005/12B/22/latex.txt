@@ -1,0 +1,8 @@
+A sequence of complex numbers $z_{0}, z_{1}, z_{2}, ...$ is defined by the rule
+ 
+ \begin{center} \[z_{n+1} = \frac {iz_{n}}{\overline {z_{n}}},\] \end{center} 
+ 
+where $\overline {z_{n}}$ is the complex conjugate of $z_{n}$ and $i^{2}=-1$. Suppose that $|z_{0}|=1$ and $z_{2005}=1$. How many possible values are there for $z_{0}$?
+ 
+$\textbf{(A)}\ 1 \qquad  \textbf{(B)}\ 2 \qquad  \textbf{(C)}\ 4 \qquad  \textbf{(D)}\ 2005 \qquad  \textbf{(E)}\ 2^{2005}$
+ 

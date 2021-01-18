@@ -1,0 +1,4 @@
+The diameter $\overline{AB}$ of a circle of radius $2$ is extended to a point $D$ outside the circle so that $BD=3$. Point $E$ is chosen so that $ED=5$ and line $ED$ is perpendicular to line $AD$. Segment $\overline{AE}$ intersects the circle at a point $C$ between $A$ and $E$. What is the area of $\triangle ABC$?
+ 
+$\textbf{(A)}\ \frac{120}{37}\qquad\textbf{(B)}\ \frac{140}{39}\qquad\textbf{(C)}\ \frac{145}{39}\qquad\textbf{(D)}\ \frac{140}{37}\qquad\textbf{(E)}\ \frac{120}{31}$
+ 

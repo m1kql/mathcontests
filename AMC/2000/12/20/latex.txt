@@ -1,0 +1,8 @@
+If $x,y,$ and $z$ are positive numbers satisfying
+ 
+ \begin{center} \[x + 1/y = 4,\qquad y + 1/z = 1, \qquad \text{and} \qquad z + 1/x = 7/3\] \end{center} 
+ 
+Then what is the value of $xyz$ ?
+ 
+$\text {(A)}\ 2/3 \qquad \text {(B)}\ 1 \qquad \text {(C)}\ 4/3 \qquad \text {(D)}\ 2 \qquad \text {(E)}\ 7/3$
+ 

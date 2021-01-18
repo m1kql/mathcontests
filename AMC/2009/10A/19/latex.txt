@@ -1,0 +1,4 @@
+Circle $A$ has radius $100$. Circle $B$ has an integer radius $r<100$ and remains internally tangent to circle $A$ as it rolls once around the circumference of circle $A$. The two circles have the same points of tangency at the beginning and end of circle $B$'s trip. How many possible values can $r$ have?
+ 
+$\mathrm{(A)}\ 4\ \qquad \mathrm{(B)}\ 8\ \qquad \mathrm{(C)}\ 9\ \qquad \mathrm{(D)}\ 50\ \qquad \mathrm{(E)}\ 90\ \qquad$
+ 

@@ -1,0 +1,12 @@
+Which of the following rigid transformations (isometries) maps the line segment $\overline{AB}$ onto the line segment $\overline{A'B'}$ so that the image of $A(-2, 1)$ is $A'(2, -1)$ and the image of $B(-1, 4)$ is $B'(1, -4)$?
+ 
+$\textbf{(A) }$ reflection in the $y$-axis
+ 
+$\textbf{(B) }$ counterclockwise rotation around the origin by $90^{\circ}$
+ 
+$\textbf{(C) }$ translation by 3 units to the right and 5 units down
+ 
+$\textbf{(D) }$ reflection in the $x$-axis
+ 
+$\textbf{(E) }$ clockwise rotation about the origin by $180^{\circ}$
+ 

@@ -1,0 +1,4 @@
+Alex, Mel, and Chelsea play a game that has $6$ rounds.  In each round there is a single winner, and the outcomes of the rounds are independent.  For each round the probability that Alex wins is $\frac{1}{2}$, and Mel is twice as likely to win as Chelsea.  What is the probability that Alex wins three rounds, Mel wins two rounds, and Chelsea wins one round?
+ 
+$\textbf{(A)}\ \frac{5}{72}\qquad\textbf{(B)}\ \frac{5}{36}\qquad\textbf{(C)}\ \frac{1}{6}\qquad\textbf{(D)}\ \frac{1}{3}\qquad\textbf{(E)}\ 1$
+ 

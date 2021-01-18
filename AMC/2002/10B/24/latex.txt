@@ -1,0 +1,4 @@
+Riders on a Ferris wheel travel in a circle in a vertical plane. A particular wheel has radius $20$ feet and revolves at the constant rate of one revolution per minute. How many seconds does it take a rider to travel from the bottom of the wheel to a point $10$ vertical feet above the bottom?
+ 
+$\mathrm{(A) \ } 5\qquad \mathrm{(B) \ } 6\qquad \mathrm{(C) \ } 7.5\qquad \mathrm{(D) \ } 10\qquad \mathrm{(E) \ } 15$
+ 

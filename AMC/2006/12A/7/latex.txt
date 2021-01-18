@@ -1,0 +1,4 @@
+Mary is $20\%$ older than Sally, and Sally is $40\%$ younger than Danielle. The sum of their ages is $23.2$ years. How old will Mary be on her next birthday?
+ 
+$\mathrm{(A) \ } 7\qquad \mathrm{(B) \ } 8\qquad \mathrm{(C) \ } 9\qquad \mathrm{(D) \ } 10\qquad \mathrm{(E) \ }  11$
+ 

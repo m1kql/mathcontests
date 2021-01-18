@@ -1,0 +1,4 @@
+How many sets of two or more consecutive positive integers have a sum of $15$?
+ 
+$\mathrm{(A) \ } 1\qquad \mathrm{(B) \ } 2\qquad \mathrm{(C) \ } 3\qquad \mathrm{(D) \ } 4\qquad \mathrm{(E) \ }  5$
+ 

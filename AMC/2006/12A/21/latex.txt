@@ -1,0 +1,12 @@
+Let 
+ 
+$S_1=\{(x,y)|\log_{10}(1+x^2+y^2)\le 1+\log_{10}(x+y)\}$
+ 
+and 
+ 
+$S_2=\{(x,y)|\log_{10}(2+x^2+y^2)\le 2+\log_{10}(x+y)\}$.
+ 
+What is the ratio of the area of $S_2$ to the area of $S_1$?
+ 
+$\mathrm{(A) \ } 98\qquad \mathrm{(B) \ } 99\qquad \mathrm{(C) \ } 100\qquad \mathrm{(D) \ } 101\qquad \mathrm{(E) \ }  102$
+ 

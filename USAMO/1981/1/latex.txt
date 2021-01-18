@@ -1,0 +1,1 @@
+Prove that if $n$ is not a multiple of $3$, then the angle $\frac{\pi}{n}$ can be trisected with ruler and compasses. 

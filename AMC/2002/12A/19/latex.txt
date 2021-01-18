@@ -1,0 +1,6 @@
+The graph of the function $f$ is shown below. How many solutions does the equation $f(f(x))=6$ have? 
+ 
+
+ 
+$\text{(A) }2 \qquad \text{(B) }4 \qquad \text{(C) }5 \qquad \text{(D) }6 \qquad \text{(E) }7$
+ 

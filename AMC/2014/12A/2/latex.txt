@@ -1,0 +1,6 @@
+At the theater children get in for half price.  The price for $5$ adult tickets and $4$ child tickets is $24.50$.  How much would $8$ adult tickets and $6$ child tickets cost?
+ 
+$\textbf{(A) }35\qquad \textbf{(B) }38.50\qquad \textbf{(C) }40\qquad \textbf{(D) }42\qquad \textbf{(E) }42.50$
+ 
+
+ 

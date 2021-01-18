@@ -1,0 +1,4 @@
+In rectangle $ABCD,$ $AB=6$ and $BC=3$. Point $E$ between $B$ and $C$, and point $F$ between $E$ and $C$ are such that $BE=EF=FC$. Segments $\overline{AE}$ and $\overline{AF}$ intersect $\overline{BD}$ at $P$ and $Q$, respectively. The ratio $BP:PQ:QD$ can be written as $r:s:t$ where the greatest common factor of $r,s,$ and $t$ is $1.$ What is $r+s+t$?
+ 
+$\textbf{(A) } 7 \qquad \textbf{(B) } 9 \qquad \textbf{(C) } 12 \qquad \textbf{(D) } 15 \qquad \textbf{(E) } 20$
+ 

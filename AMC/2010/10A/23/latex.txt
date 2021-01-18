@@ -1,0 +1,4 @@
+Each of $2010$ boxes in a line contains a single red marble, and for $1 \le k \le 2010$, the box in the $k\text{th}$ position also contains $k$ white marbles. Isabella begins at the first box and successively draws a single marble at random from each box, in order. She stops when she first draws a red marble. Let $P(n)$ be the probability that Isabella stops after drawing exactly $n$ marbles. What is the smallest value of $n$ for which $P(n) < \frac{1}{2010}$?
+ 
+$\textbf{(A)}\ 45 \qquad \textbf{(B)}\ 63 \qquad \textbf{(C)}\ 64 \qquad \textbf{(D)}\ 201 \qquad \textbf{(E)}\ 1005$
+ 

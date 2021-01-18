@@ -1,0 +1,12 @@
+There are $100$ players in a single tennis tournament. The tournament is single elimination, meaning that a player who loses a match is eliminated. In the first round, the strongest $28$ players are given a bye, and the remaining $72$ players are paired off to play. After each round, the remaining players play in the next round. The match continues until only one player remains unbeaten. The total number of matches played is
+ 
+$\qquad\textbf{(A) } \text{a prime number}$
+ 
+$\qquad\textbf{(B) } \text{divisible by 2}$
+ 
+$\qquad\textbf{(C) } \text{divisible by 5}$
+ 
+$\qquad\textbf{(D) } \text{divisible by 7}$
+ 
+$\qquad\textbf{(E) } \text{divisible by 11}$
+ 

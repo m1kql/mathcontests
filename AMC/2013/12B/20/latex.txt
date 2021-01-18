@@ -1,0 +1,4 @@
+For $135^\circ < x < 180^\circ$, points $P=(\cos x, \cos^2 x), Q=(\cot x, \cot^2 x), R=(\sin x, \sin^2 x)$ and $S =(\tan x, \tan^2 x)$ are the vertices of a trapezoid. What is $\sin(2x)$?
+ 
+$\textbf{(A)} \ 2-2\sqrt{2}\qquad\textbf{(B)}\ 3\sqrt{3}-6\qquad\textbf{(C)}\ 3\sqrt{2}-5\qquad\textbf{(D}\ -\frac{3}{4}\qquad\textbf{(E)}\ 1-\sqrt{3}$
+ 

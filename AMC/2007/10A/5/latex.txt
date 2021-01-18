@@ -1,0 +1,4 @@
+The school store sells 7 pencils and 8 notebooks for $\mathdollar 4.15$. It also sells 5 pencils and 3 notebooks for $\mathdollar 1.77$. How much do 16 pencils and 10 notebooks cost?
+ 
+$\text{(A)}\mathdollar 1.76 \qquad \text{(B)}\mathdollar 5.84 \qquad \text{(C)}\mathdollar 6.00 \qquad \text{(D)}\mathdollar 6.16 \qquad \text{(E)}\mathdollar 6.32$
+ 

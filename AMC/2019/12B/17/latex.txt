@@ -1,0 +1,4 @@
+How many nonzero complex numbers $z$ have the property that $0, z,$ and $z^3,$ when represented by points in the complex plane, are the three distinct vertices of an equilateral triangle?
+ 
+$\textbf{(A) }0\qquad\textbf{(B) }1\qquad\textbf{(C) }2\qquad\textbf{(D) }4\qquad\textbf{(E) }\text{infinitely many}$
+ 

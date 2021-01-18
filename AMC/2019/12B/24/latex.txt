@@ -1,0 +1,4 @@
+Let $\omega=-\tfrac{1}{2}+\tfrac{1}{2}i\sqrt3.$ Let $S$ denote all points in the complex plane of the form $a+b\omega+c\omega^2,$ where $0\leq a \leq 1,0\leq b\leq 1,$ and $0\leq c\leq 1.$ What is the area of $S$?
+ 
+$\textbf{(A) } \frac{1}{2}\sqrt3 \qquad\textbf{(B) } \frac{3}{4}\sqrt3 \qquad\textbf{(C) } \frac{3}{2}\sqrt3\qquad\textbf{(D) } \frac{1}{2}\pi\sqrt3 \qquad\textbf{(E) } \pi$
+ 

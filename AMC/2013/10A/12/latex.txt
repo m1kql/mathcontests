@@ -1,0 +1,6 @@
+In $\triangle ABC$, $AB=AC=28$ and $BC=20$.  Points $D,E,$ and $F$ are on sides $\overline{AB}$, $\overline{BC}$, and $\overline{AC}$, respectively, such that $\overline{DE}$ and $\overline{EF}$ are parallel to $\overline{AC}$ and $\overline{AB}$, respectively.  What is the perimeter of parallelogram $ADEF$?
+ 
+
+ 
+$\textbf{(A) }48\qquad \textbf{(B) }52\qquad \textbf{(C) }56\qquad \textbf{(D) }60\qquad \textbf{(E) }72\qquad$
+ 

@@ -1,0 +1,4 @@
+Two different numbers are selected at random from $\{1, 2, 3, 4, 5\}$ and multiplied together. What is the probability that the product is even?
+ 
+$\textbf{(A)}\ 0.2\qquad\textbf{(B)}\ 0.4\qquad\textbf{(C)}\ 0.5\qquad\textbf{(D)}\ 0.7\qquad\textbf{(E)}\ 0.8$
+ 

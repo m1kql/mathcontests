@@ -1,0 +1,6 @@
+All $20$ diagonals are drawn in a regular octagon. At how many distinct points in the interior
+ 
+of the octagon (not on the boundary) do two or more diagonals intersect?
+ 
+$\textbf{(A)}\ 49\qquad\textbf{(B)}\ 65\qquad\textbf{(C)}\ 70\qquad\textbf{(D)}\ 96\qquad\textbf{(E)}\ 128$
+ 

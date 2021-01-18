@@ -1,0 +1,4 @@
+A rectangular piece of paper measures 4 units by 5 units. Several lines are drawn parallel to the edges of the paper. A rectangle determined by the intersections of some of these lines is called basic if 
+ 
+Given that the total length of all lines drawn is exactly 2007 units, let $N$ be the maximum possible number of basic rectangles determined. Find the remainder when $N$ is divided by 1000.
+ 

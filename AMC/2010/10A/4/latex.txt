@@ -1,0 +1,4 @@
+A book that is to be recorded onto compact discs takes $412$ minutes to read aloud. Each disc can hold up to $56$ minutes of reading. Assume that the smallest possible number of discs is used and that each disc contains the same length of reading. How many minutes of reading will each disc contain?
+ 
+$\mathrm{(A)}\ 50.2 \qquad \mathrm{(B)}\ 51.5 \qquad \mathrm{(C)}\ 52.4 \qquad \mathrm{(D)}\ 53.8 \qquad \mathrm{(E)}\ 55.2$
+ 

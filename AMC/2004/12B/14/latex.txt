@@ -1,0 +1,6 @@
+In $\triangle ABC$, $AB=13$, $AC=5$, and $BC=12$. Points $M$ and $N$ lie on $AC$ and $BC$, respectively, with $CM=CN=4$. Points $J$ and $K$ are on $AB$ so that $MJ$ and $NK$ are perpendicular to $AB$. What is the area of pentagon $CMJKN$? 
+ 
+
+ 
+$\mathrm{(A)}\ 15 \qquad \mathrm{(B)}\ \frac{81}{5} \qquad \mathrm{(C)}\ \frac{205}{12} \qquad \mathrm{(D)}\ \frac{240}{13} \qquad \mathrm{(E)}\ 20$
+ 

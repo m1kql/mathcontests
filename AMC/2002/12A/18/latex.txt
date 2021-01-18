@@ -1,0 +1,6 @@
+Let $C_1$ and $C_2$ be circles defined by $(x-10)^2 + y^2 = 36$ and $(x+15)^2 + y^2 = 81$
+ 
+respectively. What is the length of the shortest line segment $PQ$ that is tangent to $C_1$ at $P$ and to $C_2$ at $Q$?
+ 
+$\text{(A) }15 \qquad \text{(B) }18 \qquad \text{(C) }20 \qquad \text{(D) }21 \qquad \text{(E) }24$
+ 

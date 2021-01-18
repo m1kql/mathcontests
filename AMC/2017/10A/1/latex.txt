@@ -1,0 +1,6 @@
+What is the value of $(2(2(2(2(2(2+1)+1)+1)+1)+1)+1)$?
+ 
+$\textbf{(A)}\ 70\qquad\textbf{(B)}\ 97\qquad\textbf{(C)}\ 127\qquad\textbf{(D)}\ 159\qquad\textbf{(E)}\ 729$
+ 
+
+ 

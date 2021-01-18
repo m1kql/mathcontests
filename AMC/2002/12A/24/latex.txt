@@ -1,0 +1,4 @@
+Find the number of ordered pairs of real numbers $(a,b)$ such that $(a+bi)^{2002} = a-bi$.
+ 
+$\text{(A) }1001 \qquad \text{(B) }1002 \qquad \text{(C) }2001 \qquad \text{(D) }2002 \qquad \text{(E) }2004$
+ 

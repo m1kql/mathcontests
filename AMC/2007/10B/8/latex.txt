@@ -1,0 +1,4 @@
+On the trip home from the meeting where this AMC10 was constructed, the Contest Chair noted that his airport parking receipt had digits of the form $bbcac,$ where $0 \le a < b < c \le 9,$ and $b$ was the average of $a$ and $c.$ How many different five-digit numbers satisfy all these properties?
+ 
+$\textbf{(A) } 12 \qquad\textbf{(B) } 16 \qquad\textbf{(C) } 18 \qquad\textbf{(D) } 20 \qquad\textbf{(E) } 25$
+ 

@@ -1,0 +1,6 @@
+Circles with centers $O$ and $P$ have radii 2 and 4, respectively, and are externally tangent.  Points $A$ and $B$ are on the circle centered at $O$, and points $C$ and $D$ are on the circle centered at $P$, such that $\overline{AD}$ and $\overline{BC}$ are common external tangents to the circles.  What is the area of hexagon $AOBCPD$?
+ 
+
+ 
+$\textbf{(A) } 18\sqrt {3} \qquad \textbf{(B) } 24\sqrt {2} \qquad \textbf{(C) } 36 \qquad \textbf{(D) } 24\sqrt {3} \qquad \textbf{(E) } 32\sqrt {2}$
+ 

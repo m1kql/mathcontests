@@ -1,0 +1,2 @@
+$X$ is the smallest set of polynomials $p(x)$ such that: 
+Show that if $r(x)$ and $s(x)$ are distinct elements of $X$, then $r(x) \neq s(x)$ for any $0 < x < 1$. 

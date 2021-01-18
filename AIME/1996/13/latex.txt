@@ -1,0 +1,2 @@
+In triangle $ABC$, $AB=\sqrt{30}$, $AC=\sqrt{6}$, and $BC=\sqrt{15}$. There is a point $D$ for which $\overline{AD}$ bisects $\overline{BC}$, and $\angle ADB$ is a right angle. The ratio $\frac{[ADB]}{[ABC]}$ can be written in the form $\dfrac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.
+ 

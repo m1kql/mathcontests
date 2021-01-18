@@ -1,0 +1,4 @@
+A set of $25$ square blocks is arranged into a $5 \times 5$ square. How many different combinations of $3$ blocks can be selected from that set so that no two are in the same row or column?
+ 
+$\textbf{(A) } 100 \qquad\textbf{(B) } 125  \qquad\textbf{(C) } 600 \qquad\textbf{(D) } 2300 \qquad\textbf{(E) } 3600$
+ 

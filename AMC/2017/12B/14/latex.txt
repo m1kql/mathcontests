@@ -1,0 +1,4 @@
+An ice-cream novelty item consists of a cup in the shape of a 4-inch-tall frustum of a right circular cone, with a 2-inch-diameter base at the bottom and a 4-inch-diameter base at the top, packed solid with ice cream, together with a solid cone of ice cream of height 4 inches, whose base, at the bottom, is the top base of the frustum. What is the total volume of the ice cream, in cubic inches?
+ 
+$\textbf{(A)}\ 8\pi \qquad \textbf{(B)}\ \frac{28\pi}{3} \qquad \textbf{(C)}\ 12\pi \qquad \textbf{(D)}\ 14\pi \qquad \textbf{(E)}\ \frac{44\pi}{3}$
+ 

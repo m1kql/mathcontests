@@ -1,0 +1,4 @@
+A line with slope $3$ intersects a line with slope $5$ at point  $(10,15)$. What is the distance between the $x$-intercepts of these two lines?
+ 
+$\textbf{(A) } 2 \qquad\textbf{(B) } 5 \qquad\textbf{(C) } 7 \qquad\textbf{(D) } 12 \qquad\textbf{(E) } 20$
+ 

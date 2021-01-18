@@ -1,0 +1,4 @@
+Two particles move along the edges of equilateral $\triangle ABC$ in the direction  \begin{center} \[A\Rightarrow B\Rightarrow C\Rightarrow A,\] \end{center}  starting simultaneously and moving at the same speed. One starts at $A$, and the other starts at the midpoint of $\overline{BC}$. The midpoint of the line segment joining the two particles traces out a path that encloses a region $R$. What is the ratio of the area of $R$ to the area of $\triangle ABC$?
+ 
+$\mathrm {(A)} \frac{1}{16}\qquad \mathrm {(B)} \frac{1}{12}\qquad \mathrm {(C)} \frac{1}{9}\qquad \mathrm {(D)} \frac{1}{6}\qquad \mathrm {(E)} \frac{1}{4}$
+ 

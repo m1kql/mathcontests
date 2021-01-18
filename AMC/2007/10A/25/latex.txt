@@ -1,0 +1,4 @@
+For each positive integer $n$, let $S(n)$ denote the sum of the digits of $n.$ For how many values of $n$ is $n + S(n) + S(S(n)) = 2007?$
+ 
+$\mathrm{(A)}\ 1 \qquad \mathrm{(B)}\ 2 \qquad \mathrm{(C)}\ 3 \qquad \mathrm{(D)}\ 4 \qquad \mathrm{(E)}\ 5$
+ 

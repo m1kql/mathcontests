@@ -1,0 +1,5 @@
+
+Heather compares the price of a new computer at two different stores. Store $A$ offers $15\%$ off the sticker price followed by a \textdollar 90 rebate, and store $B$ offers $25\%$ off the same sticker price with no rebate. Heather saves \textdollar 15 by buying the computer at store $A$ instead of store $B$. What is the sticker price of the computer, in dollars?
+
+$\textbf{(A)}\ 750\qquad\textbf{(B)}\ 900\qquad\textbf{(C)}\ 1000\qquad\textbf{(D)}\ 1050\qquad\textbf{(E)}\ 1500$
+

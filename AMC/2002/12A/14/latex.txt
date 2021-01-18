@@ -1,0 +1,4 @@
+For all positive integers $n$, let $f(n)=\log_{2002} n^2$. Let $N=f(11)+f(13)+f(14)$. Which of the following relations is true?
+ 
+$\text{(A) }N<1 \qquad \text{(B) }N=1 \qquad \text{(C) }1<N<2 \qquad \text{(D) }N=2 \qquad \text{(E) }N>2$
+ 

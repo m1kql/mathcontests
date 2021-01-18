@@ -1,0 +1,4 @@
+Consider all quadrilaterals $ABCD$ such that $AB=14$, $BC=9$, $CD=7$, and $DA=12$. What is the radius of the largest possible circle that fits inside or on the boundary of such a quadrilateral?
+ 
+$\textbf{(A)}\ \sqrt{15} \qquad \textbf{(B)}\ \sqrt{21} \qquad \textbf{(C)}\ 2\sqrt{6} \qquad \textbf{(D)}\ 5 \qquad \textbf{(E)}\ 2\sqrt{7}$
+ 

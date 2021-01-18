@@ -1,0 +1,4 @@
+Henry's Hamburger Haven offers its hamburgers with the following condiments: ketchup, mustard, mayonnaise, tomato, lettuce, pickles, cheese, and onions.  A customer can choose one, two, or three meat patties and any collection of condiments.  How many different kinds of hamburgers can be ordered?
+ 
+$\mathrm{(A) \ } 24 \qquad \mathrm{(B) \ } 256 \qquad \mathrm{(C) \ } 768 \qquad \mathrm{(D) \ } 40,320 \qquad \mathrm{(E) \ } 120,960$
+ 

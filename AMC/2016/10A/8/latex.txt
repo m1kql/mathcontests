@@ -1,0 +1,4 @@
+Trickster Rabbit agrees with Foolish Fox to double Fox's money every time Fox crosses the bridge by Rabbit's house, as long as Fox pays $40$ coins in toll to Rabbit after each crossing. The payment is made after the doubling, Fox is excited about his good fortune until he discovers that all his money is gone after crossing the bridge three times. How many coins did Fox have at the beginning?
+ 
+$\textbf{(A)}\ 20 \qquad\textbf{(B)}\ 30\qquad\textbf{(C)}\ 35\qquad\textbf{(D)}\ 40\qquad\textbf{(E)}\ 45$
+ 

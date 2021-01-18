@@ -1,0 +1,4 @@
+A parabola with equation $y=x^2+bx+c$ passes through the points $(2,3)$ and $(4,3)$.  What is $c$?
+ 
+$\mathrm{(A) \ } 2\qquad \mathrm{(B) \ } 5\qquad \mathrm{(C) \ } 7\qquad \mathrm{(D) \ } 10\qquad \mathrm{(E) \ } 11$
+ 

@@ -1,0 +1,2 @@
+In $\triangle ABC$, $AB = 3$, $BC = 4$, and $CA = 5$. Circle $\omega$ intersects $\overline{AB}$ at $E$ and $B$, $\overline{BC}$ at $B$ and $D$, and $\overline{AC}$ at $F$ and $G$. Given that $EF=DF$ and $\frac{DG}{EG} = \frac{3}{4}$, length $DE=\frac{a\sqrt{b}}{c}$, where $a$ and $c$ are relatively prime positive integers, and $b$ is a positive integer not divisible by the square of any prime. Find $a+b+c$.
+ 

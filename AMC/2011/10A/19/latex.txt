@@ -1,0 +1,4 @@
+In 1991 the population of a town was a perfect square. Ten years later, after an increase of 150 people, the population was 9 more than a perfect square. Now, in 2011, with an increase of another 150 people, the population is once again a perfect square. Which of the following is closest to the percent growth of the town's population during this twenty-year period?
+ 
+$\textbf{(A)}\ 42 \qquad\textbf{(B)}\ 47 \qquad\textbf{(C)}\ 52\qquad\textbf{(D)}\ 57\qquad\textbf{(E)}\ 62$
+ 

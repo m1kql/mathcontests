@@ -1,0 +1,4 @@
+Roy bought a new battery-gasoline hybrid car. On a trip the car ran exclusively on its battery for the first $40$ miles, then ran exclusively on gasoline for the rest of the trip, using gasoline at a rate of $0.02$ gallons per mile. On the whole trip he averaged $55$ miles per gallon. How long was the trip in miles?
+ 
+$\mathrm{(A)}\ 140 \qquad \mathrm{(B)}\ 240 \qquad \mathrm{(C)}\ 440 \qquad \mathrm{(D)}\ 640 \qquad \mathrm{(E)}\ 840$
+ 

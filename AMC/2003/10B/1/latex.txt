@@ -1,0 +1,6 @@
+Which of the following is the same as
+ 
+ \begin{center} \[\frac{2-4+6-8+10-12+14}{3-6+9-12+15-18+21}?\] \end{center} 
+ 
+$\text {(A) } -1 \qquad \text {(B) } -\frac{2}{3} \qquad \text {(C) } \frac{2}{3} \qquad \text {(D) } 1 \qquad \text {(E) } \frac{14}{3}$
+ 

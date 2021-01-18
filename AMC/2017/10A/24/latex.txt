@@ -1,0 +1,4 @@
+For certain real numbers $a$, $b$, and $c$, the polynomial  \begin{center} \[g(x) = x^3 + ax^2 + x + 10\] \end{center} has three distinct roots, and each root of $g(x)$ is also a root of the polynomial  \begin{center} \[f(x) = x^4 + x^3 + bx^2 + 100x + c.\] \end{center} What is $f(1)$?
+ 
+$\textbf{(A)}\ -9009 \qquad\textbf{(B)}\ -8008 \qquad\textbf{(C)}\ -7007 \qquad\textbf{(D)}\ -6006 \qquad\textbf{(E)}\ -5005$
+ 

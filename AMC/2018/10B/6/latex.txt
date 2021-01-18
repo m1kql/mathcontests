@@ -1,0 +1,4 @@
+A box contains $5$ chips, numbered $1$, $2$, $3$, $4$, and $5$. Chips are drawn randomly one at a time without replacement until the sum of the values drawn exceeds $4$. What is the probability that $3$ draws are required?
+ 
+$\textbf{(A)} \frac{1}{15} \qquad \textbf{(B)} \frac{1}{10} \qquad \textbf{(C)} \frac{1}{6} \qquad \textbf{(D)} \frac{1}{5} \qquad \textbf{(E)} \frac{1}{4}$
+ 

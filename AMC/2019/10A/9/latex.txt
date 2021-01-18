@@ -1,0 +1,4 @@
+What is the greatest three-digit positive integer $n$ for which the sum of the first $n$ positive integers is $\underline{not}$ a divisor of the product of the first $n$ positive integers?
+ 
+$\textbf{(A) } 995 \qquad\textbf{(B) } 996 \qquad\textbf{(C) } 997 \qquad\textbf{(D) } 998 \qquad\textbf{(E) } 999$
+ 

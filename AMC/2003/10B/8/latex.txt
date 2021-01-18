@@ -1,0 +1,4 @@
+The second and fourth terms of a geometric sequence are $2$ and $6$. Which of the following is a possible first term?
+ 
+$\textbf{(A) } -\sqrt{3}  \qquad\textbf{(B) } -\frac{2\sqrt{3}}{3} \qquad\textbf{(C) } -\frac{\sqrt{3}}{3} \qquad\textbf{(D) } \sqrt{3} \qquad\textbf{(E) } 3$
+ 

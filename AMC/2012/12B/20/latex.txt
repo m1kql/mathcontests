@@ -1,0 +1,4 @@
+A trapezoid has side lengths 3, 5, 7, and 11. The sums of all the possible areas of the trapezoid can be written in the form of $r_1\sqrt{n_1}+r_2\sqrt{n_2}+r_3$, where $r_1$, $r_2$, and $r_3$ are rational numbers and $n_1$ and $n_2$ are positive integers not divisible by the square of any prime. What is the greatest integer less than or equal to $r_1+r_2+r_3+n_1+n_2$?
+ 
+$\textbf{(A)}\ 57\qquad\textbf{(B)}\ 59\qquad\textbf{(C)}\ 61\qquad\textbf{(D)}\ 63\qquad\textbf{(E)}\ 65$
+ 

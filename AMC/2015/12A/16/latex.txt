@@ -1,0 +1,4 @@
+Tetrahedron $ABCD$ has $AB=5$, $AC=3$, $BC=4$, $BD=4$, $AD=3$, and $CD=\tfrac{12}5\sqrt2$.  What is the volume of the tetrahedron?
+ 
+$\textbf{(A) }3\sqrt2\qquad\textbf{(B) }2\sqrt5\qquad\textbf{(C) }\dfrac{24}5\qquad\textbf{(D) }3\sqrt3\qquad\textbf{(E) }\dfrac{24}5\sqrt2$
+ 

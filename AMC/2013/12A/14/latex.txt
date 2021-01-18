@@ -1,0 +1,8 @@
+The sequence
+ 
+$\log_{12}{162}$, $\log_{12}{x}$, $\log_{12}{y}$, $\log_{12}{z}$, $\log_{12}{1250}$
+ 
+is an arithmetic progression. What is $x$?
+ 
+$\textbf{(A)} \ 125\sqrt{3} \qquad \textbf{(B)} \ 270 \qquad \textbf{(C)} \ 162\sqrt{5} \qquad \textbf{(D)} \ 434 \qquad \textbf{(E)} \ 225\sqrt{6}$
+ 

@@ -1,0 +1,6 @@
+For a science project, Sammy observed a chipmunk and a squirrel stashing acorns in holes. The chipmunk hid 3 acorns in each of the holes it dug. The squirrel hid 4 acorns in each of the holes it dug. They each hid the same number of acorns, although the squirrel needed 4 fewer holes. How many acorns did the chipmunk hide?
+ 
+$\textbf{(A)}\ 30\qquad\textbf{(B)}\ 36\qquad\textbf{(C)}\ 42\qquad\textbf{(D)}\ 48\qquad\textbf{(E)}\ 54$
+ 
+
+ 

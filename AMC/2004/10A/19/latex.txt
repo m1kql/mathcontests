@@ -1,0 +1,6 @@
+A white cylindrical silo has a diameter of 30 feet and a height of 80 feet. A red stripe with a horizontal width of 3 feet is painted on the silo, as shown, making two complete revolutions around it. What is the area of the stripe in square feet?
+ 
+
+ 
+$\mathrm{(A) \ } 120 \qquad \mathrm{(B) \ } 180 \qquad \mathrm{(C) \ } 240 \qquad \mathrm{(D) \ } 360 \qquad \mathrm{(E) \ } 480$
+ 

@@ -1,0 +1,4 @@
+Two distinct lines pass through the center of three concentric circles of radii 3, 2, and 1. The area of the shaded region in the diagram is $\frac{8}{13}$ of the area of the unshaded region. What is the radian measure of the acute angle formed by the two lines? (Note: $\pi$ radians is $180$ degrees.)
+ 
+$\mathrm{(A) \ } \frac{\pi}{8} \qquad \mathrm{(B) \ } \frac{\pi}{7} \qquad \mathrm{(C) \ } \frac{\pi}{6} \qquad \mathrm{(D) \ } \frac{\pi}{5} \qquad \mathrm{(E) \ } \frac{\pi}{4}$
+ 

@@ -1,0 +1,4 @@
+Triangle $ABC$ is an isosceles right triangle with $AB=AC=3$. Let $M$ be the midpoint of hypotenuse $\overline{BC}$. Points $I$ and $E$ lie on sides $\overline{AC}$ and $\overline{AB}$, respectively, so that $AI>AE$ and $AIME$ is a cyclic quadrilateral. Given that triangle $EMI$ has area $2$, the length $CI$ can be written as $\frac{a-\sqrt{b}}{c}$, where $a$, $b$, and $c$ are positive integers and $b$ is not divisible by the square of any prime. What is the value of $a+b+c$?
+ 
+$\textbf{(A) }9 \qquad \textbf{(B) }10 \qquad \textbf{(C) }11 \qquad \textbf{(D) }12 \qquad \textbf{(E) }13 \qquad$
+ 

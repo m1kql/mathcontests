@@ -1,0 +1,8 @@
+In a Martian civilization, all logarithms whose bases are not specified as assumed to be base $b$, for some fixed $b\ge2$. A Martian student writes down
+ 
+ \begin{center} \[3\log(\sqrt{x}\log x)=56\] \end{center} 
+ 
+ \begin{center} \[\log_{\log x}(x)=54\] \end{center} 
+ 
+and finds that this system of equations has a single real number solution $x>1$. Find $b$.
+ 

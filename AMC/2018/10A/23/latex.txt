@@ -1,0 +1,6 @@
+Farmer Pythagoras has a field in the shape of a right triangle. The right triangle's legs have lengths 3 and 4 units. In the corner where those sides meet at a right angle, he leaves a small unplanted square $S$ so that from the air it looks like the right angle symbol. The rest of the field is planted. The shortest distance from $S$ to the hypotenuse is 2 units. What fraction of the field is planted?
+ 
+
+ 
+$\textbf{(A) }   \frac{25}{27}   \qquad        \textbf{(B) }   \frac{26}{27}   \qquad    \textbf{(C) }   \frac{73}{75}   \qquad   \textbf{(D) } \frac{145}{147} \qquad  \textbf{(E) }   \frac{74}{75}$
+ 

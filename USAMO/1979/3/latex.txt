@@ -1,0 +1,2 @@
+$a_1, a_2, \ldots, a_n$ is an arbitrary sequence of positive integers. A member of the sequence is picked at 
+random. Its value is $a$. Another member is picked at random, independently of the first. Its value is $b$. Then a third value, $c$. Show that the probability that $a + b +c$ is divisible by $3$ is at least $\frac14$.

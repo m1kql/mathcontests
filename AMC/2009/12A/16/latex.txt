@@ -1,0 +1,4 @@
+A circle with center $C$ is tangent to the positive $x$ and $y$-axes and externally tangent to the circle centered at $(3,0)$ with radius $1$. What is the sum of all possible radii of the circle with center $C$?
+ 
+$\textbf{(A)}\ 3 \qquad \textbf{(B)}\ 4 \qquad \textbf{(C)}\ 6 \qquad \textbf{(D)}\ 8 \qquad \textbf{(E)}\ 9$
+ 

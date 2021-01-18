@@ -1,0 +1,4 @@
+How many terms are in the arithmetic sequence $13$, $16$, $19$, $\dotsc$, $70$, $73$?
+ 
+$\textbf{(A)}\ 20 \qquad\textbf{(B)} \ 21 \qquad\textbf{(C)} \ 24 \qquad\textbf{(D)} \ 60 \qquad\textbf{(E)} \ 61$
+ 

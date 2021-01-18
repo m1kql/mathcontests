@@ -1,0 +1,4 @@
+Let $f(x)= \sqrt{ax^2+bx}$.  For how many  real values of $a$ is there at least one  positive value of $b$ for which the domain of $f$ and the range of $f$ are the same set?
+ 
+$\mathrm{(A) \ 0 } \qquad \mathrm{(B) \ 1 } \qquad \mathrm{(C) \ 2 } \qquad \mathrm{(D) \ 3 } \qquad \mathrm{(E) \ \mathrm{infinitely \ many} }$
+ 

@@ -1,0 +1,4 @@
+Two of the three sides of a triangle are 20 and 15. Which of the following numbers is not a possible perimeter of the triangle?
+ 
+$\textbf{(A)}\ 52\qquad\textbf{(B)}\ 57\qquad\textbf{(C)}\ 62\qquad\textbf{(D)}\ 67\qquad\textbf{(E)}\ 72$
+ 

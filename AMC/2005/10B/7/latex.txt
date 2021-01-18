@@ -1,0 +1,4 @@
+A circle is inscribed in a square, then a square is inscribed in this circle, and finally, a circle is inscribed in this square. What is the ratio of the area of the smaller circle to the area of the larger square?
+ 
+$\mathrm{(A)} \frac{\pi}{16} \qquad \mathrm{(B)} \frac{\pi}{8} \qquad \mathrm{(C)} \frac{3\pi}{16} \qquad \mathrm{(D)} \frac{\pi}{4} \qquad \mathrm{(E)} \frac{\pi}{2}$
+ 

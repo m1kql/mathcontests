@@ -1,0 +1,4 @@
+Let $S$ be the set $\{1,2,3,...,19\}$. For $a,b \in S$, define $a \succ b$ to mean that either $0 < a - b \le 9$ or $b - a > 9$. How many ordered triples $(x,y,z)$ of elements of $S$ have the property that $x \succ y$, $y \succ z$, and $z \succ x$?
+ 
+$\textbf{(A)} \ 810 \qquad  \textbf{(B)} \ 855 \qquad  \textbf{(C)} \ 900 \qquad  \textbf{(D)} \ 950 \qquad  \textbf{(E)} \ 988$
+ 

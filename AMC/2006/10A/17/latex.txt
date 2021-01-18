@@ -1,0 +1,6 @@
+In rectangle $ADEH$, points $B$ and $C$ trisect $\overline{AD}$, and points $G$ and $F$ trisect $\overline{HE}$. In addition, $AH=AC=2$, and $AD=3$. What is the area of quadrilateral $WXYZ$ shown in the figure? 
+ 
+$\mathrm{(A) \ } \frac{1}{2}\qquad\mathrm{(B) \ } \frac{\sqrt{2}}{2}\qquad\mathrm{(C) \ } \frac{\sqrt{3}}{2}\qquad\mathrm{(D) \ } \frac{2\sqrt{2}}{2}\qquad\mathrm{(E) \ } \frac{2\sqrt{3}}{3}\qquad$
+ 
+
+ 

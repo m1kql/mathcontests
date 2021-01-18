@@ -1,0 +1,5 @@
+
+Last year Mr. Jon Q. Public received an inheritance. He paid $20\%$ in federal taxes on the inheritance, and paid $10\%$ of what he had left in state taxes. He paid a total of \textdollar 10500 for both taxes. How many dollars was his inheritance?
+
+$(\textbf {A})\ 30000 \qquad (\textbf {B})\ 32500 \qquad(\textbf {C})\ 35000 \qquad(\textbf {D})\ 37500 \qquad(\textbf {E})\ 40000$
+

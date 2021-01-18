@@ -1,0 +1,4 @@
+A big $L$ is formed as shown. What is its area?
+ 
+$\textbf{(A)}\ 22 \qquad \textbf{(B)}\ 24 \qquad \textbf{(C)}\ 26 \qquad \textbf{(D)}\ 28 \qquad \textbf{(E)}\ 30$
+ 

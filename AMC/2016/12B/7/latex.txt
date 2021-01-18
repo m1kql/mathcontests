@@ -1,0 +1,4 @@
+Josh writes the numbers $1,2,3,\dots,99,100$. He marks out $1$, skips the next number $(2)$, marks out $3$, and continues skipping and marking out the next number to the end of the list. Then he goes back to the start of his list, marks out the first remaining number $(2)$, skips the next number $(4)$, marks out $6$, skips $8$, marks out $10$, and so on to the end. Josh continues in this manner until only one number remains. What is that number?
+ 
+$\textbf{(A)}\ 13 \qquad \textbf{(B)}\ 32 \qquad \textbf{(C)}\ 56 \qquad \textbf{(D)}\ 64 \qquad \textbf{(E)}\ 96$
+ 

@@ -1,0 +1,4 @@
+Let $a_1 , a_2 , ...$ be a sequence for which $a_1=2$ , $a_2=3$, and $a_n=\frac{a_{n-1}}{a_{n-2}}$ for each positive integer $n \ge 3$. What is $a_{2006}$?
+ 
+$\mathrm{(A) \ } \frac{1}{2}\qquad \mathrm{(B) \ } \frac{2}{3}\qquad \mathrm{(C) \ } \frac{3}{2}\qquad \mathrm{(D) \ } 2\qquad \mathrm{(E) \ } 3$
+ 

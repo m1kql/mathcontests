@@ -1,0 +1,1 @@
+The insphere of a tetrahedron touches each face at its centroid. Show that the tetrahedron is regular.

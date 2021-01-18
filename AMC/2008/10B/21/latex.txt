@@ -1,0 +1,4 @@
+Ten chairs are evenly spaced around a round table  and numbered clockwise from $1$ through $10$. Five married couples are to sit in the chairs with men and women alternating, and no one is to sit either next to or across from his/her spouse. How many seating arrangements are possible?
+ 
+$\mathrm{(A)}\ 240\qquad\mathrm{(B)}\ 360\qquad\mathrm{(C)}\ 480\qquad\mathrm{(D)}\ 540\qquad\mathrm{(E)}\ 720$
+ 

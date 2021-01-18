@@ -1,0 +1,4 @@
+Consider sequences of positive real numbers of the form $x, 2000, y, \dots$ in which every term after the first is 1 less than the product of its two immediate neighbors. For how many different values of $x$ does the term 2001 appear somewhere in the sequence?
+ 
+$\text{(A) }1 \qquad \text{(B) }2 \qquad \text{(C) }3 \qquad \text{(D) }4 \qquad \text{(E) more than }4$
+ 

@@ -1,0 +1,6 @@
+The $8\times18$ rectangle $ABCD$ is cut into two congruent hexagons, as shown, in such a way that the two hexagons can be repositioned without overlap to form a square.  What is $y$? 
+ 
+
+ 
+$\mathrm{(A)}\ 6\qquad\mathrm{(B)}\ 7\qquad\mathrm{(C)}\ 8\qquad\mathrm{(D)}\ 9\qquad\mathrm{(E)}\ 10$
+ 

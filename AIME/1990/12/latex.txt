@@ -1,0 +1,2 @@
+A regular 12-gon is inscribed in a circle of radius 12.  The sum of the lengths of all sides and diagonals of the 12-gon can be written in the form $a + b \sqrt{2} + c \sqrt{3} + d \sqrt{6},$ where $a^{}_{}$, $b^{}_{}$, $c^{}_{}$, and $d^{}_{}$ are positive integers.  Find $a + b + c + d^{}_{}$.
+ 

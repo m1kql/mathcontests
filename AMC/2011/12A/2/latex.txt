@@ -1,0 +1,6 @@
+There are $5$ coins placed flat on a table according to the figure. What is the order of the coins from top to bottom?
+ 
+
+ 
+$\textbf{(A)}\ (C, A, E, D, B) \qquad \textbf{(B)}\ (C, A, D, E, B) \qquad \textbf{(C)}\ (C, D, E, A, B) \qquad \textbf{(D)}\ (C, E, A, D, B) \qquad \\ \textbf{(E)}\ (C, E, D, A, B)$
+ 

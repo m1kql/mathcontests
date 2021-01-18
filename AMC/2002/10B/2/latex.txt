@@ -1,0 +1,8 @@
+For the nonzero numbers a, b, and c, define
+ 
+$D(a,b,c)=\frac{abc}{a+b+c}$
+ 
+Find $D(2,4,6)$.
+ 
+$\mathrm{(A) \ } 1\qquad \mathrm{(B) \ } 2\qquad \mathrm{(C) \ } 4\qquad \mathrm{(D) \ } 6\qquad \mathrm{(E) \ } 24$
+ 

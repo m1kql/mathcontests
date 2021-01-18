@@ -1,0 +1,4 @@
+Let $A(2,2)$ and $B(7,7)$ be points in the plane. Define $R$ as the region in the first quadrant consisting of those points $C$ such that $\triangle ABC$ is an acute triangle. What is the closest integer to the area of the region $R$?
+ 
+$\mathrm{(A)}\ 25     \qquad \mathrm{(B)}\ 39     \qquad \mathrm{(C)}\ 51     \qquad \mathrm{(D)}\ 60      \qquad \mathrm{(E)}\ 80$
+ 

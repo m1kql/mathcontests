@@ -1,0 +1,4 @@
+The first term of a sequence is $2005$. Each succeeding term is the sum of the cubes of the digits of the previous term. What is the $2005^\text{th}$ term of the sequence?
+ 
+$\mathrm{(A)}\ {{{29}}} \qquad \mathrm{(B)}\ {{{55}}} \qquad \mathrm{(C)}\ {{{85}}} \qquad \mathrm{(D)}\ {{{133}}} \qquad \mathrm{(E)}\ {{{250}}}$
+ 

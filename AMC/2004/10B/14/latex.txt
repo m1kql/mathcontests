@@ -1,0 +1,4 @@
+A bag initially contains red marbles and blue marbles only, with more blue than red. Red marbles are added to the bag until only $\frac{1}{3}$ of the marbles in the bag are blue. Then yellow marbles are added to the bag until only $\frac{1}{5}$ of the marbles in the bag are blue. Finally, the number of blue marbles in the bag is doubled. What fraction of the marbles now in the bag are blue?
+ 
+$\mathrm{(A) \ } \frac{1}{5} \qquad \mathrm{(B) \ } \frac{1}{4} \qquad \mathrm{(C) \ } \frac{1}{3} \qquad \mathrm{(D) \ } \frac{2}{5} \qquad \mathrm{(E) \ } \frac{1}{2}$
+ 

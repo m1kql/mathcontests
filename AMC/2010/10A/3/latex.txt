@@ -1,0 +1,4 @@
+Tyrone had $97$ marbles and Eric had $11$ marbles. Tyrone then gave some of his marbles to Eric so that Tyrone ended with twice as many marbles as Eric. How many marbles did Tyrone give to Eric?
+ 
+$\mathrm{(A)}\ 3 \qquad \mathrm{(B)}\ 13 \qquad \mathrm{(C)}\ 18 \qquad \mathrm{(D)}\ 25 \qquad \mathrm{(E)}\ 29$
+ 

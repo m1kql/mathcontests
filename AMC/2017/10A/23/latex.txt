@@ -1,0 +1,6 @@
+How many triangles with positive area have all their vertices at points $(i,j)$ in the coordinate plane, where $i$ and $j$ are integers between $1$ and $5$, inclusive?
+ 
+$\textbf{(A)}\ 2128 \qquad\textbf{(B)}\ 2148 \qquad\textbf{(C)}\ 2160 \qquad\textbf{(D)}\ 2200 \qquad\textbf{(E)}\ 2300$
+ 
+
+ 

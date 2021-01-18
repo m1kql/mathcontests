@@ -1,0 +1,4 @@
+Let $S$ be the set of points $(x,y)$ in the coordinate plane such that two of the three quantities $3$, $x+2$, and $y-4$ are equal and the third of the three quantities is no greater than the common value. Which of the following is a correct description of $S$?
+ 
+$\textbf{(A)}\ \text{a single point} \qquad\textbf{(B)}\ \text{two intersecting lines} \\ \qquad\textbf{(C)}\ \text{three lines whose pairwise intersections are three distinct points} \\ \qquad\textbf{(D)}\ \text{a triangle}\qquad\textbf{(E)}\ \text{three rays with a common point}$
+ 

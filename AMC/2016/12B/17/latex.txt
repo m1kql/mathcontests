@@ -1,0 +1,6 @@
+In $\triangle ABC$ shown in the figure, $AB=7$, $BC=8$, $CA=9$, and $\overline{AH}$ is an altitude. Points $D$ and $E$ lie on sides $\overline{AC}$ and $\overline{AB}$, respectively, so that $\overline{BD}$ and $\overline{CE}$ are angle bisectors, intersecting $\overline{AH}$ at $Q$ and $P$, respectively. What is $PQ$?
+ 
+
+ 
+$\textbf{(A)}\ 1 \qquad \textbf{(B)}\ \frac{5}{8}\sqrt{3} \qquad \textbf{(C)}\ \frac{4}{5}\sqrt{2} \qquad \textbf{(D)}\ \frac{8}{15}\sqrt{5} \qquad \textbf{(E)}\ \frac{6}{5}$
+ 

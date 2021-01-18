@@ -1,0 +1,4 @@
+Let $S$ be the set of all positive integer divisors of $100,000.$ How many numbers are the product of two distinct elements of $S?$
+ 
+$\textbf{(A) }98\qquad\textbf{(B) }100\qquad\textbf{(C) }117\qquad\textbf{(D) }119\qquad\textbf{(E) }121$
+ 

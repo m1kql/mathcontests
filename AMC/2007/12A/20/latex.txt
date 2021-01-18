@@ -1,0 +1,4 @@
+Corners are sliced off a unit cube so that the six faces each become regular octagons. What is the total volume of the removed tetrahedra?
+ 
+$\mathrm{(A)}\ \frac{5\sqrt{2}-7}{3}\qquad \mathrm{(B)}\ \frac{10-7\sqrt{2}}{3}\qquad \mathrm{(C)}\ \frac{3-2\sqrt{2}}{3}\qquad \mathrm{(D)}\ \frac{8\sqrt{2}-11}{3}\qquad \mathrm{(E)}\ \frac{6-4\sqrt{2}}{3}$
+ 

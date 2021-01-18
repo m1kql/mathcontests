@@ -1,0 +1,4 @@
+If $|x - 2| = p$, where $x < 2$, then $x - p =$
+ 
+$\mathrm{(A) \ -2 } \qquad \mathrm{(B) \ 2 } \qquad \mathrm{(C) \ 2-2p } \qquad \mathrm{(D) \ 2p-2 } \qquad \mathrm{(E) \ |2p-2| }$
+ 

@@ -1,0 +1,4 @@
+The lines $x = \frac 14y + a$ and $y = \frac 14x + b$ intersect at the point $(1,2)$.  What is $a + b$?
+ 
+$\text {(A) } 0 \qquad \text {(B) } \frac 34 \qquad \text {(C) } 1 \qquad \text {(D) } 2 \qquad \text {(E) } \frac 94$
+ 

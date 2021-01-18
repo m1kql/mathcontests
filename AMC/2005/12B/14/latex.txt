@@ -1,0 +1,4 @@
+A circle having center $(0,k)$, with $k>6$, is tangent to the lines $y=x$, $y=-x$ and $y=6$. What is the radius of this circle?
+ 
+$\mathrm{(A)}\ 6\sqrt{2}-6 \qquad \mathrm{(B)}\ 6 \qquad \mathrm{(C)}\ 6\sqrt{2} \qquad \mathrm{(D)}\ 12 \qquad \mathrm{(E)}\ 6+6\sqrt{2}$
+ 

@@ -1,0 +1,4 @@
+Two equilateral triangles are contained in square whose side length is $2\sqrt 3$. The bases of these triangles are the opposite side of the square, and their intersection is a rhombus. What is the area of the rhombus?
+ 
+$\text{(A) } \frac{3}{2} \qquad \text{(B) } \sqrt 3 \qquad \text{(C) } 2\sqrt 2 -   1  \qquad \text{(D) } 8\sqrt 3 - 12 \qquad \text{(E)}  \frac{4\sqrt 3}{3}$
+ 

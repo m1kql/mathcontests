@@ -1,0 +1,8 @@
+How many pairs of positive integers (a,b) are there such that a and b have no common factors greater than 1 and:
+ 
+$\frac{a}{b} + \frac{14b}{9a}$
+ 
+is an integer?
+ 
+$\textbf{(A) }4\qquad\textbf{(B) }6\qquad\textbf{(C) }9\qquad\textbf{(D) }12\qquad\textbf{(E) }\text{infinitely many}$
+ 

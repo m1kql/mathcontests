@@ -1,0 +1,4 @@
+How many $7$-digit palindromes (numbers that read the same backward as forward) can be formed using the digits $2$, $2$, $3$, $3$, $5$, $5$, $5$?
+ 
+$\text{(A) } 6 \qquad \text{(B) } 12 \qquad \text{(C) } 24 \qquad \text{(D) } 36 \qquad \text{(E) } 48$
+ 

@@ -1,0 +1,1 @@
+The cubic polynomial $x^3+ax^2+bx+c$ has real coefficients and three real roots $r\ge s\ge t$. Show that $k=a^2-3b\ge 0$ and that $\sqrt k\le r-t$.

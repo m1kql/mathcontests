@@ -1,0 +1,4 @@
+The sums of three whole numbers taken in pairs are 12, 17, and 19. What is the middle number?
+ 
+$\textbf{(A)}\ 4\qquad\textbf{(B)}\ 5\qquad\textbf{(C)}\ 6\qquad\textbf{(D)}\ 7\qquad\textbf{(E)}\ 8$
+ 

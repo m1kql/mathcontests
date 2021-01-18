@@ -1,0 +1,4 @@
+A majority of the $30$ students in Ms. Demeanor's class bought pencils at the school bookstore. Each of these students bought the same number of pencils, and this number was greater than $1$. The cost of a pencil in cents was greater than the number of pencils each student bought, and the total cost of all the pencils was $17.71$. What was the cost of a pencil in cents?
+ 
+$\textbf{(A)}\ 7 \qquad \textbf{(B)}\ 11 \qquad \textbf{(C)}\ 17 \qquad \textbf{(D)}\ 23 \qquad \textbf{(E)}\ 77$
+ 

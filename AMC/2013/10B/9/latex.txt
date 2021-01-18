@@ -1,0 +1,4 @@
+Three positive integers are each greater than $1$, have a product of $27000$, and are pairwise relatively prime. What is their sum?
+ 
+$\textbf{(A)}\ 100\qquad\textbf{(B)}\ 137\qquad\textbf{(C)}\ 156\qquad\textbf{(D)}\ 160\qquad\textbf{(E)}\ 165$
+ 

@@ -1,0 +1,4 @@
+Mr. Patrick teaches math to $15$ students. He was grading tests and found that when he graded everyone's test except Payton's, the average grade for the class was $80$. After he graded Payton's test, the test average became $81$. What was Payton's score on the test?
+ 
+$\textbf{(A)}\ 81\qquad\textbf{(B)}\ 85\qquad\textbf{(C)}\ 91\qquad\textbf{(D)}\ 94\qquad\textbf{(E)}\ 95$
+ 

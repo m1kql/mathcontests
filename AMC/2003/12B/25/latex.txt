@@ -1,0 +1,4 @@
+Three points are chosen randomly and independently on a circle. What is the probability that all three pairwise distance between the points are less than the radius of the circle?
+ 
+$\mathrm{(A)}\ \dfrac{1}{36} \qquad\mathrm{(B)}\ \dfrac{1}{24} \qquad\mathrm{(C)}\ \dfrac{1}{18} \qquad\mathrm{(D)}\ \dfrac{1}{12} \qquad\mathrm{(E)}\ \dfrac{1}{9}$
+ 

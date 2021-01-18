@@ -1,0 +1,4 @@
+What is the probability that an integer in the set $\{1,2,3,...,100\}$ is divisible by $2$ and not divisible by $3$? 
+ 
+$\mathrm{(A) \ } \frac{1}{6}\qquad \mathrm{(B) \ }  \frac{33}{100}\qquad \mathrm{(C) \ }  \frac{17}{50}\qquad \mathrm{(D) \ }  \frac{1}{2}\qquad \mathrm{(E) \ }  \frac{18}{25}$
+ 

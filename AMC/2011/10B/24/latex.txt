@@ -1,0 +1,4 @@
+A lattice point in an $xy$-coordinate system is any point $(x, y)$ where both $x$ and $y$ are integers. The graph of $y = mx +2$ passes through no lattice point with $0 < x \le 100$ for all $m$ such that $\frac{1}{2} < m < a$. What is the maximum possible value of $a$?
+ 
+$\textbf{(A)}\ \frac{51}{101} \qquad\textbf{(B)}\ \frac{50}{99} \qquad\textbf{(C)}\ \frac{51}{100} \qquad\textbf{(D)}\ \frac{52}{101} \qquad\textbf{(E)}\ \frac{13}{25}$
+ 

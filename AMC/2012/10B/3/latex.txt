@@ -1,0 +1,4 @@
+The point in the $xy$-plane with coordinates $(1000, 2012)$ is reflected across the line $y=2000$.  What are the coordinates of the reflected point?
+ 
+$\textbf{(A)}\ (998,2012)\qquad\textbf{(B)}\ (1000,1988)\qquad\textbf{(C)}\ (1000,2024)\qquad\textbf{(D)}\ (1000,4012)\qquad\textbf{(E)}\ (1012,2012)$
+ 

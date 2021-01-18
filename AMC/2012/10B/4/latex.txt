@@ -1,0 +1,6 @@
+When Ringo places his marbles into bags with 6 marbles per bag, he has 4 marbles left over.  When Paul does the same with his marbles, he has 3 marbles left over.  Ringo and Paul pool their marbles and place them into as many bags as possible, with 6 marbles per bag.  How many marbles will be left over?
+ 
+$\textbf{(A)}\ 1\qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ 3\qquad\textbf{(D)}\ 4\qquad\textbf{(E)}\ 5$
+ 
+
+ 

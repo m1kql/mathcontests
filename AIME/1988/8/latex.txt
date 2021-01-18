@@ -1,0 +1,6 @@
+The function $f$, defined on the set of ordered pairs of positive integers, satisfies the following properties:
+ 
+ \begin{center} \begin{eqnarray*} f(x,x) & = & x, \\ f(x,y) & = & f(y,x), \quad \text{and} \\ (x + y) f(x,y) & = & yf(x,x + y). \end{eqnarray*} \end{center} 
+ 
+Calculate $f(14,52)$.
+ 

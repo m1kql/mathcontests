@@ -1,0 +1,6 @@
+
+ 
+The two digits in Jack's age are the same as the digits in Bill's age, but in reverse order. In five years Jack will be twice as old as Bill will be then. What is the difference in their current ages?
+ 
+$\mathrm{(A) \ } 9 \qquad \mathrm{(B) \ } 18 \qquad \mathrm{(C) \ } 27 \qquad \mathrm{(D) \ } 36\qquad \mathrm{(E) \ } 45$
+ 

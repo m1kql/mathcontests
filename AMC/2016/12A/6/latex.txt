@@ -1,0 +1,4 @@
+A triangular array of $2016$ coins has $1$ coin in the first row, $2$ coins in the second row, $3$ coins in the third row, and so on up to $N$ coins in the $N$th row. What is the sum of the digits of $N$?
+ 
+$\textbf{(A)}\ 6\qquad\textbf{(B)}\ 7\qquad\textbf{(C)}\ 8\qquad\textbf{(D)}\ 9\qquad\textbf{(E)}\ 10$
+ 

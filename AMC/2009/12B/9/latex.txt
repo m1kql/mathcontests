@@ -1,0 +1,6 @@
+Triangle $ABC$ has vertices $A = (3,0)$, $B = (0,3)$, and $C$, where $C$ is on the line $x + y = 7$.  What is the area of $\triangle ABC$?
+ 
+
+ 
+$\mathrm{(A)}\ 6\qquad \mathrm{(B)}\ 8\qquad \mathrm{(C)}\ 10\qquad \mathrm{(D)}\ 12\qquad \mathrm{(E)}\ 14$
+ 

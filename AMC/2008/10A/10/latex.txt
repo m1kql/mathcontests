@@ -1,0 +1,4 @@
+Each of the sides of a square $S_1$ with area $16$ is bisected, and a smaller square $S_2$ is constructed using the bisection points as vertices. The same process is carried out on $S_2$ to construct an even smaller square $S_3$. What is the area of $S_3$?
+ 
+$\mathrm{(A)}\ \frac{1}{2}\qquad\mathrm{(B)}\ 1\qquad\mathrm{(C)}\ 2\qquad\mathrm{(D)}\ 3\qquad\mathrm{(E)}\ 4$
+ 

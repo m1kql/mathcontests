@@ -1,0 +1,4 @@
+How many positive cubes divide $3! \cdot 5! \cdot 7!$ ?
+ 
+$\mathrm{(A) \ } 2\qquad \mathrm{(B) \ } 3\qquad \mathrm{(C) \ } 4\qquad \mathrm{(D) \ } 5\qquad \mathrm{(E) \ } 6$
+ 

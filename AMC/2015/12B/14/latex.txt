@@ -1,0 +1,4 @@
+A circle of radius 2 is centered at $A$. An equilateral triangle with side 4 has a vertex at $A$. What is the difference between the area of the region that lies inside the circle but outside the triangle and the area of the region that lies inside the triangle but outside the circle?
+ 
+$\textbf{(A)}\; 8-\pi \qquad\textbf{(B)}\; \pi+2 \qquad\textbf{(C)}\; 2\pi-\dfrac{\sqrt{2}}{2} \qquad\textbf{(D)}\; 4(\pi-\sqrt{3}) \qquad\textbf{(E)}\; 2\pi-\dfrac{\sqrt{3}}{2}$
+ 

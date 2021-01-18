@@ -1,0 +1,5 @@
+
+For every dollar Ben spent on bagels, David spent $25$ cents less. Ben paid \textdollar 12.50 more than David. How much did they spend in the bagel store together?
+
+\textbf{(A)}\ \textdollar 37.50 \qquad\textbf{(B)}\ \textdollar 50.00\qquad\textbf{(C)}\ \textdollar 87.50\qquad\textbf{(D)}\ \textdollar 90.00\qquad\textbf{(E)}\ \textdollar 92.50
+

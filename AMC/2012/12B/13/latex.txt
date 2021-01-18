@@ -1,0 +1,2 @@
+Two parabolas have equations $y= x^2 + ax +b$ and $y= x^2 + cx +d$, where $a, b, c,$ and $d$ are integers, each chosen independently by rolling a fair six-sided die. What is the probability that the parabolas will have a least one point in common?
+ 

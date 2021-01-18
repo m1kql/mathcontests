@@ -1,0 +1,4 @@
+A binary operation $\diamondsuit$ has the properties that $a\,\diamondsuit\, (b\,\diamondsuit \,c) = (a\,\diamondsuit \,b)\cdot c$ and that $a\,\diamondsuit \,a=1$ for all nonzero real numbers $a, b,$ and $c$. (Here $\cdot$ represents multiplication). The solution to the equation $2016 \,\diamondsuit\, (6\,\diamondsuit\, x)=100$ can be written as $\tfrac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. What is $p+q?$
+ 
+$\textbf{(A) }109\qquad\textbf{(B) }201\qquad\textbf{(C) }301\qquad\textbf{(D) }3049\qquad\textbf{(E) }33,601$
+ 

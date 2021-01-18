@@ -1,0 +1,6 @@
+For a certain complex number $c$, the polynomial
+ 
+ \begin{center} \[P(x) = (x^2 - 2x + 2)(x^2 - cx + 4)(x^2 - 4x + 8)\] \end{center} has exactly 4 distinct roots. What is $|c|$?
+ 
+$\textbf{(A) } 2 \qquad \textbf{(B) } \sqrt{6} \qquad \textbf{(C) } 2\sqrt{2} \qquad \textbf{(D) } 3 \qquad \textbf{(E) } \sqrt{10}$
+ 

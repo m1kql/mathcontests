@@ -1,0 +1,4 @@
+Show that, for any fixed integer $\,n \geq 1,\,$ the sequence
+ \begin{center} \[2, \; 2^2, \; 2^{2^2}, \; 2^{2^{2^2}}, \ldots  \pmod{n}\] \end{center} 
+is eventually constant. 
+[The tower of exponents is defined by $a_1 = 2, \; a_{i+1} = 2^{a_i}$. Also $a_i \pmod{n}$ means the remainder which results from dividing $\,a_i\,$ by $\,n$.]

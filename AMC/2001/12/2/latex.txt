@@ -1,0 +1,8 @@
+Let $P(n)$ and $S(n)$ denote the product and the sum, respectively, of the digits
+ 
+of the integer $n$. For example, $P(23) = 6$ and $S(23) = 5$. Suppose $N$ is a
+ 
+two-digit number such that $N = P(N)+S(N)$. What is the units digit of $N$?
+ 
+$\text{(A)}\ 2\qquad \text{(B)}\ 3\qquad \text{(C)}\ 6\qquad \text{(D)}\ 8\qquad \text{(E)}\ 9$
+ 

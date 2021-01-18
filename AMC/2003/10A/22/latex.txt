@@ -1,0 +1,6 @@
+In rectangle $ABCD$, we have $AB=8$, $BC=9$, $H$ is on $BC$ with $BH=6$, $E$ is on $AD$ with $DE=4$, line $EC$ intersects line $AH$ at $G$, and $F$ is on line $AD$ with $GF \perp AF$. Find the length of $GF$. 
+ 
+
+ 
+$\mathrm{(A) \ } 16\qquad \mathrm{(B) \ } 20\qquad \mathrm{(C) \ } 24\qquad \mathrm{(D) \ } 28\qquad \mathrm{(E) \ } 30$
+ 

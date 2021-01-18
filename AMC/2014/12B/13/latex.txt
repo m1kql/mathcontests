@@ -1,0 +1,4 @@
+Real numbers $a$ and $b$ are chosen with $1<a<b$ such that no triangle with positive area has side lengths $1$, $a$, and $b$ or $\frac{1}{b}$, $\frac{1}{a}$, and $1$. What is the smallest possible value of $b$?
+ 
+$\textbf{(A)}\ \frac{3+\sqrt{3}}{2}\qquad\textbf{(B)}\ \frac{5}{2}\qquad\textbf{(C)}\ \frac{3+\sqrt{5}}{2}\qquad\textbf{(D)}\ \frac{3+\sqrt{6}}{2}\qquad\textbf{(E)}\ 3$
+ 

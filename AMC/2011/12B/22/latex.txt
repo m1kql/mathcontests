@@ -1,0 +1,4 @@
+Let $T_1$ be a triangle with sides $2011$, $2012$, and $2013$. For $n \geq 1$, if $T_n = \Delta ABC$ and $D, E$, and $F$ are the points of tangency of the incircle of $\Delta ABC$ to the sides $AB$, $BC$, and $AC$, respectively, then $T_{n+1}$ is a triangle with side lengths $AD, BE$, and $CF$, if it exists. What is the perimeter of the last triangle in the sequence $\left(T_n\right)$?
+ 
+$\textbf{(A)}\ \frac{1509}{8} \qquad \textbf{(B)}\  \frac{1509}{32} \qquad \textbf{(C)}\  \frac{1509}{64} \qquad \textbf{(D)}\  \frac{1509}{128} \qquad \textbf{(E)}\  \frac{1509}{256}$
+ 

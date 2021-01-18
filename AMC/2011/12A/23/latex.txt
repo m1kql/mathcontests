@@ -1,0 +1,4 @@
+Let $f(z)= \frac{z+a}{z+b}$ and $g(z)=f(f(z))$, where $a$ and $b$ are complex numbers. Suppose that $\left| a \right| = 1$ and $g(g(z))=z$ for all $z$ for which $g(g(z))$ is defined. What is the difference between the largest and smallest possible values of $\left| b \right|$?
+ 
+$\textbf{(A)}\ 0 \qquad \textbf{(B)}\ \sqrt{2}-1 \qquad \textbf{(C)}\ \sqrt{3}-1 \qquad \textbf{(D)}\ 1 \qquad \textbf{(E)}\ 2$
+ 

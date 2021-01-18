@@ -1,0 +1,3 @@
+Determine which integers $n > 1$ have the property that there exists an infinite sequence $a_1$, $a_2$, $a_3$, $\dots$ of nonzero integers such that the equality
+ \begin{center} \[a_k + 2a_{2k} + \dots + na_{nk} = 0\] \end{center} 
+holds for every positive integer $k$.

@@ -1,0 +1,4 @@
+Triangle $ABC$ has $AB = 13, BC = 14$, and $AC = 15$. The points $D, E$, and $F$ are the midpoints of $\overline{AB}, \overline{BC}$, and $\overline{AC}$ respectively. Let $X \neq E$ be the intersection of the circumcircles of $\triangle BDE$ and $\triangle CEF$. What is $XA + XB + XC$?
+ 
+$\textbf{(A)}\ 24 \qquad \textbf{(B)}\ 14\sqrt{3} \qquad \textbf{(C)}\ \frac{195}{8} \qquad \textbf{(D)}\ \frac{129\sqrt{7}}{14} \qquad \textbf{(E)}\ \frac{69\sqrt{2}}{4}$
+ 

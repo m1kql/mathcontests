@@ -1,0 +1,4 @@
+Two distinct numbers a and b are chosen randomly from the set $\{2, 2^2, 2^3, ..., 2^{25}\}$. What is the probability that $\mathrm{log}_a b$ is an integer?
+ 
+$\mathrm{(A)}\ \frac{2}{25}\qquad \mathrm{(B)}\ \frac{31}{300}\qquad \mathrm{(C)}\ \frac{13}{100}\qquad \mathrm{(D)}\ \frac{7}{50}\qquad \mathrm{(E)}\ \frac 12$
+ 

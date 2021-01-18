@@ -1,0 +1,6 @@
+A cube with side length $1$ is sliced by a plane that passes through two diagonally opposite vertices $A$ and $C$ and the midpoints $B$ and $D$ of two opposite edges not containing $A$ or $C$, as shown. What is the area of quadrilateral $ABCD$?
+ 
+
+ 
+$\mathrm{(A)}\ \frac{\sqrt{6}}{2}\qquad\mathrm{(B)}\ \frac{5}{4}\qquad\mathrm{(C)}\ \sqrt{2}\qquad\mathrm{(D)}\ \frac{5}{8}\qquad\mathrm{(E)}\ \frac{3}{4}$
+ 

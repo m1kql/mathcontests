@@ -1,0 +1,6 @@
+In the magic square shown, the sums of the numbers in each row, column, and diagonal are the same. Five of these numbers are represented by $v$, $w$, $x$, $y$, and $z$. Find $y + z$.
+ 
+$\textbf{(A)}\ 43 \qquad \textbf{(B)}\ 44 \qquad \textbf{(C)}\ 45 \qquad \textbf{(D)}\ 46 \qquad \textbf{(E)}\ 47$
+ 
+
+ 

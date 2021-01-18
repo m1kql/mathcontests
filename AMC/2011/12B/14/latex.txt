@@ -1,0 +1,4 @@
+A segment through the focus $F$ of a parabola with vertex $V$ is perpendicular to $\overline{FV}$ and intersects the parabola in points $A$ and $B$. What is $\cos\left(\angle AVB\right)$?
+ 
+$\textbf{(A)}\ -\frac{3\sqrt{5}}{7} \qquad \textbf{(B)}\ -\frac{2\sqrt{5}}{5} \qquad \textbf{(C)}\ -\frac{4}{5} \qquad \textbf{(D)}\ -\frac{3}{5} \qquad \textbf{(E)}\ -\frac{1}{2}$
+ 

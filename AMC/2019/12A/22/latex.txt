@@ -1,0 +1,6 @@
+Circles $\omega$ and $\gamma$, both centered at $O$, have radii $20$ and $17$, respectively. Equilateral triangle $ABC$, whose interior lies in the interior of $\omega$ but in the exterior of $\gamma$, has vertex $A$ on $\omega$, and the line containing side $\overline{BC}$ is tangent to $\gamma$. Segments $\overline{AO}$ and $\overline{BC}$ intersect at $P$, and $\dfrac{BP}{CP} = 3$. Then $AB$ can be written in the form $\dfrac{m}{\sqrt{n}} - \dfrac{p}{\sqrt{q}}$ for positive integers $m$, $n$, $p$, $q$ with $\gcd(m,n) = \gcd(p,q) = 1$. What is $m+n+p+q$?
+ 
+$\phantom{}$
+ 
+$\textbf{(A) } 42 \qquad \textbf{(B) }86 \qquad \textbf{(C) } 92 \qquad \textbf{(D) } 114 \qquad \textbf{(E) } 130$
+ 

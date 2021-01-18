@@ -1,0 +1,4 @@
+The base-ten representation for $19!$ is $121,6T5,100,40M,832,H00$, where $T$, $M$, and $H$ denote digits that are not given. What is $T+M+H$?
+ 
+$\textbf{(A) }3 \qquad\textbf{(B) }8 \qquad\textbf{(C) }12 \qquad\textbf{(D) }14 \qquad\textbf{(E) } 17$
+ 

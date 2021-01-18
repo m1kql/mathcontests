@@ -1,0 +1,1 @@
+Find all solutions to $(m^2+n)(m + n^2)= (m - n)^3$, where m and n are non-zero integers.

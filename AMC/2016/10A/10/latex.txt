@@ -1,0 +1,6 @@
+A rug is made with three different colors as shown. The areas of the three differently colored regions form an arithmetic progression. The inner rectangle is one foot wide, and each of the two shaded regions is $1$ foot wide on all four sides. What is the length in feet of the inner rectangle?
+ 
+
+ 
+$\textbf{(A) } 1 \qquad \textbf{(B) } 2 \qquad \textbf{(C) } 4 \qquad \textbf{(D) } 6 \qquad \textbf{(E) }8$
+ 

@@ -1,0 +1,6 @@
+Point B is due east of point A. Point C is due north of point B. The distance between points A and C is $10\sqrt 2$, and $\angle BAC= 45^\circ$. Point D is 20 meters due north of point C. The distance AD is between which two integers?
+ 
+
+ 
+$\textbf{(A)}\ 30\ \text{and}\ 31 \qquad\textbf{(B)}\ 31\ \text{and}\ 32 \qquad\textbf{(C)}\ 32\ \text{and}\ 33 \qquad\textbf{(D)}\ 33\ \text{and}\ 34 \qquad\textbf{(E)}\ 34\ \text{and}\ 35$
+ 

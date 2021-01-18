@@ -1,0 +1,4 @@
+Driving at a constant speed, Sharon usually takes $180$ minutes to drive from her house to her mother's house. One day Sharon begins the drive at her usual speed, but after driving $\frac{1}{3}$ of the way, she hits a bad snowstorm and reduces her speed by $20$ miles per hour. This time the trip takes her a total of $276$ minutes. How many miles is the drive from Sharon's house to her mother's house?
+ 
+$\textbf{(A)}\ 132 \qquad\textbf{(B)}\ 135 \qquad\textbf{(C)}\ 138 \qquad\textbf{(D)}\ 141 \qquad\textbf{(E)}\ 144$
+ 

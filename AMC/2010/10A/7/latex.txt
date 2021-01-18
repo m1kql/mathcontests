@@ -1,0 +1,4 @@
+Crystal has a running course marked out for her daily run. She starts this run by heading due north for one mile. She then runs northeast for one mile, then southeast for one mile. The last portion of her run takes her on a straight line back to where she started. How far, in miles is this last portion of her run?
+ 
+$\mathrm{(A)}\ 1 \qquad \mathrm{(B)}\ \sqrt{2} \qquad \mathrm{(C)}\ \sqrt{3} \qquad \mathrm{(D)}\ 2 \qquad \mathrm{(E)}\ 2\sqrt{2}$
+ 

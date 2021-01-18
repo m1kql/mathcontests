@@ -1,0 +1,4 @@
+The angles in a particular triangle are in arithmetic progression, and the side lengths are $4,5,x$. The sum of the possible values of x equals $a+\sqrt{b}+\sqrt{c}$ where $a, b$, and $c$ are positive integers. What is $a+b+c$?
+ 
+$\textbf{(A)}\ 36\qquad\textbf{(B)}\ 38\qquad\textbf{(C)}\ 40\qquad\textbf{(D)}\ 42\qquad\textbf{(E)}\ 44$
+ 

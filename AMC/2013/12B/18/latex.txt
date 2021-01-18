@@ -1,0 +1,12 @@
+Barbara and Jenna play the following game, in which they take turns. A number of coins lie on a table. When it is Barbara’s turn, she must remove $2$ or $4$ coins, unless only one coin remains, in which case she loses her turn. When it is Jenna’s turn, she must remove $1$ or $3$ coins. A coin flip determines who goes first. Whoever removes the last coin wins the game. Assume both players use their best strategy. Who will win when the game starts with $2013$ coins and when the game starts with $2014$ coins?
+ 
+$\textbf{(A)}$ Barbara will win with $2013$ coins and Jenna will win with $2014$ coins. 
+ 
+$\textbf{(B)}$ Jenna will win with $2013$ coins, and whoever goes first will win with $2014$ coins. 
+ 
+$\textbf{(C)}$ Barbara will win with $2013$ coins, and whoever goes second will win with $2014$ coins.
+ 
+$\textbf{(D)}$ Jenna will win with $2013$ coins, and Barbara will win with $2014$ coins.
+ 
+$\textbf{(E)}$ Whoever goes first will win with $2013$ coins, and whoever goes second will win with $2014$ coins.
+ 

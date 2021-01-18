@@ -1,0 +1,4 @@
+Triangle $ABC$ has $AB = 13$ and $AC = 15$, and the altitude to $\overline{BC}$ has length $12$. What is the sum of the two possible values of $BC$?
+ 
+$\mathrm{(A)}\ 15\qquad \mathrm{(B)}\ 16\qquad \mathrm{(C)}\ 17\qquad \mathrm{(D)}\ 18\qquad \mathrm{(E)}\ 19$
+ 

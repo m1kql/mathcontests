@@ -1,0 +1,4 @@
+In $ABC$ we have $AB = 25$, $BC = 39$, and $AC=42$. Points $D$ and $E$ are on $AB$ and $AC$ respectively, with $AD = 19$ and $AE = 14$. What is the ratio of the area of triangle $ADE$ to the area of the quadrilateral $BCED$?
+ 
+$\mathrm{(A) \ } \frac{266}{1521}\qquad \mathrm{(B) \ } \frac{19}{75}\qquad \mathrm{(C) \ } \frac{1}{3}\qquad \mathrm{(D) \ } \frac{19}{56}\qquad \mathrm{(E) \ } 1$
+ 

@@ -1,0 +1,6 @@
+Find the sum of all the positive solutions of 
+ 
+$2\cos2x \left(\cos2x - \cos{\left( \frac{2014\pi^2}{x} \right) } \right) = \cos4x - 1$
+ 
+$\textbf{(A)}\ \pi \qquad\textbf{(B)}\ 810\pi \qquad\textbf{(C)}\ 1008\pi \qquad\textbf{(D)}\ 1080 \pi \qquad\textbf{(E)}\ 1800\pi$
+ 

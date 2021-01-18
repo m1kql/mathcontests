@@ -1,0 +1,8 @@
+Consider the polynomial
+ 
+ \begin{center} \[P(x)=\prod_{k=0}^{10}(x^{2^k}+2^k)=(x+1)(x^2+2)(x^4+4)\cdots (x^{1024}+1024)\] \end{center} 
+ 
+The coefficient of $x^{2012}$ is equal to $2^a$. What is $a$?
+ 
+ \begin{center} \[\textbf{(A)}\ 5\qquad\textbf{(B)}\ 6\qquad\textbf{(C)}\ 7\qquad\textbf{(D)}\ 10\qquad\textbf{(E)}\ 24\] \end{center} 
+ 

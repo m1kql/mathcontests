@@ -1,0 +1,5 @@
+
+Tony works $2$ hours a day and is paid \textdollar 0.50 per hour for each full year of his age. During a six month period Tony worked \textdollar 50 days and earned \textdollar 630. How old was Tony at the end of the six month period?
+
+$\textbf{(A)}\ 9 \qquad \textbf{(B)}\ 11 \qquad \textbf{(C)}\ 12 \qquad \textbf{(D)}\ 13 \qquad \textbf{(E)}\ 14$
+

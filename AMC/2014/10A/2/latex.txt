@@ -1,0 +1,4 @@
+Roy's cat eats $\frac{1}{3}$ of a can of cat food every morning and $\frac{1}{4}$ of a can of cat food every evening. Before feeding his cat on Monday morning, Roy opened a box containing $6$ cans of cat food. On what day of the week did the cat finish eating all the cat food in the box?
+ 
+$\textbf{(A)}\ \text{Tuesday}\qquad\textbf{(B)}\ \text{Wednesday}\qquad\textbf{(C)}\ \text{Thursday}\qquad\textbf{(D)}\ \text{Friday}\qquad\textbf{(E)}\ \text{Saturday}$
+ 

@@ -1,0 +1,8 @@
+The fraction
+ 
+ \begin{center} \[\frac{\left(3^{2008}\right)^2-\left(3^{2006}\right)^2}{\left(3^{2007}\right)^2-\left(3^{2005}\right)^2}\] \end{center} 
+ 
+simplifies to which of the following?
+ 
+$\mathrm{(A)}\ 1\qquad\mathrm{(B)}\ \frac{9}{4}\qquad\mathrm{(C)}\ 3\qquad\mathrm{(D)}\ \frac{9}{2}\qquad\mathrm{(E)}\ 9$
+ 

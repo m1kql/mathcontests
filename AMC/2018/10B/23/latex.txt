@@ -1,0 +1,10 @@
+How many ordered pairs $(a, b)$ of positive integers satisfy the equation 
+ 
+ \begin{center} \[a\cdot b + 63 = 20\cdot \text{lcm}(a, b) + 12\cdot\text{gcd}(a,b),\] \end{center} 
+ 
+where $\text{gcd}(a,b)$ denotes the greatest common divisor of $a$ and $b$, and $\text{lcm}(a,b)$ denotes their least common multiple?
+ 
+$\textbf{(A)} \text{ 0} \qquad \textbf{(B)} \text{ 2} \qquad \textbf{(C)} \text{ 4} \qquad \textbf{(D)} \text{ 6} \qquad \textbf{(E)} \text{ 8}$
+ 
+
+ 

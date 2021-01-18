@@ -1,0 +1,8 @@
+Rhombus $ABCD$ is similar to rhombus $BFDE$.  The area of rhombus $ABCD$ is 24, and $\angle BAD = 60^\circ$.  What is the area of rhombus $BFDE$?
+ 
+
+ 
+$\textrm{(A) } 6 \qquad \textrm{(B) } 4\sqrt {3} \qquad \textrm{(C) } 8 \qquad \textrm{(D) } 9 \qquad \textrm{(E) } 6\sqrt {3}$
+ 
+Solution
+ 

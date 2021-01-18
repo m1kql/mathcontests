@@ -1,0 +1,4 @@
+Two circles of radius 1 are to be constructed as follows. The center of circle $A$ is chosen uniformly and at random from the line segment joining $(0,0)$ and $(2,0)$. The center of circle $B$ is chosen uniformly and at random, and independently of the first choice, from the line segment joining $(0,1)$ to $(2,1)$. What is the probability that circles $A$ and $B$ intersect?
+ 
+$\textbf{(A)} \; \frac {2 + \sqrt {2}}{4} \qquad \textbf{(B)} \; \frac {3\sqrt {3} + 2}{8} \qquad \textbf{(C)} \; \frac {2 \sqrt {2} - 1}{2} \qquad \textbf{(D)} \; \frac {2 + \sqrt {3}}{4} \qquad \textbf{(E)} \; \frac {4 \sqrt {3} - 3}{4}$
+ 

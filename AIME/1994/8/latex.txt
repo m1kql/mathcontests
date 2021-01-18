@@ -1,0 +1,2 @@
+The points $(0,0)\,$, $(a,11)\,$, and $(b,37)\,$ are the vertices of an equilateral triangle.  Find the value of $ab\,$.
+ 

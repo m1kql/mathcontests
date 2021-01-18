@@ -1,0 +1,4 @@
+Suppose that $f(x+3)=3x^2 + 7x + 4$ and $f(x)=ax^2 + bx + c$. What is $a+b+c$?
+ 
+$\textbf{(A)}\ -1 \qquad \textbf{(B)}\ 0 \qquad \textbf{(C)}\ 1 \qquad \textbf{(D)}\ 2 \qquad \textbf{(E)}\ 3$
+ 

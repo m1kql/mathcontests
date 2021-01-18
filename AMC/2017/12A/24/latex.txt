@@ -1,0 +1,6 @@
+Quadrilateral $ABCD$ is inscribed in circle $O$ and has side lengths $AB=3, BC=2, CD=6$, and $DA=8$. Let $X$ and $Y$ be points on $\overline{BD}$ such that $\frac{DX}{BD} = \frac{1}{4}$ and $\frac{BY}{BD} = \frac{11}{36}$.
+ 
+Let $E$ be the intersection of line $AX$ and the line through $Y$ parallel to $\overline{AD}$. Let $F$ be the intersection of line $CX$ and the line through $E$ parallel to $\overline{AC}$. Let $G$ be the point on circle $O$ other than $C$ that lies on line $CX$. What is $XF\cdot XG$?
+ 
+$\textbf{(A) }17\qquad\textbf{(B) }\frac{59 - 5\sqrt{2}}{3}\qquad\textbf{(C) }\frac{91 - 12\sqrt{3}}{4}\qquad\textbf{(D) }\frac{67 - 10\sqrt{2}}{3}\qquad\textbf{(E) }18$
+ 

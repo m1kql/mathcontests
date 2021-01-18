@@ -1,0 +1,6 @@
+The Binomial Expansion is valid for exponents that are not integers. That is, for all real numbers $x,y$ and $r$ with $|x|>|y|$,
+ 
+ \begin{center} \[(x+y)^r=x^r+rx^{r-1}y+\dfrac{r(r-1)}{2}x^{r-2}y^2+\dfrac{r(r-1)(r-2)}{3!}x^{r-3}y^3 \cdots\] \end{center} 
+ 
+What are the first three digits to the right of the decimal point in the decimal representation of $(10^{2002}+1)^{\frac{10}{7}}$?
+ 

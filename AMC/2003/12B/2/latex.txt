@@ -1,0 +1,5 @@
+
+Al gets the disease algebritis and must take one green pill and one pink pill each day for two weeks. A green pill costs \textdollar 1 more than a pink pill, and Al's pills cost a total of \textdollar 546 for the two weeks. How much does one green pill cost?
+
+\textbf{(A)}\ \textdollar 7 \qquad\textbf{(B) }\textdollar 14 \qquad\textbf{(C) }\textdollar 19\qquad\textbf{(D) }\textdollar 20\qquad\textbf{(E) }\textdollar 39
+

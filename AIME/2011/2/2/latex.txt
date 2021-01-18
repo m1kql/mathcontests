@@ -1,0 +1,2 @@
+On square $ABCD$, point $E$ lies on side $AD$ and point $F$ lies on side $BC$, so that $BE=EF=FD=30$. Find the area of the square $ABCD$.
+ 

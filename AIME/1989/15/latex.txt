@@ -1,0 +1,2 @@
+Point $P$ is inside $\triangle ABC$. Line segments $APD$, $BPE$, and $CPF$ are drawn with $D$ on $BC$, $E$ on $AC$, and $F$ on $AB$ (see the figure below). Given that $AP=6$, $BP=9$, $PD=6$, $PE=3$, and $CF=20$, find the area of $\triangle ABC$.
+ 

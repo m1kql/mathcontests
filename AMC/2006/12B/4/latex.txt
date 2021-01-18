@@ -1,0 +1,4 @@
+Mary is about to pay for five items at the grocery store.  The prices of the items are $7.99$, $4.99$, $2.99$, $1.99$, and $0.99$.  Mary will pay with a twenty-dollar bill.  Which of the following is closest to the percentage of the $20.00$ that she will receive in change?
+ 
+$\text {(A) } 5 \qquad \text {(B) } 10 \qquad \text {(C) } 15 \qquad \text {(D) } 20 \qquad \text {(E) } 25$
+ 

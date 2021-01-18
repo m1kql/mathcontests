@@ -1,0 +1,4 @@
+The mean, median, and mode of the $7$ data values $60, 100, x, 40, 50, 200, 90$ are all equal to $x$. What is the value of $x$?
+ 
+$\textbf{(A)}\ 50 \qquad\textbf{(B)}\ 60 \qquad\textbf{(C)}\ 75 \qquad\textbf{(D)}\ 90 \qquad\textbf{(E)}\ 100$
+ 

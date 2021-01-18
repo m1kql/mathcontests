@@ -1,0 +1,12 @@
+For every integer $n\ge2$, let $\text{pow}(n)$ be the largest power of the largest prime that divides $n$. For example $\text{pow}(144)=\text{pow}(2^4\cdot3^2)=3^2$. What is the largest integer $m$ such that $2010^m$ divides
+ 
+
+ 
+$\prod_{n=2}^{5300}\text{pow}(n)$?
+ 
+
+ 
+
+ 
+$\textbf{(A)}\ 74 \qquad \textbf{(B)}\ 75 \qquad \textbf{(C)}\ 76 \qquad \textbf{(D)}\ 77 \qquad \textbf{(E)}\ 78$
+ 

@@ -1,0 +1,4 @@
+A rectangular parking lot has a diagonal of $25$ meters and an area of $168$ square meters. In meters, what is the perimeter of the parking lot?
+ 
+$\textbf{(A)}\ 52 \qquad\textbf{(B)}\ 58 \qquad\textbf{(C)}\ 62 \qquad\textbf{(D)}\ 68 \qquad\textbf{(E)}\ 70$
+ 

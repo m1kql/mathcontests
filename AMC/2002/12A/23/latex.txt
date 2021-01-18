@@ -1,0 +1,4 @@
+In triangle $ABC$ , side $AC$ and the perpendicular bisector of $BC$ meet in point $D$, and $BD$ bisects $\angle ABC$. If $AD=9$ and $DC=7$, what is the area of triangle ABD? 
+ 
+$\text{(A)}\ 14 \qquad \text{(B)}\ 21 \qquad \text{(C)}\ 28 \qquad \text{(D)}\ 14\sqrt5 \qquad \text{(E)}\ 28\sqrt5$
+ 

@@ -1,0 +1,4 @@
+For some positive integers $p$, there is a quadrilateral $ABCD$ with positive integer side lengths, perimeter $p$, right angles at $B$ and $C$, $AB=2$, and $CD=AD$.  How many different values of $p<2015$ are possible?
+ 
+$\textbf{(A) }30\qquad\textbf{(B) }31\qquad\textbf{(C) }61\qquad\textbf{(D) }62\qquad\textbf{(E) }63$
+ 

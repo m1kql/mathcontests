@@ -1,0 +1,4 @@
+What is the hundreds digit of $2011^{2011}?$
+ 
+$\textbf{(A) } 1 \qquad \textbf{(B) } 4 \qquad \textbf{(C) }5 \qquad \textbf{(D) } 6 \qquad \textbf{(E) } 9$
+ 

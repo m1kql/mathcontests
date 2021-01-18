@@ -1,0 +1,4 @@
+Tom's age is $T$ years, which is also the sum of the ages of his three children. His age $N$ years ago was twice the sum of their ages then. What is $T/N$?
+ 
+$\textbf{(A) } 2 \qquad\textbf{(B) } 3 \qquad\textbf{(C) } 4 \qquad\textbf{(D) } 5 \qquad\textbf{(E) } 6$
+ 

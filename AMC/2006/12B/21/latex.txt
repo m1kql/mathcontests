@@ -1,0 +1,4 @@
+Rectangle $ABCD$ has area $2006$.  An ellipse with area $2006\pi$ passes through $A$ and $C$ and has foci at $B$ and $D$.  What is the perimeter of the rectangle? (The area of an ellipse is $ab\pi$ where $2a$ and $2b$ are the lengths of the axes.)
+ 
+$\mathrm{(A)}\ \frac {16\sqrt {2006}}{\pi} \qquad \mathrm{(B)}\ \frac {1003}4 \qquad \mathrm{(C)}\ 8\sqrt {1003} \qquad \mathrm{(D)}\ 6\sqrt {2006} \qquad \mathrm{(E)}\ \frac {32\sqrt {1003}}\pi$
+ 

@@ -1,0 +1,6 @@
+Adam, Benin, Chiang, Deshawn, Esther, and Fiona have internet accounts.  Some, but not all, of them are internet friends with each other, and none of them has an internet friend outside this group.  Each of them has the same number of internet friends.  In how many different ways can this happen?
+ 
+
+ 
+$\text{(A)}\ 60\qquad\text{(B)}\ 170\qquad\text{(C)}\ 290\qquad\text{(D)}\ 320\qquad\text{(E)}\ 660$
+ 

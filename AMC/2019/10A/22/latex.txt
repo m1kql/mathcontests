@@ -1,0 +1,4 @@
+Real numbers between 0 and 1, inclusive, are chosen in the following manner. A fair coin is flipped. If it lands heads, then it is flipped again and the chosen number is 0 if the second flip is heads, and 1 if the second flip is tails. On the other hand, if the first coin flip is tails, then the number is chosen uniformly at random from the closed interval $[0,1]$. Two random numbers $x$ and $y$ are chosen independently in this manner. What is the probability that $|x-y| > \tfrac{1}{2}$?
+ 
+$\textbf{(A) } \frac{1}{3} \qquad \textbf{(B) } \frac{7}{16} \qquad \textbf{(C) } \frac{1}{2} \qquad \textbf{(D) } \frac{9}{16} \qquad \textbf{(E) } \frac{2}{3}$
+ 

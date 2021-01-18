@@ -1,0 +1,12 @@
+Four siblings ordered an extra large pizza. Alex ate $\frac15$, Beth $\frac13$, and Cyril $\frac14$ of the pizza. Dan got the leftovers. What is the sequence of the siblings in decreasing order of the part of pizza they consumed?
+ 
+$\textbf{(A) } \text{Alex, Beth, Cyril, Dan}$
+ 
+$\textbf{(B) } \text{Beth, Cyril, Alex, Dan}$
+ 
+$\textbf{(C) } \text{Beth, Cyril, Dan, Alex}$
+ 
+$\textbf{(D) } \text{Beth, Dan, Cyril, Alex}$
+ 
+$\textbf{(E) } \text{Dan, Beth, Cyril, Alex}$
+ 

@@ -1,0 +1,4 @@
+Each vertex of convex pentagon $ABCDE$ is to be assigned a color. There are $6$ colors to choose from, and the ends of each diagonal must have different colors. How many different colorings are possible?
+ 
+$\textbf{(A)}\ 2520\qquad\textbf{(B)}\ 2880\qquad\textbf{(C)}\ 3120\qquad\textbf{(D)}\ 3250\qquad\textbf{(E)}\ 3750$
+ 

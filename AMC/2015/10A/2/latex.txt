@@ -1,0 +1,4 @@
+A box contains a collection of triangular and square tiles. There are $25$ tiles in the box, containing $84$ edges total. How many square tiles are there in the box?
+ 
+$\textbf{(A)}\ 3\qquad\textbf{(B)}\ 5\qquad\textbf{(C)}\ 7\qquad\textbf{(D)}\ 9\qquad\textbf{(E)}\ 11$
+ 

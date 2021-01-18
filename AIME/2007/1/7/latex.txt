@@ -1,0 +1,6 @@
+Let 
+ 
+$N = \sum_{k = 1}^{1000} k ( \lceil \log_{\sqrt{2}} k \rceil  - \lfloor \log_{\sqrt{2}} k \rfloor )$
+ 
+Find the remainder when $N$ is divided by 1000.  ($\lfloor{k}\rfloor$ is the greatest integer less than or equal to $k$, and $\lceil{k}\rceil$ is the least integer greater than or equal to $k$.)
+ 

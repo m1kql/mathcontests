@@ -1,0 +1,4 @@
+Points $A,B,C,D,E$ and $F$ lie, in that order, on $\overline{AF}$, dividing it into five segments, each of length 1. Point $G$ is not on line $AF$. Point $H$ lies on $\overline{GD}$, and point $J$ lies on $\overline{GF}$. The line segments $\overline{HC}, \overline{JE},$ and $\overline{AG}$ are parallel. Find $HC/JE$.
+ 
+$\text{(A)}\ 5/4 \qquad \text{(B)}\ 4/3 \qquad \text{(C)}\ 3/2 \qquad \text{(D)}\ 5/3 \qquad \text{(E)}\ 2$
+ 

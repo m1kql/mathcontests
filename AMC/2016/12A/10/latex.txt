@@ -1,0 +1,4 @@
+Five friends sat in a movie theater in a row containing $5$ seats, numbered $1$ to $5$ from left to right. (The directions "left" and "right" are from the point of view of the people as they sit in the seats.) During the movie Ada went to the lobby to get some popcorn. When she returned, she found that Bea had moved two seats to the right, Ceci had moved one seat to the left, and Dee and Edie had switched seats, leaving an end seat for Ada. In which seat had Ada been sitting before she got up?
+ 
+$\textbf{(A) }1 \qquad \textbf{(B) } 2 \qquad \textbf{(C) } 3 \qquad \textbf{(D) } 4\qquad \textbf{(E) } 5$
+ 

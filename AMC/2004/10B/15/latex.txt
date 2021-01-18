@@ -1,0 +1,5 @@
+
+Patty has 20 coins consisting of nickels and dimes. If her nickels were dimes and her dimes were nickels, she would have $70$ cents more. How much are her coins worth?
+
+\textbf{(A)}\ \textdollar 1.15\qquad\textbf{(B)}\ \textdollar 1.20\qquad\textbf{(C)}\ \textdollar 1.25\qquad\textbf{(D)}\ \textdollar 1.30\qquad\textbf{(E)}\ \textdollar 1.35
+

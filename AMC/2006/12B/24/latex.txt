@@ -1,0 +1,4 @@
+Let $S$ be the set of all point $(x,y)$ in the coordinate plane such that $0 \le x \le \frac{\pi}{2}$ and $0 \le y \le \frac{\pi}{2}$.  What is the area of the subset of $S$ for which  \begin{center} \[\sin^2x-\sin x \sin y + \sin^2y \le \frac34?\] \end{center} 
+ 
+$\mathrm{(A)}\ \dfrac{\pi^2}{9} \qquad \mathrm{(B)}\ \dfrac{\pi^2}{8} \qquad \mathrm{(C)}\ \dfrac{\pi^2}{6} \qquad \mathrm{(D)}\ \dfrac{3\pi^2}{16} \qquad \mathrm{(E)}\ \dfrac{2\pi^2}{9}$
+ 

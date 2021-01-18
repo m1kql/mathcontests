@@ -1,0 +1,4 @@
+A parking lot has 16 spaces in a row. Twelve cars arrive, each of which requires one parking space, and their drivers chose spaces at random from among the available spaces. Auntie Em then arrives in her SUV, which requires 2 adjacent spaces. What is the probability that she is able to park?
+ 
+$\textbf{(A)} \; \frac {11}{20} \qquad \textbf{(B)} \; \frac {4}{7} \qquad \textbf{(C)} \; \frac {81}{140} \qquad \textbf{(D)} \; \frac {3}{5} \qquad \textbf{(E)} \; \frac {17}{28}$
+ 

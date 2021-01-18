@@ -1,0 +1,4 @@
+Six distinct positive integers are randomly chosen between 1 and 2006, inclusive. What is the probability that some pair of these integers has a difference that is a multiple of 5? 
+ 
+$\mathrm{(A) \ } \frac{1}{2}\qquad\mathrm{(B) \ } \frac{3}{5}\qquad\mathrm{(C) \ } \frac{2}{3}\qquad\mathrm{(D) \ } \frac{4}{5}\qquad\mathrm{(E) \ } 1\qquad$
+ 

@@ -1,0 +1,6 @@
+The figure shown is called a trefoil and is constructed by drawing circular sectors about the sides of the congruent equilateral triangles. What is the area of a trefoil whose horizontal base has length $2$?
+ 
+
+ 
+$\mathrm{(A) \ } \frac{1}{3}\pi+\frac{\sqrt{3}}{2}\qquad \mathrm{(B) \ } \frac{2}{3}\pi\qquad \mathrm{(C) \ } \frac{2}{3}\pi+\frac{\sqrt{3}}{4}\qquad \mathrm{(D) \ } \frac{2}{3}\pi+\frac{\sqrt{3}}{3}\qquad \mathrm{(E) \ } \frac{2}{3}\pi+\frac{\sqrt{3}}{2}$
+ 

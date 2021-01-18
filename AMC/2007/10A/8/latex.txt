@@ -1,0 +1,4 @@
+Triangles $ABC$ and $ADC$ are isosceles with $AB=BC$ and $AD=DC$. Point $D$ is inside triangle $ABC$, angle $ABC$ measures 40 degrees, and angle $ADC$ measures 140 degrees. What is the degree measure of angle $BAD$?
+ 
+$\mathrm{(A)}\ 20\qquad \mathrm{(B)}\ 30\qquad \mathrm{(C)}\ 40\qquad \mathrm{(D)}\ 50\qquad \mathrm{(E)}\ 60$
+ 

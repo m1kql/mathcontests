@@ -1,0 +1,4 @@
+How many unordered pairs of edges of a given cube determine a plane?
+ 
+$\textbf{(A) } 12 \qquad \textbf{(B) } 28 \qquad \textbf{(C) } 36\qquad \textbf{(D) } 42 \qquad \textbf{(E) } 66$
+ 

@@ -1,0 +1,4 @@
+A 3x3x3 cube is made of $27$ normal dice. Each die's opposite sides sum to $7$. What is the smallest possible sum of all of the values visible on the $6$ faces of the large cube?
+ 
+$\text{(A)}\ 60 \qquad \text{(B)}\ 72 \qquad \text{(C)}\ 84 \qquad \text{(D)}\ 90 \qquad \text{(E)} 96$
+ 

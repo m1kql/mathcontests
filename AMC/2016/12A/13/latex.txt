@@ -1,0 +1,4 @@
+Let $N$ be a positive multiple of $5$. One red ball and $N$ green balls are arranged in a line in random order. Let $P(N)$ be the probability that at least $\tfrac{3}{5}$ of the green balls are on the same side of the red ball. Observe that $P(5)=1$ and that $P(N)$ approaches $\tfrac{4}{5}$ as $N$ grows large. What is the sum of the digits of the least value of $N$ such that $P(N) < \tfrac{321}{400}$?
+ 
+$\textbf{(A) } 12 \qquad \textbf{(B) } 14 \qquad \textbf{(C) }16 \qquad \textbf{(D) } 18 \qquad \textbf{(E) } 20$
+ 

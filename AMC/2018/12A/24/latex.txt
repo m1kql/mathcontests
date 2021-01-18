@@ -1,0 +1,6 @@
+Alice, Bob, and Carol play a game in which each of them chooses a real number between 0 and 1. The winner of the game is the one whose number is between the numbers chosen by the other two players. Alice announces that she will choose her number uniformly at random from all the numbers between 0 and 1, and Bob announces that he will choose his number uniformly at random from all the numbers between $\tfrac{1}{2}$ and $\tfrac{2}{3}.$ Armed with this information, what number should Carol choose to maximize her chance of winning?
+ 
+
+ 
+$\textbf{(A) }\frac{1}{2}\qquad \textbf{(B) }\frac{13}{24} \qquad \textbf{(C) }\frac{7}{12} \qquad \textbf{(D) }\frac{5}{8} \qquad \textbf{(E) }\frac{2}{3}\qquad$
+ 

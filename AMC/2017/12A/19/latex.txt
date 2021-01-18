@@ -1,0 +1,4 @@
+A square with side length $x$ is inscribed in a right triangle with sides of length $3$, $4$, and $5$ so that one vertex of the square coincides with the right-angle vertex of the triangle. A square with side length $y$ is inscribed in another right triangle with sides of length $3$, $4$, and $5$ so that one side of the square lies on the hypotenuse of the triangle. What is $\frac{x}{y}$?
+ 
+$\textbf{(A)}\ \frac{12}{13} \qquad \textbf{(B)}\ \frac{35}{37} \qquad\textbf{(C)}\ 1 \qquad\textbf{(D)}\ \frac{37}{35} \qquad\textbf{(E)}\ \frac{13}{12}$
+ 

@@ -1,0 +1,6 @@
+Ann made a $3$-step staircase using $18$ toothpicks as shown in the figure. How many toothpicks does she need to add to complete a $5$-step staircase?
+ 
+$\textbf{(A)}\ 9\qquad\textbf{(B)}\ 18\qquad\textbf{(C)}\ 20\qquad\textbf{(D)}\ 22\qquad\textbf{(E)}\ 24$
+ 
+
+ 

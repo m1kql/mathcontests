@@ -1,0 +1,4 @@
+Which of these describes the graph of $x^2(x+y+1)=y^2(x+y+1)$ ?
+ 
+$\textbf{(A)}\ \text{two parallel lines}\\ \qquad\textbf{(B)}\ \text{two intersecting lines}\\ \qquad\textbf{(C)}\ \text{three lines that all pass through a common point}\\ \qquad\textbf{(D)}\ \text{three lines that do not all pass through a common point}\\ \qquad\textbf{(E)}\ \text{a line and a parabola}$
+ 

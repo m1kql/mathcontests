@@ -1,0 +1,8 @@
+The figure below is a map showing $12$ cities and $17$ roads connecting certain pairs of cities. Paula wishes to travel along exactly $13$ of those roads, starting at city $A$ and ending at city $L$, without traveling along any portion of a road more than once. (Paula is allowed to visit a city more than once.)
+ 
+
+ 
+How many different routes can Paula take?
+ 
+$\textbf{(A) } 0 \qquad\textbf{(B) } 1 \qquad\textbf{(C) } 2 \qquad\textbf{(D) } 3 \qquad\textbf{(E) } 4$
+ 

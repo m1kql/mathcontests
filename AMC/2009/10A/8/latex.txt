@@ -1,0 +1,4 @@
+Three Generations of the Wen family are going to the movies, two from each generation. The two members of the youngest generation receive a $50$% discount as children. The two members of the oldest generation receive a $25\%$ discount as senior citizens. The two members of the middle generation receive no discount. Grandfather Wen, whose senior ticket costs $$6.00$, is paying for everyone. How many dollars must he pay?
+ 
+$\mathrm{(A)}\ 34 \qquad \mathrm{(B)}\ 36 \qquad \mathrm{(C)}\ 42 \qquad \mathrm{(D)}\ 46 \qquad \mathrm{(E)}\ 48$
+ 

@@ -1,0 +1,4 @@
+Square $EFGH$ is inside the square $ABCD$ so that each side of $EFGH$ can be extended to pass through a vertex of $ABCD$. Square $ABCD$ has side length $\sqrt {50}$ and $BE = 1$. What is the area of the inner square $EFGH$?
+ 
+$(\mathrm {A}) \ 25 \qquad (\mathrm {B}) \ 32 \qquad (\mathrm {C})\ 36 \qquad (\mathrm {D}) \ 40 \qquad (\mathrm {E})\ 42$
+ 

@@ -1,0 +1,4 @@
+Which of the following is equal to $\dfrac{\frac{1}{3}-\frac{1}{4}}{\frac{1}{2}-\frac{1}{3}}$?
+ 
+$\text{(A) } \frac 14 \qquad \text{(B) } \frac 13 \qquad \text{(C) } \frac 12 \qquad \text{(D) } \frac 23 \qquad \text{(E) } \frac 34$
+ 

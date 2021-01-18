@@ -1,0 +1,6 @@
+How many positive integers $n$ satisfy the following condition:
+ 
+$(130n)^{50} > n^{100} > 2^{200}$?
+ 
+$\mathrm{(A) \ } 0\qquad \mathrm{(B) \ } 7\qquad \mathrm{(C) \ } 12\qquad \mathrm{(D) \ } 65\qquad \mathrm{(E) \ } 125$
+ 

@@ -1,0 +1,4 @@
+A checkerboard of $13$ rows and $17$ columns has a number written in each square, beginning in the upper left corner, so that the first row is numbered $1,2,\ldots,17$, the second row $18,19,\ldots,34$, and so on down the board. If the board is renumbered so that the left column, top to bottom, is $1,2,\ldots,13,$, the second column $14,15,\ldots,26$ and so on across the board, some squares have the same numbers in both numbering systems. Find the sum of the numbers in these squares (under either system). 
+ 
+$\text {(A)}\ 222 \qquad \text {(B)}\ 333\qquad \text {(C)}\ 444 \qquad \text {(D)}\ 555 \qquad \text {(E)}\ 666$
+ 

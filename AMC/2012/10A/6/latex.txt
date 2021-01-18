@@ -1,0 +1,4 @@
+The product of two positive numbers is 9. The reciprocal of one of these numbers is 4 times the reciprocal of the other number. What is the sum of the two numbers?
+ 
+$\textbf{(A)}\ \frac{10}{3}\qquad\textbf{(B)}\ \frac{20}{3}\qquad\textbf{(C)}\ 7\qquad\textbf{(D)}\ \frac{15}{2}\qquad\textbf{(E)}\ 8$
+ 

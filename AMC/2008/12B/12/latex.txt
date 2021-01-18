@@ -1,0 +1,4 @@
+For each positive integer $n$, the mean of the first $n$ terms of a sequence is $n$. What is the $2008$th term of the sequence?
+ 
+$\textbf{(A)}\ 2008 \qquad \textbf{(B)}\ 4015 \qquad \textbf{(C)}\ 4016 \qquad \textbf{(D)}\ 4030056 \qquad \textbf{(E)}\ 4032064$
+ 

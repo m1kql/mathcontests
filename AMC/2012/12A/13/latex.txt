@@ -1,0 +1,4 @@
+Paula the painter and her two helpers each paint at constant, but different, rates. They always start at 8:00 AM, and all three always take the same amount of time to eat lunch. On Monday the three of them painted 50% of a house, quitting at 4:00 PM. On Tuesday, when Paula wasn't there, the two helpers painted only 24% of the house and quit at 2:12 PM. On Wednesday Paula worked by herself and finished the house by working until 7:12 P.M. How long,in minutes, was each day's lunch break?
+ 
+$\textbf{(A)}\ 30\qquad\textbf{(B)}\ 36\qquad\textbf{(C)}\ 42\qquad\textbf{(D)}\ 48\qquad\textbf{(E)}\ 60$
+ 

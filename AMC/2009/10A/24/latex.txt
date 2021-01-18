@@ -1,0 +1,12 @@
+Three distinct vertices of a cube are chosen at random. What is the probability that the plane determined by these three vertices contains points inside the cube?
+ 
+$\mathrm{(A)}\ \frac{1}{4} \qquad \mathrm{(B)}\ \frac{3}{8} \qquad \mathrm{(C)}\ \frac{4}{7} \qquad \mathrm{(D)}\ \frac{5}{7} \qquad \mathrm{(E)}\ \frac{3}{4}$
+ 
+$3$ points determine a plane. therefore $8C3 = 56$ ways exist to choose a plane.
+ 
+Unfortunately, we overcounted by a factor of four, as each plane determined has $4$ vertices on the cube. Therefore, there are $14$ planes.
+ 
+It is easy to see that all planes are either the cube's faces or pass through the cube. However, there are 6 faces of a cube.
+ 
+Therefore, there are $8$ out of $14$ planes that pass through the cube, making the probability 4/7, and the correct answer is C.
+ 

@@ -1,0 +1,4 @@
+How many ways are there to write $2016$ as the sum of twos and threes, ignoring order? (For example, $1008\cdot 2 + 0\cdot 3$ and $402\cdot 2 + 404\cdot 3$ are two such ways.)
+ 
+$\textbf{(A)}\ 236\qquad\textbf{(B)}\ 336\qquad\textbf{(C)}\ 337\qquad\textbf{(D)}\ 403\qquad\textbf{(E)}\ 672$
+ 

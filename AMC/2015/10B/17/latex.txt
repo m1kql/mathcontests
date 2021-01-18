@@ -1,0 +1,6 @@
+The centers of the faces of the right rectangular prism shown below are joined to create an octahedron. What is the volume of this octahedron?
+ 
+
+ 
+$\textbf{(A) } \dfrac{75}{12} \qquad\textbf{(B) } 10 \qquad\textbf{(C) } 12 \qquad\textbf{(D) } 10\sqrt2 \qquad\textbf{(E) } 15$
+ 

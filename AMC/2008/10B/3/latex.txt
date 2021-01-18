@@ -1,0 +1,4 @@
+Assume that $x$ is a positive real number. Which is equivalent to $\sqrt[3]{x\sqrt{x}}$?
+ 
+$\mathrm{(A)}\ x^{1/6}\qquad\mathrm{(B)}\ x^{1/4}\qquad\mathrm{(C)}\ x^{3/8}\qquad\mathrm{(D)}\ x^{1/2}\qquad\mathrm{(E)}\ x$
+ 

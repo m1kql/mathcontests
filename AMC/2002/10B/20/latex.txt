@@ -1,0 +1,4 @@
+Let a, b, and c be real numbers such that $a-7b+8c=4$ and $8a+4b-c=7$. Then $a^2-b^2+c^2$ is 
+ 
+$\mathrm{(A)\ }0\qquad\mathrm{(B)\ }1\qquad\mathrm{(C)\ }4\qquad\mathrm{(D)\ }7\qquad\mathrm{(E)\ }8$
+ 

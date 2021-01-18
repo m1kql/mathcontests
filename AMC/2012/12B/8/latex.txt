@@ -1,0 +1,4 @@
+A dessert chef prepares the dessert for every day of a week starting with Sunday. The dessert each day is either cake, pie, ice cream, or pudding. The same dessert may not be served two days in a row. There must be cake on Friday because of a birthday. How many different dessert menus for the week are possible?
+ 
+$\textbf{(A)}\ 729\qquad\textbf{(B)}\ 972\qquad\textbf{(C)}\ 1024\qquad\textbf{(D)}\ 2187\qquad\textbf{(E)}\ 2304$
+ 

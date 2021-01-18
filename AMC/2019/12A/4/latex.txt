@@ -1,0 +1,4 @@
+What is the greatest number of consecutive integers whose sum is $45?$
+ 
+$\textbf{(A) } 9 \qquad\textbf{(B) } 25 \qquad\textbf{(C) } 45 \qquad\textbf{(D) } 90 \qquad\textbf{(E) } 120$
+ 

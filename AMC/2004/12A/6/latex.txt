@@ -1,0 +1,4 @@
+Let $U=2\cdot 2004^{2005}$, $V=2004^{2005}$, $W=2003\cdot 2004^{2004}$, $X=2\cdot 2004^{2004}$, $Y=2004^{2004}$ and $Z=2004^{2003}$. Which of the following is the largest? 
+ 
+$\mathrm {(A)} U-V \qquad \mathrm {(B)} V-W \qquad \mathrm {(C)} W-X \qquad \mathrm {(D)} X-Y \qquad \mathrm {(E)} Y-Z \qquad$
+ 

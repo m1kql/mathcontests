@@ -1,0 +1,4 @@
+Given that $x$ and $y$ are distinct nonzero real numbers such that $x+\tfrac{2}{x} = y + \tfrac{2}{y}$, what is $xy$?
+ 
+$\textbf{(A)}\ \frac{1}{4}\qquad\textbf{(B)}\ \frac{1}{2}\qquad\textbf{(C)}\ 1\qquad\textbf{(D)}\ 2\qquad\textbf{(E)}\ 4\qquad$
+ 

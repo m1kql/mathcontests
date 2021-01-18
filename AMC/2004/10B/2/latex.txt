@@ -1,0 +1,4 @@
+How many two-digit positive integers have at least one $7$ as a digit?
+ 
+$\mathrm{(A) \ } 10 \qquad \mathrm{(B) \ } 18\qquad \mathrm{(C) \ } 19 \qquad \mathrm{(D) \ } 20\qquad \mathrm{(E) \ } 30$
+ 

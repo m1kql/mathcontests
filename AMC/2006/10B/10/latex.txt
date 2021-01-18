@@ -1,0 +1,4 @@
+In a triangle with integer side lengths, one side is three times as long as a second side, and the length of the third side is 15. What is the greatest possible perimeter of the triangle? 
+ 
+$\mathrm{(A) \ } 43\qquad \mathrm{(B) \ } 44\qquad \mathrm{(C) \ } 45\qquad \mathrm{(D) \ } 46\qquad \mathrm{(E) \ } 47$
+ 

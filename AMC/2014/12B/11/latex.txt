@@ -1,0 +1,4 @@
+A list of $11$ positive integers has a mean of $10$, a median of $9$, and a unique mode of $8$. What is the largest possible value of an integer in the list?
+ 
+$\textbf{(A)}\ 24\qquad\textbf{(B)}\ 30\qquad\textbf{(C)}\ 31\qquad\textbf{(D)}\ 33\qquad\textbf{(E)}\ 35$
+ 

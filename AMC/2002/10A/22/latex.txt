@@ -1,0 +1,4 @@
+A set of tiles numbered 1 through 100 is modified repeatedly by the following operation: remove all tiles numbered with a perfect square, and renumber the remaining tiles consecutively starting with 1. How many times must the operation be performed to reduce the number of tiles in the set to one?
+ 
+$\text{(A)}\ 10 \qquad \text{(B)}\ 11 \qquad \text{(C)}\ 18 \qquad \text{(D)}\ 19 \qquad \text{(E)}\ 20$
+ 

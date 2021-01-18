@@ -1,0 +1,4 @@
+At Rachelle's school an A counts 4 points, a B 3 points, a C 2 points, and a D 1 point. Her GPA on the four classes she is taking is computed as the total sum of points divided by 4. She is certain that she will get As in both Mathematics and Science, and at least a C in each of English and History. She thinks she has a $\tfrac{1}{6}$ chance of getting an A in English, and a $\tfrac{1}{4}$ chance of getting a B. In History, she has a $\tfrac{1}{4}$ chance of getting an A, and a $\tfrac{1}{3}$ chance of getting a B, independently of what she gets in English. What is the probability that Rachelle will get a GPA of at least 3.5?
+ 
+$\textbf{(A)}\; \frac{11}{72} \qquad\textbf{(B)}\; \frac{1}{6} \qquad\textbf{(C)}\; \frac{3}{16} \qquad\textbf{(D)}\; \frac{11}{24} \qquad\textbf{(E)}\; \frac{1}{2}$
+ 

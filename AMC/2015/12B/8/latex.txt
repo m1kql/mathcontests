@@ -1,0 +1,4 @@
+What is the value of $(625^{\log_5 2015})^{\frac{1}{4}}$ ?
+ 
+$\textbf{(A)}\; 5 \qquad\textbf{(B)}\; \sqrt[4]{2015} \qquad\textbf{(C)}\; 625 \qquad\textbf{(D)}\; 2015 \qquad\textbf{(E)}\; \sqrt[4]{5^{2015}}$
+ 

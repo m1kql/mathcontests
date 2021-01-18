@@ -1,0 +1,4 @@
+LeRoy and Bernardo went on a week-long trip together and agreed to share the costs equally. Over the week, each of them paid for various joint expenses such as gasoline and car rental. At the end of the trip it turned out that LeRoy had paid $A$ dollars and Bernardo had paid $B$ dollars, where $A < B$. How many dollars must LeRoy give to Bernardo so that they share the costs equally?
+ 
+$\textbf{(A)}\ \frac{A + B}{2} \qquad\textbf{(B)}\ \dfrac{A - B}{2}\qquad\textbf{(C)}\ \dfrac{B - A}{2}\qquad\textbf{(D)}\ B - A \qquad\textbf{(E)}\ A + B$
+ 

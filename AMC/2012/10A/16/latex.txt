@@ -1,0 +1,4 @@
+Three runners start running simultaneously from the same point on a 500-meter circular track. They each run clockwise around the course maintaining constant speeds of 4.4, 4.8, and 5.0 meters per second. The runners stop once they are all together again somewhere on the circular course. How many seconds do the runners run?
+ 
+$\textbf{(A)}\ 1,000\qquad\textbf{(B)}\ 1,250\qquad\textbf{(C)}\ 2,500\qquad\textbf{(D)}\ 5,000\qquad\textbf{(E)}\ 10,000$
+ 

@@ -1,0 +1,4 @@
+Andy’s lawn has twice as much area as Beth’s lawn and three times as much area as Carlos’ lawn. Carlos’ lawn mower cuts half as fast as Beth’s mower and one third as fast as Andy’s mower. If they all start to mow their lawns at the same time, who will finish first?
+ 
+$\mathrm{(A)}\ \text{Andy} \qquad\mathrm{(B)}\ \text{Beth} \qquad\mathrm{(C)}\ \text{Carlos} \qquad\mathrm{(D)}\ \text{Andy\ and \ Carlos\ tie\ for\ first.} \qquad\mathrm{(E)}\ \text{All\ three\ tie.}$
+ 

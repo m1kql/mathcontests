@@ -1,0 +1,4 @@
+Kymbrea's comic book collection currently has $30$ comic books in it, and she is adding to her collection at the rate of $2$ comic books per month. LaShawn's collection currently has $10$ comic books in it, and he is adding to his collection at the rate of $6$ comic books per month. After how many months will LaShawn's collection have twice as many comic books as Kymbrea's?
+ 
+$\textbf{(A)}\ 1\qquad\textbf{(B)}\ 4\qquad\textbf{(C)}\ 5\qquad\textbf{(D)}\ 20\qquad\textbf{(E)}\ 25$
+ 

@@ -1,0 +1,4 @@
+Mary’s top book shelf holds five books with the following widths, in centimeters: $6$, $\dfrac{1}{2}$, $1$, $2.5$, and $10$. What is the average book width, in centimeters?
+ 
+$\mathrm{(A)}\ 1 \qquad \mathrm{(B)}\ 2 \qquad \mathrm{(C)}\ 3 \qquad \mathrm{(D)}\ 4 \qquad \mathrm{(E)}\ 5$
+ 

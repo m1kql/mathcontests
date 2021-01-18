@@ -1,0 +1,4 @@
+For each positive integer $n$, let $S(n)$ be the number of sequences of length $n$ consisting solely of the letters $A$ and $B$, with no more than three $A$s in a row and no more than three $B$s in a row. What is the remainder when $S(2015)$ is divided by $12$?
+ 
+$\textbf{(A)}\ 0\qquad\textbf{(B)}\ 4\qquad\textbf{(C)}\ 6\qquad\textbf{(D)}\ 8\qquad\textbf{(E)}\ 10$
+ 

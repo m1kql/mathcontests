@@ -1,0 +1,4 @@
+The ratio of the short side of a certain rectangle to the long side is equal to the ratio of the long side to the diagonal. What is the square of the ratio of the short side to the long side of this rectangle?
+ 
+$\textbf{(A)}\ \frac{\sqrt{3}-1}{2}\qquad\textbf{(B)}\ \frac{1}{2}\qquad\textbf{(C)}\ \frac{\sqrt{5}-1}{2} \qquad\textbf{(D)}\ \frac{\sqrt{2}}{2} \qquad\textbf{(E)}\ \frac{\sqrt{6}-1}{2}$
+ 

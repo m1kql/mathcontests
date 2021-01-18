@@ -1,0 +1,4 @@
+$A$, $B$, $C$ are three piles of rocks. The mean weight of the rocks in $A$ is $40$ pounds, the mean weight of the rocks in $B$ is $50$ pounds, the mean weight of the rocks in the combined piles $A$ and $B$ is $43$ pounds, and the mean weight of the rocks in the combined piles $A$ and $C$ is $44$ pounds. What is the greatest possible integer value for the mean in pounds of the rocks in the combined piles $B$ and $C$?
+ 
+$\textbf{(A)} \ 55 \qquad \textbf{(B)} \ 56 \qquad \textbf{(C)} \ 57 \qquad \textbf{(D)} \ 58 \qquad \textbf{(E)} \ 59$
+ 

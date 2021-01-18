@@ -1,0 +1,4 @@
+The difference between a two-digit number and the number obtained by reversing its digits is $5$ times the sum of the digits of either number.  What is the sum of the two digit number and its reverse?
+ 
+$\textbf{(A) }44\qquad \textbf{(B) }55\qquad \textbf{(C) }77\qquad \textbf{(D) }99\qquad \textbf{(E) }110$
+ 

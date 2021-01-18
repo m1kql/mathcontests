@@ -1,0 +1,4 @@
+Monic quadratic polynomial $P(x)$ and $Q(x)$ have the property that $P(Q(x))$ has zeros at $x=-23, -21, -17,$ and $-15$, and $Q(P(x))$ has zeros at $x=-59,-57,-51$ and $-49$. What is the sum of the minimum values of $P(x)$ and $Q(x)$? 
+ 
+$\textbf{(A)}\ -100 \qquad \textbf{(B)}\ -82 \qquad \textbf{(C)}\ -73 \qquad \textbf{(D)}\ -64 \qquad \textbf{(E)}\ 0$
+ 

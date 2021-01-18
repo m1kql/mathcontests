@@ -1,0 +1,4 @@
+The complex numbers $z$ and $w$ satisfy the system  \begin{center} \[z + \frac{20i}w = 5+i\] \end{center} 
+ 
+ \begin{center} \[w+\frac{12i}z = -4+10i\] \end{center}  Find the smallest possible value of $\vert zw\vert^2$.
+ 

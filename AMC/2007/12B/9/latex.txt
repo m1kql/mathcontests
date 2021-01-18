@@ -1,0 +1,4 @@
+A function $f$ has the property that $f(3x-1)=x^2+x+1$ for all real numbers $x$.  What is $f(5)$?
+ 
+$(A)7$ $(B)13$ $(C)31$ $(D)111$ $(E)211$
+ 

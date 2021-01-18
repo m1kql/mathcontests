@@ -1,0 +1,4 @@
+In $\triangle BAC$, $\angle BAC=40^\circ$, $AB=10$, and $AC=6$.  Points $D$ and $E$ lie on $\overline{AB}$ and $\overline{AC}$ respectively.  What is the minimum possible value of $BE+DE+CD$?
+ 
+$\textbf{(A) }6\sqrt 3+3\qquad \textbf{(B) }\dfrac{27}2\qquad \textbf{(C) }8\sqrt 3\qquad \textbf{(D) }14\qquad \textbf{(E) }3\sqrt 3+9\qquad$
+ 

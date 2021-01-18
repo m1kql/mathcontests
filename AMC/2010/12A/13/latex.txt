@@ -1,0 +1,4 @@
+For how many integer values of $k$ do the graphs of $x^2+y^2=k^2$ and $xy = k$ not intersect?
+ 
+$\textbf{(A)}\ 0 \qquad \textbf{(B)}\ 1 \qquad \textbf{(C)}\ 2 \qquad \textbf{(D)}\ 4 \qquad \textbf{(E)}\ 8$
+ 

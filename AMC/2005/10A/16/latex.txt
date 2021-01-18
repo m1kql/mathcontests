@@ -1,0 +1,4 @@
+The sum of the digits of a two-digit number is subtracted from the number. The units digit of the result is $6$. How many two-digit numbers have this property? 
+ 
+$\mathrm{(A) \ } 5\qquad \mathrm{(B) \ } 7\qquad \mathrm{(C) \ } 9\qquad \mathrm{(D) \ } 10\qquad \mathrm{(E) \ } 19$
+ 

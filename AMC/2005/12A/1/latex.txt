@@ -1,0 +1,4 @@
+Two is $10 \%$ of $x$ and $20 \%$ of $y$. What is $x - y$?
+ 
+$(\mathrm {A}) \ 1 \qquad (\mathrm {B}) \ 2 \qquad (\mathrm {C})\ 5 \qquad (\mathrm {D}) \ 10 \qquad (\mathrm {E})\ 20$
+ 

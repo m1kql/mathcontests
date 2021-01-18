@@ -1,0 +1,4 @@
+The parabola $P$ has focus $(0,0)$ and goes through the points $(4,3)$ and $(-4,-3)$.  For how many points $(x,y)\in P$ with integer coordinates is it true that $|4x+3y|\leq 1000$?
+ 
+$\textbf{(A) }38\qquad \textbf{(B) }40\qquad \textbf{(C) }42\qquad \textbf{(D) }44\qquad \textbf{(E) }46\qquad$
+ 

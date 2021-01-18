@@ -1,0 +1,4 @@
+Circles with centers $P, Q$ and $R$, having radii $1, 2$ and $3$, respectively, lie on the same side of line $l$ and are tangent to $l$ at $P', Q'$ and $R'$, respectively, with $Q'$ between $P'$ and $R'$. The circle with center $Q$ is externally tangent to each of the other two circles. What is the area of triangle $PQR$?
+ 
+$\textbf{(A) } 0\qquad \textbf{(B) } \sqrt{\frac{2}{3}}\qquad\textbf{(C) } 1\qquad\textbf{(D) } \sqrt{6}-\sqrt{2}\qquad\textbf{(E) }\sqrt{\frac{3}{2}}$
+ 

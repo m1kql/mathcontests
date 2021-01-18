@@ -1,0 +1,4 @@
+A wooden cube $n$ units on a side is painted red on all six faces and then cut into $n^3$ unit cubes. Exactly one-fourth of the total number of faces of the unit cubes are red. What is $n$? 
+ 
+$(\mathrm {A}) \ 3 \qquad (\mathrm {B}) \ 4 \qquad (\mathrm {C})\ 5 \qquad (\mathrm {D}) \ 6 \qquad (\mathrm {E})\ 7$
+ 

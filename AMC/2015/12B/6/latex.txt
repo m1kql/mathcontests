@@ -1,0 +1,4 @@
+Back in 1930, Tillie had to memorize her multiplication facts from $0 \times 0$ to $12 \times 12$. The multiplication table she was given had rows and columns labeled with the factors, and the products formed the body of the table. To the nearest hundredth, what fraction of the numbers in the body of the table are odd?
+ 
+$\textbf{(A)}\; 0.21 \qquad\textbf{(B)}\; 0.25 \qquad\textbf{(C)}\; 0.46 \qquad\textbf{(D)}\; 0.50 \qquad\textbf{(E)}\; 0.75$
+ 

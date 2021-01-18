@@ -1,0 +1,4 @@
+How many of the base-ten numerals for the positive integers less than or equal to $2017$ contain the digit $0$?
+ 
+$\textbf{(A)}\ 469\qquad\textbf{(B)}\ 471\qquad\textbf{(C)}\ 475\qquad\textbf{(D)}\ 478\qquad\textbf{(E)}\ 481$
+ 

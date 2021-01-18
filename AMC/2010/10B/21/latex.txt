@@ -1,0 +1,4 @@
+A palindrome between $1000$ and $10,000$ is chosen at random. What is the probability that it is divisible by $7$?
+ 
+$\textbf{(A)}\ \dfrac{1}{10} \qquad \textbf{(B)}\ \dfrac{1}{9} \qquad \textbf{(C)}\ \dfrac{1}{7} \qquad \textbf{(D)}\ \dfrac{1}{6} \qquad \textbf{(E)}\ \dfrac{1}{5}$
+ 

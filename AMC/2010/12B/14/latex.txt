@@ -1,0 +1,4 @@
+Let $a$, $b$, $c$, $d$, and $e$ be positive integers with $a+b+c+d+e=2010$ and let $M$ be the largest of the sum $a+b$, $b+c$, $c+d$ and $d+e$. What is the smallest possible value of $M$?
+ 
+$\textbf{(A)}\ 670 \qquad \textbf{(B)}\ 671 \qquad \textbf{(C)}\ 802 \qquad \textbf{(D)}\ 803 \qquad \textbf{(E)}\ 804$
+ 

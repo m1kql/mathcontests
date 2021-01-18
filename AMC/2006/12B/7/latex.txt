@@ -1,0 +1,4 @@
+Mr. and Mrs. Lopez have two children.  When they get into their family car, two people sit in the front, and the other two sit in the back.  Either Mr. Lopez or Mrs. Lopez must sit in the driver's seat.  How many seating arrangements are possible?
+ 
+$\text {(A) } 4 \qquad \text {(B) } 12 \qquad \text {(C) } 16 \qquad \text {(D) } 24 \qquad \text {(E) } 48$
+ 

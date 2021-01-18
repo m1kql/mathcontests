@@ -1,0 +1,4 @@
+Externally tangent circles with centers at points $A$ and $B$ have radii of lengths $5$ and $3$, respectively. A line externally tangent to both circles intersects ray $AB$ at point $C$. What is $BC$?
+ 
+$\textbf{(A)}\ 4\qquad\textbf{(B)}\ 4.8\qquad\textbf{(C)}\ 10.2\qquad\textbf{(D)}\ 12\qquad\textbf{(E)}\ 14.4$
+ 

@@ -1,0 +1,6 @@
+A triangle is partitioned into three triangles and a quadrilateral by drawing two lines from vertices to their opposite sides. The areas of the three triangles are 3, 7, and 7, as shown. What is the area of the shaded quadrilateral?
+ 
+
+ 
+$\mathrm{(A) \ } 15\qquad \mathrm{(B) \ } 17\qquad \mathrm{(C) \ } \frac{35}{2}\qquad \mathrm{(D) \ } 18\qquad \mathrm{(E) \ } \frac{55}{3}$
+ 

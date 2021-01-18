@@ -1,0 +1,4 @@
+The remainder can be defined for all real numbers $x$ and $y$ with $y \neq 0$ by  \begin{center} \[\text{rem} (x ,y)=x-y\left \lfloor \frac{x}{y} \right \rfloor\] \end{center} where $\left \lfloor \tfrac{x}{y} \right \rfloor$ denotes the greatest integer less than or equal to $\tfrac{x}{y}$. What is the value of $\text{rem} (\tfrac{3}{8}, -\tfrac{2}{5} )$?
+ 
+$\textbf{(A) } -\frac{3}{8} \qquad \textbf{(B) } -\frac{1}{40} \qquad \textbf{(C) } 0 \qquad \textbf{(D) } \frac{3}{8} \qquad \textbf{(E) } \frac{31}{40}$
+ 

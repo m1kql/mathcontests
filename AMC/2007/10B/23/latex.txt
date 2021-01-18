@@ -1,0 +1,4 @@
+A pyramid with a square base is cut by a plane that is parallel to its base and $2$ units from the base. The surface area of the smaller pyramid that is cut from the top is half the surface area of the original pyramid. What is the altitude of the original pyramid?
+ 
+$\textbf{(A) } 2 \qquad\textbf{(B) } 2+\sqrt{2} \qquad\textbf{(C) } 1+2\sqrt{2} \qquad\textbf{(D) } 4 \qquad\textbf{(E) } 4+2\sqrt{2}$
+ 

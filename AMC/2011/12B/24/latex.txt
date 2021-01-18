@@ -1,0 +1,6 @@
+Let $P(z) = z^8 + \left(4\sqrt{3} + 6\right)z^4 - \left(4\sqrt{3} + 7\right)$. What is the minimum perimeter among all the $8$-sided polygons in the complex plane whose vertices are precisely the zeros of $P(z)$?
+ 
+$\textbf{(A)}\ 4\sqrt{3} + 4 \qquad \textbf{(B)}\ 8\sqrt{2} \qquad \textbf{(C)}\  3\sqrt{2} + 3\sqrt{6}$
+ 
+$\textbf{(D)}\  4\sqrt{2} + 4\sqrt{3} \qquad \textbf{(E)}\  4\sqrt{3} + 6$
+ 

@@ -1,0 +1,4 @@
+Equiangular hexagon $ABCDEF$ has side lengths $AB=CD=EF=1$ and $BC=DE=FA=r$. The area of $\triangle ACE$ is $70\%$ of the area of the hexagon. What is the sum of all possible values of $r$?
+ 
+$\textbf{(A)}\ \frac{4\sqrt{3}}{3} \qquad \textbf{(B)} \frac{10}{3} \qquad \textbf{(C)}\ 4 \qquad \textbf{(D)}\ \frac{17}{4} \qquad \textbf{(E)}\ 6$
+ 

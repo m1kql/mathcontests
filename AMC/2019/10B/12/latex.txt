@@ -1,0 +1,4 @@
+What is the greatest possible sum of the digits in the base-seven representation of a positive integer less than $2019$?
+ 
+$\textbf{(A) } 11 \qquad\textbf{(B) } 14 \qquad\textbf{(C) } 22 \qquad\textbf{(D) } 23 \qquad\textbf{(E) } 27$
+ 

@@ -1,0 +1,6 @@
+Square $ABCD$ has side length $10$. Point $E$ is on $\overline{BC}$, and the area of $\bigtriangleup ABE$ is $40$. What is $BE$?
+ 
+$\textbf{(A)} \ 4 \qquad \textbf{(B)} \ 5 \qquad \textbf{(C)} \ 6 \qquad \textbf{(D)} \ 7 \qquad \textbf{(E)} \ 8 \qquad$
+ 
+
+ 

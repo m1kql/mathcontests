@@ -1,0 +1,4 @@
+Pat wants to buy four donuts from an ample supply of three types of donuts: glazed, chocolate, and powdered. How many different selections are possible?
+ 
+$\textbf{(A)}\ 6 \qquad \textbf{(B)}\ 9 \qquad \textbf{(C)}\ 12 \qquad \textbf{(D)}\ 15 \qquad \textbf{(E)}\ 18$
+ 

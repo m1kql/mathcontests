@@ -1,0 +1,4 @@
+A restaurant offers three desserts, and exactly twice as many appetizers as main courses. A dinner consists of an appetizer, a main course, and a dessert. What is the least number of main courses that a restaurant should offer so that a customer could have a different dinner each night in the year $2003$?
+ 
+$\textbf{(A) } 4 \qquad\textbf{(B) } 5 \qquad\textbf{(C) } 6 \qquad\textbf{(D) } 7 \qquad\textbf{(E) } 8$
+ 

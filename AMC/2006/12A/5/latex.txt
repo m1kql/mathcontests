@@ -1,0 +1,4 @@
+Doug and Dave shared a pizza with $8$ equally-sized slices. Doug wanted a plain pizza, but Dave wanted anchovies on half the pizza. The cost of a plain pizza was $8$ dollars, and there was an additional cost of $2$ dollars for putting anchovies on one half. Dave ate all the slices of anchovy pizza and one plain slice. Doug ate the remainder. Each paid for what he had eaten. How many more dollars did Dave pay than Doug?
+ 
+$\mathrm{(A) \ } 1\qquad \mathrm{(B) \ } 2\qquad \mathrm{(C) \ } 3\qquad \mathrm{(D) \ } 4\qquad \mathrm{(E) \ }  5$
+ 

@@ -1,0 +1,4 @@
+Let $A_0=(0,0)$. Distinct points $A_1,A_2,\dots$ lie on the $x$-axis, and distinct points $B_1,B_2,\dots$ lie on the graph of $y=\sqrt{x}$. For every positive integer $n,\ A_{n-1}B_nA_n$ is an equilateral triangle. What is the least $n$ for which the length $A_0A_n\geq100$?
+ 
+$\textbf{(A)}\ 13\qquad \textbf{(B)}\ 15\qquad \textbf{(C)}\ 17\qquad \textbf{(D)}\ 19\qquad \textbf{(E)}\ 21$
+ 

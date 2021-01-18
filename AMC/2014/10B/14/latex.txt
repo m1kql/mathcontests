@@ -1,0 +1,4 @@
+Danica drove her new car on a trip for a whole number of hours, averaging $55$ miles per hour. At the beginning of the trip, $abc$ miles was displayed on the odometer, where $abc$ is a $3$-digit number with $a\ge1$ and $a+b+c\le7$. At the end of the trip, the odometer showed $cba$ miles. What is $a^2+b^2+c^2$?
+ 
+$\textbf {(A) } 26 \qquad \textbf {(B) } 27 \qquad \textbf {(C) } 36 \qquad \textbf {(D) } 37 \qquad \textbf {(E) } 41$
+ 

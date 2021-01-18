@@ -1,0 +1,4 @@
+A rectangular floor that is $10$ feet wide and $17$ feet long is tiled with $170$ one-foot square tiles. A bug walks from one corner to the opposite corner in a straight line. Including the first and the last tile, how many tiles does the bug visit?
+ 
+$\textbf{(A) } 17 \qquad\textbf{(B) } 25 \qquad\textbf{(C) } 26 \qquad\textbf{(D) } 27 \qquad\textbf{(E) } 28$
+ 

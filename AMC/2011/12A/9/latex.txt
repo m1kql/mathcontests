@@ -1,0 +1,4 @@
+At a twins and triplets convention, there were $9$ sets of twins and $6$ sets of triplets, all from different families. Each twin shook hands with all the twins except his/her siblings and with half the triplets. Each triplet shook hands with all the triplets except his/her siblings and with half the twins. How many handshakes took place?
+ 
+$\textbf{(A)}\ 324 \qquad \textbf{(B)}\ 441 \qquad \textbf{(C)}\ 630 \qquad \textbf{(D)}\ 648 \qquad \textbf{(E)}\ 882$
+ 

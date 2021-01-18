@@ -1,0 +1,4 @@
+Every week Roger pays for a movie ticket and a soda out of his allowance. Last week, Roger's allowance was $A$ dollars. The cost of his movie ticket was $20\%$ of the difference between $A$ and the cost of his soda, while the cost of his soda was $5\%$ of the difference between $A$ and the cost of his movie ticket. To the nearest whole percent, what fraction of $A$ did Roger pay for his movie ticket and soda?
+ 
+$\mathrm{\textbf{(A)} \ }9\%\qquad \mathrm{\textbf{(B)} \ } 19\%\qquad \mathrm{\textbf{(C)} \ } 22\%\qquad \mathrm{\textbf{(D)} \ } 23\%\qquad \mathrm{\textbf{(E)} \ }25\%$
+ 

@@ -1,0 +1,1 @@
+Chords $AA'$, $BB'$, and $CC'$ of a sphere meet at an interior point $P$ but are not contained in the same plane.  The sphere through $A$, $B$, $C$, and $P$ is tangent to the sphere through $A'$, $B'$, $C'$, and $P$.  Prove that $AA'=BB'=CC'$.

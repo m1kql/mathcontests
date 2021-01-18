@@ -1,0 +1,4 @@
+Sofia ran $5$ laps around the $400$-meter track at her school. For each lap, she ran the first $100$ meters at an average speed of $4$ meters per second and the remaining $300$ meters at an average speed of $5$ meters per second. How much time did Sofia take running the $5$ laps?
+ 
+$\textbf{(A)}\ \text{5 minutes and 35 seconds}\qquad\textbf{(B)}\ \text{6 minutes and 40 seconds}\qquad\textbf{(C)}\ \text{7 minutes and 5 seconds}\qquad\textbf{(D)}\ \text{7 minutes and 25 seconds}$$\qquad\textbf{(E)}\ \text{8 minutes and 10 seconds}$
+ 

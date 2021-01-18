@@ -1,0 +1,4 @@
+Team A and team B play a series. The first team to win three games wins the series. Each team is equally likely to win each game, there are no ties, and the outcomes of the individual games are independent. If team B wins the second game and team A wins the series, what is the probability that team B wins the first game? 
+ 
+$\mathrm{(A) \ } \frac{1}{5}\qquad \mathrm{(B) \ }  \frac{1}{4}\qquad \mathrm{(C) \ }  \frac{1}{3}\qquad \mathrm{(D) \ }  \frac{1}{2}\qquad \mathrm{(E) \ }  \frac{2}{3}$
+ 

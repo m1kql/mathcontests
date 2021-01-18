@@ -1,0 +1,4 @@
+Line $l_1$ has equation $3x - 2y = 1$ and goes through $A = (-1, -2)$. Line $l_2$ has equation $y = 1$ and meets line $l_1$ at point $B$. Line $l_3$ has positive slope, goes through point $A$, and meets $l_2$ at point $C$. The area of $\triangle ABC$ is $3$. What is the slope of $l_3$?
+ 
+$\textbf{(A)}\ \frac{2}{3} \qquad \textbf{(B)}\ \frac{3}{4} \qquad \textbf{(C)}\ 1 \qquad \textbf{(D)}\ \frac{4}{3} \qquad \textbf{(E)}\ \frac{3}{2}$
+ 

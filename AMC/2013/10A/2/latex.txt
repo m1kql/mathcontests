@@ -1,0 +1,4 @@
+Alice is making a batch of cookies and needs $2\frac{1}{2}$ cups of sugar.  Unfortunately, her measuring cup holds only $\frac{1}{4}$ cup of sugar.  How many times must she fill that cup to get the correct amount of sugar?
+ 
+$\textbf{(A)}\ 8 \qquad\textbf{(B)}\ 10  \qquad\textbf{(C)}\ 12 \qquad\textbf{(D)}\ 16 \qquad\textbf{(E)}\ 20$
+ 

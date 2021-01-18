@@ -1,0 +1,4 @@
+Let $a_1,a_2,\ldots$ be a sequence determined by the rule $a_n=a_{n-1}/2$ if $a_{n-1}$ is even and $a_n=3a_{n-1}+1$ if $a_{n-1}$ is odd. For how many positive integers $a_1 \le 2008$ is it true that $a_1$ is less than each of $a_2$, $a_3$, and $a_4$? 
+ 
+$\mathrm{(A)}\ 250\qquad\mathrm{(B)}\ 251\qquad\mathrm{(C)}\ 501\qquad\mathrm{(D)}\ 502\qquad\mathrm{(E)} 1004$
+ 

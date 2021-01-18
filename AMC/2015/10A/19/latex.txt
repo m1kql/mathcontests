@@ -1,0 +1,4 @@
+The isosceles right triangle $ABC$ has right angle at $C$ and area $12.5$. The rays trisecting $\angle ACB$ intersect $AB$ at $D$ and $E$. What is the area of $\bigtriangleup CDE$?
+ 
+$\textbf{(A) }\dfrac{5\sqrt{2}}{3}\qquad\textbf{(B) }\dfrac{50\sqrt{3}-75}{4}\qquad\textbf{(C) }\dfrac{15\sqrt{3}}{8}\qquad\textbf{(D) }\dfrac{50-25\sqrt{3}}{2}\qquad\textbf{(E) }\dfrac{25}{6}$
+ 

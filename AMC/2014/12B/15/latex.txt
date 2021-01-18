@@ -1,0 +1,4 @@
+When $p = \sum\limits_{k=1}^{6} k \ln{k}$, the number $e^p$ is an integer.  What is the largest power of 2 that is a factor of $e^p$?
+ 
+$\textbf{(A)}\ 2^{12}\qquad\textbf{(B)}\ 2^{14}\qquad\textbf{(C)}\ 2^{16}\qquad\textbf{(D)}\ 2^{18}\qquad\textbf{(E)}\ 2^{20}$
+ 

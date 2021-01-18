@@ -1,0 +1,4 @@
+The polynomial $p(x) = x^3+ax^2+bx+c$ has the property that the average of its zeros, the product of its zeros, and the sum of its coefficients are all equal. The $y$-intercept of the graph of $y=p(x)$ is 2. What is $b$?
+ 
+$(\mathrm{A})\ -11 \qquad (\mathrm{B})\ -10 \qquad (\mathrm{C})\ -9 \qquad (\mathrm{D})\ 1 \qquad (\mathrm{E})\ 5$
+ 

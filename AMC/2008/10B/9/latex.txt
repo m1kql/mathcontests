@@ -1,0 +1,4 @@
+A quadratic equation $ax^2 - 2ax + b = 0$ has two real solutions. What is the average of these two solutions?
+ 
+$\mathrm{(A)}\ 1\qquad\mathrm{(B)}\ 2\qquad\mathrm{(C)}\ \frac ba\qquad\mathrm{(D)}\ \frac{2b}a\qquad\mathrm{(E)}\ \sqrt{2b-a}$
+ 

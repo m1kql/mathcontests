@@ -1,0 +1,4 @@
+There are 3 numbers A, B, and C, such that $1001C - 2002A = 4004$, and $1001B + 3003A = 5005$. What is the average of A, B, and C?
+ 
+$\text{(A)}\ 1 \qquad \text{(B)}\ 3 \qquad \text{(C)}\ 6 \qquad \text{(D)}\ 9 \qquad \text{(E)}$ Not uniquely determined
+ 

@@ -1,0 +1,4 @@
+Triangle $OAB$ has $O=(0,0)$, $B=(5,0)$, and $A$ in the first quadrant. In addition, $\angle ABO=90^\circ$ and $\angle AOB=30^\circ$. Suppose that $OA$ is rotated $90^\circ$ counterclockwise about $O$. What are the coordinates of the image of $A$? 
+ 
+$\mathrm{(A)}\ \left( - \frac {10}{3}\sqrt {3},5\right) \qquad \mathrm{(B)}\ \left( - \frac {5}{3}\sqrt {3},5\right) \qquad \mathrm{(C)}\ \left(\sqrt {3},5\right) \qquad \mathrm{(D)}\ \left(\frac {5}{3}\sqrt {3},5\right) \qquad \mathrm{(E)}\ \left(\frac {10}{3}\sqrt {3},5\right)$
+ 

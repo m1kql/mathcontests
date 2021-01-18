@@ -1,0 +1,4 @@
+Each face of a cube is painted either red or blue, each with probability $1/2$. The color of each face is determined independently. What is the probability that the painted cube can be placed on a horizontal surface so that the four vertical faces are all the same color?
+ 
+$\textbf{(A)}\ \frac14 \qquad \textbf{(B)}\ \frac {5}{16} \qquad \textbf{(C)}\ \frac38 \qquad \textbf{(D)}\ \frac {7}{16} \qquad \textbf{(E)}\ \frac12$
+ 

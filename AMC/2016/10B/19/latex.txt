@@ -1,0 +1,8 @@
+Rectangle $ABCD$ has $AB=5$ and $BC=4$. Point $E$ lies on $\overline{AB}$ so that $EB=1$, point $G$ lies on $\overline{BC}$ so that $CG=1$, and point $F$ lies on $\overline{CD}$ so that $DF=2$. Segments $\overline{AG}$ and $\overline{AC}$ intersect $\overline{EF}$ at $Q$ and $P$, respectively. What is the value of $\frac{PQ}{EF}$?
+ 
+
+ 
+
+ 
+$\textbf{(A)}~\frac{\sqrt{13}}{16} \qquad \textbf{(B)}~\frac{\sqrt{2}}{13} \qquad \textbf{(C)}~\frac{9}{82} \qquad \textbf{(D)}~\frac{10}{91}\qquad \textbf{(E)}~\frac19$
+ 

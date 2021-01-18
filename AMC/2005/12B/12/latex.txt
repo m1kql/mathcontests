@@ -1,0 +1,4 @@
+The quadratic equation $x^2+mx+n$ has roots twice those of $x^2+px+m$, and none of $m,n,$ and $p$ is zero. What is the value of $n/p$?
+ 
+$\mathrm{(A)}\ {{{1}}} \qquad \mathrm{(B)}\ {{{2}}} \qquad \mathrm{(C)}\ {{{4}}} \qquad \mathrm{(D)}\ {{{8}}} \qquad \mathrm{(E)}\ {{{16}}}$
+ 

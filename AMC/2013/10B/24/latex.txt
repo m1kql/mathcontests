@@ -1,0 +1,6 @@
+A positive integer $n$ is nice if there is a positive integer $m$ with exactly four positive divisors (including $1$ and $m$) such that the sum of the four divisors is equal to $n$. How many numbers in the set $\{ 2010,2011,2012,\dotsc,2019 \}$ are nice?
+ 
+
+ 
+$\textbf{(A)}\ 1 \qquad\textbf{(B)}\ 2 \qquad\textbf{(C)}\ 3 \qquad\textbf{(D)}\ 4 \qquad\textbf{(E)}\ 5$
+ 

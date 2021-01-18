@@ -1,0 +1,4 @@
+A triangle with side lengths in the ratio $3 : 4 : 5$ is inscribed in a circle with radius 3. What is the area of the triangle?
+ 
+$\mathrm{(A)}\ 8.64\qquad \mathrm{(B)}\ 12\qquad \mathrm{(C)}\ 5\pi\qquad \mathrm{(D)}\ 17.28\qquad \mathrm{(E)}\ 18$
+ 

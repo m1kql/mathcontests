@@ -1,0 +1,5 @@
+
+A store normally sells windows at \textdollar 100 each. This week the store is offering one free window for each purchase of four. Dave needs seven windows and Doug needs eight windows. How much will they save if they purchase the windows together rather than separately?
+
+$(\textbf {A}) \ 100 \qquad (\textbf {B}) \ 200 \qquad (\textbf {C})\ 300 \qquad (\textbf {D}) \ 400 \qquad (\textbf {E})\ 500$
+

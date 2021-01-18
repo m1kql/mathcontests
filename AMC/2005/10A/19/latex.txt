@@ -1,0 +1,6 @@
+Three one-inch squares are placed with their bases on a line. The center square is lifted out and rotated 45 degrees, as shown. Then it is centered and lowered into its original location until it touches both of the adjoining squares. How many inches is the point $B$ from the line on which the bases of the original squares were placed?
+ 
+
+ 
+$\textbf{(A)}\ 1\qquad\textbf{(B)}\ \sqrt{2}\qquad\textbf{(C)}\ \frac{3}{2}\qquad\textbf{(D)}\ \sqrt{2}+\frac{1}{2}\qquad\textbf{(E)}\ 2$
+ 

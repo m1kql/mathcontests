@@ -1,0 +1,6 @@
+For what value of $n$ is $i + 2i^2 + 3i^3 + \cdots + ni^n = 48 + 49i$?
+ 
+Note: here $i = \sqrt { - 1}$.
+ 
+$\textbf{(A)}\ 24 \qquad \textbf{(B)}\ 48 \qquad \textbf{(C)}\ 49 \qquad \textbf{(D)}\ 97 \qquad \textbf{(E)}\ 98$
+ 

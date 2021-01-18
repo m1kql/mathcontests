@@ -1,0 +1,4 @@
+How many squares whose sides are parallel to the axes and whose vertices have coordinates that are integers lie entirely within the region bounded by the line $y=\pi x$, the line $y=-0.1$ and the line $x=5.1?$
+ 
+$\textbf{(A)}\ 30 \qquad \textbf{(B)}\ 41 \qquad \textbf{(C)}\ 45 \qquad \textbf{(D)}\ 50 \qquad \textbf{(E)}\ 57$
+ 

@@ -1,0 +1,4 @@
+In trapezoid $ABCD$ we have $\overline{AB}$ parallel to $\overline{DC}$, $E$ as the midpoint of $\overline{BC}$, and $F$ as the midpoint of $\overline{DA}$. The area of $ABEF$ is twice the area of $FECD$. What is $AB/DC$?
+ 
+$\mathrm{(A)} 2 \qquad \mathrm{(B)} 3 \qquad \mathrm{(C)} 5 \qquad \mathrm{(D)} 6 \qquad \mathrm{(E)} 8$
+ 

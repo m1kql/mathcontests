@@ -1,0 +1,4 @@
+Suppose that $4^{x_1}=5$, $5^{x_2}=6$, $6^{x_3}=7$, ... , $127^{x_{124}}=128$.  What is $x_1x_2...x_{124}$?
+ 
+$\mathrm{(A)}\ {{{2}}} \qquad \mathrm{(B)}\ {{{\frac{5}{2}}}} \qquad \mathrm{(C)}\ {{{3}}} \qquad \mathrm{(D)}\ {{{\frac{7}{2}}}} \qquad \mathrm{(E)}\ {{{4}}}$
+ 

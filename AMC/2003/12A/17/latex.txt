@@ -1,0 +1,6 @@
+Square $ABCD$ has sides of length $4$, and $M$ is the midpoint of $\overline{CD}$. A circle with radius $2$ and center $M$ intersects a circle with radius $4$ and center $A$ at points $P$ and $D$. What is the distance from $P$ to $\overline{AD}$?
+ 
+
+ 
+$\textbf{(A)}\ 3 \qquad \textbf{(B)}\ \frac {16}{5} \qquad \textbf{(C)}\ \frac {13}{4} \qquad \textbf{(D)}\ 2\sqrt {3} \qquad \textbf{(E)}\ \frac {7}{2}$
+ 

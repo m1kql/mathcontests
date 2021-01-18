@@ -1,0 +1,6 @@
+Consider the $12$-sided polygon $ABCDEFGHIJKL$, as shown. Each of its sides has length $4$, and each two consecutive sides form a right angle. Suppose that $\overline{AG}$ and $\overline{CH}$ meet at $M$. What is the area of quadrilateral $ABCM$?
+ 
+
+ 
+$\text{(A)}\ \frac {44}{3}\qquad \text{(B)}\ 16 \qquad \text{(C)}\ \frac {88}{5}\qquad \text{(D)}\ 20 \qquad \text{(E)}\ \frac {62}{3}$
+ 

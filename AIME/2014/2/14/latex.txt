@@ -1,0 +1,2 @@
+In $\triangle{ABC}, AB=10, \angle{A}=30^\circ$ , and $\angle{C=45^\circ}$. Let $H, D,$ and $M$ be points on the line $BC$ such that $AH\perp{BC}$, $\angle{BAD}=\angle{CAD}$, and $BM=CM$. Point $N$ is the midpoint of the segment $HM$, and point $P$ is on ray $AD$ such that $PN\perp{BC}$. Then $AP^2=\dfrac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. Find $m+n$.
+ 

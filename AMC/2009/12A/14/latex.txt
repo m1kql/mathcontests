@@ -1,0 +1,4 @@
+A triangle has vertices $(0,0)$, $(1,1)$, and $(6m,0)$, and the line $y = mx$ divides the triangle into two triangles of equal area. What is the sum of all possible values of $m$?
+ 
+$\textbf{A} - \!\frac {1}{3} \qquad \textbf{(B)} - \!\frac {1}{6} \qquad \textbf{(C)}\ \frac {1}{6} \qquad \textbf{(D)}\ \frac {1}{3} \qquad \textbf{(E)}\ \frac {1}{2}$
+ 

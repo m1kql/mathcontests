@@ -1,0 +1,4 @@
+A bug crawls along a number line, starting at $-2$. It crawls to $-6$, then turns around and crawls to $5$. How many units does the bug crawl altogether?
+ 
+$\textbf{(A)}\ 9\qquad\textbf{(B)}\ 11\qquad\textbf{(C)}\ 13\qquad\textbf{(D)}\ 14\qquad\textbf{(E)}\ 15$
+ 

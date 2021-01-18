@@ -1,0 +1,6 @@
+What is the average (mean) of all 5-digit numbers that can be formed by using each of the digits 1, 3, 5, 7, 8 and exactly once?
+ 
+
+ 
+$\mathrm{(A)}48000\qquad\mathrm{(B)}49999.5\qquad\mathrm{(C)}53332.8\qquad\mathrm{(D)}55555\qquad\mathrm{(E)}56432.8$
+ 

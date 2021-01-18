@@ -1,0 +1,3 @@
+Prove that the zeros of
+ \begin{center} \[x^5+ax^4+bx^3+cx^2+dx+e=0\] \end{center} 
+cannot all be real if $2a^2<5b$.

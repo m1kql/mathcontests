@@ -1,0 +1,6 @@
+What is the value of
+ 
+ \begin{center} \[\log_37\cdot\log_59\cdot\log_711\cdot\log_913\cdots\log_{21}25\cdot\log_{23}27?\] \end{center} 
+ 
+$\textbf{(A) } 3 \qquad \textbf{(B) } 3\log_{7}23 \qquad \textbf{(C) } 6 \qquad \textbf{(D) } 9 \qquad \textbf{(E) } 10$
+ 

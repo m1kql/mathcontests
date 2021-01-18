@@ -1,0 +1,8 @@
+For every positive integer $n$, let $\text{mod}_5 (n)$ be the remainder obtained when $n$ is divided by 5. Define a function $f: \{0,1,2,3,\dots\} \times \{0,1,2,3,4\} \to \{0,1,2,3,4\}$ recursively as follows:
+ 
+ \begin{center} \[f(i,j) = \begin{cases}\text{mod}_5 (j+1) & \text{ if } i = 0 \text{ and } 0 \le j \le 4 \text{,}\\ f(i-1,1) & \text{ if } i \ge 1 \text{ and } j = 0 \text{, and} \\ f(i-1, f(i,j-1)) & \text{ if } i \ge 1 \text{ and } 1 \le j \le 4. \end{cases}\] \end{center} 
+ 
+What is $f(2015,2)$?
+ 
+$\textbf{(A)}\; 0 \qquad\textbf{(B)}\; 1 \qquad\textbf{(C)}\; 2 \qquad\textbf{(D)}\; 3 \qquad\textbf{(E)}\; 4$
+ 

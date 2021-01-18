@@ -1,0 +1,4 @@
+A coin is altered so that the probability that it lands on heads is less than $\frac{1}{2}$ and when the coin is flipped four times, the probability of an equal number of heads and tails is $\frac{1}{6}$. What is the probability that the coin lands on heads?
+ 
+$\textbf{(A)}\ \frac{\sqrt{15}-3}{6} \qquad \textbf{(B)}\ \frac{6-\sqrt{6\sqrt{6}+2}}{12} \qquad \textbf{(C)}\ \frac{\sqrt{2}-1}{2} \qquad \textbf{(D)}\ \frac{3-\sqrt{3}}{6} \qquad \textbf{(E)}\ \frac{\sqrt{3}-1}{2}$
+ 

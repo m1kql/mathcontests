@@ -1,0 +1,4 @@
+Let $S$ be the square one of whose diagonals has endpoints $(0.1,0.7)$ and $(-0.1,-0.7)$.  A point $v=(x,y)$ is chosen uniformly at random over all pairs of real numbers $x$ and $y$ such that $0 \le x \le 2012$ and $0\le y\le 2012$.  Let $T(v)$ be a translated copy of $S$ centered at $v$.  What is the probability that the square region determined by $T(v)$ contains exactly two points with integer coefficients in its interior?
+ 
+$\textbf{(A)}\ 0.125\qquad\textbf{(B)}\ 0.14\qquad\textbf{(C)}\ 0.16\qquad\textbf{(D)}\ 0.25 \qquad\textbf{(E)}\ 0.32$
+ 

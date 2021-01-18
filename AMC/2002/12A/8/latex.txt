@@ -1,0 +1,8 @@
+
+ 
+Betsy designed a flag using blue triangles, small white squares, and a red center square, as shown. Let $B$ be the total area of the blue triangles, $W$ the total area of the white squares, and $P$ the area of the red square. Which of the following is correct?
+ 
+
+ 
+$\text{(A)}\ B = W \qquad \text{(B)}\ W = P \qquad \text{(C)}\ B = P \qquad \text{(D)}\ 3B = 2P \qquad \text{(E)}\ 2P = W$
+ 

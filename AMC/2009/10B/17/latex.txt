@@ -1,0 +1,4 @@
+Five unit squares are arranged in the coordinate plane as shown, with the lower left corner at the origin. The slanted line, extending from $(a,0)$ to $(3,3)$, divides the entire region into two regions of equal area. What is $a$?
+ 
+$\textbf{(A)}\ \frac12\qquad \textbf{(B)}\ \frac35\qquad \textbf{(C)}\ \frac23\qquad \textbf{(D)}\ \frac34\qquad \textbf{(E)}\ \frac45$
+ 

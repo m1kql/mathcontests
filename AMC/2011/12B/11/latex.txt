@@ -1,0 +1,6 @@
+A frog located at $(x,y)$, with both $x$ and $y$ integers, makes successive jumps of length $5$ and always lands on points with integer coordinates. Suppose that the frog starts at $(0,0)$ and ends at $(1,0)$. What is the smallest possible number of jumps the frog makes?
+ 
+$\textbf{(A)}\ 2 \qquad \textbf{(B)}\ 3 \qquad \textbf{(C)}\ 4 \qquad \textbf{(D)}\ 5 \qquad \textbf{(E)}\ 6$
+ 
+
+ 

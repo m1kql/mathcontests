@@ -1,0 +1,4 @@
+In $\triangle ABC$, we have $AC=BC=7$ and $AB=2$. Suppose that $D$ is a point on line $AB$ such that $B$ lies between $A$ and $D$ and $CD=8$. What is $BD$?
+ 
+$\mathrm{(A)}\ 3      \qquad \mathrm{(B)}\ 2\sqrt{3}      \qquad \mathrm{(C)}\ 4      \qquad \mathrm{(D)}\ 5      \qquad \mathrm{(E)}\ 4\sqrt{2}$
+ 

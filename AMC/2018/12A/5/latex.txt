@@ -1,0 +1,4 @@
+What is the sum of all possible values of $k$ for which the polynomials $x^2 - 3x + 2$ and $x^2 - 5x + k$ have a root in common?
+ 
+$\textbf{(A) }3 \qquad\textbf{(B) }4 \qquad\textbf{(C) }5 \qquad\textbf{(D) }6 \qquad\textbf{(E) }10 \qquad$
+ 

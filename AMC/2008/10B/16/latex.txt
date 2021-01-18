@@ -1,0 +1,4 @@
+Two fair coins are to be tossed once. For each head that results, one fair die is to be rolled. What is the probability that the sum of the die rolls is odd? (Note that if no die is rolled, the sum is 0.)
+ 
+$\mathrm{(A)}\ {{{\frac{3} {8}}}} \qquad \mathrm{(B)}\ {{{\frac{1} {2}}}} \qquad \mathrm{(C)}\ {{{\frac{43} {72}}}} \qquad \mathrm{(D)}\ {{{\frac{5} {8}}}} \qquad \mathrm{(E)}\ {{{\frac{2} {3}}}}$
+ 

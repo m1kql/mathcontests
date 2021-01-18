@@ -1,0 +1,4 @@
+A truck travels $\dfrac{b}{6}$ feet every $t$ seconds. There are $3$ feet in a yard. How many yards does the truck travel in $3$ minutes?
+ 
+$\textbf {(A) } \frac{b}{1080t} \qquad \textbf {(B) } \frac{30t}{b} \qquad \textbf {(C) } \frac{30b}{t}\qquad \textbf {(D) } \frac{10t}{b} \qquad \textbf {(E) } \frac{10b}{t}$
+ 

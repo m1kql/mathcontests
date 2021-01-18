@@ -1,0 +1,8 @@
+The graph of the polynomial
+ 
+ \begin{center} \[P(x) = x^5 + ax^4 + bx^3 + cx^2 + dx + e\] \end{center} 
+ 
+has five distinct $x$-intercepts, one of which is at $(0,0)$. Which of the following coefficients cannot be zero?
+ 
+$\text{(A)}\ a \qquad \text{(B)}\ b \qquad \text{(C)}\ c \qquad \text{(D)}\ d \qquad \text{(E)}\ e$
+ 

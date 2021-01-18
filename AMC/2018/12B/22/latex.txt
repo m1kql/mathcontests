@@ -1,0 +1,4 @@
+Consider polynomials $P(x)$ of degree at most $3$, each of whose coefficients is an element of $\{0, 1, 2, 3, 4, 5, 6, 7, 8, 9\}$. How many such polynomials satisfy $P(-1) = -9$?
+ 
+$\textbf{(A) } 110 \qquad \textbf{(B) } 143 \qquad \textbf{(C) } 165 \qquad \textbf{(D) } 220 \qquad \textbf{(E) } 286$
+ 

@@ -1,0 +1,4 @@
+For each positive integer $n$, let $f(n) = n^4 - 360n^2 + 400$. What is the sum of all values of $f(n)$ that are prime numbers?
+ 
+$\textbf{(A)}\ 794\qquad \textbf{(B)}\ 796\qquad \textbf{(C)}\ 798\qquad \textbf{(D)}\ 800\qquad \textbf{(E)}\ 802$
+ 

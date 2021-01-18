@@ -1,0 +1,4 @@
+Triangle $ABC$ with $AB=50$ and $AC=10$ has area $120$. Let $D$ be the midpoint of $\overline{AB}$, and let $E$ be the midpoint of $\overline{AC}$. The angle bisector of $\angle BAC$ intersects $\overline{DE}$ and $\overline{BC}$ at $F$ and $G$, respectively. What is the area of quadrilateral $FDBG$?
+ 
+$\textbf{(A) }60 \qquad \textbf{(B) }65 \qquad \textbf{(C) }70 \qquad \textbf{(D) }75 \qquad \textbf{(E) }80 \qquad$
+ 

@@ -1,0 +1,4 @@
+Lucky Larry's teacher asked him to substitute numbers for $a$, $b$, $c$, $d$, and $e$ in the expression $a-(b-(c-(d+e)))$ and evaluate the result. Larry ignored the parentheses but added and subtracted correctly and obtained the correct result by coincidence. The number Larry substituted for $a$, $b$, $c$, and $d$ were $1$, $2$, $3$, and $4$, respectively. What number did Larry substitute for $e$?
+ 
+$\textbf{(A)}\ -5 \qquad \textbf{(B)}\ -3 \qquad \textbf{(C)}\ 0 \qquad \textbf{(D)}\ 3 \qquad \textbf{(E)}\ 5$
+ 

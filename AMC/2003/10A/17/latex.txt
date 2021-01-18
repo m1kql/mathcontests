@@ -1,0 +1,4 @@
+The number of inches in the perimeter of an equilateral triangle equals the number of square inches in the area of  its circumscribed circle. What is the radius, in inches, of the circle? 
+ 
+$\mathrm{(A) \ } \frac{3\sqrt{2}}{\pi}\qquad \mathrm{(B) \ }  \frac{3\sqrt{3}}{\pi}\qquad \mathrm{(C) \ } \sqrt{3}\qquad \mathrm{(D) \ } \frac{6}{\pi}\qquad \mathrm{(E) \ } \sqrt{3}\pi$
+ 

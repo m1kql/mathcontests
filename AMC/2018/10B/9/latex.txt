@@ -1,0 +1,4 @@
+The faces of each of $7$ standard dice are labeled with the integers from $1$ to $6$. Let $p$ be the probabilities that when all $7$ dice are rolled, the sum of the numbers on the top faces is $10$. What other sum occurs with the same probability as $p$?
+ 
+$\textbf{(A)} \text{ 13} \qquad \textbf{(B)} \text{ 26} \qquad \textbf{(C)} \text{ 32} \qquad \textbf{(D)} \text{ 39} \qquad \textbf{(E)} \text{ 42}$
+ 

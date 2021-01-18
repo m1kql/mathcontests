@@ -1,0 +1,4 @@
+For how many positive integers $n$ is $\frac{n}{30-n}$ also a positive integer?
+ 
+$\textbf{(A)}\ 4\qquad\textbf{(B)}\ 5\qquad\textbf{(C)}\ 6\qquad\textbf{(D)}\ 7\qquad\textbf{(E)}\ 8$
+ 

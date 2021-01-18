@@ -1,0 +1,4 @@
+For some particular value of $N$, when $(a+b+c+d+1)^N$ is expanded and like terms are combined, the resulting expression contains exactly $1001$ terms that include all four variables $a, b,c,$ and $d$, each to some positive power. What is $N$?
+ 
+$\textbf{(A) }9 \qquad \textbf{(B) } 14 \qquad \textbf{(C) } 16 \qquad \textbf{(D) } 17 \qquad \textbf{(E) } 19$
+ 

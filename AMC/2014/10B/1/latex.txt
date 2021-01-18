@@ -1,0 +1,4 @@
+Leah has $13$ coins, all of which are pennies and nickels. If she had one more nickel than she has now, then she would have the same number of pennies and nickels. In cents, how much are Leah's coins worth?
+ 
+$\textbf {(A) } 33 \qquad \textbf {(B) } 35 \qquad \textbf {(C) } 37 \qquad \textbf {(D) } 39 \qquad \textbf {(E) } 41$
+ 

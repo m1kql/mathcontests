@@ -1,0 +1,4 @@
+An equiangular octagon has four sides of length 1 and four sides of length $\frac{\sqrt{2}}{2}$, arranged so that no two consecutive sides have the same length.  What is the area of the octagon?
+ 
+$\mathrm{(A) \ } \frac72\qquad \mathrm{(B) \ }  \frac{7\sqrt2}{2}\qquad \mathrm{(C) \ }  \frac{5+4\sqrt2}{2}\qquad \mathrm{(D) \ }  \frac{4+5\sqrt2}{2}\qquad \mathrm{(E) \ }  7$
+ 

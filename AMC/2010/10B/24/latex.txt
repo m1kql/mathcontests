@@ -1,0 +1,4 @@
+A high school basketball game between the Raiders and Wildcats was tied at the end of the first quarter. The number of points scored by the Raiders in each of the four quarters formed an increasing geometric sequence, and the number of points scored by the Wildcats in each of the four quarters formed an increasing arithmetic sequence. At the end of the fourth quarter, the Raiders had won by one point. Neither team scored more than $100$ points. What was the total number of points scored by the two teams in the first half?
+ 
+$\textbf{(A)}\ 30 \qquad \textbf{(B)}\ 31 \qquad \textbf{(C)}\ 32 \qquad \textbf{(D)}\ 33 \qquad \textbf{(E)}\ 34$
+ 

@@ -1,0 +1,4 @@
+Let $a_0, a_1, a_2,\cdots$ be a sequence of positive real numbers satisfying $a_{i-1}a_{i+1}\le a^2_i$
+for $i = 1, 2, 3,\cdots$ . (Such a sequence is said to be log concave.) Show that for
+each $n > 1$,
+$\frac{a_0+\cdots+a_n}{n+1}\cdot\frac{a_1+\cdots+a_{n-1}}{n-1}\ge\frac{a_0+\cdots+a_{n-1}}{n}\cdot\frac{a_1+\cdots+a_{n}}{n}$.

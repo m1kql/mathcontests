@@ -1,0 +1,6 @@
+A regular octagon $ABCDEFGH$ has an area of one square unit. What is the area of the rectangle $ABEF$?
+ 
+
+ 
+$\textbf{(A)}\ 1-\frac{\sqrt2}{2}\qquad\textbf{(B)}\ \frac{\sqrt2}{4}\qquad\textbf{(C)}\ \sqrt2-1\qquad\textbf{(D)}\ \frac{1}2\qquad\textbf{(E)}\ \frac{1+\sqrt2}{4}$
+ 

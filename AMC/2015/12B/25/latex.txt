@@ -1,0 +1,4 @@
+A bee starts flying from point $P_0$. She flies $1$ inch due east to point $P_1$. For $j \ge 1$, once the bee reaches point $P_j$, she turns $30^{\circ}$ counterclockwise and then flies $j+1$ inches straight to point $P_{j+1}$. When the bee reaches $P_{2015}$ she is exactly $a \sqrt{b} + c \sqrt{d}$ inches away from $P_0$, where $a$, $b$, $c$ and $d$ are positive integers and $b$ and $d$ are not divisible by the square of any prime. What is $a+b+c+d$ ?
+ 
+$\textbf{(A)}\; 2016 \qquad\textbf{(B)}\; 2024 \qquad\textbf{(C)}\; 2032 \qquad\textbf{(D)}\; 2040 \qquad\textbf{(E)}\; 2048$
+ 

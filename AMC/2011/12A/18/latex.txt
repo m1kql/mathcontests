@@ -1,0 +1,4 @@
+Suppose that $\left|x+y\right|+\left|x-y\right|=2$. What is the maximum possible value of $x^2-6x+y^2$?
+ 
+$\textbf{(A)}\ 5 \qquad \textbf{(B)}\ 6 \qquad \textbf{(C)}\ 7 \qquad \textbf{(D)}\ 8 \qquad \textbf{(E)}\ 9$
+ 

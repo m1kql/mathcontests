@@ -1,0 +1,4 @@
+Randy drove the first third of his trip on a gravel road, the next $20$ miles on pavement, and the remaining one-fifth on a dirt road. In miles, how long was Randy's trip?
+ 
+$\textbf{(A)}\ 30\qquad\textbf{(B)}\ \frac{400}{11}\qquad\textbf{(C)}\ \frac{75}{2}\qquad\textbf{(D)}\ 40\qquad\textbf{(E)}\ \frac{300}{7}$
+ 

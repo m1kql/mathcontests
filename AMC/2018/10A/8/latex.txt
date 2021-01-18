@@ -1,0 +1,4 @@
+Joe has a collection of 23 coins, consisting of 5-cent coins, 10-cent coins, and 25-cent coins. He has 3 more 10-cent coins than 5-cent coins, and the total value of his collection is 320 cents. How many more 25-cent coins does Joe have than 5-cent coins?
+ 
+$\textbf{(A) }   0   \qquad        \textbf{(B) }   1   \qquad    \textbf{(C) }   2   \qquad   \textbf{(D) }  3  \qquad  \textbf{(E) }   4$
+ 

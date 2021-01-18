@@ -1,0 +1,4 @@
+When the decimal point of a certain positive decimal number is moved four places to the right, the new number is four times the reciprocal of the original number. What is the original number?
+ 
+$\textbf{(A) }0.0002\qquad\textbf{(B) }0.002\qquad\textbf{(C) }0.02\qquad\textbf{(D) }0.2\qquad\textbf{(E) }2$
+ 

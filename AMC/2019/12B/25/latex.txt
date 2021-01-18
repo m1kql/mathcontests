@@ -1,0 +1,4 @@
+Let $ABCD$ be a convex quadrilateral with $BC=2$ and $CD=6.$ Suppose that the centroids of $\triangle ABC,\triangle BCD,$ and $\triangle ACD$ form the vertices of an equilateral triangle. What is the maximum possible value of $ABCD$?
+ 
+$\textbf{(A) } 27 \qquad\textbf{(B) } 16\sqrt3 \qquad\textbf{(C) } 12+10\sqrt3 \qquad\textbf{(D) } 9+12\sqrt3 \qquad\textbf{(E) } 30$
+ 

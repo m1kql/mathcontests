@@ -1,0 +1,4 @@
+Ten women sit in $10$ seats in a line. All of the $10$ get up and then reseat themselves using all $10$ seats, each sitting in the seat she was in before or a seat next to the one she occupied before. In how many ways can the women be reseated?
+ 
+$\textbf{(A)}\ 89\qquad \textbf{(B)}\ 90\qquad \textbf{(C)}\ 120\qquad \textbf{(D)}\ 2^{10}\qquad \textbf{(E)}\ 2^2 3^8$
+ 

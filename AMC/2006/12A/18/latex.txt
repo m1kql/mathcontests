@@ -1,0 +1,12 @@
+The function $\displaystyle f$ has the property that for each real number $\displaystyle x$ in its domain, $\displaystyle 1/x$ is also in its domain and 
+ 
+$f(x)+f\left(\frac{1}{x}\right)=x$
+ 
+What is the largest set of real numbers that can be in the domain of $f$?
+ 
+$\mathrm{(A) \ } \{x|x\ne 0\}\qquad \mathrm{(B) \ } \{x|x<0\}$
+ 
+$\mathrm{(C) \ } \{x|x>0\}$$\mathrm{(D) \ } \{x|x\ne -1\;\rm{and}\; x\ne 0\;\rm{and}\; x\ne 1\}$
+ 
+$\mathrm{(E) \ }  \{-1,1\}$
+ 

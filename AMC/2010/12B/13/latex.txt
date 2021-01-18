@@ -1,0 +1,4 @@
+In $\triangle ABC$, $\cos(2A-B)+\sin(A+B)=2$ and $AB=4$. What is $BC$?
+ 
+$\textbf{(A)}\ \sqrt{2} \qquad \textbf{(B)}\ \sqrt{3} \qquad \textbf{(C)}\ 2 \qquad \textbf{(D)}\ 2\sqrt{2} \qquad \textbf{(E)}\ 2\sqrt{3}$
+ 

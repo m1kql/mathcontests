@@ -1,0 +1,6 @@
+A circle centered at $A$ with a radius of 1 and a circle centered at $B$ with a radius of 4 are externally tangent. A third circle is tangent to the first two and to one of their common external tangents as shown. The radius of the third circle is
+ 
+
+ 
+$\text{(A) }\frac {1}{3} \qquad \text{(B) }\frac {2}{5} \qquad \text{(C) }\frac {5}{12} \qquad \text{(D) }\frac {4}{9} \qquad \text{(E) }\frac {1}{2}$
+ 

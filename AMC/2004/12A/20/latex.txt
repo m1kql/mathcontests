@@ -1,0 +1,4 @@
+Select numbers $a$ and $b$ between $0$ and $1$ independently and at random, and let $c$ be their sum. Let $A, B$ and $C$ be the results when $a, b$ and $c$, respectively, are rounded to the nearest integer. What is the probability that $A + B = C$?
+ 
+$\text {(A)}\ \frac14 \qquad \text {(B)}\ \frac13 \qquad \text {(C)}\ \frac12 \qquad \text {(D)}\ \frac23 \qquad \text {(E)}\ \frac34$
+ 

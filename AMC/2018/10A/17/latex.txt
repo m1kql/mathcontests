@@ -1,0 +1,4 @@
+Let $S$ be a set of 6 integers taken from $\{1,2,\dots,12\}$ with the property that if $a$ and $b$ are elements of $S$ with $a<b$, then $b$ is not a multiple of $a$. What is the least possible value of an element in $S?$
+ 
+$\textbf{(A)}\ 2\qquad\textbf{(B)}\ 3\qquad\textbf{(C)}\ 4\qquad\textbf{(D)}\ 5\qquad\textbf{(E)}\ 7$
+ 

@@ -1,0 +1,4 @@
+Let $A = (0,9)$ and $B = (0,12)$. Points $A'$ and $B'$ are on the line $y = x$, and $\overline{AA'}$ and $\overline{BB'}$ intersect at $C = (2,8)$. What is the length of $\overline{A'B'}$?
+ 
+$\text {(A)} 2 \qquad \text {(B)} 2\sqrt2 \qquad \text {(C)} 3 \qquad \text {(D)} 2 + \sqrt 2\qquad \text {(E)}3\sqrt 2$
+ 

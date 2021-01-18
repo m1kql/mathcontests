@@ -1,0 +1,6 @@
+A sphere is inscribed in a truncated right circular cone as shown. The volume of the truncated cone is twice that of the sphere. What is the ratio of the radius of the bottom base of the truncated cone to the radius of the top base of the truncated cone?
+ 
+$\text{(A) } \dfrac32 \quad \text{(B) } \dfrac{1+\sqrt5}2 \quad \text{(C) } \sqrt3 \quad \text{(D) } 2 \quad \text{(E) } \dfrac{3+\sqrt5}2$
+ 
+
+ 

@@ -1,0 +1,4 @@
+On Halloween Casper ate $\frac{1}{3}$ of his candies and then gave $2$ candies to his brother. The next day he ate $\frac{1}{3}$ of his remaining candies and then gave $4$ candies to his sister. On the third day he ate his final $8$ candies. How many candies did Casper have at the beginning?
+ 
+$\textbf{(A)}\ 30 \qquad\textbf{(B)}\ 39 \qquad\textbf{(C)}\ 48 \qquad\textbf{(D)}\ 57 \qquad\textbf{(E)}\ 66$
+ 

@@ -1,0 +1,4 @@
+While Steve and LeRoy are fishing 1 mile from shore, their boat springs a leak, and water comes in at a constant rate of 10 gallons per minute. The boat will sink if it takes in more than 30 gallons of water. Steve starts rowing toward the shore at a constant rate of 4 miles per hour while LeRoy bails water out of the boat. What is the slowest rate, in gallons per minute, at which LeRoy can bail if they are to reach the shore without sinking?
+ 
+$\mathrm{(A)}\ 2\qquad\mathrm{(B)}\ 4\qquad\mathrm{(C)}\ 6\qquad\mathrm{(D)}\ 8\qquad\mathrm{(E)}\ 10$
+ 

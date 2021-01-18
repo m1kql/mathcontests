@@ -1,0 +1,4 @@
+For how many real values of $x$ is $\sqrt{120-\sqrt{x}}$ an integer?
+ 
+$\mathrm{(A) \ } 3\qquad \mathrm{(B) \ } 6\qquad \mathrm{(C) \ } 9\qquad \mathrm{(D) \ } 10\qquad \mathrm{(E) \ }  11$.
+ 

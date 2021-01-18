@@ -1,0 +1,4 @@
+A fancy bed and breakfast inn has $5$ rooms, each with a distinctive color-coded decor.  One day $5$ friends arrive to spend the night.  There are no other guests that night.  The friends can room in any combination they wish, but with no more than $2$ friends per room.  In how many ways can the innkeeper assign the guests to the rooms?
+ 
+$\textbf{(A) }2100\qquad \textbf{(B) }2220\qquad \textbf{(C) }3000\qquad \textbf{(D) }3120\qquad \textbf{(E) }3125\qquad$
+ 

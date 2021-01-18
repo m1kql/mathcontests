@@ -1,0 +1,4 @@
+Each vertex of a cube is to be labeled with an integer $1$ through $8$, with each integer being used once, in such a way that the sum of the four numbers on the vertices of a face is the same for each face. Arrangements that can be obtained from each other through rotations of the cube are considered to be the same. How many different arrangements are possible?
+ 
+$\textbf{(A) } 1\qquad\textbf{(B) } 3\qquad\textbf{(C) }6 \qquad\textbf{(D) }12 \qquad\textbf{(E) }24$
+ 

@@ -1,0 +1,6 @@
+A $4\times 4$ block of calendar dates is shown. The order of the numbers in the second row is to be reversed. Then the order of the numbers in the fourth row is to be reversed. Finally, the numbers on each diagonal are to be added. What will be the positive difference between the two diagonal sums?
+ 
+$\begin{tabular}[t]{|c|c|c|c|} \multicolumn{4}{c}{}\\\hline 1&2&3&4\\\hline 8&9&10&11\\\hline 15&16&17&18\\\hline 22&23&24&25\\\hline \end{tabular}$
+ 
+$\textbf{(A)}\ 2 \qquad \textbf{(B)}\ 4 \qquad \textbf{(C)}\ 6 \qquad \textbf{(D)}\ 8 \qquad \textbf{(E)}\ 10$
+ 

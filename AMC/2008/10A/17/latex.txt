@@ -1,0 +1,4 @@
+An equilateral triangle has side length $6$. What is the area of the region containing all points that are outside the triangle but not more than $3$ units from a point of the triangle?
+ 
+$\mathrm{(A)}\ 36+24\sqrt{3}\qquad\mathrm{(B)}\ 54+9\pi\qquad\mathrm{(C)}\ 54+18\sqrt{3}+6\pi\qquad\mathrm{(D)}\ \left(2\sqrt{3}+3\right)^2\pi\\\mathrm{(E)}\ 9\left(\sqrt{3}+1\right)^2\pi$
+ 

@@ -1,0 +1,4 @@
+A league with 12 teams holds a round-robin tournament, with each team playing every other team exactly once. Games either end with one team victorious or else end in a draw. A team scores 2 points for every game it wins and 1 point for every game it draws. Which of the following is NOT a true statement about the list of 12 scores?
+ 
+$\textbf{(A)}\ \text{There must be an even number of odd scores.}\\ \qquad\textbf{(B)}\ \text{There must be an even number of even scores.}\\ \qquad\textbf{(C)}\ \text{There cannot be two scores of }0\text{.}\\ \qquad\textbf{(D)}\ \text{The sum of the scores must be at least }100\text{.}\\ \qquad\textbf{(E)}\ \text{The highest score must be at least }12\text{.}$
+ 

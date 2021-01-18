@@ -1,0 +1,4 @@
+It takes Clea 60 seconds to walk down an escalator when it is not operating, and only 24 seconds to walk down the escalator when it is operating. How many seconds does it take Clea to ride down the operating escalator when she just stands on it?
+ 
+$\textbf{(A)}\ 36\qquad\textbf{(B)}\ 40\qquad\textbf{(C)}\ 42\qquad\textbf{(D)}\ 48\qquad\textbf{(E)}\ 52$
+ 

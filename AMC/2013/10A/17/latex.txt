@@ -1,0 +1,4 @@
+Daphne is visited periodically by her three best friends: Alice, Beatrix, and Claire.  Alice visits every third day, Beatrix visits every fourth day, and Claire visits every fifth day.  All three friends visited Daphne yesterday.  How many days of the next $365$-day period will exactly two friends visit her?
+ 
+$\textbf{(A)}\ 48\qquad\textbf{(B)}\ 54\qquad\textbf{(C)}\ 60\qquad\textbf{(D)}\ 66\qquad\textbf{(E)}\ 72$
+ 

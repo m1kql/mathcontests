@@ -1,0 +1,4 @@
+Square $PQRS$ lies in the first quadrant. Points $(3,0), (5,0), (7,0),$ and $(13,0)$ lie on lines $SP, RQ, PQ$, and $SR$, respectively. What is the sum of the coordinates of the center of the square $PQRS$?
+ 
+$\textbf{(A)}\ 6\qquad\textbf{(B)}\ 6.2\qquad\textbf{(C)}\ 6.4\qquad\textbf{(D)}\ 6.6\qquad\textbf{(E)}\ 6.8$
+ 

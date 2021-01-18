@@ -1,0 +1,6 @@
+Odell and Kershaw run for 30 minutes on a circular track. Odell runs clockwise at 250 m/min and uses the inner lane with a radius of 50 meters. Kershaw runs counterclockwise at 300 m/min and uses the outer lane with a radius of 60 meters, starting on the same radial line as Odell. How many times after the start do they pass each other? 
+ 
+
+ 
+$\mathrm{(A) \ } 29\qquad\mathrm{(B) \ } 42\qquad\mathrm{(C) \ } 45\qquad\mathrm{(D) \ } 47\qquad\mathrm{(E) \ } 50\qquad$
+ 

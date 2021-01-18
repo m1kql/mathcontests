@@ -1,0 +1,6 @@
+On circle $O$, points $C$ and $D$ are on the same side of diameter $\overline{AB}$, $\angle AOC = 30^\circ$, and $\angle DOB = 45^\circ$. What is the ratio of the area of the smaller sector $COD$ to the area of the circle?
+ 
+
+ 
+$\textbf{(A)}\ \frac {2}{9} \qquad \textbf{(B)}\ \frac {1}{4} \qquad \textbf{(C)}\ \frac {5}{18} \qquad \textbf{(D)}\ \frac {7}{24} \qquad \textbf{(E)}\ \frac {3}{10}$
+ 

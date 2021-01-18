@@ -1,0 +1,6 @@
+A square of area 40 is inscribed in a semicircle as shown. What is the area of the semicircle? 
+ 
+
+ 
+$\mathrm{(A) \ } 20\pi\qquad \mathrm{(B) \ } 25\pi\qquad \mathrm{(C) \ } 30\pi\qquad \mathrm{(D) \ } 40\pi\qquad \mathrm{(E) \ } 50\pi$
+ 

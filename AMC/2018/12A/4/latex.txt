@@ -1,0 +1,4 @@
+Alice, Bob, and Charlie were on a hike and were wondering how far away the nearest town was. When Alice said, "We are at least 6 miles away," Bob replied, "We are at most 5 miles away." Charlie then remarked, "Actually the nearest town is at most 4 miles away." It turned out that none of the three statements were true. Let $d$ be the distance in miles to the nearest town. Which of the following intervals is the set of all possible values of $d$?
+ 
+$\textbf{(A) }   (0,4)   \qquad        \textbf{(B) }   (4,5)   \qquad    \textbf{(C) }   (4,6)   \qquad   \textbf{(D) }  (5,6)  \qquad  \textbf{(E) }   (5,\infty)$
+ 

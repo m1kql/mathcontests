@@ -1,0 +1,4 @@
+Let $S$ be the set of points $(a,b)$ in the coordinate plane, where each of $a$ and $b$ may be $- 1$, $0$, or $1$. How many distinct lines pass through at least two members of $S$?
+ 
+$\text {(A)}\ 8 \qquad \text {(B)}\ 20 \qquad \text {(C)}\ 24 \qquad \text {(D)}\ 27\qquad \text {(E)}\ 36$
+ 

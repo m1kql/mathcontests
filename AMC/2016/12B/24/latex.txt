@@ -1,0 +1,12 @@
+There are exactly $77,000$ ordered quadruplets $(a, b, c, d)$ such that $\gcd(a, b, c, d) = 77$ and $\operatorname{lcm}(a, b, c, d) = n$. What is the smallest possible value for $n$?
+ 
+$\textbf{(A)}\ 13,860\qquad\textbf{(B)}\ 20,790\qquad\textbf{(C)}\ 21,560 \qquad\textbf{(D)}\ 27,720 \qquad\textbf{(E)}\ 41,580$
+ 
+Let $A=a\div 77,\ B=b\div 77$, etc., so that $\gcd(A,B,C,D)=1$. Then for each prime power $p^k$ in the prime factorization of $N=n\div 77$, at least one of the prime factorizations of $(A,B,C,D)$ has $p^k$, at least one has $p^0$, and all must have $p^m$ with $0\le m\le k$.
+ 
+Let $f(k)$ be the number of ordered quadruplets of integers $(m_1,m_2,m_3,m_4)$ such that $0\le m_i\le k$ for all $i$, the largest is $k$, and the smallest is $0$. Then for the prime factorization $N=2^{k_2}3^{k_3}5^{k_5}\ldots$ we must have $77000=f(k_2)f(k_3)f(k_5)\ldots$ So let's take a look at the function $f(k)$ by counting the quadruplets we just mentioned.
+ 
+There are $14$ quadruplets which consist only of $0$ and $k$. Then there are $36(k-1)$ quadruplets which include three different values, and $12(k-1)(k-2)$ with four. Thus $f(k)=14+12(k-1)(3+k-2)=14+12(k^2-1)$ and the first few values from $k=1$ onwards are  \begin{center} \[14,50,110,194,302,434,590,770,\ldots\] \end{center}  Straight away we notice that $14\cdot 50\cdot 110=77000$, so the prime factorization of $N$ can use the exponents $1,2,3$. To make it as small as possible, assign the larger exponents to smaller primes. The result is $N=2^33^25^1=360$, so $n=360\cdot 77=27720$ which is answer $\boxed{\textbf{(D)}}$.
+ 
+Also, to get the above formula of $f(k)=12 k^2+2$, we can also use the complementary counting by doing $(k+1)^4-k^4-k^4+(k-1)^4$, while the first term $(k+1)^4$ is for the four integers to independently have k+1 choices each, with the second term indicating to subtract all the possibilities for the four integers to have values between 0 and k-1, and similarly the third term indicating to subtract all the possibilities for the four integers to have values between 1 and k, in the end the fourth term meaning the make up for the values between 1 and k-1.
+ 

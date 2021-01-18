@@ -1,0 +1,4 @@
+There are lily pads in a row numbered $0$ to $11$, in that order. There are predators on lily pads $3$ and $6$, and a morsel of food on lily pad $10$. Fiona the frog starts on pad $0$, and from any given lily pad, has a $\frac{1}{2}$ chance to hop to the next pad, and an equal chance to jump $2$ pads. What is the probability that Fiona reaches pad $10$ without landing on either pad $3$ or pad $6$?
+ 
+$\textbf{(A) } \frac{15}{256} \qquad \textbf{(B) } \frac{1}{16} \qquad \textbf{(C) } \frac{15}{128}\qquad \textbf{(D) } \frac{1}{8} \qquad \textbf{(E) } \frac14$
+ 

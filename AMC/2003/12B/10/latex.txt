@@ -1,0 +1,4 @@
+Several figures can be made by attaching two equilateral triangles to the regular pentagon ABCDE in two of the five positions shown. How many non-congruent figures can be constructed in this way?
+ 
+$\text {(A) } 1 \qquad \text {(B) } 2 \qquad \text {(C) } 3 \qquad \text {(D) } 4 \qquad \text {(E) } 5$
+ 

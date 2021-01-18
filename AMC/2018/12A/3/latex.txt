@@ -1,0 +1,4 @@
+How many ways can a student schedule 3 mathematics courses -- algebra, geometry, and number theory -- in a 6-period day if no two mathematics courses can be taken in consecutive periods? (What courses the student takes during the other 3 periods is of no concern here.)
+ 
+$\textbf{(A) }3\qquad\textbf{(B) }6\qquad\textbf{(C) }12\qquad\textbf{(D) }18\qquad\textbf{(E) }24$
+ 

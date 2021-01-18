@@ -1,0 +1,6 @@
+The plane is tiled by congruent squares and congruent pentagons as indicated. The percent of the plane that is enclosed by the pentagons is closest to
+ 
+$\text{(A) }50 \qquad \text{(B) }52  \qquad \text{(C) }54 \qquad \text{(D) }56 \qquad \text{(E) }58$
+ 
+
+ 

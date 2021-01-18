@@ -1,0 +1,4 @@
+What is the sum of all the solutions of $x = \left|2x-|60-2x|\right|$?
+ 
+$\textbf{(A)}\ 32 \qquad \textbf{(B)}\ 60 \qquad \textbf{(C)}\ 92 \qquad \textbf{(D)}\ 120 \qquad \textbf{(E)}\ 124$
+ 

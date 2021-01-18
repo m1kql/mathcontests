@@ -1,0 +1,4 @@
+The figures $F_1$, $F_2$, $F_3$, and $F_4$ shown are the first in a sequence of figures. For $n\ge3$, $F_n$ is constructed from $F_{n - 1}$ by surrounding it with a square and placing one more diamond on each side of the new square than $F_{n - 1}$ had on each side of its outside square. For example, figure $F_3$ has $13$ diamonds. How many diamonds are there in figure $F_{20}$?
+ 
+$\textbf{(A)}\ 401 \qquad \textbf{(B)}\ 485 \qquad \textbf{(C)}\ 585 \qquad \textbf{(D)}\ 626 \qquad \textbf{(E)}\ 761$
+ 

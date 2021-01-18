@@ -1,0 +1,4 @@
+Let $ABC$ be a triangle where $M$ is the midpoint of $\overline{AC}$, and $\overline{CN}$ is the angle bisector of $\angle{ACB}$ with $N$ on $\overline{AB}$. Let $X$ be the intersection of the median $\overline{BM}$ and the bisector $\overline{CN}$. In addition $\triangle BXN$ is equilateral with $AC=2$. What is $BN^2$?
+ 
+$\textbf{(A)}\  \frac{10-6\sqrt{2}}{7} \qquad \textbf{(B)}\ \frac{2}{9} \qquad \textbf{(C)}\ \frac{5\sqrt{2}-3\sqrt{3}}{8} \qquad \textbf{(D)}\ \frac{\sqrt{2}}{6} \qquad \textbf{(E)}\ \frac{3\sqrt{3}-4}{5}$
+ 

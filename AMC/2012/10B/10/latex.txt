@@ -1,0 +1,6 @@
+How many ordered pairs of positive integers (M,N) satisfy the equation $\frac {M}{6}$     =     $\frac{6}{N}$
+ 
+$\textbf{(A)}\ 6\qquad\textbf{(B)}\ 7\qquad\textbf{(C)}\ 8\qquad\textbf{(D)}\ 9\qquad\textbf{(E)}\ 10$
+ 
+Solution
+ 

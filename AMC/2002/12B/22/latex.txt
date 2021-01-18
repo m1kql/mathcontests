@@ -1,0 +1,4 @@
+For all integers $n$ greater than $1$, define $a_n = \frac{1}{\log_n 2002}$. Let $b = a_2 + a_3 + a_4 + a_5$ and $c = a_{10} + a_{11} + a_{12} + a_{13} + a_{14}$. Then $b- c$ equals
+ 
+$\mathrm{(A)}\ -2 \qquad\mathrm{(B)}\ -1  \qquad\mathrm{(C)}\ \frac{1}{2002} \qquad\mathrm{(D)}\ \frac{1}{1001} \qquad\mathrm{(E)}\ \frac 12$
+ 

@@ -1,0 +1,6 @@
+Triangle $ABC$ is equilateral with $AB=1$. Points $E$ and $G$ are on $\overline{AC}$ and points $D$ and $F$ are on $\overline{AB}$ such that both $\overline{DE}$ and $\overline{FG}$ are parallel to $\overline{BC}$. Furthermore, triangle $ADE$ and trapezoids $DFGE$ and $FBCG$ all have the same perimeter. What is $DE+FG$?
+ 
+
+ 
+$\textbf{(A) }1\qquad \textbf{(B) }\dfrac{3}{2}\qquad \textbf{(C) }\dfrac{21}{13}\qquad \textbf{(D) }\dfrac{13}{8}\qquad \textbf{(E) }\dfrac{5}{3}\qquad$
+ 

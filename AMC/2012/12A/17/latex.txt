@@ -1,0 +1,4 @@
+Let $S$ be a subset of $\{1,2,3,\dots,30\}$ with the property that no pair of distinct elements in $S$ has a sum divisible by $5$.  What is the largest possible size of $S$?
+ 
+$\textbf{(A)}\ 10\qquad\textbf{(B)}\ 13\qquad\textbf{(C)}\ 15\qquad\textbf{(D)}\ 16\qquad\textbf{(E)}\ 18$
+ 

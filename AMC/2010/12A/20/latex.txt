@@ -1,0 +1,4 @@
+Arithmetic sequences $\left(a_n\right)$ and $\left(b_n\right)$ have integer terms with $a_1=b_1=1<a_2 \le b_2$ and $a_n b_n = 2010$ for some $n$. What is the largest possible value of $n$?
+ 
+$\textbf{(A)}\ 2 \qquad \textbf{(B)}\ 3 \qquad \textbf{(C)}\ 8 \qquad \textbf{(D)}\ 288 \qquad \textbf{(E)}\ 2009$
+ 

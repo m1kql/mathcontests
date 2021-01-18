@@ -1,0 +1,10 @@
+For $\pi \le \theta < 2\pi$, let
+ 
+ \begin{center} \begin{align*} P &= \frac12\cos\theta - \frac14\sin 2\theta - \frac18\cos 3\theta + \frac{1}{16}\sin 4\theta + \frac{1}{32} \cos 5\theta - \frac{1}{64} \sin 6\theta - \frac{1}{128} \cos 7\theta + \cdots \end{align*} \end{center} 
+ 
+and
+ 
+ \begin{center} \begin{align*} Q &= 1 - \frac12\sin\theta -\frac14\cos 2\theta + \frac18 \sin 3\theta + \frac{1}{16}\cos 4\theta - \frac{1}{32}\sin 5\theta - \frac{1}{64}\cos 6\theta +\frac{1}{128}\sin 7\theta + \cdots \end{align*} \end{center} 
+ 
+so that $\frac{P}{Q} = \frac{2\sqrt2}{7}$. Then $\sin\theta = -\frac{m}{n}$ where $m$ and $n$ are relatively prime positive integers. Find $m+n$.
+ 

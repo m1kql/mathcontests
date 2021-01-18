@@ -1,0 +1,6 @@
+In the equation below, $A$ and $B$ are consecutive positive integers, and $A$, $B$, and $A+B$ represent number bases:  \begin{center} \[132_A+43_B=69_{A+B}.\] \end{center} 
+ 
+What is $A+B$?
+ 
+$\textbf{(A)}\ 9\qquad\textbf{(B)}\ 11\qquad\textbf{(C)}\ 13\qquad\textbf{(D)}\ 15\qquad\textbf{(E)}\ 17$
+ 

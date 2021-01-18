@@ -1,0 +1,4 @@
+If $x$, $y$, and $z$ are positive with $xy = 24$, $xz = 48$, and $yz = 72$, then $x + y + z$ is
+ 
+$\textbf{(A) }18\qquad\textbf{(B) }19\qquad\textbf{(C) }20\qquad\textbf{(D) }22\qquad\textbf{(E) }24$
+ 

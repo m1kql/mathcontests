@@ -1,0 +1,4 @@
+For real numbers $a$ and $b$, define $a * b=(a-b)^2$. What is $(x-y)^2*(y-x)^2$?
+ 
+$\mathrm{(A)}\ 0\qquad\mathrm{(B)}\ x^2+y^2\qquad\mathrm{(C)}\ 2x^2\qquad\mathrm{(D)}\ 2y^2\qquad\mathrm{(E)}\ 4xy$
+ 

@@ -1,0 +1,4 @@
+The sum of the first $m$ positive odd integers is 212 more than the sum of the first $n$ positive even integers. What is the sum of all possible values of $n$?
+ 
+$\textbf{(A)}\ 255\qquad\textbf{(B)}\ 256\qquad\textbf{(C)}\ 257\qquad\textbf{(D)}\ 258\qquad\textbf{(E)}\ 259$
+ 

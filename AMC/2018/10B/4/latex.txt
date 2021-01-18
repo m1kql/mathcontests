@@ -1,0 +1,4 @@
+A three-dimensional rectangular box with dimensions $X$, $Y$, and $Z$ has faces whose surface areas are $24$, $24$, $48$, $48$, $72$, and $72$ square units. What is $X$ + $Y$ + $Z$?
+ 
+$\textbf{(A) }18 \qquad \textbf{(B) }22 \qquad \textbf{(C) }24 \qquad \textbf{(D) }30 \qquad \textbf{(E) }36 \qquad$
+ 

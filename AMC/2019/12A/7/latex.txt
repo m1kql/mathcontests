@@ -1,0 +1,4 @@
+Melanie computes the mean $\mu$, the median $M$, and the modes of the $365$ values that are the dates in the months of $2019$. Thus her data consist of $12$ $1\text{s}$, $12$ $2\text{s}$, . . . , $12$ $28\text{s}$, $11$ $29\text{s}$, $11$ $30\text{s}$, and $7$ $31\text{s}$. Let $d$ be the median of the modes. Which of the following statements is true?
+ 
+$\textbf{(A) } \mu < d < M \qquad\textbf{(B) } M < d < \mu \qquad\textbf{(C) } d = M =\mu \qquad\textbf{(D) } d < M < \mu \qquad\textbf{(E) } d < \mu < M$
+ 

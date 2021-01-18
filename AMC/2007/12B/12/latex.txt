@@ -1,0 +1,4 @@
+A teacher gave a test to a class in which $10\%$ of the students are juniors and $90\%$ are seniors. The average score on the test was $84.$ The juniors all received the same score, and the average score of the seniors was $83.$ What score did each of the juniors receive on the test?
+ 
+$\textbf{(A) } 85 \qquad\textbf{(B) } 88 \qquad\textbf{(C) } 93 \qquad\textbf{(D) } 94 \qquad\textbf{(E) } 98$
+ 

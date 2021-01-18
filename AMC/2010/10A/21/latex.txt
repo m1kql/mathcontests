@@ -1,0 +1,4 @@
+The polynomial $x^3-ax^2+bx-2010$ has three positive integer roots. What is the smallest possible value of $a$?
+ 
+$\textbf{(A)}\ 78 \qquad \textbf{(B)}\ 88 \qquad \textbf{(C)}\ 98 \qquad \textbf{(D)}\ 108 \qquad \textbf{(E)}\ 118$
+ 

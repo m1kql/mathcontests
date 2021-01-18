@@ -1,0 +1,4 @@
+A set $S$ of points in the $xy$-plane is symmetric about the origin, both coordinate axes, and the line $y=x$. If $(2,3)$ is in $S$, what is the smallest number of points in $S$?
+ 
+$\mathrm{(A) \ } 1\qquad \mathrm{(B) \ } 2\qquad \mathrm{(C) \ } 4\qquad \mathrm{(D) \ } 8\qquad \mathrm{(E) \ } 16$
+ 

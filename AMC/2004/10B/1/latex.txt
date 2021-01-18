@@ -1,0 +1,4 @@
+Each row of the Misty Moon Amphitheater has $33$ seats. Rows $12$ through $22$ are reserved for a youth club. How many seats are reserved for this club?
+ 
+$\mathrm{(A) \ } 297 \qquad \mathrm{(B) \ } 330\qquad \mathrm{(C) \ } 363\qquad \mathrm{(D) \ } 396\qquad \mathrm{(E) \ } 726$
+ 

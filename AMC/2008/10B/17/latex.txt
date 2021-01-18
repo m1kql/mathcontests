@@ -1,0 +1,4 @@
+A poll shows that $70\%$ of all voters approve of the mayor's work. On three separate occasions a pollster selects a voter at random. What is the probability that on exactly one of these three occasions the voter approves of the mayor's work?
+ 
+$\mathrm{(A)}\ {{{0.063}}} \qquad \mathrm{(B)}\ {{{0.189}}} \qquad \mathrm{(C)}\ {{{0.233}}} \qquad \mathrm{(D)}\ {{{0.333}}} \qquad \mathrm{(E)}\ {{{0.441}}}$
+ 

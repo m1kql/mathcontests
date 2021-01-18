@@ -1,0 +1,4 @@
+A company sells peanut butter in cylindrical jars.  Marketing research suggests that using wider jars will increase sales.  If the diameter of the jars is increased by $25\%$ without altering the volume, by what percent must the height be decreased?
+ 
+$\mathrm{(A) \ } 10 \qquad \mathrm{(B) \ } 25 \qquad \mathrm{(C) \ } 36 \qquad \mathrm{(D) \ } 50 \qquad \mathrm{(E) \ } 60$
+ 

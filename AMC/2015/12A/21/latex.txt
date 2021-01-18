@@ -1,0 +1,4 @@
+A circle of radius $r$ passes through both foci of, and exactly four points on, the ellipse with equation $x^2+16y^2=16.$ The set of all possible values of $r$ is an interval $[a,b).$ What is $a+b?$
+ 
+$\textbf{(A)}\ 5\sqrt{2}+4\qquad\textbf{(B)}\ \sqrt{17}+7\qquad\textbf{(C)}\ 6\sqrt{2}+3\qquad\textbf{(D)}\ \sqrt{15}+8\qquad\textbf{(E)}\ 12$
+ 

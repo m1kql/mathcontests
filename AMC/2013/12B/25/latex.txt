@@ -1,0 +1,8 @@
+Let $G$ be the set of polynomials of the form
+ 
+ \begin{center} \[P(z)=z^n+c_{n-1}z^{n-1}+\cdots+c_2z^2+c_1z+50,\] \end{center} 
+ 
+where $c_1,c_2,\cdots, c_{n-1}$ are integers and $P(z)$ has distinct roots of the form $a+ib$ with $a$ and $b$ integers. How many polynomials are in $G$?
+ 
+$\textbf{(A)}\ 288\qquad\textbf{(B)}\ 528\qquad\textbf{(C)}\ 576\qquad\textbf{(D)}\ 992\qquad\textbf{(E)}\ 1056$
+ 

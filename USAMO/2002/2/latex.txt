@@ -1,0 +1,5 @@
+Let $ABC$ be a triangle such that
+
+$\left( \cot \frac{A}{2} \right)^2 + \left( 2 \cot \frac{B}{2} \right)^2 + \left( 3 \cot \frac{C}{2} \right)^2 = \left( \frac{6s}{7r} \right)^2$,
+
+where $s$ and $r$ denote its semiperimeter and inradius, respectively.  Prove that triangle $ABC$ is similar to a triangle $T$ whose side lengths are all positive integers with no common divisor and determine those integers.

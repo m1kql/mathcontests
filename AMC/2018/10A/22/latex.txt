@@ -1,0 +1,4 @@
+Let $a, b, c,$ and $d$ be positive integers such that $\gcd(a, b)=24$, $\gcd(b, c)=36$, $\gcd(c, d)=54$, and $70<\gcd(d, a)<100$. Which of the following must be a divisor of $a$?
+ 
+$\textbf{(A)} \text{ 5} \qquad \textbf{(B)} \text{ 7} \qquad \textbf{(C)} \text{ 11} \qquad \textbf{(D)} \text{ 13} \qquad \textbf{(E)} \text{ 17}$
+ 

@@ -1,0 +1,4 @@
+Let $f(x) = \log_{10} \left(\sin(\pi x) \cdot \sin(2 \pi x) \cdot \sin (3 \pi x) \cdots \sin(8 \pi x)\right)$. The intersection of the domain of $f(x)$ with the interval $[0,1]$ is a union of $n$ disjoint open intervals. What is $n$?
+ 
+$\textbf{(A)}\ 2 \qquad \textbf{(B)}\ 12 \qquad \textbf{(C)}\ 18 \qquad \textbf{(D)}\ 22 \qquad \textbf{(E)}\ 36$
+ 

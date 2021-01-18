@@ -1,0 +1,4 @@
+Cagney can frost a cupcake every 20 seconds and Lacey can frost a cupcake every 30 seconds. Working together, how many cupcakes can they frost in 5 minutes?
+ 
+$\textbf{(A)}\ 10\qquad\textbf{(B)}\ 15\qquad\textbf{(C)}\ 20\qquad\textbf{(D)}\ 25\qquad\textbf{(E)}\ 30$
+ 

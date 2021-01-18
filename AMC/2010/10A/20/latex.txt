@@ -1,0 +1,4 @@
+A fly trapped inside a cubical box with side length $1$ meter decides to relieve its boredom by visiting each corner of the box. It will begin and end in the same corner and visit each of the other corners exactly once. To get from a corner to any other corner, it will either fly or crawl in a straight line. What is the maximum possible length, in meters, of its path?
+ 
+$\textbf{(A)}\ 4+4\sqrt{2} \qquad \textbf{(B)}\ 2+4\sqrt{2}+2\sqrt{3} \qquad \textbf{(C)}\ 2+3\sqrt{2}+3\sqrt{3} \qquad \textbf{(D)}\ 4\sqrt{2}+4\sqrt{3} \qquad \textbf{(E)}\ 3\sqrt{2}+5\sqrt{3}$
+ 

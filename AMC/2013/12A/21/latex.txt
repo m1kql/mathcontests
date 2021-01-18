@@ -1,0 +1,14 @@
+Consider $A = \log (2013 + \log (2012 + \log (2011 + \log (\cdots + \log (3 + \log 2) \cdots ))))$. Which of the following intervals contains $A$?
+ 
+$\textbf{(A)} \ (\log 2016, \log 2017)$
+ 
+$\textbf{(B)} \ (\log 2017, \log 2018)$
+ 
+$\textbf{(C)} \ (\log 2018, \log 2019)$
+ 
+$\textbf{(D)} \ (\log 2019, \log 2020)$
+ 
+$\textbf{(E)} \ (\log 2020, \log 2021)$
+ 
+
+ 

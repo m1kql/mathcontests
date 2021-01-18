@@ -1,0 +1,4 @@
+In triangle $ABC$, $AB = 13$, $BC = 14$, $AC = 15$. Let $D$ denote the midpoint of $\overline{BC}$ and let $E$ denote the intersection of $\overline{BC}$ with the bisector of angle $BAC$. Which of the following is closest to the area of the triangle $ADE$?
+ 
+$\text {(A)}\ 2 \qquad \text {(B)}\ 2.5 \qquad \text {(C)}\ 3 \qquad \text {(D)}\ 3.5 \qquad \text {(E)}\ 4$
+ 

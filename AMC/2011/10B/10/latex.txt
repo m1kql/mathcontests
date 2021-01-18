@@ -1,0 +1,4 @@
+Consider the set of numbers $\{1, 10, 10^2, 10^3, \ldots, 10^{10}\}$. The ratio of the largest element of the set to the sum of the other ten elements of the set is closest to which integer?
+ 
+$\textbf{(A)}\ 1 \qquad\textbf{(B)}\ 9 \qquad\textbf{(C)}\ 10 \qquad\textbf{(D)}\ 11 \qquad\textbf{(E)} 101$
+ 

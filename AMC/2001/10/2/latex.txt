@@ -1,0 +1,4 @@
+A number $x$ is $2$ more than the product of its reciprocal and its additive inverse. In which interval does the number lie?
+ 
+$\textbf{(A) }\ -4\le x\le -2\qquad\textbf{(B) }\ -2 < x\le 0\qquad\textbf{(C) }0$ $< x \le 2 \qquad \textbf{(D) }\ 2 < x\le 4\qquad\textbf{(E) }\ 4 < x\le 6$
+ 

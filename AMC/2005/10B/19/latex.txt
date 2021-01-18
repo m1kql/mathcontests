@@ -1,0 +1,4 @@
+On a certain math exam, $10\%$ of the students got $70$ points, $25\%$ got $80$ points, $20\%$ got $85$ points, $15\%$ got $90$ points, and the rest got $95$ points.  What is the difference between the mean and the median score on this exam?
+ 
+$\mathrm{(A)}\ 0 \qquad \mathrm{(B)}\ 1 \qquad \mathrm{(C)}\ 2 \qquad \mathrm{(D)}\ 4 \qquad \mathrm{(E)}\ 5$
+ 

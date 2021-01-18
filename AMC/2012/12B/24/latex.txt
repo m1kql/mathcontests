@@ -1,0 +1,8 @@
+Define the function $f_1$ on the positive integers by setting $f_1(1)=1$ and if $n=p_1^{e_1}p_2^{e_2}\cdots p_k^{e_k}$ is the prime factorization of $n>1$, then  \begin{center} \[f_1(n)=(p_1+1)^{e_1-1}(p_2+1)^{e_2-1}\cdots (p_k+1)^{e_k-1}.\] \end{center} 
+ 
+For every $m\ge 2$, let $f_m(n)=f_1(f_{m-1}(n))$. For how many $N$ in the range $1\le N\le 400$ is the sequence $(f_1(N),f_2(N),f_3(N),\dots )$ unbounded?
+ 
+Note: A sequence of positive numbers is unbounded if for every integer $B$, there is a member of the sequence greater than $B$.
+ 
+$\textbf{(A)}\ 15\qquad\textbf{(B)}\ 16\qquad\textbf{(C)}\ 17\qquad\textbf{(D)}\ 18\qquad\textbf{(E)}\ 19$
+ 

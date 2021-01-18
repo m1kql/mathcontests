@@ -1,0 +1,4 @@
+For every real number $x$, let $\lfloor x\rfloor$ denote the greatest integer not exceeding $x$, and let  \begin{center} \[f(x)=\lfloor x\rfloor(2014^{x-\lfloor x\rfloor}-1).\] \end{center}   The set of all numbers $x$ such that $1\leq x<2014$ and $f(x)\leq 1$ is a union of disjoint intervals.  What is the sum of the lengths of those intervals?
+ 
+$\textbf{(A) }1\qquad \textbf{(B) }\dfrac{\log 2015}{\log 2014}\qquad \textbf{(C) }\dfrac{\log 2014}{\log 2013}\qquad \textbf{(D) }\dfrac{2014}{2013}\qquad \textbf{(E) }2014^{\frac1{2014}}\qquad$
+ 

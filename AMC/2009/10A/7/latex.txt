@@ -1,0 +1,4 @@
+A carton contains milk that is $2$% fat, an amount that is $40$% less fat than the amount contained in a carton of whole milk. What is the percentage of fat in whole milk?
+ 
+$\mathrm{(A)}\ \frac{12}{5} \qquad \mathrm{(B)}\ 3 \qquad \mathrm{(C)}\ \frac{10}{3} \qquad \mathrm{(D)}\ 38 \qquad \mathrm{(E)}\ 42$
+ 

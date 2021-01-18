@@ -1,0 +1,4 @@
+Right triangle $ABC$ has leg lengths $AB=20$ and $BC=21$. Including $\overline{AB}$ and $\overline{BC}$, how many line segments with integer length can be drawn from vertex $B$ to a point on hypotenuse $\overline{AC}$?
+ 
+$\textbf{(A) }5 \qquad \textbf{(B) }8 \qquad \textbf{(C) }12 \qquad \textbf{(D) }13 \qquad \textbf{(E) }15 \qquad$
+ 

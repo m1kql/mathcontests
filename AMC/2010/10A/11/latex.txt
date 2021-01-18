@@ -1,0 +1,6 @@
+The length of the interval of solutions of the inequality $a \le 2x + 3 \le b$ is $10$. What is $b - a$?
+ 
+$\mathrm{(A)}\ 6 \qquad \mathrm{(B)}\ 10 \qquad \mathrm{(C)}\ 15 \qquad \mathrm{(D)}\ 20 \qquad \mathrm{(E)}\ 30$
+ 
+
+ 

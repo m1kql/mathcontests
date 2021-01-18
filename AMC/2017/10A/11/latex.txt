@@ -1,0 +1,4 @@
+The region consisting of all points in three-dimensional space within $3$ units of line segment $\overline{AB}$ has volume $216\pi$. What is the length $\textit{AB}$?
+ 
+$\textbf{(A)}\ 6\qquad\textbf{(B)}\ 12\qquad\textbf{(C)}\ 18\qquad\textbf{(D)}\ 20\qquad\textbf{(E)}\ 24$
+ 

@@ -1,0 +1,4 @@
+A grocer stacks oranges in a pyramid-like stack whose rectangular base is $5$ oranges by $8$ oranges.  Each orange above the first level rests in a pocket formed by four oranges below.  The stack is completed by a single row of oranges.  How many oranges are in the stack?
+ 
+$\mathrm{(A) \ } 96 \qquad \mathrm{(B) \ } 98 \qquad \mathrm{(C) \ } 100 \qquad \mathrm{(D) \ } 101 \qquad \mathrm{(E) \ } 134$
+ 

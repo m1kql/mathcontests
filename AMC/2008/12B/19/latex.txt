@@ -1,0 +1,4 @@
+A function $f$ is defined by $f(z) = (4 + i) z^2 + \alpha z + \gamma$ for all complex numbers $z$, where $\alpha$ and $\gamma$ are complex numbers and $i^2 = - 1$. Suppose that $f(1)$ and $f(i)$ are both real. What is the smallest possible value of $| \alpha | + |\gamma |$ ?
+ 
+$\textbf{(A)} \; 1 \qquad \textbf{(B)} \; \sqrt {2} \qquad \textbf{(C)} \; 2 \qquad \textbf{(D)} \; 2 \sqrt {2} \qquad \textbf{(E)} \; 4 \qquad$
+ 

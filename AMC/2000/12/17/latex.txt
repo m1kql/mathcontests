@@ -1,0 +1,6 @@
+A circle centered at $O$ has radius $1$ and contains the point $A$. The segment $AB$ is tangent to the circle at $A$ and $\angle AOB = \theta$. If point $C$ lies on $\overline{OA}$ and $\overline{BC}$ bisects $\angle ABO$, then $OC =$
+ 
+
+ 
+$\text {(A)}\ \sec^2 \theta - \tan \theta \qquad \text {(B)}\ \frac 12 \qquad \text {(C)}\ \frac{\cos^2 \theta}{1 + \sin \theta}\qquad \text {(D)}\ \frac{1}{1+\sin\theta} \qquad \text {(E)}\ \frac{\sin \theta}{\cos^2 \theta}$
+ 

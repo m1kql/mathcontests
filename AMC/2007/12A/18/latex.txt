@@ -1,0 +1,4 @@
+The polynomial $f(x) = x^{4} + ax^{3} + bx^{2} + cx + d$ has real coefficients, and $f(2i) = f(2 + i) = 0.$ What is $a + b + c + d?$
+ 
+$\mathrm{(A)}\ 0 \qquad \mathrm{(B)}\ 1 \qquad \mathrm{(C)}\ 4 \qquad \mathrm{(D)}\ 9 \qquad \mathrm{(E)}\ 16$
+ 

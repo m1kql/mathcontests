@@ -1,0 +1,4 @@
+How many of the first $2018$ numbers in the sequence $101, 1001, 10001, 100001, \dots$ are divisible by $101$?
+ 
+$\textbf{(A) }253 \qquad \textbf{(B) }504 \qquad \textbf{(C) }505 \qquad \textbf{(D) }506  \qquad \textbf{(E) }1009 \qquad$
+ 

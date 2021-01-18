@@ -1,0 +1,2 @@
+Consider the integer  \begin{center} \[N = 9 + 99 + 999 + 9999 + \cdots + \underbrace{99\ldots 99}_\text{321 digits}.\] \end{center} Find the sum of the digits of $N$.
+ 

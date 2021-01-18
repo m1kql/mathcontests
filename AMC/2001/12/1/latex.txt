@@ -1,0 +1,8 @@
+The sum of two numbers is $S$. Suppose $3$ is added to each number and then
+ 
+each of the resulting numbers is doubled. What is the sum of the final two
+ 
+numbers?
+ 
+$\text{(A)}\ 2S + 3\qquad \text{(B)}\ 3S + 2\qquad \text{(C)}\ 3S + 6 \qquad\text{(D)}\ 2S + 6 \qquad \text{(E)}\ 2S + 12$
+ 

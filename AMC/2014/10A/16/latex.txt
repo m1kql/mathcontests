@@ -1,0 +1,6 @@
+In rectangle $ABCD$, $AB=1$, $BC=2$, and points $E$, $F$, and $G$ are midpoints of $\overline{BC}$, $\overline{CD}$, and $\overline{AD}$, respectively. Point $H$ is the midpoint of $\overline{GE}$. What is the area of the shaded region?
+ 
+
+ 
+$\textbf{(A)}\ \dfrac1{12}\qquad\textbf{(B)}\ \dfrac{\sqrt3}{18}\qquad\textbf{(C)}\ \dfrac{\sqrt2}{12}\qquad\textbf{(D)}\ \dfrac{\sqrt3}{12}\qquad\textbf{(E)}\ \dfrac16$
+ 

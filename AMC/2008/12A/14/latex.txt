@@ -1,0 +1,4 @@
+What is the area of the region defined by the inequality $|3x-18|+|2y+7|\le3$?
+ 
+$\mathrm{(A)}\ 3\qquad\mathrm{(B)}\ \frac{7}{2}\qquad\mathrm{(C)}\ 4\qquad\mathrm{(D)}\ \frac{9}{2}\qquad\mathrm{(E)}\ 5$
+ 

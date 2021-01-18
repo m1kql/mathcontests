@@ -1,0 +1,5 @@
+
+Members of the Rockham Soccer League buy socks and T-shirts. Socks cost \textdollar 4 per pair and each T-shirt costs \textdollar 5 more than a pair of socks. Each member needs one pair of socks and a shirt for home games and another pair of socks and a shirt for away games. If the total cost is \textdollar 2366, how many members are in the League?
+
+$\textbf{(A) \ } 77\qquad \textbf{(B) \ } 91\qquad \textbf{(C) \ } 143\qquad \textbf{(D) \ } 182\qquad \textbf{(E) \ } 286$
+

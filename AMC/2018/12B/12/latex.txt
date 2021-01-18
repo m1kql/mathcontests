@@ -1,0 +1,4 @@
+Side $\overline{AB}$ of $\triangle ABC$ has length $10$. The bisector of angle $A$ meets $\overline{BC}$ at $D$, and $CD = 3$. The set of all possible values of $AC$ is an open interval $(m,n)$. What is $m+n$?
+ 
+ \begin{center} \[\textbf{(A) }16 \qquad \textbf{(B) }17 \qquad \textbf{(C) }18 \qquad \textbf{(D) }19 \qquad \textbf{(E) }20 \qquad\] \end{center} 
+ 

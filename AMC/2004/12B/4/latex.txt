@@ -1,0 +1,4 @@
+An integer $x$, with $10\leq x\leq 99$, is to be chosen. If all choices are equally likely, what is the probability that at least one digit of $x$ is a 7?
+ 
+$(\mathrm {A}) \dfrac{1}{9} \qquad (\mathrm {B}) \dfrac{1}{5} \qquad (\mathrm {C}) \dfrac{19}{90} \qquad (\mathrm {D}) \dfrac{2}{9} \qquad (\mathrm {E}) \dfrac{1}{3}$
+ 

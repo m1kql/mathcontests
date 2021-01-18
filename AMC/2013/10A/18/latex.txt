@@ -1,0 +1,6 @@
+Let points $A = (0, 0)$, $B = (1, 2)$, $C=(3, 3)$, and $D = (4, 0)$.  Quadrilateral $ABCD$ is cut into equal area pieces by a line passing through $A$.  This line intersects $\overline{CD}$ at point $\left(\frac{p}{q}, \frac{r}{s}\right)$, where these fractions are in lowest terms.  What is $p+q+r+s$?
+ 
+
+ 
+$\textbf{(A)}\ 54\qquad\textbf{(B)}\ 58\qquad\textbf{(C)}\ 62\qquad\textbf{(D)}\ 70\qquad\textbf{(E)}\ 75$
+ 

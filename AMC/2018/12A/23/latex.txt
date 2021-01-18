@@ -1,0 +1,4 @@
+In $\triangle PAT,$ $\angle P=36^{\circ},$ $\angle A=56^{\circ},$ and $PA=10.$ Points $U$ and $G$ lie on sides $\overline{TP}$ and $\overline{TA},$ respectively, so that $PU=AG=1.$ Let $M$ and $N$ be the midpoints of segments $\overline{PA}$ and $\overline{UG},$ respectively. What is the degree measure of the acute angle formed by lines $MN$ and $PA?$
+ 
+$\textbf{(A)} 76 \qquad  \textbf{(B)} 77 \qquad  \textbf{(C)} 78 \qquad  \textbf{(D)} 79 \qquad  \textbf{(E)} 80$
+ 

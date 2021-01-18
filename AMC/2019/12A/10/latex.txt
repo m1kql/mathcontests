@@ -1,0 +1,6 @@
+The figure below shows $13$ circles of radius $1$ within a larger circle. All the intersections occur at points of tangency. What is the area of the region, shaded in the figure, inside the larger circle but outside all the circles of radius $1 ?$
+ 
+
+ 
+$\textbf{(A) } 4 \pi \sqrt{3} \qquad\textbf{(B) } 7 \pi \qquad\textbf{(C) } \pi\left(3\sqrt{3} +2\right) \qquad\textbf{(D) } 10 \pi \left(\sqrt{3} - 1\right) \qquad\textbf{(E) } \pi\left(\sqrt{3} + 6\right)$
+ 

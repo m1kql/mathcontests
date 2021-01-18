@@ -1,0 +1,4 @@
+For each integer $n\geq 4$, let $a_n$ denote the base-$n$ number $0.\overline{133}_n$. The product $a_4a_5\cdots a_{99}$ can be expressed as $\frac {m}{n!}$, where $m$ and $n$ are positive integers and $n$ is as small as possible. What is the value of $m$?
+ 
+$\text {(A)} 98 \qquad \text {(B)} 101 \qquad \text {(C)} 132\qquad \text {(D)} 798\qquad \text {(E)}962$
+ 

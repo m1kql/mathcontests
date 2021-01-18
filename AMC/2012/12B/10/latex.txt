@@ -1,0 +1,4 @@
+What is the area of the polygon whose vertices are the points of intersection of the curves $x^2 + y^2 =25$ and $(x-4)^2 + 9y^2 = 81 ?$
+ 
+$\textbf{(A)}\ 24\qquad\textbf{(B)}\ 27\qquad\textbf{(C)}\ 36\qquad\textbf{(D)}\ 37.5\qquad\textbf{(E)}\ 42$
+ 

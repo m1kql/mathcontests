@@ -1,0 +1,4 @@
+Two lines with slopes $\dfrac{1}{2}$ and $2$ intersect at $(2,2)$. What is the area of the triangle enclosed by these two lines and the line $x+y=10  ?$
+ 
+$\textbf{(A) } 4 \qquad\textbf{(B) } 4\sqrt{2} \qquad\textbf{(C) } 6 \qquad\textbf{(D) } 8 \qquad\textbf{(E) } 6\sqrt{2}$
+ 

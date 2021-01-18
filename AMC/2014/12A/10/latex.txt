@@ -1,0 +1,4 @@
+Three congruent isosceles triangles are constructed with their bases on the sides of an equilateral triangle of side length $1$.  The sum of the areas of the three isosceles triangles is the same as the area of the equilateral triangle.  What is the length of one of the two congruent sides of one of the isosceles triangles?
+ 
+$\textbf{(A) }\dfrac{\sqrt3}4\qquad \textbf{(B) }\dfrac{\sqrt3}3\qquad \textbf{(C) }\dfrac23\qquad \textbf{(D) }\dfrac{\sqrt2}2\qquad \textbf{(E) }\dfrac{\sqrt3}2$
+ 

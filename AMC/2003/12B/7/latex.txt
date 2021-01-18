@@ -1,0 +1,5 @@
+
+Penniless Pete's piggy bank has no pennies in it, but it has 100 coins, all nickels, dimes, and quarters, whose total value is \textdollar 8.35. It does not necessarily contain coins of all three types. What is the difference between the largest and smallest number of dimes that could be in the bank?
+
+$\textbf {(A) } 0 \qquad \textbf {(B) } 13 \qquad \textbf {(C) } 37 \qquad \textbf {(D) } 64 \qquad \textbf {(E) } 83$
+

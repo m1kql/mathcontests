@@ -1,0 +1,4 @@
+Five positive consecutive integers starting with $a$ have average $b$. What is the average of $5$ consecutive integers that start with $b$?
+ 
+$\textbf{(A)}\ a+3\qquad\textbf{(B)}\ a+4\qquad\textbf{(C)}\ a+5\qquad\textbf{(D)}\ a+6\qquad\textbf{(E)}\ a+7$
+ 

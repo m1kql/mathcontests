@@ -1,0 +1,4 @@
+At the beginning of the school year, $50\%$ of all students in Mr. Wells' math class answered "Yes" to the question "Do you love math", and $50\%$ answered "No." At the end of the school year, $70\%$ answered "Yes" and $30\%$ answered "No." Altogether, $x\%$ of the students gave a different answer at the beginning and end of the school year. What is the difference between the maximum and the minimum possible values of $x$?
+ 
+$\textbf{(A)}\ 0 \qquad \textbf{(B)}\ 20 \qquad \textbf{(C)}\ 40 \qquad \textbf{(D)}\ 60 \qquad \textbf{(E)}\ 80$
+ 

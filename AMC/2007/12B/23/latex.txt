@@ -1,0 +1,4 @@
+How many non-congruent right triangles with positive integer leg lengths have areas that are numerically equal to $3$ times their perimeters?
+ 
+$\mathrm {(A)} 6\qquad \mathrm {(B)} 7\qquad \mathrm {(C)} 8\qquad \mathrm {(D)} 10\qquad \mathrm {(E)} 12$
+ 

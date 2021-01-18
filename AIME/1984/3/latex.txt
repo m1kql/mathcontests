@@ -1,0 +1,2 @@
+A point $P$ is chosen in the interior of $\triangle ABC$ such that when lines are drawn through $P$ parallel to the sides of $\triangle ABC$, the resulting smaller triangles $t_{1}$, $t_{2}$, and $t_{3}$ in the figure, have areas $4$, $9$, and $49$, respectively. Find the area of $\triangle ABC$.
+ 

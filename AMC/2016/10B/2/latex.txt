@@ -1,0 +1,4 @@
+If $n\heartsuit m=n^3m^2$, what is $\frac{2\heartsuit 4}{4\heartsuit 2}$?
+ 
+$\textbf{(A)}\ \frac{1}{4}\qquad\textbf{(B)}\ \frac{1}{2}\qquad\textbf{(C)}\ 1\qquad\textbf{(D)}\ 2\qquad\textbf{(E)}\ 4$
+ 

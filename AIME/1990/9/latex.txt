@@ -1,0 +1,2 @@
+A fair coin is to be tossed $10_{}^{}$ times. Let $i/j^{}_{}$, in lowest terms, be the probability that heads never occur on consecutive tosses. Find $i+j_{}^{}$. 
+ 

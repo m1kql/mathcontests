@@ -1,0 +1,4 @@
+How many even three-digit integers have the property that their digits, all read from left to right, are in strictly increasing order? 
+ 
+$\text {(A) } 21 \qquad \text {(B) } 34 \qquad \text {(C) } 51 \qquad \text {(D) } 72 \qquad \text {(E) } 150$
+ 

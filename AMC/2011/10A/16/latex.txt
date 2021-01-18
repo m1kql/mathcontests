@@ -1,0 +1,4 @@
+Which of the following is equal to $\sqrt{9-6\sqrt{2}}+\sqrt{9+6\sqrt{2}}$?
+ 
+$\text{(A)}\,3\sqrt2 \qquad\text{(B)}\,2\sqrt6 \qquad\text{(C)}\,\frac{7\sqrt2}{2} \qquad\text{(D)}\,3\sqrt3 \qquad\text{(E)}\,6$
+ 

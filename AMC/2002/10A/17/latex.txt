@@ -1,0 +1,6 @@
+
+ 
+Sarah places four ounces of coffee into an eight-ounce cup and four ounces of cream into a second cup of the same size. She then pours half the coffee from the first cup to the second and, after stirring thoroughly, pours half the liquid in the second cup back to the first. What fraction of the liquid in the first cup is now cream?
+ 
+$\mathrm{(A) \ } \frac{1}{4}\qquad \mathrm{(B) \ } \frac13\qquad \mathrm{(C) \ } \frac38\qquad \mathrm{(D) \ } \frac25\qquad \mathrm{(E) \ } \frac12$
+ 

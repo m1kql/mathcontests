@@ -1,0 +1,4 @@
+Right $\triangle ABC$ has $AB=3, BC=4,$ and $AC=5.$ Square $XYZW$ is inscribed in $\triangle ABC$ with $X$ and $Y$ on $\overline{AC}, W$ on $\overline{AB},$ and $Z$ on $\overline{BC}.$ What is the side length of the square?
+ 
+$\textbf{(A) } \frac{3}{2} \qquad\textbf{(B) } \frac{60}{37} \qquad\textbf{(C) } \frac{12}{7} \qquad\textbf{(D) } \frac{23}{13} \qquad\textbf{(E)} 2$
+ 

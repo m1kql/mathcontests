@@ -1,0 +1,4 @@
+A traffic light runs repeatedly through the following cycle: green for $30$ seconds, then yellow for $3$ seconds, and then red for $30$ seconds. Leah picks a random three-second time interval to watch the light. What is the probability that the color changes while she is watching?
+ 
+$\mathrm {(A)} \frac{1}{63}$ $\mathrm {(B)} \frac{1}{21}$ $\mathrm {(C)} \frac{1}{10}$ $\mathrm {(D)} \frac{1}{7}$ $\mathrm {(E)} \frac{1}{3}$
+ 

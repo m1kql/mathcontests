@@ -1,0 +1,4 @@
+Mrs. Walter gave an exam in a mathematics class of five students. She entered the scores in random order into a spreadsheet, which recalculated the class average after each score was entered. Mrs. Walter noticed that after each score was entered, the average was always an integer. The scores (listed in ascending order) were $71$, $76$, $80$, $82$, and $91$. What was the last score Mrs. Walters entered?
+ 
+$\text{(A)} \ 71 \qquad \text{(B)} \ 76 \qquad \text{(C)} \ 80 \qquad \text{(D)} \ 82 \qquad \text{(E)} \ 91$
+ 

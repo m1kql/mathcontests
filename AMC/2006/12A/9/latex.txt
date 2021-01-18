@@ -1,0 +1,4 @@
+Oscar buys $13$ pencils and $3$ erasers for $1.00$. A pencil costs more than an eraser, and both items cost a whole number of cents. What is the total cost, in cents, of one pencil and one eraser?
+ 
+$\mathrm{(A)}\ 10\qquad\mathrm{(B)}\ 12\qquad\mathrm{(C)}\ 15\qquad\mathrm{(D)}\ 18\qquad\mathrm{(E)}\ 20$
+ 

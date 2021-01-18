@@ -1,0 +1,4 @@
+The point $P = (1,2,3)$ is reflected in the $xy$-plane, then its image $Q$ is rotated by $180^\circ$ about the $x$-axis to produce $R$, and finally, $R$ is translated by 5 units in the positive-$y$ direction to produce $S$. What are the coordinates of $S$?
+ 
+$\text {(A) } (1,7, - 3) \qquad \text {(B) } ( - 1,7, - 3) \qquad \text {(C) } ( - 1, - 2,8) \qquad \text {(D) } ( - 1,3,3) \qquad \text {(E) } (1,3,3)$
+ 

@@ -1,0 +1,4 @@
+The number $2013$ has the property that its units digit is the sum of its other digits, that is $2+0+1=3$. How many integers less than $2013$ but greater than $1000$ share this property?
+ 
+$\textbf{(A)}\ 33\qquad\textbf{(B)}\ 34\qquad\textbf{(C)}\ 45\qquad\textbf{(D)}\ 46\qquad\textbf{(E)}\ 58$
+ 

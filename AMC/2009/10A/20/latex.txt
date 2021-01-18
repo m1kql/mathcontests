@@ -1,0 +1,4 @@
+Andrea and Lauren are $20$ kilometers apart. They bike toward one another with Andrea traveling three times as fast as Lauren, and the distance between them decreasing at a rate of $1$ kilometer per minute. After $5$ minutes, Andrea stops biking because of a flat tire and waits for Lauren. After how many minutes from the time they started to bike does Lauren reach Andrea?
+ 
+$\mathrm{(A)}\ 20 \qquad \mathrm{(B)}\ 30 \qquad \mathrm{(C)}\ 55 \qquad \mathrm{(D)}\ 65 \qquad \mathrm{(E)}\ 80$
+ 

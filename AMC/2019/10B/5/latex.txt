@@ -1,0 +1,13 @@
+
+Triangle $ABC$ lies in the first quadrant. Points $A$, $B$, and $C$ are reflected across the line $y=x$ to points $A'$, $B'$, and $C'$, respectively. Assume that none of the vertices of the triangle lie on the line $y=x$. Which of the following statements is not always true?
+
+$\textbf{(A) }$ Triangle $A'B'C'$ lies in the first quadrant.
+
+$\textbf{(B) }$ Triangles $ABC$ and $A'B'C'$ have the same area.
+
+$\textbf{(C) }$ The slope of line $AA'$ is $-1$.
+
+$\textbf{(D) }$ The slopes of lines $AA'$ and $CC'$ are the same.
+
+$\textbf{(E) }$ Lines $AB$ and $A'B'$ are perpendicular to each other.
+

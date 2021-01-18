@@ -1,0 +1,4 @@
+The internal angles of quadrilateral $ABCD$ form an arithmetic progression. Triangles $ABD$ and $DCB$ are similar with $\angle DBA = \angle DCB$ and $\angle ADB = \angle CBD$. Moreover, the angles in each of these two triangles also form an arithmetic progression. In degrees, what is the largest possible sum of the two largest angles of $ABCD$?
+ 
+$\textbf{(A)}\ 210 \qquad \textbf{(B)}\ 220 \qquad \textbf{(C)}\ 230 \qquad \textbf{(D)}\ 240 \qquad \textbf{(E)}\ 250$
+ 

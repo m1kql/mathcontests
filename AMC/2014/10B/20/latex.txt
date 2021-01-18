@@ -1,0 +1,4 @@
+For how many integers $x$ is the number $x^4-51x^2+50$ negative?
+ 
+$\textbf {(A) } 8 \qquad \textbf {(B) } 10 \qquad \textbf {(C) } 12 \qquad \textbf {(D) } 14 \qquad \textbf {(E) } 16$
+ 

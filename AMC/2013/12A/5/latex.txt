@@ -1,0 +1,5 @@
+
+Tom, Dorothy, and Sammy went on a vacation and agreed to split the costs evenly. During their trip Tom paid \textdollar 105, Dorothy paid \textdollar 125, and Sammy paid \textdollar 175. In order to share costs equally, Tom gave Sammy $t$ dollars, and Dorothy gave Sammy $d$ dollars. What is $t-d$?
+
+$\textbf{(A)}\ 15\qquad\textbf{(B)}\ 20\qquad\textbf{(C)}\ 25\qquad\textbf{(D)}\ 30\qquad\textbf{(E)}\ 35$
+

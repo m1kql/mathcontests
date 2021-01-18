@@ -1,0 +1,6 @@
+A student must choose a program of four courses from a menu of courses consisting of English, Algebra, Geometry, History, Art, and Latin. This program must contain English and at least one mathematics course. In how many ways can this program be chosen?
+ 
+
+ 
+$\textbf{(A)}\ 6\qquad\textbf{(B)}\ 8\qquad\textbf{(C)}\ 9\qquad\textbf{(D)}\ 12\qquad\textbf{(E)}\ 16$
+ 

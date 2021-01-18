@@ -1,0 +1,4 @@
+Vertex $E$ of equilateral $\triangle{ABE}$ is in the interior of unit square $ABCD$. Let $R$ be the region consisting of all points inside $ABCD$ and outside $\triangle{ABE}$ whose distance from $AD$ is between $\frac{1}{3}$ and $\frac{2}{3}$. What is the area of $R$? 
+ 
+$\textbf{(A)}\ \frac{12-5\sqrt3}{72} \qquad \textbf{(B)}\ \frac{12-5\sqrt3}{36} \qquad \textbf{(C)}\ \frac{\sqrt3}{18} \qquad \textbf{(D)}\ \frac{3-\sqrt3}{9} \qquad \textbf{(E)}\ \frac{\sqrt3}{12}$
+ 

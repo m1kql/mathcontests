@@ -1,0 +1,4 @@
+Last year Isabella took $7$ math tests and received $7$ different scores, each an integer between $91$ and $100$, inclusive. After each test she noticed that the average of her test scores was an integer. Her score on the seventh test was $95$. What was her score on the sixth test?
+ 
+$\textbf{(A)}\ 92\qquad\textbf{(B)}\ 94\qquad\textbf{(C)}\ 96\qquad\textbf{(D)}\ 98\qquad\textbf{(E)}\ 100$
+ 

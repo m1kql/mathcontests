@@ -1,0 +1,4 @@
+Several sets of prime numbers, such as $\{7,83,421,659\}$ use each of the nine nonzero digits exactly once. What is the smallest possible sum such a set of primes could have?
+ 
+$\text{(A) }193 \qquad \text{(B) }207 \qquad \text{(C) }225 \qquad \text{(D) }252 \qquad \text{(E) }447$
+ 

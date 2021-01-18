@@ -1,0 +1,4 @@
+How many even integers are there between $200$ and $700$ whose digits are all different and come from the set $\left\{1,2,5,7,8,9\right\}$?
+ 
+$\text{(A)}\,12 \qquad\text{(B)}\,20 \qquad\text{(C)}\,72 \qquad\text{(D)}\,120 \qquad\text{(E)}\,200$
+ 

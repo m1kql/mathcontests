@@ -1,0 +1,5 @@
+
+As shown in the figure, line segment $\overline{AD}$ is trisected by points $B$ and $C$ so that $AB=BC=CD=2.$ Three semicircles of radius $1,$ AEB, BFC, and CGD, have their diameters on $\overline{AD},$ and are tangent to line $EG$ at $E,F,$ and $G,$ respectively. A circle of radius $2$ has its center on $F.$ The area of the region inside the circle but outside the three semicircles, shaded in the figure, can be expressed in the form $$\frac{a}{b}\cdot\pi-\sqrt{c}+d,$$where $a,b,c,$ and $d$ are positive integers and $a$ and $b$ are relatively prime. What is $a+b+c+d$?
+
+$\textbf{(A) } 13 \qquad\textbf{(B) } 14 \qquad\textbf{(C) } 15 \qquad\textbf{(D) } 16\qquad\textbf{(E) } 17$
+

@@ -1,0 +1,4 @@
+If $f(x) = ax+b$ and $f^{-1}(x) = bx+a$ with $a$ and $b$ real, what is the value of $a+b$? 
+ 
+$\mathrm{(A)}\ -2 \qquad\mathrm{(B)}\ -1 \qquad\mathrm{(C)}\ 0 \qquad\mathrm{(D)}\ 1 \qquad\mathrm{(E)}\ 2$
+ 

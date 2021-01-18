@@ -1,0 +1,4 @@
+Square $ABCD$ has area $36,$ and $\overline{AB}$ is parallel to the x-axis. Vertices $A,$ $B$, and $C$ are on the graphs of $y = \log_{a}x,$ $y = 2\log_{a}x,$ and $y = 3\log_{a}x,$ respectively. What is $a?$
+ 
+$\mathrm{(A)}\ \sqrt [6]{3}\qquad \mathrm{(B)}\ \sqrt {3}\qquad \mathrm{(C)}\ \sqrt [3]{6}\qquad \mathrm{(D)}\ \sqrt {6}\qquad \mathrm{(E)}\ 6$
+ 

@@ -1,0 +1,4 @@
+A sphere is inscribed in a cube that has a surface area of $24$ square meters. A second cube is then inscribed within the sphere. What is the surface area in square meters of the inner cube?
+ 
+$\text{(A)}\ 3 \qquad \text{(B)}\ 6 \qquad \text{(C)}\ 8 \qquad \text{(D)}\ 9 \qquad \text{(E)}\ 12$
+ 

@@ -1,0 +1,4 @@
+Rectangle $ABCD$ has $AB=3$ and $BC=4$. Point $E$ is the foot of the perpendicular from $B$ to diagonal $\overline{AC}$. What is the area of $\triangle AED$?
+ 
+$\textbf{(A)}\ 1\qquad\textbf{(B)}\ \frac{42}{25}\qquad\textbf{(C)}\ \frac{28}{15}\qquad\textbf{(D)}\ 2\qquad\textbf{(E)}\ \frac{54}{25}$
+ 

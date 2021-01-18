@@ -1,0 +1,6 @@
+A student council must select a two-person welcoming committee and a three-person planning committee from among its members. There are exactly $10$ ways to select a two-person team for the welcoming committee. It is possible for students to serve on both committees. In how many different ways can a three-person planning committee be selected?
+ 
+
+ 
+$\textbf{(A)}\ 10\qquad\textbf{(B)}\ 12\qquad\textbf{(C)}\ 15\qquad\textbf{(D)}\ 18\qquad\textbf{(E)}\ 25$
+ 

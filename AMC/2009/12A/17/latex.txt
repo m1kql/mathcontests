@@ -1,0 +1,4 @@
+Let $a + ar_1 + ar_1^2 + ar_1^3 + \cdots$ and $a + ar_2 + ar_2^2 + ar_2^3 + \cdots$ be two different infinite geometric series of positive numbers with the same first term.  The sum of the first series is $r_1$, and the sum of the second series is $r_2$.  What is $r_1 + r_2$?
+ 
+$\textbf{(A)}\ 0\qquad \textbf{(B)}\ \frac {1}{2}\qquad \textbf{(C)}\ 1\qquad \textbf{(D)}\ \frac {1 + \sqrt {5}}{2}\qquad \textbf{(E)}\ 2$
+ 

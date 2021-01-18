@@ -1,0 +1,4 @@
+Twelve fair dice are rolled. What is the probability that the product of the numbers on the top faces is prime?
+ 
+$\mathrm{(A)} \left(\frac{1}{12}\right)^{12} \qquad \mathrm{(B)} \left(\frac{1}{6}\right)^{12} \qquad \mathrm{(C)} 2\left(\frac{1}{6}\right)^{11} \qquad \mathrm{(D)} \frac{5}{2}\left(\frac{1}{6}\right)^{11} \qquad \mathrm{(E)} \left(\frac{1}{6}\right)^{10}$
+ 

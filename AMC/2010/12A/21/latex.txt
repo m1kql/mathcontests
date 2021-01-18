@@ -1,0 +1,6 @@
+The graph of $y=x^6-10x^5+29x^4-4x^3+ax^2$ lies above the line $y=bx+c$ except at three values of $x$, where the graph and the line intersect. What is the largest of these values?
+ 
+$\textbf{(A)}\ 4 \qquad \textbf{(B)}\ 5 \qquad \textbf{(C)}\ 6 \qquad \textbf{(D)}\ 7 \qquad \textbf{(E)}\ 8$
+ 
+
+ 

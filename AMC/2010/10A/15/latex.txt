@@ -1,0 +1,14 @@
+In a magical swamp there are two species of talking amphibians: toads, whose statements are always true, and frogs, whose statements are always false. Four amphibians, Brian, Chris, LeRoy, and Mike live together in this swamp, and they make the following statements.
+ 
+Brian: "Mike and I are different species."
+ 
+Chris: "LeRoy is a frog."
+ 
+LeRoy: "Chris is a frog."
+ 
+Mike: "Of the four of us, at least two are toads."
+ 
+How many of these amphibians are frogs?
+ 
+$\textbf{(A)}\ 0 \qquad \textbf{(B)}\ 1 \qquad \textbf{(C)}\ 2 \qquad \textbf{(D)}\ 3 \qquad \textbf{(E)}\ 4$
+ 

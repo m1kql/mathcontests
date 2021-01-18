@@ -1,0 +1,4 @@
+In how many ways can $345$ be written as the sum of an increasing sequence of two or more consecutive positive integers?
+ 
+$\textbf{(A)}\ 1\qquad\textbf{(B)}\ 3\qquad\textbf{(C)}\ 5\qquad\textbf{(D)}\ 6\qquad\textbf{(E)}\ 7$
+ 

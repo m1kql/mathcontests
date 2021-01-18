@@ -1,0 +1,4 @@
+How many right triangles have integer leg lengths $a$ and $b$ and a hypotenuse of length $b+1$, where $b<100$?
+ 
+$\mathrm{(A)}\ 6\qquad\mathrm{(B)}\ 7\qquad\mathrm{(C)}\ 8\qquad\mathrm{(D)}\ 9\qquad\mathrm{(E)}\ 10$
+ 

@@ -1,0 +1,4 @@
+Which of the following numbers is a perfect square?
+ 
+$\mathrm{(A) \ } 98! \cdot 99! \qquad \mathrm{(B) \ } 98! \cdot 100! \qquad \mathrm{(C) \ } 99! \cdot 100! \qquad \mathrm{(D) \ } 99! \cdot 101! \qquad \mathrm{(E) \ } 100! \cdot 101!$
+ 

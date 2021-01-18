@@ -1,0 +1,4 @@
+Four circles, no two of which are congruent, have centers at $A$, $B$, $C$, and $D$, and points $P$ and $Q$ lie on all four circles. The radius of circle $A$ is $\tfrac{5}{8}$ times the radius of circle $B$, and the radius of circle $C$ is $\tfrac{5}{8}$ times the radius of circle $D$. Furthermore, $AB = CD = 39$ and $PQ = 48$. Let $R$ be the midpoint of $\overline{PQ}$. What is $AR+BR+CR+DR$ ?
+ 
+$\textbf{(A)}\; 180 \qquad\textbf{(B)}\; 184 \qquad\textbf{(C)}\; 188 \qquad\textbf{(D)}\; 192\qquad\textbf{(E)}\; 196$
+ 

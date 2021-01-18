@@ -1,0 +1,4 @@
+For positive integers $m$ and $n$ such that $m+10<n+1$, both the mean and the median of the set $\{m, m+4, m+10, n+1, n+2, 2n\}$ are equal to $n$. What is $m+n$?
+ 
+$\textbf{(A)}20\qquad\textbf{(B)}21\qquad\textbf{(C)}22\qquad\textbf{(D)}23\qquad\textbf{(E)}24$
+ 

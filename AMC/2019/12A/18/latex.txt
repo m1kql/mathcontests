@@ -1,0 +1,4 @@
+A sphere with center $O$ has radius $6$. A triangle with sides of length $15, 15,$ and $24$ is situated in space so that each of its sides is tangent to the sphere. What is the distance between $O$ and the plane determined by the triangle?
+ 
+$\textbf{(A) }2\sqrt{3}\qquad \textbf{(B) }4\qquad \textbf{(C) }3\sqrt{2}\qquad \textbf{(D) }2\sqrt{5}\qquad \textbf{(E) }5\qquad$
+ 

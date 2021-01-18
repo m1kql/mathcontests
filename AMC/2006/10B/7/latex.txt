@@ -1,0 +1,4 @@
+Which of the following is equivalent to $\sqrt{\frac{x}{1-\frac{x-1}{x}}}$ when $x < 0$? 
+ 
+$\mathrm{(A) \ } -x\qquad \mathrm{(B) \ } x\qquad \mathrm{(C) \ } 1\qquad \mathrm{(D) \ } \sqrt{\frac{x}{2}}\qquad \mathrm{(E) \ } x\sqrt{-1}$
+ 

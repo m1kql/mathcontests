@@ -1,0 +1,4 @@
+Kim's flight took off from Newark at 10:34 AM and landed in Miami at 1:18 PM. Both cities are in the same time zone. If her flight took $h$ hours and $m$ minutes, with $0 < m < 60$, what is $h + m$?
+ 
+$\textbf{(A)}\ 46 \qquad \textbf{(B)}\ 47 \qquad \textbf{(C)}\ 50 \qquad \textbf{(D)}\ 53 \qquad \textbf{(E)}\ 54$
+ 

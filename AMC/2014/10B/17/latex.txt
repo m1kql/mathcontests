@@ -1,0 +1,4 @@
+What is the greatest power of $2$ that is a factor of $10^{1002} - 4^{501}$?
+ 
+$\textbf{(A) } 2^{1002} \qquad\textbf{(B) } 2^{1003} \qquad\textbf{(C) } 2^{1004} \qquad\textbf{(D) } 2^{1005} \qquad\textbf{(E) }2^{1006}$
+ 

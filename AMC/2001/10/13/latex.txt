@@ -1,0 +1,12 @@
+A telephone number has the form $\text{ABC-DEF-GHIJ}$, where each letter represents
+ 
+a different digit. The digits in each part of the number are in decreasing
+ 
+order; that is, $A > B > C$, $D > E > F$, and $G > H > I > J$. Furthermore,
+ 
+$D$, $E$, and $F$ are consecutive even digits; $G$, $H$, $I$, and $J$ are consecutive odd
+ 
+digits; and $A + B + C = 9$. Find $A$.
+ 
+$\text{(A)}\ 4\qquad \text{(B)}\ 5\qquad \text{(C)}\ 6\qquad \text{(D)}\ 7\qquad \text{(E)}\ 8$
+ 

@@ -1,0 +1,4 @@
+How many positive integers less than $1000$ are $6$ times the sum of their digits?
+ 
+$\textbf{(A)}\ 0 \qquad \textbf{(B)}\ 1 \qquad \textbf{(C)}\ 2 \qquad \textbf{(D)}\ 4 \qquad \textbf{(E)}\ 12$
+ 

@@ -1,0 +1,4 @@
+Let $a$ and $b$ be the roots of the equation $x^2-mx+2=0$. Suppose that $a+\frac1b$ and $b+\frac1a$ are the roots of the equation $x^2-px+q=0$. What is $q$?
+ 
+$\mathrm{(A) \ } \frac{5}{2}\qquad \mathrm{(B) \ } \frac{7}{2}\qquad \mathrm{(C) \ } 4\qquad \mathrm{(D) \ } \frac{9}{2}\qquad \mathrm{(E) \ } 8$
+ 

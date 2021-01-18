@@ -1,0 +1,8 @@
+The mean of three numbers is $10$ more than the least of the numbers and $15$
+ 
+less than the greatest. The median of the three numbers is $5$. What is their
+ 
+sum?
+ 
+$\text{(A)}\ 5\qquad \text{(B)}\ 20\qquad \text{(C)}\ 25\qquad \text{(D)}\ 30\qquad \text{(E)}\ 36$
+ 

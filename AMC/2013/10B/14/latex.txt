@@ -1,0 +1,4 @@
+Define $a\clubsuit b=a^2b-ab^2$. Which of the following describes the set of points $(x, y)$ for which $x\clubsuit y=y\clubsuit x$?
+ 
+$\textbf{(A)}\ \text{a finite set of points}\\ \qquad\textbf{(B)}\ \text{one line}\\ \qquad\textbf{(C)}\ \text{two parallel lines}\\ \qquad\textbf{(D)}\ \text{two intersecting lines}\\ \qquad\textbf{(E)}\ \text{three lines}$
+ 

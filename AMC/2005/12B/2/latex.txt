@@ -1,0 +1,4 @@
+A positive number $x$ has the property that $x\%$ of $x$ is $4$.  What is $x$?
+ 
+$\mathrm{(A)}\ 2      \qquad \mathrm{(B)}\ 4      \qquad \mathrm{(C)}\ 10      \qquad \mathrm{(D)}\ 20      \qquad \mathrm{(E)}\ 40$
+ 

@@ -1,0 +1,6 @@
+In a small pond there are eleven lily pads in a row labeled 0 through 10.  A frog is sitting on pad 1.  When the frog is on pad $N$, $0<N<10$, it will jump to pad $N-1$ with probability $\frac{N}{10}$ and to pad $N+1$ with probability $1-\frac{N}{10}$.  Each jump is independent of the previous jumps.  If the frog reaches pad 0 it will be eaten by a patiently waiting snake.  If the frog reaches pad 10 it will exit the pond, never to return.  What is the probability that the frog will escape without being eaten by the snake?
+ 
+$\textbf{(A) }\frac{32}{79}\qquad \textbf{(B) }\frac{161}{384}\qquad \textbf{(C) }\frac{63}{146}\qquad \textbf{(D) }\frac{7}{16}\qquad \textbf{(E) }\frac{1}{2}\qquad$
+ 
+
+ 

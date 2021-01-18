@@ -1,0 +1,4 @@
+Through a point on the hypotenuse of a right triangle, lines are drawn parallel to the legs of the triangle so that the triangle is divided into a square and two smaller right triangles. The area of one of the two small right triangles is $m$ times the area of the square. The ratio of the area of the other small right triangle to the area of the square is 
+ 
+$\text {(A)}\ \frac{1}{2m+1} \qquad \text {(B)}\ m \qquad \text {(C)}\ 1-m \qquad \text {(D)}\ \frac{1}{4m} \qquad \text {(E)}\ \frac{1}{8m^2}$
+ 

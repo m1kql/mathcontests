@@ -1,0 +1,4 @@
+What is the value of $x$ if $|x-1|=|x-2|$?
+ 
+$\mathrm{(A) \ } -\frac12 \qquad \mathrm{(B) \ } \frac12 \qquad \mathrm{(C) \ } 1 \qquad \mathrm{(D) \ } \frac32 \qquad \mathrm{(E) \ } 2$
+ 

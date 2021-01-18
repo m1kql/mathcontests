@@ -1,0 +1,4 @@
+For real numbers $x$ and $y$, define $x \spadesuit y = (x+y)(x-y)$. What is $3 \spadesuit (4 \spadesuit 5)$?
+ 
+$\mathrm{(A) \ } -72\qquad \mathrm{(B) \ } -27\qquad \mathrm{(C) \ } -24\qquad \mathrm{(D) \ } 24\qquad \mathrm{(E) \ } 72$
+ 

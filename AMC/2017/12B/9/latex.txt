@@ -1,0 +1,4 @@
+A circle has center $(-10, -4)$ and has radius $13$. Another circle has center $(3, 9)$ and radius $\sqrt{65}$. The line passing through the two points of intersection of the two circles has equation $x+y=c$. What is $c$?
+ 
+$\textbf{(A)}\ 3\qquad\textbf{(B)}\ 3\sqrt{3}\qquad\textbf{(C)}\ 4\sqrt{2}\qquad\textbf{(D)}\ 6\qquad\textbf{(E)}\ \frac{13}{2}$
+ 

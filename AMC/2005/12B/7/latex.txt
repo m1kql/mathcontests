@@ -1,0 +1,4 @@
+What is the area enclosed by the graph of $|3x|+|4y|=12$?
+ 
+$\mathrm{(A)}\ 6      \qquad \mathrm{(B)}\ 12      \qquad \mathrm{(C)}\ 16      \qquad \mathrm{(D)}\ 24      \qquad \mathrm{(E)}\ 25$
+ 

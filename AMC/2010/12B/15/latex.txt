@@ -1,0 +1,4 @@
+For how many ordered triples $(x,y,z)$ of nonnegative integers less than $20$ are there exactly two distinct elements in the set $\{i^x, (1+i)^y, z\}$, where $i=\sqrt{-1}$?
+ 
+$\textbf{(A)}\ 149 \qquad \textbf{(B)}\ 205 \qquad \textbf{(C)}\ 215 \qquad \textbf{(D)}\ 225 \qquad \textbf{(E)}\ 235$
+ 

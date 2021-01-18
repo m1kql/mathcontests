@@ -1,0 +1,4 @@
+Let $a$ and $b$ be relatively prime integers with $a>b>0$ and $\frac{a^3-b^3}{(a-b)^3}$ = $\frac{73}{3}$. What is $a-b$?
+ 
+$\textbf{(A)}\ 1\qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ 3\qquad\textbf{(D)}\ 4\qquad \textbf{(E)}\ 5$
+ 

@@ -1,0 +1,4 @@
+Triangle $ABC$ has $AC=3$, $BC=4$, and $AB=5$. Point $D$ is on $\overline{AB}$, and $\overline{CD}$ bisects the right angle. The inscribed circles of $\triangle ADC$ and $\triangle BCD$ have radii $r_a$ and $r_b$, respectively. What is $r_a/r_b$?
+ 
+$\mathrm{(A)}\ \frac{1}{28}\left(10-\sqrt{2}\right)\qquad\mathrm{(B)}\ \frac{3}{56}\left(10-\sqrt{2}\right)\qquad\mathrm{(C)}\ \frac{1}{14}\left(10-\sqrt{2}\right)\qquad\mathrm{(D)}\ \frac{5}{56}\left(10-\sqrt{2}\right)\\\mathrm{(E)}\ \frac{3}{28}\left(10-\sqrt{2}\right)$
+ 

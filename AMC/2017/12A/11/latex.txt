@@ -1,0 +1,4 @@
+Claire adds the degree measures of the interior angles of a convex polygon and arrives at a sum of $2017$. She then discovers that she forgot to include one angle. What is the degree measure of the forgotten angle?
+ 
+$\textbf{(A)}\ 37\qquad\textbf{(B)}\ 63\qquad\textbf{(C)}\ 117\qquad\textbf{(D)}\ 143\qquad\textbf{(E)}\ 163$
+ 

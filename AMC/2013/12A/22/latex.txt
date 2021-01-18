@@ -1,0 +1,4 @@
+A palindrome is a nonnegative integer number that reads the same forwards and backwards when written in base 10 with no leading zeros. A 6-digit palindrome $n$ is chosen uniformly at random. What is the probability that $\frac{n}{11}$ is also a palindrome?
+ 
+$\textbf{(A)} \ \frac{8}{25} \qquad \textbf{(B)} \ \frac{33}{100} \qquad \textbf{(C)} \ \frac{7}{20} \qquad \textbf{(D)} \ \frac{9}{25} \qquad \textbf{(E)} \ \frac{11}{30}$
+ 

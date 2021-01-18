@@ -1,0 +1,4 @@
+A base-10 three digit number $n$ is selected at random. Which of the following is closest to the probability that the base-9 representation and the base-11 representation of $n$ are both three-digit numerals? 
+ 
+$\mathrm{(A) \ } 0.3\qquad \mathrm{(B) \ } 0.4\qquad \mathrm{(C) \ } 0.5\qquad \mathrm{(D) \ } 0.6\qquad \mathrm{(E) \ } 0.7$
+ 

@@ -1,0 +1,8 @@
+Four positive integers $a$, $b$, $c$, and $d$ have a product of $8!$ and satisfy:
+ 
+ \begin{center} \begin{align*} ab + a + b & = 524 \\  bc + b + c & = 146 \\  cd + c + d & = 104 \end{align*} \end{center} 
+ 
+What is $a-d$?
+ 
+$\text{(A) }4 \qquad \text{(B) }6 \qquad \text{(C) }8 \qquad \text{(D) }10 \qquad \text{(E) }12$
+ 

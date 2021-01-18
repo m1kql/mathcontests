@@ -1,0 +1,6 @@
+The closed curve in the figure is made up of 9 congruent circular arcs each of length $\frac{2\pi}{3}$, where each of the centers of the corresponding circles is among the vertices of a regular hexagon of side 2. What is the area enclosed by the curve?
+ 
+
+ 
+$\textbf{(A)}\ 2\pi+6\qquad\textbf{(B)}\ 2\pi+4\sqrt{3}\qquad\textbf{(C)}\ 3\pi+4\qquad\textbf{(D)}\ 2\pi+3\sqrt{3}+2\qquad\textbf{(E)}\ \pi+6\sqrt{3}$
+ 

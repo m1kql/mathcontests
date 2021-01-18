@@ -1,0 +1,4 @@
+A truncated cone has horizontal bases with radii $18$ and $2$. A sphere is tangent to the top, bottom, and lateral surface of the truncated cone. What is the radius of the sphere? 
+ 
+$\mathrm{(A)}\ 6 \qquad\mathrm{(B)}\ 4\sqrt{5} \qquad\mathrm{(C)}\ 9 \qquad\mathrm{(D)}\ 10 \qquad\mathrm{(E)}\ 6\sqrt{3}$
+ 

@@ -1,0 +1,4 @@
+For how many integers $x$ is the point $(x, -x)$ inside or on the circle of radius 10 centered at $(5, 5)$?
+ 
+$\textbf{(A) }11\qquad \textbf{(B) }12\qquad \textbf{(C) }13\qquad \textbf{(D) }14\qquad \textbf{(E) }15$
+ 

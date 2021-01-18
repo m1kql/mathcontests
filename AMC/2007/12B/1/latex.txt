@@ -1,0 +1,4 @@
+Isabella's house has $3$ bedrooms. Each bedroom is $12$ feet long, $10$ feet wide, and $8$ feet high. Isabella must paint the walls of all the bedrooms. Doorways and windows, which will not be painted, occupy $60$ square feet in each bedroom. How many square feet of walls must be painted? 
+ 
+$\mathrm{(A)}\ 678 \qquad \mathrm{(B)}\ 768 \qquad \mathrm{(C)}\ 786 \qquad \mathrm{(D)}\ 867 \qquad \mathrm{(E)}\ 876$
+ 

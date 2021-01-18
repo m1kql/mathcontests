@@ -1,0 +1,8 @@
+In triangle $ABC$, medians $AD$ and $CE$ intersect at $P$, $PE=1.5$, $PD=2$, and $DE=2.5$.  What is the area of $AEDC$?
+ 
+$\qquad\textbf{(A) }13\qquad\textbf{(B) }13.5\qquad\textbf{(C) }14\qquad\textbf{(D) }14.5\qquad\textbf{(E) }15$
+ 
+
+ 
+
+ 

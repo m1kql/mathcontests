@@ -1,0 +1,6 @@
+Positive integers $a,b,$ and $c$ are chosen so that $a<b<c$, and the system of equations
+ 
+$2x + y = 2003 \quad$ and $\quad y = |x-a| + |x-b| + |x-c|$has exactly one solution. What is the minimum value of $c$?
+ 
+$\mathrm{(A)}\ 668 \qquad\mathrm{(B)}\ 669 \qquad\mathrm{(C)}\ 1002 \qquad\mathrm{(D)}\ 2003 \qquad\mathrm{(E)}\ 2004$
+ 

@@ -1,0 +1,8 @@
+In the rectangular parallelepiped shown, $AB$ = $3$, $BC$ = $1$, and $CG$ = $2$. Point $M$ is the midpoint of $\overline{FG}$. What is the volume of the rectangular pyramid with base $BCHE$ and apex $M$?
+ 
+
+ 
+
+ 
+$\textbf{(A) } 1 \qquad \textbf{(B) } \frac{4}{3} \qquad \textbf{(C) } \frac{3}{2} \qquad \textbf{(D) } \frac{5}{3} \qquad \textbf{(E) } 2$
+ 

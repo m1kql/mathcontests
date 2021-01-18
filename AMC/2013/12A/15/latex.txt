@@ -1,0 +1,4 @@
+Rabbits Peter and Pauline have three offspring—Flopsie, Mopsie, and Cotton-tail. These five rabbits are to be distributed to four different pet stores so that no store gets both a parent and a child. It is not required that every store gets a rabbit. In how many different ways can this be done?
+ 
+$\textbf{(A)} \ 96 \qquad  \textbf{(B)} \ 108 \qquad  \textbf{(C)} \ 156 \qquad  \textbf{(D)} \ 204 \qquad  \textbf{(E)} \ 372$
+ 

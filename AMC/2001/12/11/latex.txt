@@ -1,0 +1,4 @@
+A box contains exactly five chips, three red and two white. Chips are randomly removed one at a time without replacement until all the red chips are drawn or all the white chips are drawn. What is the probability that the last chip drawn is white?
+ 
+$\text{(A) }\frac {3}{10} \qquad \text{(B) }\frac {2}{5} \qquad \text{(C) }\frac {1}{2} \qquad \text{(D) }\frac {3}{5} \qquad \text{(E) }\frac {7}{10}$
+ 

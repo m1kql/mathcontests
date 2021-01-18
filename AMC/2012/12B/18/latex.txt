@@ -1,0 +1,4 @@
+Let $(a_1,a_2, \dots ,a_{10})$ be a list of the first 10 positive integers such that for each $2 \le i \le 10$ either $a_i+1$ or $a_i-1$ or both appear somewhere before $a_i$ in the list. How many such lists are there?
+ 
+$\textbf{(A)}\ 120\qquad\textbf{(B)}\ 512\qquad\textbf{(C)}\ 1024\qquad\textbf{(D)}\ 181,440\qquad\textbf{(E)}\ 362,880$
+ 

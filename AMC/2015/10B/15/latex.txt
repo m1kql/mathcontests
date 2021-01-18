@@ -1,0 +1,4 @@
+The town of Hamlet has $3$ people for each horse, $4$ sheep for each cow, and $3$ ducks for each person. Which of the following could not possibly be the total number of people, horses, sheep, cows, and ducks in Hamlet?
+ 
+$\textbf{(A) }41\qquad\textbf{(B) }47\qquad\textbf{(C) }59\qquad\textbf{(D) }61\qquad\textbf{(E) }66$
+ 

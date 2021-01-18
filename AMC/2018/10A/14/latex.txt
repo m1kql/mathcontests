@@ -1,0 +1,4 @@
+What is the greatest integer less than or equal to  \begin{center} \[\frac{3^{100}+2^{100}}{3^{96}+2^{96}}?\] \end{center} 
+ 
+$\textbf{(A) }80\qquad \textbf{(B) }81 \qquad \textbf{(C) }96 \qquad \textbf{(D) }97 \qquad \textbf{(E) }625\qquad$
+ 

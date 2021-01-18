@@ -1,0 +1,6 @@
+Tamara has three rows of two $6$-feet by $2$-feet flower beds in her garden. The beds are separated and also surrounded by $1$-foot-wide walkways, as shown on the diagram. What is the total area of the walkways, in square feet?
+ 
+
+ 
+$\textbf{(A)}\ 72\qquad\textbf{(B)}\ 78\qquad\textbf{(C)}\ 90\qquad\textbf{(D)}\ 120\qquad\textbf{(E)}\ 150$
+ 

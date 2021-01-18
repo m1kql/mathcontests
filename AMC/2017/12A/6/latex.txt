@@ -1,0 +1,4 @@
+Joy has $30$ thin rods, one each of every integer length from $1 \text{ cm}$ through $30 \text{ cm}$. She places the rods with lengths $3 \text{ cm}$, $7 \text{ cm}$, and $15 \text{cm}$ on a table. She then wants to choose a fourth rod that she can put with these three to form a quadrilateral with positive area. How many of the remaining rods can she choose as the fourth rod?
+ 
+$\textbf{(A)}\ 16 \qquad\textbf{(B)}\ 17 \qquad\textbf{(C)}\ 18 \qquad\textbf{(D)}\ 19  \qquad\textbf{(E)}\ 20$
+ 

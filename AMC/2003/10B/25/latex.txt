@@ -1,0 +1,4 @@
+How many distinct four-digit numbers are divisible by $3$ and have $23$ as their last two digits?
+ 
+$\textbf{(A) } 27 \qquad\textbf{(B) } 30 \qquad\textbf{(C) } 33 \qquad\textbf{(D) } 81 \qquad\textbf{(E) } 90$
+ 

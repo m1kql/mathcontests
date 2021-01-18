@@ -1,0 +1,4 @@
+The product $(8)(888\dots8)$, where the second factor has $k$ digits, is an integer whose digits have a sum of $1000$.  What is $k$?
+ 
+$\textbf{(A)}\ 901\qquad\textbf{(B)}\ 911\qquad\textbf{(C)}\ 919\qquad\textbf{(D)}\ 991\qquad\textbf{(E)}\ 999$
+ 

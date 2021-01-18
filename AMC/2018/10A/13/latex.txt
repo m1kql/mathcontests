@@ -1,0 +1,6 @@
+A paper triangle with sides of lengths 3,4, and 5 inches, as shown, is folded so that point $A$ falls on point $B$. What is the length in inches of the crease?
+ 
+
+ 
+$\textbf{(A) }   1+\frac12 \sqrt2   \qquad        \textbf{(B) }   \sqrt3   \qquad    \textbf{(C) }   \frac74   \qquad   \textbf{(D) }  \frac{15}{8} \qquad  \textbf{(E) }   2$
+ 

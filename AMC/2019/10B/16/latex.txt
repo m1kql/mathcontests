@@ -1,0 +1,4 @@
+In $\triangle ABC$ with a right angle at $C$, point $D$ lies in the interior of $\overline{AB}$ and point $E$ lies in the interior of $\overline{BC}$ so that $AC=CD,$ $DE=EB,$ and the ratio $AC:DE=4:3$. What is the ratio $AD:DB?$
+ 
+$\textbf{(A) }2:3\qquad\textbf{(B) }2:\sqrt{5}\qquad\textbf{(C) }1:1\qquad\textbf{(D) }3:\sqrt{5}\qquad\textbf{(E) }3:2$
+ 

@@ -1,0 +1,8 @@
+In the addition shown below $A$, $B$, $C$, and $D$ are distinct digits. How many different values are possible for $D$?
+ 
+ \begin{center} \[\begin{array}[t]{r}     ABBCB \\ + \ BCADA \\ \hline     DBDDD \end{array}\] \end{center} 
+ 
+
+ 
+$\textbf {(A) } 2 \qquad \textbf {(B) } 4 \qquad \textbf {(C) } 7 \qquad \textbf {(D) } 8 \qquad \textbf {(E) } 9$
+ 

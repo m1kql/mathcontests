@@ -1,0 +1,2 @@
+Find the number of positive integers that are divisors of at least one of $10^{10},15^7,18^{11}.$
+ 

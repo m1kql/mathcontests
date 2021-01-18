@@ -1,0 +1,6 @@
+Consider all polynomials of a complex variable, $P(z)=4z^4+az^3+bz^2+cz+d$, where $a,b,c,$ and $d$ are integers, $0\le d\le c\le b\le a\le 4$, and the polynomial has a zero $z_0$ with $|z_0|=1.$ What is the sum of all values $P(1)$ over all the polynomials with these properties?
+ 
+$\textbf{(A)}\ 84\qquad\textbf{(B)}\ 92\qquad\textbf{(C)}\ 100\qquad\textbf{(D)}\ 108\qquad\textbf{(E)}\ 120$
+ 
+
+ 

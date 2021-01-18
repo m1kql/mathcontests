@@ -1,0 +1,4 @@
+In a high school with $500$ students, $40\%$ of the seniors play a musical instrument, while $30\%$ of the non-seniors do not play a musical instrument. In all, $46.8\%$ of the students do not play a musical instrument. How many non-seniors play a musical instrument?
+ 
+$\textbf{(A) } 66 \qquad\textbf{(B) } 154 \qquad\textbf{(C) } 186 \qquad\textbf{(D) } 220 \qquad\textbf{(E) } 266$
+ 

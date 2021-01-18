@@ -1,0 +1,4 @@
+The numbers 1, 2, 3, 4, 5 are to be arranged in a circle. An arrangement is $bad$ if it is not true that for every $n$ from $1$ to $15$ one can find a subset of the numbers that appear consecutively on the circle that sum to $n$. Arrangements that differ only by a rotation or a reflection are considered the same. How many different bad arrangements are there?
+ 
+$\textbf {(A) } 1 \qquad \textbf {(B) } 2 \qquad \textbf {(C) } 3 \qquad \textbf {(D) } 4 \qquad \textbf {(E) } 5$
+ 

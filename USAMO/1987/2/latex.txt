@@ -1,0 +1,1 @@
+The feet of the angle bisectors of $\Delta ABC$ form a right-angled triangle. If the right-angle is at $X$, where $AX$ is the bisector of $\angle A$, find all possible values for $\angle A$.

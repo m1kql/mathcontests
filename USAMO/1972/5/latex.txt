@@ -1,0 +1,2 @@
+A given convex pentagon $ABCDE$ has the property that the area of each of the five triangles $ABC$, $BCD$, $CDE$, $DEA$, and $EAB$ is unity. Show that all pentagons with the above property have the same area, and calculate that area. Show, furthermore, that there are infinitely many non-congruent pentagons having the above area property.
+

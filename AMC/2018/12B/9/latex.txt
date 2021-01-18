@@ -1,0 +1,6 @@
+What is
+ 
+ \begin{center} \[\sum^{100}_{i=1} \sum^{100}_{j=1} (i+j) ?\] \end{center} 
+ 
+$\textbf{(A) }100,100 \qquad \textbf{(B) }500,500\qquad \textbf{(C) }505,000 \qquad \textbf{(D) }1,001,000 \qquad \textbf{(E) }1,010,000 \qquad$
+ 

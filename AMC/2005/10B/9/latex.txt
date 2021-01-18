@@ -1,0 +1,4 @@
+One fair die has faces $1$, $1$, $2$, $2$, $3$, $3$ and another has faces $4$, $4$, $5$, $5$, $6$, $6$. The dice are rolled and the numbers on the top faces are added. What is the probability that the sum will be odd?
+ 
+$\mathrm{(A)} \frac{1}{3} \qquad \mathrm{(B)} \frac{4}{9} \qquad \mathrm{(C)} \frac{1}{2} \qquad \mathrm{(D)} \frac{5}{9} \qquad \mathrm{(E)} \frac{2}{3}$
+ 

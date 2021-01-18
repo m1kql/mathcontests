@@ -1,0 +1,6 @@
+Seven cookies of radius $1$ inch are cut from a circle of cookie dough, as shown. Neighboring cookies are tangent, and all except the center cookie are tangent to the edge of the dough. The leftover scrap is reshaped to form another cookie of the same thickness. What is the radius in inches of the scrap cookie?
+ 
+
+ 
+$\textbf{(A) } \sqrt{2} \qquad \textbf{(B) } 1.5 \qquad \textbf{(C) } \sqrt{\pi} \qquad \textbf{(D) } \sqrt{2\pi} \qquad \textbf{(E) } \pi$
+ 

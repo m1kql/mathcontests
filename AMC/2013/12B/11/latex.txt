@@ -1,0 +1,4 @@
+Two bees start at the same spot and fly at the same rate in the following directions. Bee $A$ travels $1$ foot north, then $1$ foot east, then $1$ foot upwards, and then continues to repeat this pattern. Bee $B$ travels $1$ foot south, then $1$ foot west, and then continues to repeat this pattern. In what directions are the bees traveling when they are exactly $10$ feet away from each other?
+ 
+$\textbf{(A)}\ A$ east, $B$ west$\qquad \textbf{(B)}\ A$ north, $B$ south$\qquad \textbf{(C)}\ A$ north, $B$ west$\qquad \textbf{(D)}\ A$ up, $B$ south$\qquad \textbf{(E)}\ A$ up, $B$ west
+ 

@@ -1,0 +1,5 @@
+
+Rhombus $ABCD$ has side length $2$ and $\angle B = 120 ^\circ$. Region $R$ consists of all points inside the rhombus that are closer to vertex $B$ than any of the other three vertices. What is the area of $R$?
+
+$\textbf{(A)}\ \frac{\sqrt{3}}{3} \qquad\textbf{(B)}\ \frac{\sqrt{3}}{2} \qquad\textbf{(C)}\ \frac{2\sqrt{3}}{3} \qquad\textbf{(D)}\ 1 + \frac{\sqrt{3}}{3} \qquad\textbf{(E)}\ 2$
+

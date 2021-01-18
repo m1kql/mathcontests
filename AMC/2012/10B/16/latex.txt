@@ -1,0 +1,6 @@
+Three circles with radius 2 are mutually tangent. What is the total area of the circles and the region bounded by them, as shown in the figure?
+ 
+
+ 
+$\textbf{(A)}\ 10\pi+4\sqrt{3}\qquad\textbf{(B)}\ 13\pi-\sqrt{3}\qquad\textbf{(C)}\ 12\pi+\sqrt{3}\qquad\textbf{(D)}\ 10\pi+9\qquad\textbf{(E)}\ 13\pi$
+ 

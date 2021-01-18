@@ -1,0 +1,4 @@
+Points $A(6,13)$ and $B(12,11)$ lie on circle $\omega$ in the plane. Suppose that the tangent lines to $\omega$ at $A$ and $B$ intersect at a point on the $x$-axis. What is the area of $\omega$?
+ 
+$\textbf{(A) }\frac{83\pi}{8}\qquad\textbf{(B) }\frac{21\pi}{2}\qquad\textbf{(C) } \frac{85\pi}{8}\qquad\textbf{(D) }\frac{43\pi}{4}\qquad\textbf{(E) }\frac{87\pi}{8}$
+ 

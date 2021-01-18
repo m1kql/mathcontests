@@ -1,0 +1,4 @@
+It takes Mary $30$ minutes to walk uphill $1$ km from her home to school, but it takes her only $10$ minutes to walk from school to her home along the same route. What is her average speed, in km/hr, for the round trip? 
+ 
+$\mathrm{(A) \ } 3\qquad \mathrm{(B) \ } 3.125\qquad \mathrm{(C) \ } 3.5\qquad \mathrm{(D) \ } 4\qquad \mathrm{(E) \ } 4.5$
+ 

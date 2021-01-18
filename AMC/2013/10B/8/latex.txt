@@ -1,0 +1,4 @@
+Ray's car averages $40$ miles per gallon of gasoline, and Tom's car averages $10$ miles per gallon of gasoline. Ray and Tom each drive the same number of miles. What is the cars' combined rate of miles per gallon of gasoline?
+ 
+$\textbf{(A)}\ 10 \qquad \textbf{(B)}\ 16 \qquad \textbf{(C)}\ 25 \qquad \textbf{(D)}\ 30 \qquad \textbf{(E)}\ 40$
+ 

@@ -1,0 +1,4 @@
+Let $n$ be a positive integer such that $\frac 12 + \frac 13 + \frac 17 + \frac 1n$ is an integer. Which of the following statements is not  true:
+ 
+$\mathrm{(A)}\ 2\ \text{divides\ }n \qquad\mathrm{(B)}\ 3\ \text{divides\ }n \qquad\mathrm{(C)}$ $\ 6\ \text{divides\ }n  \qquad\mathrm{(D)}\ 7\ \text{divides\ }n \qquad\mathrm{(E)}\ n > 84$
+ 

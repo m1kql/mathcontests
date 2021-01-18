@@ -1,0 +1,4 @@
+Juan rolls a fair regular octahedral die marked with the numbers $1$ through $8$. Then Amal rolls a fair six-sided die. What is the probability that the product of the two rolls is a multiple of 3?
+ 
+$\mathrm{(A)}\ \frac 1{12} \qquad\mathrm{(B)}\ \frac 13 \qquad\mathrm{(C)}\ \frac 12 \qquad\mathrm{(D)}\ \frac 7{12} \qquad\mathrm{(E)}\ \frac 23$
+ 

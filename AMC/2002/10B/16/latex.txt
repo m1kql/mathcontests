@@ -1,0 +1,4 @@
+For how many integers $n$ is $\dfrac n{20-n}$ the square of an integer?
+ 
+$\mathrm{(A)}\ 1 \qquad\mathrm{(B)}\ 2 \qquad\mathrm{(C)}\ 3 \qquad\mathrm{(D)}\ 4 \qquad\mathrm{(E)}\ 10$
+ 

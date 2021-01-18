@@ -1,0 +1,4 @@
+Ajay is standing at point $A$ near Pontianak, Indonesia, $0^\circ$ latitude and $110^\circ \text{ E}$ longitude. Billy is standing at point $B$ near Big Baldy Mountain, Idaho, USA, $45^\circ \text{ N}$ latitude and $115^\circ \text{ W}$ longitude. Assume that Earth is a perfect sphere with center $C$. What is the degree measure of $\angle ACB$?
+ 
+ \begin{center} \[\textbf{(A) }105 \qquad \textbf{(B) }112\frac{1}{2} \qquad \textbf{(C) }120 \qquad \textbf{(D) }135 \qquad \textbf{(E) }150 \qquad\] \end{center} 
+ 

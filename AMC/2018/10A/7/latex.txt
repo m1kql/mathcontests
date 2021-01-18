@@ -1,0 +1,4 @@
+For how many (not necessarily positive) integer values of $n$ is the value of $4000\cdot \left(\tfrac{2}{5}\right)^n$ an integer?
+ 
+$\textbf{(A) }3 \qquad \textbf{(B) }4 \qquad \textbf{(C) }6 \qquad \textbf{(D) }8 \qquad \textbf{(E) }9 \qquad$
+ 

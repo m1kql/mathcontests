@@ -1,0 +1,4 @@
+The area of a pizza with radius $4$ is $N$ percent larger than the area of a pizza with radius $3$ inches. What is the integer closest to $N$?
+ 
+$\textbf{(A) } 25 \qquad\textbf{(B) } 33 \qquad\textbf{(C) } 44\qquad\textbf{(D) } 66 \qquad\textbf{(E) } 78$
+ 

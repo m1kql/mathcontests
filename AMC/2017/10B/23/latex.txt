@@ -1,0 +1,4 @@
+Let $N=123456789101112\dots4344$ be the $79$-digit number that is formed by writing the integers from $1$ to $44$ in order, one after the other. What is the remainder when $N$ is divided by $45$?
+ 
+$\textbf{(A)}\ 1\qquad\textbf{(B)}\ 4\qquad\textbf{(C)}\ 9\qquad\textbf{(D)}\ 18\qquad\textbf{(E)}\ 44$
+ 

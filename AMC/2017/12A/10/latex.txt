@@ -1,0 +1,4 @@
+Chloe chooses a real number uniformly at random from the interval $[ 0,2017 ]$. Independently, Laurent chooses a real number uniformly at random from the interval $[ 0 , 4034 ]$. What is the probability that Laurent's number is greater than Chloe's number?  
+ 
+$\textbf{(A)}\ \dfrac{1}{2} \qquad\textbf{(B)}\ \dfrac{2}{3} \qquad\textbf{(C)}\ \dfrac{3}{4} \qquad\textbf{(D)}\ \dfrac{5}{6} \qquad\textbf{(E)}\ \dfrac{7}{8}$
+ 

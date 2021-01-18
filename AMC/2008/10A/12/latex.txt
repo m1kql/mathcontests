@@ -1,0 +1,4 @@
+In a collection of red, blue, and green marbles, there are $25\%$ more red marbles than blue marbles, and there are $60\%$ more green marbles than red marbles. Suppose that there are $r$ red marbles. What is the total number of marbles in the collection?
+ 
+$\mathrm{(A)}\ 2.85r\qquad\mathrm{(B)}\ 3r\qquad\mathrm{(C)}\ 3.4r\qquad\mathrm{(D)}\ 3.85r\qquad\mathrm{(E)}\ 4.25r$
+ 

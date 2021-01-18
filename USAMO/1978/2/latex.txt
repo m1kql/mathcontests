@@ -1,0 +1,2 @@
+$ABCD$ and $A'B'C'D'$ are square maps of the same region, drawn to different scales and superimposed as shown in the figure. Prove that there is only one point $O$ on the small map that lies directly over point $O'$ of the large map such that $O$ and $O'$ each represent the same place of the country. Also, give a Euclidean construction (straight edge and compass) for $O$.
+

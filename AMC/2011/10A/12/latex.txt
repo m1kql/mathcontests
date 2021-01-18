@@ -1,0 +1,4 @@
+The players on a basketball team made some three-point shots, some two-point shots, and some one-point free throws.  They scored as many points with two-point shots as with three-point shots.  Their number of successful free throws was one more than their number of successful two-point shots.  The team's total score was 61 points.  How many free throws did they make?
+ 
+$\text{(A)}\,13 \qquad\text{(B)}\,14 \qquad\text{(C)}\,15 \qquad\text{(D)}\,16 \qquad\text{(E)}\,17$
+ 

@@ -1,0 +1,4 @@
+Let $ABCD$ be a cyclic quadrilateral. The side lengths of $ABCD$ are distinct integers less than $15$ such that $BC\cdot CD=AB\cdot DA$. What is the largest possible value of $BD$?
+ 
+$\textbf{(A)}\ \sqrt{\dfrac{325}{2}} \qquad \textbf{(B)}\ \sqrt{185} \qquad \textbf{(C)}\ \sqrt{\dfrac{389}{2}} \qquad \textbf{(D)}\ \sqrt{\dfrac{425}{2}} \qquad \textbf{(E)}\ \sqrt{\dfrac{533}{2}}$
+ 

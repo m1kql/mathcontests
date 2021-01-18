@@ -1,0 +1,6 @@
+A circle of radius 1 is tangent to a circle of radius 2. The sides of $\triangle ABC$ are tangent to the circles as shown, and the sides $\overline{AB}$  and $\overline{AC}$ are congruent. What is the area of $\triangle ABC$?
+ 
+
+ 
+$\mathrm{(A) \ } \frac{35}{2}\qquad\mathrm{(B) \ } 15\sqrt{2}\qquad\mathrm{(C) \ } \frac{64}{3}\qquad\mathrm{(D) \ } 16\sqrt{2}\qquad\mathrm{(E) \ } 24\qquad$
+ 

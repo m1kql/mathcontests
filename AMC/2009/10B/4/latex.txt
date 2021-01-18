@@ -1,0 +1,4 @@
+A rectangular yard contains two flower beds in the shape of congruent isosceles right triangles. The remainder of the yard has a trapezoidal shape, as shown. The parallel sides of the trapezoid have lengths $15$ and $25$ meters. What fraction of the yard is occupied by the flower beds?
+ 
+$\mathrm{(A)}\frac {1}{8}\qquad \mathrm{(B)}\frac {1}{6}\qquad \mathrm{(C)}\frac {1}{5}\qquad \mathrm{(D)}\frac {1}{4}\qquad \mathrm{(E)}\frac {1}{3}$
+ 

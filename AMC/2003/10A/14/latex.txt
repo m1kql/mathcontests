@@ -1,0 +1,4 @@
+Let $n$ be the largest integer that is the product of exactly 3 distinct prime numbers $d$, $e$, and $10d+e$, where $d$ and $e$ are single digits. What is the sum of the digits of $n$?
+ 
+$\mathrm{(A) \ } 12\qquad \mathrm{(B) \ } 15\qquad \mathrm{(C) \ } 18\qquad \mathrm{(D) \ } 21\qquad \mathrm{(E) \ } 24$
+ 

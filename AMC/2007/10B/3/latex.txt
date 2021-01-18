@@ -1,0 +1,4 @@
+A college student drove his compact car $120$ miles home for the weekend and averaged $30$ miles per gallon. On the return trip the student drove his parents' SUV and averaged only $20$ miles per gallon. What was the average gas mileage, in miles per gallon, for the round trip?
+ 
+$\textbf{(A) } 22 \qquad\textbf{(B) } 24 \qquad\textbf{(C) } 25 \qquad\textbf{(D) } 26 \qquad\textbf{(E) } 28$
+ 

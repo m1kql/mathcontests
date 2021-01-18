@@ -1,0 +1,6 @@
+For real numbers $a$ and $b$, define $a \diamond b = \sqrt{a^2 + b^2}$. What is the value of
+ 
+$(5 \diamond 12) \diamond ((-12) \diamond (-5))$?
+ 
+$\mathrm{(A)} 0 \qquad \mathrm{(B)} \frac{17}{2} \qquad \mathrm{(C)} 13 \qquad \mathrm{(D)} 13\sqrt{2} \qquad \mathrm{(E)} 26$
+ 

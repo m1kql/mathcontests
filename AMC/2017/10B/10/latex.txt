@@ -1,0 +1,4 @@
+The lines with equations $ax-2y=c$ and $2x+by=-c$ are perpendicular and intersect at $(1, -5)$. What is $c$?
+ 
+$\textbf{(A)}\ -13\qquad\textbf{(B)}\ -8\qquad\textbf{(C)}\ 2\qquad\textbf{(D)}\ 8\qquad\textbf{(E)}\ 13$
+ 

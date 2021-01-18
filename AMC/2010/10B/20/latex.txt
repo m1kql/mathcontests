@@ -1,0 +1,4 @@
+Two circles lie outside regular hexagon $ABCDEF$. The first is tangent to $\overline{AB}$, and the second is tangent to $\overline{DE}$. Both are tangent to lines $BC$ and $FA$. What is the ratio of the area of the second circle to that of the first circle?
+ 
+$\textbf{(A)}\ 18 \qquad  \textbf{(B)}\ 27 \qquad \textbf{(C)}\ 36 \qquad \textbf{(D)}\ 81 \qquad \textbf{(E)}\ 108$
+ 

@@ -1,0 +1,4 @@
+A sequence of natural numbers is constructed by listing the first $4$, then skipping one, listing the next $5$, skipping $2$, listing $6$, skipping $3$, and, on the $n$th iteration, listing $n+3$ and skipping $n$. The sequence begins $1,2,3,4,6,7,8,9,10,13$. What is the $500,\!000$th number in the sequence?
+ 
+$\textbf{(A)}\ 996,\!506\qquad\textbf{(B)}\ 996,\!507\qquad\textbf{(C)}\ 996,\!508\qquad\textbf{(D)}\ 996,\!509\qquad\textbf{(E)}\ 996,\!510$
+ 

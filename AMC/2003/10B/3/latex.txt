@@ -1,0 +1,4 @@
+The sum of $5$ consecutive even integers is $4$ less than the sum of the first $8$ consecutive odd counting numbers. What is the smallest of the even integers?
+ 
+$\textbf{(A) } 6 \qquad\textbf{(B) } 8 \qquad\textbf{(C) } 10 \qquad\textbf{(D) } 12 \qquad\textbf{(E) } 14$
+ 

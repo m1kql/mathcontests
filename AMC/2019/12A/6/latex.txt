@@ -1,0 +1,8 @@
+The figure below shows line $\ell$ with a regular, infinite, recurring pattern of squares and line segments.
+ 
+
+ 
+How many of the following four kinds of rigid motion transformations of the plane in which this figure is drawn, other than the identity transformation, will transform this figure into itself?
+ 
+ \begin{itemize} \item some rotation around a point of line $\ell$ \item some translation in the direction parallel to line $\ell$ \item the reflection across line $\ell$ \item some reflection across a line perpendicular to line $\ell$ \end{itemize}$\textbf{(A) } 0 \qquad\textbf{(B) } 1 \qquad\textbf{(C) } 2 \qquad\textbf{(D) } 3 \qquad\textbf{(E) } 4$
+ 

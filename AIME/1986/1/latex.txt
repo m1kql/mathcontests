@@ -1,0 +1,2 @@
+What is the sum of the solutions to the equation $\sqrt[4]{x} = \frac{12}{7 - \sqrt[4]{x}}$?
+ 

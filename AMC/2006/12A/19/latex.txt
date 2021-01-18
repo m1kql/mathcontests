@@ -1,0 +1,4 @@
+Circles with centers $(2,4)$ and $(14,9)$ have  radii $4$ and $9$, respectively. The equation of a common external tangent to the circles can be written in the form $y=mx+b$ with $m>0$. What is $b$?
+ 
+$\mathrm{(A) \ } \frac{908}{119}\qquad \mathrm{(B) \ } \frac{909}{119}\qquad \mathrm{(C) \ } \frac{130}{17}\qquad \mathrm{(D) \ } \frac{911}{119}\qquad \mathrm{(E) \ }  \frac{912}{119}$
+ 

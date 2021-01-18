@@ -1,0 +1,6 @@
+
+ 
+The vertices of a $3-4-5$ right triangle are the centers of three mutually externally tangent circles, as shown. What is the sum of the areas of the three circles?
+ 
+$\mathrm{(A) \ } 12\pi\qquad \mathrm{(B) \ } \frac{25\pi}{2}\qquad \mathrm{(C) \ } 13\pi\qquad \mathrm{(D) \ } \frac{27\pi}{2}\qquad\mathrm{(E) \ }  14\pi$
+ 

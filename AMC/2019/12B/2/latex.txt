@@ -1,0 +1,4 @@
+Consider the statement, "If $n$ is not prime, then $n-2$ is prime." Which of the following values of $n$ is a counterexample to this statement?
+ 
+$\textbf{(A) } 11 \qquad \textbf{(B) } 15 \qquad \textbf{(C) } 19 \qquad \textbf{(D) } 21 \qquad \textbf{(E) } 27$
+ 

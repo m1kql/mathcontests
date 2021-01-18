@@ -1,0 +1,6 @@
+A softball team played ten games, scoring $1$, $2$, $3$, $4$, $5$, $6$, $7$, $8$, $9$, and $10$ runs.  They lost by one run in exactly five games.  In each of their other games, they scored twice as many runs as their opponent. How many total runs did their opponents score?
+ 
+
+ 
+$\textbf{(A)}\ 35 \qquad\textbf{(B)}\ 40 \qquad\textbf{(C)}\ 45 \qquad\textbf{(D)}\ 50 \qquad\textbf{(E)}\ 55$
+ 

@@ -1,0 +1,4 @@
+A semipro baseball league has teams with 21 players each. League rules state that a player must be paid at least $15,000 and that the total of all players' salaries for each team cannot exceed $700,000. What is the maximum possible salary, in dollars, for a single player?
+ 
+$\mathrm{(A)}\ 270,000\qquad\mathrm{(B)}\ 385,000\qquad\mathrm{(C)}\ 400,000\qquad\mathrm{(D)}\ 430,000\qquad\mathrm{(E)}\ 700,000$
+ 

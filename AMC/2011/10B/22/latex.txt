@@ -1,0 +1,4 @@
+A pyramid has a square base with sides of length $1$ and has lateral faces that are equilateral triangles. A cube is placed within the pyramid so that one face is on the base of the pyramid and its opposite face has all its edges on the lateral faces of the pyramid. What is the volume of this cube?
+ 
+$\textbf{(A)}\ 5\sqrt{2} - 7 \qquad\textbf{(B)}\ 7 - 4\sqrt{3} \qquad\textbf{(C)}\ \frac{2\sqrt{2}}{27} \qquad\textbf{(D)}\ \frac{\sqrt{2}}{9} \qquad\textbf{(E)}\ \frac{\sqrt{3}}{9}$
+ 

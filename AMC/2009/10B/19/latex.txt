@@ -1,0 +1,6 @@
+A particular $12$-hour digital clock displays the hour and minute of a day. Unfortunately, whenever it is supposed to display a $1$, it mistakenly displays a $9$. For example, when it is 1:16 PM the clock incorrectly shows 9:96 PM. What fraction of the day will the clock show the correct time?
+ 
+
+ 
+$\mathrm{(A)}\ \frac 12\qquad \mathrm{(B)}\ \frac 58\qquad \mathrm{(C)}\ \frac 34\qquad \mathrm{(D)}\ \frac 56\qquad \mathrm{(E)}\ \frac {9}{10}$
+ 

@@ -1,0 +1,4 @@
+Two jars each contain the same number of marbles, and every marble is either blue or green. In Jar $1$ the ratio of blue to green marbles is $9:1$, and the ratio of blue to green marbles in Jar $2$ is $8:1$. There are $95$ green marbles in all. How many more blue marbles are in Jar $1$ than in Jar $2$?
+ 
+$\textbf{(A) } 5\qquad\textbf{(B) } 10 \qquad\textbf{(C) }25  \qquad\textbf{(D) } 45  \qquad \textbf{(E) } 50$
+ 

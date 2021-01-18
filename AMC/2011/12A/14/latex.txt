@@ -1,0 +1,4 @@
+Suppose $a$ and $b$ are single-digit positive integers chosen independently and at random. What is the probability that the point $(a,b)$ lies above the parabola $y=ax^2-bx$?
+ 
+$\textbf{(A)}\ \frac{11}{81} \qquad \textbf{(B)}\ \frac{13}{81} \qquad \textbf{(C)}\ \frac{5}{27} \qquad \textbf{(D)}\ \frac{17}{81} \qquad \textbf{(E)}\ \frac{19}{81}$
+ 

@@ -1,0 +1,4 @@
+Let $A, M,$ and $C$ be nonnegative integers such that $A + M + C=12$. What is the maximum value of $A \cdot M \cdot C + A \cdot M + M \cdot C + A \cdot C$?
+ 
+$\mathrm{(A) \ 62 } \qquad \mathrm{(B) \ 72 } \qquad \mathrm{(C) \ 92 } \qquad \mathrm{(D) \ 102 } \qquad \mathrm{(E) \ 112 }$
+ 

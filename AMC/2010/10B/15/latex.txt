@@ -1,0 +1,4 @@
+On a $50$-question multiple choice math contest, students receive $4$ points for a correct answer, $0$ points for an answer left blank, and $-1$ point for an incorrect answer. Jesse’s total score on the contest was $99$. What is the maximum number of questions that Jesse could have answered correctly?
+ 
+$\textbf{(A)}\ 25 \qquad \textbf{(B)}\ 27 \qquad \textbf{(C)}\ 29 \qquad \textbf{(D)}\ 31 \qquad \textbf{(E)}\ 33$
+ 

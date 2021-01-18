@@ -1,0 +1,2 @@
+
+ \begin{itemize} \item (a) Suppose that each square of a $4\times 7$ chessboard, as shown above, is colored either black or white. Prove that with any such coloring, the board must contain a rectangle (formed by the horizontal and vertical lines of the board such as the one outlined in the figure) whose four distinct unit corner squares are all of the same color. \item (b) Exhibit a black-white coloring of a $4\times 6$ board in which the four corner squares of every rectangle, as described above, are not all of the same color. \end{itemize}

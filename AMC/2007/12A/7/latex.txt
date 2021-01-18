@@ -1,0 +1,4 @@
+Let $a, b, c, d$, and $e$ be five consecutive terms in an arithmetic sequence, and suppose that $a+b+c+d+e=30$. Which of $a, b, c, d,$ or $e$ can be found?
+ 
+$\textrm{(A)} \ a\qquad \textrm{(B)}\ b\qquad \textrm{(C)}\ c\qquad \textrm{(D)}\ d\qquad \textrm{(E)}\ e$
+ 

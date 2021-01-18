@@ -1,0 +1,4 @@
+Using the letters $A$, $M$, $O$, $S$, and $U$, we can form five-letter "words". If these "words" are arranged in alphabetical order, then the "word" $USAMO$ occupies position
+ 
+$\mathrm{(A) \ } 112\qquad \mathrm{(B) \ } 113\qquad \mathrm{(C) \ } 114\qquad \mathrm{(D) \ } 115\qquad \mathrm{(E) \ } 116$
+ 

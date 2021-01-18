@@ -1,0 +1,4 @@
+Mary divides a circle into 12 sectors. The central angles of these sectors, measured in degrees, are all integers and they form an arithmetic sequence. What is the degree measure of the smallest possible sector angle?
+ 
+$\textbf{(A)}\ 5\qquad\textbf{(B)}\ 6\qquad\textbf{(C)}\ 8\qquad\textbf{(D)}\ 10\qquad\textbf{(E)}\ 12$
+ 

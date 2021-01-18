@@ -1,0 +1,4 @@
+The Fibonacci sequence $1,1,2,3,5,8,13,21,\ldots$ starts with two 1s, and each term afterwards is the sum of its two predecessors. Which one of the ten digits is the last to appear in the units position of a number in the Fibonacci sequence?
+ 
+$\mathrm{(A) \ 0 } \qquad \mathrm{(B) \ 4 } \qquad \mathrm{(C) \ 6 } \qquad \mathrm{(D) \ 7 } \qquad \mathrm{(E) \ 9 }$
+ 

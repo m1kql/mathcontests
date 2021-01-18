@@ -1,0 +1,4 @@
+Six spheres of radius $1$ are positioned so that their centers are at the vertices of a regular hexagon of side length $2$. The six spheres are internally tangent to a larger sphere whose center is the center of the hexagon. An eighth sphere is externally tangent to the six smaller spheres and internally tangent to the larger sphere. What is the radius of this eighth sphere?
+ 
+$\textbf{(A)} \ \sqrt{2} \qquad \textbf{(B)} \ \frac{3}{2} \qquad \textbf{(C)} \ \frac{5}{3} \qquad \textbf{(D)} \ \sqrt{3} \qquad \textbf{(E)} \ 2$
+ 

@@ -1,0 +1,4 @@
+Quadrilateral $ABCD$ has $AB = BC = CD$, angle $ABC = 70$ and angle $BCD = 170$. What is the measure of angle $BAD$?
+ 
+$\mathrm{(A)}\ 75\qquad\mathrm{(B)}\ 80\qquad\mathrm{(C)}\ 85\qquad\mathrm{(D)}\ 90\qquad\mathrm{(E)}\ 95$
+ 

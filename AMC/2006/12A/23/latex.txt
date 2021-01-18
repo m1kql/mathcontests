@@ -1,0 +1,8 @@
+Given a finite sequence $S=(a_1,a_2,\ldots ,a_n)$ of $n$ real numbers, let $A(S)$ be the sequence 
+ 
+$\left(\frac{a_1+a_2}{2},\frac{a_2+a_3}{2},\ldots ,\frac{a_{n-1}+a_n}{2}\right)$
+ 
+of $n-1$ real numbers. Define $A^1(S)=A(S)$ and, for each integer $m$, $2\le m\le n-1$, define $A^m(S)=A(A^{m-1}(S))$. Suppose $x>0$, and let $S=(1,x,x^2,\ldots ,x^{100})$. If $A^{100}(S)=(1/2^{50})$, then what is $x$?
+ 
+$\mathrm{(A) \ } 1-\frac{\sqrt{2}}{2}\qquad \mathrm{(B) \ } \sqrt{2}-1\qquad \mathrm{(C) \ } \frac{1}{2}\qquad \mathrm{(D) \ } 2-\sqrt{2}\qquad \mathrm{(E) \ }  \frac{\sqrt{2}}{2}$
+ 

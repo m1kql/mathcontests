@@ -1,0 +1,4 @@
+David, Hikmet, Jack, Marta, Rand, and Todd were in a $12$-person race with $6$ other people. Rand finished $6$ places ahead of Hikmet. Marta finished $1$ place behind Jack. David finished $2$ places behind Hikmet. Jack finished $2$ places behind Todd. Todd finished $1$ place behind Rand. Marta finished in $6$th place. Who finished in $8$th place?
+ 
+$\textbf{(A) } \text{David} \qquad\textbf{(B) } \text{Hikmet} \qquad\textbf{(C) } \text{Jack} \qquad\textbf{(D) } \text{Rand} \qquad\textbf{(E) } \text{Todd}$
+ 

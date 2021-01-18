@@ -1,0 +1,4 @@
+A rectangle with diagonal length $x$ is twice as long as it is wide. What is the area of the rectangle?
+ 
+$(\mathrm {A}) \ \frac 14x^2 \qquad (\mathrm {B}) \ \frac 25x^2 \qquad (\mathrm {C})\ \frac 12x^2 \qquad (\mathrm {D}) \ x^2 \qquad (\mathrm {E})\ \frac 32x^2$
+ 

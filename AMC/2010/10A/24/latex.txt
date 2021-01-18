@@ -1,0 +1,4 @@
+The number obtained from the last two nonzero digits of $90!$ is equal to $n$. What is $n$?
+ 
+$\textbf{(A)}\ 12 \qquad \textbf{(B)}\ 32 \qquad \textbf{(C)}\ 48 \qquad \textbf{(D)}\ 52 \qquad \textbf{(E)}\ 68$
+ 

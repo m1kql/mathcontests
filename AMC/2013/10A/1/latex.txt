@@ -1,0 +1,6 @@
+A taxi ride costs $1.50 plus $0.25 per mile traveled.  How much does a 5-mile taxi ride cost?
+ 
+$\textbf{(A)}\ 2.25 \qquad\textbf{(B)}\ 2.50  \qquad\textbf{(C)}\ 2.75 \qquad\textbf{(D)}\ 3.00 \qquad\textbf{(E)}\ 3.75$
+ 
+
+ 

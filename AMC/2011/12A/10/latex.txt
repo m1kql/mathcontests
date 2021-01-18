@@ -1,0 +1,4 @@
+A pair of standard $6$-sided dice is rolled once. The sum of the numbers rolled determines the diameter of a circle. What is the probability that the numerical value of the area of the circle is less than the numerical value of the circle's circumference?
+ 
+$\textbf{(A)}\ \frac{1}{36} \qquad \textbf{(B)}\ \frac{1}{12} \qquad \textbf{(C)}\ \frac{1}{6} \qquad \textbf{(D)}\ \frac{1}{4} \qquad \textbf{(E)}\ \frac{5}{18}$
+ 

@@ -1,0 +1,4 @@
+Erin the ant starts at a given corner of a cube and crawls along exactly 7 edges in such a way that she visits every corner exactly once and then finds that she is unable to return along an edge to her starting point. How many paths are there meeting these conditions?
+ 
+$\textbf{(A) }\text{6}\qquad\textbf{(B) }\text{9}\qquad\textbf{(C) }\text{12}\qquad\textbf{(D) }\text{18}\qquad\textbf{(E) }\text{24}$
+ 

@@ -1,0 +1,4 @@
+Suppose that $a$ cows give $b$ gallons of milk in $c$ days. At this rate, how many gallons of milk will $d$ cows give in $e$ days?
+ 
+$\textbf{(A)}\ \frac{bde}{ac}\qquad\textbf{(B)}\ \frac{ac}{bde}\qquad\textbf{(C)}\ \frac{abde}{c}\qquad\textbf{(D)}\ \frac{bcde}{a}\qquad\textbf{(E)}\ \frac{abc}{de}$
+ 

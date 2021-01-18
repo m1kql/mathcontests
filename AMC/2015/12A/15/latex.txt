@@ -1,0 +1,4 @@
+What is the minimum number of digits to the right of the decimal point needed to express the fraction $\frac{123456789}{2^{26}\cdot 5^4}$ as a decimal?
+ 
+$\textbf{(A)}\ 4\qquad\textbf{(B)}\ 22\qquad\textbf{(C)}\ 26\qquad\textbf{(D)}\ 30\qquad\textbf{(E)}\ 104$
+ 

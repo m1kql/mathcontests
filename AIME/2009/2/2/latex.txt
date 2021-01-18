@@ -1,0 +1,4 @@
+Suppose that $a$, $b$, and $c$ are positive real numbers such that $a^{\log_3 7} = 27$, $b^{\log_7 11} = 49$, and $c^{\log_{11}25} = \sqrt{11}$. Find
+ 
+ \begin{center} \[a^{(\log_3 7)^2} + b^{(\log_7 11)^2} + c^{(\log_{11} 25)^2}.\] \end{center} 
+ 

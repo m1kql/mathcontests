@@ -1,0 +1,20 @@
+Three circles are inscribed in a rectangle of width w and height h as shown. Two
+ 
+of the circles are congruent and are each tangent to two adjacent sides of the
+ 
+rectangle and to each other. The other circle is larger and is tangent to three sides
+ 
+of the rectangle and to the two smaller circles. What the ratio of h to w? Express
+ 
+your answer as a decimal to the nearest hundredth.
+ 
+Four circles of radius $1$ are each tangent to two sides of a square and externally tangent to a circle of radius $2$, as shown. What is the area of the square?
+ 
+
+ 
+
+ 
+
+ 
+$\text{(A)}\ 32 \qquad \text{(B)}\ 22 + 12\sqrt {2}\qquad \text{(C)}\ 16 + 16\sqrt {3}\qquad \text{(D)}\ 48 \qquad \text{(E)}\ 36 + 16\sqrt {2}$
+ 

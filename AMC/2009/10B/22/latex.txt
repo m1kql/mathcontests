@@ -1,0 +1,6 @@
+A cubical  cake with edge length $2$ inches is iced on the sides and the top. It is cut vertically into three pieces as shown in this top view, where $M$ is the midpoint of a top edge. The piece whose top is triangle $B$ contains $c$ cubic inches of cake and $s$ square inches of icing. What is $c+s$?
+ 
+
+ 
+$\text{(A) } \frac{24}{5} \qquad \text{(B) } \frac{32}{5} \qquad \text{(C) } 8+\sqrt5 \qquad \text{(D) } 5+\frac{16\sqrt5}{5} \qquad \text{(E) } 10+5\sqrt5$
+ 

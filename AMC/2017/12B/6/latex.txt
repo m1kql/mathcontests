@@ -1,0 +1,4 @@
+The circle having $(0,0)$ and $(8,6)$ as the endpoints of a diameter intersects the $x$-axis at a second point. What is the $x$-coordinate of this point?
+ 
+$\textbf{(A) } 4\sqrt{2} \qquad\textbf{(B) } 6 \qquad\textbf{(C) } 5\sqrt{2} \qquad\textbf{(D) } 8 \qquad\textbf{(E) } 6\sqrt{2}$
+ 

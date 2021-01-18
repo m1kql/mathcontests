@@ -1,0 +1,4 @@
+Eight points are chosen on a circle, and chords are drawn connecting every pair of points. No three chords intersect in a single point inside the circle. How many triangles with all three vertices in the interior of the circle are created?
+ 
+$\textbf{(A)}\ 28 \qquad \textbf{(B)}\ 56 \qquad \textbf{(C)}\ 70 \qquad \textbf{(D)}\ 84 \qquad \textbf{(E)}\ 140$
+ 

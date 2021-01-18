@@ -1,0 +1,4 @@
+The sum of four two-digit numbers is $221$. None of the eight digits is $0$ and no two of them are the same. Which of the following is not included among the eight digits?
+ 
+$\mathrm{(A)}\ 1      \qquad \mathrm{(B)}\ 2      \qquad \mathrm{(C)}\ 3      \qquad \mathrm{(D)}\ 4      \qquad \mathrm{(E)}\ 5$
+ 

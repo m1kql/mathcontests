@@ -1,0 +1,12 @@
+A polynomial
+ 
+ \begin{center} \[P(x) = c_{2004}x^{2004} + c_{2003}x^{2003} + ... + c_1x + c_0\] \end{center} 
+ 
+has real coefficients with $c_{2004}\not = 0$ and $2004$ distinct complex zeroes $z_k = a_k + b_ki$, $1\leq k\leq 2004$ with $a_k$ and $b_k$ real, $a_1 = b_1 = 0$, and
+ 
+ \begin{center} \[\sum_{k = 1}^{2004}{a_k} = \sum_{k = 1}^{2004}{b_k}.\] \end{center} 
+ 
+Which of the following quantities can be a nonzero number?
+ 
+$\text {(A)} c_0 \qquad \text {(B)} c_{2003} \qquad \text {(C)} b_2b_3...b_{2004} \qquad \text {(D)} \sum_{k = 1}^{2004}{a_k} \qquad \text {(E)}\sum_{k = 1}^{2004}{c_k}$
+ 

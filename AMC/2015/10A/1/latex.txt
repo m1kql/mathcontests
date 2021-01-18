@@ -1,0 +1,4 @@
+What is the value of $(2^0-1+5^2-0)^{-1}\times5?$
+ 
+$\textbf{(A)}\ -125\qquad\textbf{(B)}\ -120\qquad\textbf{(C)}\ \frac{1}{5}\qquad\textbf{(D)}\ \frac{5}{24}\qquad\textbf{(E)}\ 25$
+ 

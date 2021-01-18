@@ -1,0 +1,4 @@
+A small bottle of shampoo can hold 35 milliliters of shampoo, whereas a large bottle can hold 500 milliliters of shampoo. Jasmine wants to buy the minimum number of small bottles necessary to completely fill a large bottle. How many bottles must she buy?
+ 
+$\textbf{(A)}\ 11 \qquad\textbf{(B)}\ 12 \qquad\textbf{(C)}\ 13\qquad\textbf{(D)}\ 14\qquad\textbf{(E)}\ 15$
+ 

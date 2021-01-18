@@ -1,0 +1,4 @@
+In multiplying two positive integers $a$ and $b$, Ron reversed the digits of the two-digit number $a$. His erroneous product was $161$. What is the correct value of the product of $a$ and $b$?
+ 
+$\textbf{(A)}\ 116 \qquad\textbf{(B)}\  161 \qquad\textbf{(C)}\  204 \qquad\textbf{(D)}\ 214 \qquad\textbf{(E)}\ 224$
+ 

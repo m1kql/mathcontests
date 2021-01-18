@@ -1,0 +1,4 @@
+A bag contains two red beads and two green beads. You reach into the bag and pull out a bead, replacing it with a red bead regardless of the color you pulled out. What is the probability that all beads in the bag are red after three such replacements?
+ 
+$\textbf{(A) } \frac{1}{8} \qquad\textbf{(B) } \frac{5}{32} \qquad\textbf{(C) } \frac{9}{32} \qquad\textbf{(D) } \frac{3}{8} \qquad\textbf{(E) } \frac{7}{16}$
+ 

@@ -1,0 +1,8 @@
+In the right triangle $\triangle ACE$, we have $AC=12$, $CE=16$, and $EA=20$. Points $B$, $D$, and $F$ are located on $AC$, $CE$, and $EA$, respectively, so that $AB=3$, $CD=4$, and $EF=5$. What is the ratio of the area of $\triangle DBF$ to that of $\triangle ACE$?
+ 
+$\mathrm{(A) \ } \frac{1}{4} \qquad \mathrm{(B) \ } \frac{9}{25} \qquad \mathrm{(C) \ } \frac{3}{8} \qquad \mathrm{(D) \ } \frac{11}{25} \qquad \mathrm{(E) \ } \frac{7}{16}$
+ 
+
+ 
+
+ 

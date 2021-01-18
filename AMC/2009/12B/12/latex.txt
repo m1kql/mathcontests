@@ -1,0 +1,6 @@
+The fifth and eighth terms of a geometric sequence of real numbers are $7!$ and $8!$ respectively.  What is the first term?
+ 
+
+ 
+$\mathrm{(A)}\ 60\qquad \mathrm{(B)}\ 75\qquad \mathrm{(C)}\ 120\qquad \mathrm{(D)}\ 225\qquad \mathrm{(E)}\ 315$
+ 

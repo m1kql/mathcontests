@@ -1,0 +1,6 @@
+Circles $\omega_1$, $\omega_2$, and $\omega_3$ each have radius $4$ and are placed in the plane so that each circle is externally tangent to the other two.  Points $P_1$, $P_2$, and $P_3$ lie on $\omega_1$, $\omega_2$, and $\omega_3$ respectively such that $P_1P_2=P_2P_3=P_3P_1$ and line $P_iP_{i+1}$ is tangent to $\omega_i$ for each $i=1,2,3$, where $P_4 = P_1$.  See the figure below.  The area of $\triangle P_1P_2P_3$ can be written in the form $\sqrt{a}+\sqrt{b}$ for positive integers $a$ and $b$.  What is $a+b$?
+ 
+
+ 
+$\textbf{(A) }546\qquad\textbf{(B) }548\qquad\textbf{(C) }550\qquad\textbf{(D) }552\qquad\textbf{(E) }554$
+ 

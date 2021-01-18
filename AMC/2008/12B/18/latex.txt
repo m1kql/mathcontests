@@ -1,0 +1,4 @@
+A pyramid has a square base $ABCD$ and vertex $E$.  The area of square $ABCD$ is $196$, and the areas of $\triangle ABE$ and $\triangle CDE$ are $105$ and $91$, respectively.  What is the volume of the pyramid?
+ 
+$\textbf{(A)}\ 392 \qquad \textbf{(B)}\ 196\sqrt {6} \qquad \textbf{(C)}\ 392\sqrt {2} \qquad \textbf{(D)}\ 392\sqrt {3} \qquad \textbf{(E)}\ 784$
+ 

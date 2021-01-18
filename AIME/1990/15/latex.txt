@@ -1,0 +1,10 @@
+Find $a_{}^{}x^5 + b_{}y^5$ if the real numbers $a_{}^{}$, $b_{}^{}$, $x_{}^{}$, and $y_{}^{}$ satisfy the equations
+ 
+ \begin{center} \[ax + by = 3^{}_{},\] \end{center} 
+ 
+ \begin{center} \[ax^2 + by^2 = 7^{}_{},\] \end{center} 
+ 
+ \begin{center} \[ax^3 + by^3 = 16^{}_{},\] \end{center} 
+ 
+ \begin{center} \[ax^4 + by^4 = 42^{}_{}.\] \end{center} 
+ 

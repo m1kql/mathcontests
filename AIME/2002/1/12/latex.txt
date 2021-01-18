@@ -1,0 +1,2 @@
+Let $F(z)=\dfrac{z+i}{z-i}$ for all complex numbers $z\neq i$, and let $z_n=F(z_{n-1})$ for all positive integers $n$. Given that $z_0=\dfrac{1}{137}+i$ and $z_{2002}=a+bi$, where $a$ and $b$ are real numbers, find $a+b$.
+ 

@@ -1,0 +1,4 @@
+Rectangle $ABCD$ has $AB=6$ and $BC=3$. Point $M$ is chosen on side $AB$ so that $\angle AMD=\angle CMD$. What is the degree measure of $\angle AMD$?
+ 
+$\textrm{(A)}\ 15 \qquad \textrm{(B)}\ 30 \qquad \textrm{(C)}\ 45 \qquad \textrm{(D)}\ 60 \qquad \textrm{(E)}\ 75$
+ 

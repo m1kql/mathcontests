@@ -1,0 +1,6 @@
+Simplify 
+ 
+$\sqrt[3]{x\sqrt[3]{x\sqrt[3]{x\sqrt{x}}}}$.
+ 
+$\mathrm{(A) \ } \sqrt{x}\qquad \mathrm{(B) \ } \sqrt[3]{x^{2}}\qquad \mathrm{(C) \ } \sqrt[27]{x^{2}}\qquad \mathrm{(D) \ } \sqrt[54]{x}\qquad \mathrm{(E) \ } \sqrt[81]{x^{80}}$
+ 

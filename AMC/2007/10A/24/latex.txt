@@ -1,0 +1,6 @@
+Circles centered at $A$ and $B$ each have radius $2$, as shown. Point $O$ is the midpoint of $\overline{AB}$, and $OA = 2\sqrt {2}$. Segments $OC$ and $OD$ are tangent to the circles centered at $A$ and $B$, respectively, and $EF$ is a common tangent. What is the area of the shaded region $ECODF$?
+ 
+
+ 
+$\text{(A)}\ \frac {8\sqrt {2}}{3} \qquad \text{(B)}\ 8\sqrt {2} - 4 - \pi \qquad \text{(C)}\ 4\sqrt {2} \qquad \text{(D)}\ 4\sqrt {2} + \frac {\pi}{8} \qquad \text{(E)}\ 8\sqrt {2} - 2 - \frac {\pi}{2}$
+ 

@@ -1,0 +1,6 @@
+
+ 
+The number $2013$ is expressed in the form   $2013 = \frac {a_1!a_2!...a_m!}{b_1!b_2!...b_n!}$,where $a_1 \ge a_2 \ge \cdots \ge a_m$ and $b_1 \ge b_2 \ge \cdots \ge b_n$ are positive integers and $a_1 + b_1$ is as small as possible. What is $|a_1 - b_1|$?
+ 
+$\textbf{(A)}\ 1 \qquad \textbf{(B)}\ 2 \qquad \textbf{(C)}\ 3 \qquad \textbf{(D)}\ 4 \qquad \textbf{(E)}\ 5$
+ 

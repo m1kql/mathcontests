@@ -1,0 +1,4 @@
+Let $p$, $q$, and $r$ be the distinct roots of the polynomial $x^3 - 22x^2 + 80x - 67$. It is given that there exist real numbers $A$, $B$, and $C$ such that  \begin{center} \[\dfrac{1}{s^3 - 22s^2 + 80s - 67} = \dfrac{A}{s-p} + \dfrac{B}{s-q} + \frac{C}{s-r}\] \end{center} for all $s\not\in\{p,q,r\}$. What is $\tfrac1A+\tfrac1B+\tfrac1C$?
+ 
+$\textbf{(A) }243\qquad\textbf{(B) }244\qquad\textbf{(C) }245\qquad\textbf{(D) }246\qquad\textbf{(E) } 247$
+ 

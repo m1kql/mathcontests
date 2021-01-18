@@ -1,0 +1,4 @@
+Let $S$ be a square of side length 1. Two points are chosen independently at random on the sides of $S$. The probability that the straight-line distance between the points is at least $\frac12$ is $\frac{a-b\pi}{c}$, where $a,b,$ and $c$ are positive integers and $\text{gcd}(a,b,c) = 1$. What is $a+b+c$?
+ 
+$\textbf{(A)}\ 59 \qquad\textbf{(B)}\ 60 \qquad\textbf{(C)}\ 61 \qquad\textbf{(D)}\ 62 \qquad\textbf{(E)}\ 63$
+ 

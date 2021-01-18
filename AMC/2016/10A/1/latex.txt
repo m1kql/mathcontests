@@ -1,0 +1,4 @@
+What is the value of $\dfrac{11!-10!}{9!}$?
+ 
+$\textbf{(A)}\ 99\qquad\textbf{(B)}\ 100\qquad\textbf{(C)}\ 110\qquad\textbf{(D)}\ 121\qquad\textbf{(E)}\ 132$
+ 

@@ -1,0 +1,4 @@
+A square in the coordinate plane has vertices whose $y$-coordinates are $0$, $1$, $4$, and $5$. What is the area of the square?
+ 
+$\textbf{(A)}\ 16\qquad\textbf{(B)}\ 17\qquad\textbf{(C)}\ 25\qquad\textbf{(D)}\ 26\qquad\textbf{(E)}\ 27$
+ 

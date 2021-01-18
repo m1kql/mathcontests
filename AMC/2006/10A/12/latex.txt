@@ -1,0 +1,8 @@
+Rolly wishes to secure his dog with an 8-foot rope to a  square shed that is 16 feet on each side.  His preliminary drawings are shown.
+ 
+
+ 
+Which of these arrangements give the dog the greater area to roam, and by how many square feet?
+ 
+$\mathrm{(A) \ } I,\,\textrm{ by }\,8\pi\qquad \mathrm{(B) \ } I,\,\textrm{ by }\,6\pi\qquad \mathrm{(C) \ } II,\,\textrm{ by }\,4\pi\qquad \mathrm{(D) \ } II,\,\textrm{ by }\,8\pi\qquad \mathrm{(E) \ } II,\,\textrm{ by }\,10\pi$
+ 

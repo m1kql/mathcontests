@@ -1,0 +1,4 @@
+In rectangle $ABCD$, $\overline{AB}=20$ and $\overline{BC}=10$. Let $E$ be a point on $\overline{CD}$ such that $\angle CBE=15^\circ$. What is $\overline{AE}$?
+ 
+$\textbf{(A)}\ \dfrac{20\sqrt3}3\qquad\textbf{(B)}\ 10\sqrt3\qquad\textbf{(C)}\ 18\qquad\textbf{(D)}\ 11\sqrt3\qquad\textbf{(E)}\ 20$
+ 

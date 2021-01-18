@@ -1,0 +1,4 @@
+In the United States, coins have the following thicknesses: penny, $1.55$ mm; nickel, $1.95$ mm; dime, $1.35$ mm; quarter, $1.75$ mm. If a stack of these coins is exactly $14$ mm high, how many coins are in the stack?
+ 
+$\mathrm{(A) \ } 7 \qquad \mathrm{(B) \ } 8 \qquad \mathrm{(C) \ } 9 \qquad \mathrm{(D) \ } 10 \qquad \mathrm{(E) \ } 11$
+ 

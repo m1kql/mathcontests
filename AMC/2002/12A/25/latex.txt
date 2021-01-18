@@ -1,0 +1,4 @@
+The nonzero coefficients of a polynomial $P$ with real coefficients are all replaced by their mean to form a polynomial $Q$. Which of the following could be a graph of $y = P(x)$ and $y = Q(x)$ over the interval $-4\leq x \leq 4$?
+ 
+
+ 

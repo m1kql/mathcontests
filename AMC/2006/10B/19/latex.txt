@@ -1,0 +1,6 @@
+A circle of radius $2$ is centered at $O$. Square $OABC$ has side length $1$. Sides $AB$ and $CB$ are extended past $B$ to meet the circle at $D$ and $E$, respectively. What is the area of the shaded region in the figure, which is bounded by $BD$, $BE$, and the minor arc connecting $D$ and $E$?
+ 
+
+ 
+$\mathrm{(A) \ } \frac{\pi}{3}+1-\sqrt{3}\qquad \mathrm{(B) \ } \frac{\pi}{2}(2-\sqrt{3}) \qquad \mathrm{(C) \ } \pi(2-\sqrt{3})\qquad \mathrm{(D) \ } \frac{\pi}{6}+\frac{\sqrt{3}+1}{2}\qquad \mathrm{(E) \ } \frac{\pi}{3}-1+\sqrt{3}$
+ 

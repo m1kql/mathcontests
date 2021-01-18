@@ -1,0 +1,6 @@
+
+ 
+Jamal wants to save 30 files onto disks, each with 1.44 MB space. 3 of the files take up 0.8 MB, 12 of the files take up 0.7 MB, and the rest take up 0.4 MB. It is not possible to split a file onto 2 different disks. What is the smallest number of disks needed to store all 30 files?
+ 
+$\text{(A)}\ 12 \qquad \text{(B)}\ 13 \qquad \text{(C)}\ 14 \qquad \text{(D)}\ 15 \qquad \text{(E)} 16$
+ 

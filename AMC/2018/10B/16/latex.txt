@@ -1,0 +1,6 @@
+Let $a_1,a_2,\dots,a_{2018}$ be a strictly increasing sequence of positive integers such that  \begin{center} \[a_1+a_2+\cdots+a_{2018}=2018^{2018}.\] \end{center} 
+ 
+What is the remainder when $a_1^3+a_2^3+\cdots+a_{2018}^3$ is divided by $6$?
+ 
+$\textbf{(A)}\ 0\qquad\textbf{(B)}\ 1\qquad\textbf{(C)}\ 2\qquad\textbf{(D)}\ 3\qquad\textbf{(E)}\ 4$
+ 

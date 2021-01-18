@@ -1,0 +1,5 @@
+
+Pablo buys popsicles for his friends. The store sells single popsicles for \textdollar 1 each, \textdollar 3-popsicle boxes for \textdollar 2 each, and \textdollar 5-popsicle boxes for \textdollar 3. What is the greatest number of popsicles that Pablo can buy with \textdollar 8?
+
+$\textbf{(A)}\ 8\qquad\textbf{(B)}\ 11\qquad\textbf{(C)}\ 12\qquad\textbf{(D)}\ 13\qquad\textbf{(E)}\ 15$
+

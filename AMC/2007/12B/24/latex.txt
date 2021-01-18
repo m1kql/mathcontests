@@ -1,0 +1,4 @@
+How many pairs of positive integers $(a,b)$ are there such that $\text{gcd}(a,b)=1$ and $\frac{a}{b} + \frac{14b}{9a}$ is an integer?
+ 
+$\mathrm {(A)} 4\quad\mathrm {(B)} 6\quad\mathrm {(C)} 9\quad\mathrm {(D)} 12\quad\mathrm {(E)} \text{infinitely many}$
+ 

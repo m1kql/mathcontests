@@ -1,0 +1,4 @@
+In a certain land, all Arogs are Brafs, all Crups are Brafs, all Dramps are Arogs, and all Crups are Dramps. Which of the following statements is implied by these facts?
+ 
+$\textbf{(A) } \text{All Dramps are Brafs and are Crups.}\\ \textbf{(B) } \text{All Brafs are Crups and are Dramps.}\\ \textbf{(C) } \text{All Arogs are Crups and are Dramps.}\\ \textbf{(D) } \text{All Crups are Arogs and are Brafs.}\\ \textbf{(E) } \text{All Arogs are Dramps and some Arogs may not be Crups.}$
+ 

@@ -1,0 +1,6 @@
+Claudia has 12 coins, each of which is a 5-cent coin or a 10-cent coin. There are exactly 17 different values that can be obtained as combinations of one or more of her coins. How many 10-cent coins does Claudia have?
+ 
+$\textbf{(A) }3\qquad\textbf{(B) }4\qquad\textbf{(C) }5\qquad\textbf{(D) }6\qquad\textbf{(E) }7$
+ 
+
+ 

@@ -1,0 +1,1 @@
+Let $ABC$ be a triangle. Prove that there is a line $l$ (in the plane of triangle $ABC$) such that the intersection of the interior of triangle $ABC$ and the interior of its reflection $A'B'C'$ in $l$ has area more than $\frac{2}{3}$ the area of triangle $ABC$.

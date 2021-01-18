@@ -1,0 +1,5 @@
+
+An annulus is the region between two concentric circles. The concentric circles in the figure have radii $b$ and $c$, with $b>c$. Let $OX$ be a radius of the larger circle, let $XZ$ be tangent to the smaller circle at $Z$, and let $OY$ be the radius of the larger circle that contains $Z$. Let $a=XZ$, $d=YZ$, and $e=XY$. What is the area of the annulus?
+
+$\textbf{(A) \ } \pi a^2 \qquad \textbf{(B) \ } \pi b^2 \qquad \textbf{(C) \ } \pi c^2 \qquad \textbf{(D) \ } \pi d^2 \qquad \textbf{(E) \ } \pi e^2$
+

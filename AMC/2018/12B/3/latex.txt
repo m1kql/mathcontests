@@ -1,0 +1,6 @@
+A line with slope 2 intersects a line with slope 6 at the point $(40,30)$. What is the distance between the $x$-intercepts of these two lines? 
+ 
+$(\text{A}) 5 \qquad (\text{B}) 10 \qquad (\text{C}) 20 \qquad (\text{D}) 25 \qquad (\text{E}) 50$
+ 
+
+ 

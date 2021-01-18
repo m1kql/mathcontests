@@ -1,0 +1,4 @@
+Travis has to babysit the terrible Thompson triplets. Knowing that they love big numbers, Travis devises a counting game for them. First Tadd will say the number $1$, then Todd must say the next two numbers ($2$ and $3$), then Tucker must say the next three numbers  ($4$, $5$, $6$), then Tadd must say the next four numbers ($7$, $8$, $9$, $10$), and the process continues to rotate through the three children in order, each saying one more number than the previous child did, until the number $10,000$ is reached. What is the $2019$th number said by Tadd?
+ 
+$\textbf{(A)}\ 5743 \qquad\textbf{(B)}\ 5885 \qquad\textbf{(C)}\ 5979 \qquad\textbf{(D)}\ 6001 \qquad\textbf{(E)}\ 6011$
+ 

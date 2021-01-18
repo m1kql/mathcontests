@@ -1,0 +1,4 @@
+Let $x=-2016$. What is the value of $\Bigg\vert\Big\vert |x|-x\Big\vert-|x|\Bigg\vert-x$ ?
+ 
+$\textbf{(A)}\ -2016\qquad\textbf{(B)}\ 0\qquad\textbf{(C)}\ 2016\qquad\textbf{(D)}\ 4032\qquad\textbf{(E)}\ 6048$
+ 

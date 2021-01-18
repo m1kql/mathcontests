@@ -1,0 +1,4 @@
+A faulty car odometer proceeds from digit 3 to digit 5, always skipping the digit 4, regardless of position. If the odometer now reads 002005, how many miles has the car actually traveled?
+ 
+$(\mathrm {A}) \ 1404 \qquad (\mathrm {B}) \ 1462 \qquad (\mathrm {C})\ 1604 \qquad (\mathrm {D}) \ 1605 \qquad (\mathrm {E})\ 1804$
+ 

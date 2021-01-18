@@ -1,0 +1,2 @@
+Consider the two triangles $\triangle ABC$ and $\triangle PQR$ shown in Figure 1.  In $\triangle ABC$, $\angle ADB = \angle BDC = \angle CDA = 120^\circ$.  Prove that $x=u+v+w$.
+

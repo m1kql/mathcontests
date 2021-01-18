@@ -1,0 +1,4 @@
+Let $\{a_k\}$ be a sequence of integers such that $a_1=1$ and $a_{m+n}=a_m+a_n+mn,$ for all positive integers $m$ and $n.$ Then $a_{12}$ is
+ 
+$\mathrm{(A) \ } 45\qquad \mathrm{(B) \ } 56\qquad \mathrm{(C) \ } 67\qquad \mathrm{(D) \ } 78\qquad \mathrm{(E) \ } 89$
+ 

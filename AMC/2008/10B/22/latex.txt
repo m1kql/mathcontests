@@ -1,0 +1,4 @@
+Three red beads, two white beads, and one blue bead are placed in line in random order. What is the probability that no two neighboring beads are the same color?
+ 
+$\mathrm{(A)}\ 1/12\qquad\mathrm{(B)}\ 1/10\qquad\mathrm{(C)}\ 1/6\qquad\mathrm{(D)}\ 1/3\qquad\mathrm{(E)}\ 1/2$
+ 

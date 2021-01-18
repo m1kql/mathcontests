@@ -1,0 +1,4 @@
+A year is a leap year if and only if the year number is divisible by 400 (such as 2000) or is divisible by 4 but not 100 (such as 2012).  The 200th anniversary of the birth of novelist Charles Dickens was celebrated on February 7, 2012, a Tuesday.  On what day of the week was Dickens born?
+ 
+$\textbf{(A)}\ \text{Friday}\qquad\textbf{(B)}\ \text{Saturday}\qquad\textbf{(C)}\ \text{Sunday}\qquad\textbf{(D)}\ \text{Monday}\qquad\textbf{(E)}\ \text{Tuesday}$
+ 

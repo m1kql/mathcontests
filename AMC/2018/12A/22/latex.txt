@@ -1,0 +1,4 @@
+The solutions to the equations $z^2=4+4\sqrt{15}i$ and $z^2=2+2\sqrt 3i,$ where $i=\sqrt{-1},$ form the vertices of a parallelogram in the complex plane. The area of this parallelogram can be written in the form $p\sqrt q-r\sqrt s,$ where $p,$ $q,$ $r,$ and $s$ are positive integers and neither $q$ nor $s$ is divisible by the square of any prime number. What is $p+q+r+s?$
+ 
+$\textbf{(A)} 20 \qquad  \textbf{(B)} 21 \qquad  \textbf{(C)} 22 \qquad  \textbf{(D)} 23 \qquad  \textbf{(E)} 24$
+ 

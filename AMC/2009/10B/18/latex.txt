@@ -1,0 +1,4 @@
+Rectangle $ABCD$ has $AB=8$ and $BC=6$. Point $M$ is the midpoint of diagonal $\overline{AC}$, and $E$ is on $AB$ with $\overline{ME}\perp\overline{AC}$. What is the area of $\triangle AME$?
+ 
+$\text{(A) } \frac{65}{8} \qquad \text{(B) } \frac{25}{3} \qquad \text{(C) } 9 \qquad \text{(D) } \frac{75}{8} \qquad \text{(E) } \frac{85}{8}$
+ 

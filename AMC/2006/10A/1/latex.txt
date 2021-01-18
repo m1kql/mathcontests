@@ -1,0 +1,5 @@
+
+Sandwiches at Joe's Fast Food cost \textdollar 3 each and sodas cost \textdollar 2 each. How many dollars will it cost to purchase $5$ sandwiches and $8$ sodas?
+
+$\textbf{(A)}\ 31\qquad\textbf{(B)}\ 32\qquad\textbf{(C)}\ 33\qquad\textbf{(D)}\ 34\qquad\textbf{(E)}\ 35$
+

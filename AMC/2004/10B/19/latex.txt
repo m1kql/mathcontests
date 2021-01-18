@@ -1,0 +1,6 @@
+In the sequence $2001$, $2002$, $2003$, $\ldots$ , each term after the third is found by subtracting the previous term from the sum of the two terms that precede that term. For example, the fourth term is $2001 + 2002 - 2003 = 2000$. What is the
+ 
+$2004^\textrm{th}$ term in this sequence?
+ 
+$\mathrm{(A) \ } -2004 \qquad \mathrm{(B) \ } -2 \qquad \mathrm{(C) \ } 0 \qquad \mathrm{(D) \ } 4003 \qquad \mathrm{(E) \ } 6007$
+ 

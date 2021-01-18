@@ -1,0 +1,4 @@
+Each day, Jenny ate $20\%$ of the jellybeans that were in her jar at the beginning of that day. At the end of the second day, $32$ remained. How many jellybeans were in the jar originally?
+ 
+$\mathrm{(A) \ 40 } \qquad \mathrm{(B) \ 50 } \qquad \mathrm{(C) \ 55 } \qquad \mathrm{(D) \ 60 } \qquad \mathrm{(E) \ 75 }$
+ 

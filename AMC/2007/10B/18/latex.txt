@@ -1,0 +1,4 @@
+A circle of radius $1$ is surrounded by $4$ circles of radius $r$ as shown. What is $r$?
+ 
+$\textbf{(A) } \sqrt{2} \qquad\textbf{(B) } 1+\sqrt{2} \qquad\textbf{(C) } \sqrt{6} \qquad\textbf{(D) } 3 \qquad\textbf{(E) } 2+\sqrt{2}$
+ 

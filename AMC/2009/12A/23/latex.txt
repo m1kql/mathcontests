@@ -1,0 +1,4 @@
+Functions $f$ and $g$ are quadratic, $g(x) = - f(100 - x)$, and the graph of $g$ contains the vertex of the graph of $f$. The four $x$-intercepts on the two graphs have $x$-coordinates $x_1$, $x_2$, $x_3$, and $x_4$, in increasing order, and $x_3 - x_2 = 150$. The value of $x_4 - x_1$ is $m + n\sqrt p$, where $m$, $n$, and $p$ are positive integers, and $p$ is not divisible by the square of any prime. What is $m + n + p$?
+ 
+$\textbf{(A)}\ 602\qquad \textbf{(B)}\ 652\qquad \textbf{(C)}\ 702\qquad \textbf{(D)}\ 752 \qquad \textbf{(E)}\ 802$
+ 

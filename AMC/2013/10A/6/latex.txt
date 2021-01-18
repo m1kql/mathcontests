@@ -1,0 +1,6 @@
+Joey and his five brothers are ages $3$, $5$, $7$, $9$, $11$, and $13$.  One afternoon two of his brothers whose ages sum to $16$ went to the movies, two brothers younger than $10$ went to play baseball, and Joey and the $5$-year-old stayed home.  How old is Joey?
+ 
+
+ 
+$\textbf{(A)}\ 3 \qquad\textbf{(B)}\ 7  \qquad\textbf{(C)}\ 9 \qquad\textbf{(D)}\ 11 \qquad\textbf{(E)}\ 13$
+ 

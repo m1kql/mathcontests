@@ -1,0 +1,6 @@
+
+ 
+A $45^\circ$ arc of circle A is equal in length to a $30^\circ$ arc of circle B. What is the ratio of circle A's area and circle B's area?
+ 
+$\text{(A)}\ 4/9 \qquad \text{(B)}\ 2/3 \qquad \text{(C)}\ 5/6 \qquad \text{(D)}\ 3/2 \qquad \text{(E)}\ 9/4$
+ 

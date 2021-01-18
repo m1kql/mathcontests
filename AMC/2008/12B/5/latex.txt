@@ -1,0 +1,4 @@
+A class collects $50$ dollars to buy flowers for a classmate who is in the hospital. Roses cost $3$ dollars each, and carnations cost $2$ dollars each. No other flowers are to be used. How many different bouquets could be purchased for exactly $50$ dollars?
+ 
+$\textbf{(A)}\ 1 \qquad \textbf{(B)}\ 7 \qquad \textbf{(C)}\ 9 \qquad \textbf{(D)}\ 16 \qquad \textbf{(E)}\ 17$
+ 

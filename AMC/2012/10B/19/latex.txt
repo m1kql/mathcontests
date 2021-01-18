@@ -1,0 +1,4 @@
+In rectangle $ABCD$, $AB=6$, $AD=30$, and $G$ is the midpoint of $\overline{AD}$. Segment $AB$ is extended 2 units beyond $B$ to point $E$, and $F$ is the intersection of $\overline{ED}$ and $\overline{BC}$. What is the area of $BFDG$?
+ 
+$\textbf{(A)}\ \frac{133}{2}\qquad\textbf{(B)}\ 67\qquad\textbf{(C)}\ \frac{135}{2}\qquad\textbf{(D)}\ 68\qquad\textbf{(E)}\ \frac{137}{2}$
+ 

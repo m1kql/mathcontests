@@ -1,0 +1,4 @@
+Pablo, Sofia, and Mia got some candy eggs at a party.  Pablo had three times as many eggs as Sofia, and Sofia had twice as many eggs as Mia.  Pablo decides to give some of his eggs to Sofia and Mia so that all three will have the same number of eggs.  What fraction of his eggs should Pablo give to Sofia?
+ 
+$\textbf{(A)}\ \frac{1}{12}\qquad\textbf{(B)}\ \frac{1}{6}\qquad\textbf{(C)}\ \frac{1}{4}\qquad\textbf{(D)}\ \frac{1}{3}\qquad\textbf{(E)}\ \frac{1}{2}$
+ 

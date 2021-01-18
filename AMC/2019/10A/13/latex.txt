@@ -1,0 +1,4 @@
+Let $\triangle ABC$ be an isosceles triangle with $BC = AC$ and $\angle ACB = 40^{\circ}$. Construct the circle with diameter $\overline{BC}$, and let $D$ and $E$ be the other intersection points of the circle with the sides $\overline{AC}$ and $\overline{AB}$, respectively. Let $F$ be the intersection of the diagonals of the quadrilateral $BCDE$. What is the degree measure of $\angle BFC ?$
+ 
+$\textbf{(A) } 90 \qquad\textbf{(B) } 100 \qquad\textbf{(C) } 105 \qquad\textbf{(D) } 110 \qquad\textbf{(E) } 120$
+ 

@@ -1,0 +1,6 @@
+For what value of $x$ does
+ 
+ \begin{center} \[\log_{\sqrt{2}}\sqrt{x}+\log_{2}{x}+\log_{4}{x^2}+\log_{8}{x^3}+\log_{16}{x^4}=40?\] \end{center} 
+ 
+$\textbf{(A)}\ 8 \qquad \textbf{(B)}\ 16 \qquad \textbf{(C)}\ 32 \qquad \textbf{(D)}\ 256 \qquad \textbf{(E)}\ 1024$
+ 

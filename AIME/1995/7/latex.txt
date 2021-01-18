@@ -1,0 +1,4 @@
+Given that $(1+\sin t)(1+\cos t)=5/4$ and
+ 
+where $k, m,$ and $n_{}$ are positive integers with $m_{}$ and $n_{}$ relatively prime, find $k+m+n.$
+ 

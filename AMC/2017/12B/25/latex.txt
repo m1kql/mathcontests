@@ -1,0 +1,4 @@
+A set of $n$ people participate in an online video basketball tournament. Each person may be a member of any number of $5$-player teams, but no two teams may have exactly the same $5$ members. The site statistics show a curious fact: The average, over all subsets of size $9$ of the set of $n$ participants, of the number of complete teams whose members are among those $9$ people is equal to the reciprocal of the average, over all subsets of size $8$ of the set of $n$ participants, of the number of complete teams whose members are among those $8$ people. How many values $n$, $9\leq n\leq 2017$, can be the number of participants?
+ 
+$\textbf{(A) } 477 \qquad \textbf{(B) } 482 \qquad \textbf{(C) } 487 \qquad \textbf{(D) } 557 \qquad \textbf{(E) } 562$
+ 

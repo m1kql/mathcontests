@@ -1,0 +1,4 @@
+What is the maximum number of possible points of intersection of a circle and a triangle?
+ 
+$\textbf{(A) }2\qquad\textbf{(B) }3\qquad\textbf{(C) }4\qquad\textbf{(D) }5\qquad\textbf{(E) }6$
+ 

@@ -1,0 +1,4 @@
+One can, can hold $12$ ounces of soda, what is the minimum number of cans needed to provide a gallon ($128$ ounces) of soda?
+ 
+$\textbf{(A)}\ 7\qquad \textbf{(B)}\ 8\qquad \textbf{(C)}\ 9\qquad \textbf{(D)}\ 10\qquad \textbf{(E)}\ 11$
+ 

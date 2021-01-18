@@ -1,0 +1,4 @@
+What is the sum of all integer solutions to $1<(x-2)^2<25$?
+ 
+$\textbf{(A)}\ 10\qquad\textbf{(B)}\ 12\qquad\textbf{(C)}\ 15\qquad\textbf{(D)}\ 19\qquad\textbf{(E)}\ 25$
+ 

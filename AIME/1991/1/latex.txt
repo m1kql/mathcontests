@@ -1,0 +1,2 @@
+Find $x^2+y^2_{}$ if $x_{}^{}$ and $y_{}^{}$ are positive integers such that
+ 

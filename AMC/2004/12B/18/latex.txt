@@ -1,0 +1,4 @@
+Points $A$ and $B$ are on the parabola $y=4x^2+7x-1$, and the origin is the midpoint of $AB$. What is the length of $AB$?
+ 
+$\mathrm{(A)}\ 2\sqrt5 \qquad \mathrm{(B)}\ 5+\frac{\sqrt2}{2} \qquad \mathrm{(C)}\ 5+\sqrt2 \qquad \mathrm{(D)}\ 7 \qquad \mathrm{(E)}\ 5\sqrt2$
+ 

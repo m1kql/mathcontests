@@ -1,0 +1,4 @@
+Let $ABC$ be an equilateral triangle. Extend side $\overline{AB}$ beyond $B$ to a point $B'$ so that $BB'=3AB$. Similarly, extend side $\overline{BC}$ beyond $C$ to a point $C'$ so that $CC'=3BC$, and extend side $\overline{CA}$ beyond $A$ to a point $A'$ so that $AA'=3CA$. What is the ratio of the area of $\triangle A'B'C'$ to the area of $\triangle ABC$?
+ 
+$\textbf{(A)}\ 9:1\qquad\textbf{(B)}\ 16:1\qquad\textbf{(C)}\ 25:1\qquad\textbf{(D)}\ 36:1\qquad\textbf{(E)}\ 37:1$
+ 

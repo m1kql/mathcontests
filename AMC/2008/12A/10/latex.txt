@@ -1,0 +1,4 @@
+Doug can paint a room in $5$ hours. Dave can paint the same room in $7$ hours. Doug and Dave paint the room together and take a one-hour break for lunch. Let $t$ be the total time, in hours, required for them to complete the job working together, including lunch. Which of the following equations is satisfied by $t$?
+ 
+$\mathrm{(A)}\ \left(\frac{1}{5}+\frac{1}{7}\right)\left(t+1\right)=1\qquad\mathrm{(B)}\ \left(\frac{1}{5}+\frac{1}{7}\right)t+1=1\qquad\mathrm{(C)}\ \left(\frac{1}{5}+\frac{1}{7}\right)t=1\\\mathrm{(D)}\ \left(\frac{1}{5}+\frac{1}{7}\right)\left(t-1\right)=1\qquad\mathrm{(E)}\ \left(5+7\right)t=1$
+ 

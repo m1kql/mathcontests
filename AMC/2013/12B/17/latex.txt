@@ -1,0 +1,10 @@
+Let $a,b,$ and $c$ be real numbers such that 
+ 
+ \begin{center} \[a+b+c=2, \text{ and}\] \end{center} 
+ 
+ \begin{center} \[a^2+b^2+c^2=12\] \end{center} 
+ 
+What is the difference between the maximum and minimum possible values of $c$?
+ 
+$\text{(A) }2\qquad \text{ (B) }\frac{10}{3}\qquad \text{ (C) }4 \qquad \text{ (D) }\frac{16}{3}\qquad \text{ (E) }\frac{20}{3}$
+ 

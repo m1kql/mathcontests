@@ -1,0 +1,4 @@
+At Typico High School, $60\%$ of the students like dancing, and the rest dislike it. Of those who like dancing, $80\%$ say that they like it, and the rest say that they dislike it. Of those who dislike dancing, $90\%$ say that they dislike it, and the rest say that they like it. What fraction of students who say they dislike dancing actually like it?
+ 
+$\textbf{(A)}\ 10\%\qquad\textbf{(B)}\ 12\%\qquad\textbf{(C)}\ 20\%\qquad\textbf{(D)}\ 25\%\qquad\textbf{(E)}\ \frac{100}{3}\%$
+ 

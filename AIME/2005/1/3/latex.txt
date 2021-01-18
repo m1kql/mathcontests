@@ -1,0 +1,2 @@
+How many positive integers have exactly three proper divisors (positive integral divisors excluding itself), each of which is less than 50?
+ 

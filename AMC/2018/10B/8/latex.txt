@@ -1,0 +1,6 @@
+Sara makes a staircase out of toothpicks as shown:
+ 
+This is a 3-step staircase and uses 18 toothpicks. How many steps would be in a staircase that used 180 toothpicks?
+ 
+$\textbf{(A)}\ 10\qquad\textbf{(B)}\ 11\qquad\textbf{(C)}\ 12\qquad\textbf{(D)}\ 24\qquad\textbf{(E)}\ 30$
+ 

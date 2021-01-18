@@ -1,0 +1,4 @@
+In the expression $\left(\underline{\qquad}\times\underline{\qquad}\right)+\left(\underline{\qquad}\times\underline{\qquad}\right)$ each blank is to be filled in with one of the digits $1,2,3,$ or $4,$ with each digit being used once. How many different values can be obtained?
+ 
+$\textbf{(A) }2 \qquad \textbf{(B) }3\qquad \textbf{(C) }4 \qquad \textbf{(D) }6 \qquad \textbf{(E) }24 \qquad$
+ 

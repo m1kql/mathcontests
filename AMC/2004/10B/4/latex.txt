@@ -1,0 +1,4 @@
+A standard six-sided die is rolled, and $P$ is the product of the five numbers that are visible. What is the largest number that is certain to divide $P$?
+ 
+$\mathrm{(A) \ } 6 \qquad \mathrm{(B) \ } 12 \qquad \mathrm{(C) \ } 24 \qquad \mathrm{(D) \ } 144\qquad \mathrm{(E) \ } 720$
+ 

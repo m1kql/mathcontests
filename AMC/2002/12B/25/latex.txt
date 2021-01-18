@@ -1,0 +1,8 @@
+Let $f(x) = x^2 + 6x + 1$, and let $R$ denote the set of points $(x,y)$ in the coordinate plane such that 
+ 
+ \begin{center} \[f(x) + f(y) \le 0 \qquad \text{and} \qquad f(x)-f(y) \le 0\] \end{center} 
+ 
+The area of $R$ is closest to 
+ 
+$\mathrm{(A)}\ 21 \qquad\mathrm{(B)}\ 22 \qquad\mathrm{(C)}\ 23 \qquad\mathrm{(D)}\ 24 \qquad\mathrm{(E)}\ 25$
+ 

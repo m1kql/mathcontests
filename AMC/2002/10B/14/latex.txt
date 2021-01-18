@@ -1,0 +1,4 @@
+The number $25^{64}\cdot 64^{25}$ is the square of a positive integer $N$. In decimal representation, the sum of the digits of $N$ is
+ 
+$\mathrm{(A) \ } 7\qquad \mathrm{(B) \ } 14\qquad \mathrm{(C) \ } 21\qquad \mathrm{(D) \ } 28\qquad \mathrm{(E) \ } 35$
+ 

@@ -1,0 +1,4 @@
+The solutions to the system of equations
+ 
+$\log_{225}x+\log_{64}y=4$$\log_{x}225-\log_{y}64=1$are $(x_1,y_1)$ and $(x_2,y_2)$. Find $\log_{30}\left(x_1y_1x_2y_2\right)$.
+ 

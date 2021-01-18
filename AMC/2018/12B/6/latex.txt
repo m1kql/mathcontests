@@ -1,0 +1,4 @@
+Suppose $S$ cans of soda can be purchased from a vending machine for $Q$ quarters. Which of the following expressions describes the number of cans of soda that can be purchased for $D$ dollars, where 1 dollar is worth 4 quarters?
+ 
+$\textbf{(A)} \frac{4DQ}{S} \qquad \textbf{(B)} \frac{4DS}{Q} \qquad \textbf{(C)} \frac{4Q}{DS} \qquad \textbf{(D)} \frac{DQ}{4S} \qquad \textbf{(E)} \frac{DS}{4Q}$
+ 

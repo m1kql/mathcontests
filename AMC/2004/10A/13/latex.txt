@@ -1,0 +1,4 @@
+At a party, each man danced with exactly three women and each woman danced with exactly two men.  Twelve men attended the party.  How many women attended the party?
+ 
+$\mathrm{(A) \ } 8 \qquad \mathrm{(B) \ } 12 \qquad \mathrm{(C) \ } 16 \qquad \mathrm{(D) \ } 18 \qquad \mathrm{(E) \ } 24$
+ 

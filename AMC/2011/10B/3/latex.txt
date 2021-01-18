@@ -1,0 +1,4 @@
+At a store, when a length or a width is reported as $x$ inches that means it is at least $x - 0.5$ inches and at most $x + 0.5$ inches. Suppose the dimensions of a rectangular tile are reported as $2$ inches by $3$ inches. In square inches, what is the minimum area for the rectangle?
+ 
+$\textbf{(A)}\ 3.75 \qquad\textbf{(B)}\ 4.5 \qquad\textbf{(C)}\ 5 \qquad\textbf{(D)}\ 6 \qquad\textbf{(E)}\ 8.75$
+ 

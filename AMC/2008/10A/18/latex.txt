@@ -1,0 +1,4 @@
+A right triangle has perimeter $32$ and area $20$. What is the length of its hypotenuse?
+ 
+$\mathrm{(A)}\ \frac{57}{4}\qquad\mathrm{(B)}\ \frac{59}{4}\qquad\mathrm{(C)}\ \frac{61}{4}\qquad\mathrm{(D)}\ \frac{63}{4}\qquad\mathrm{(E)}\ \frac{65}{4}$
+ 

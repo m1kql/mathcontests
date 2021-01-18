@@ -1,0 +1,4 @@
+A point $P$ is randomly selected from the rectangular region with vertices $(0,0),(2,0),(2,1),(0,1)$. What is the probability that $P$ is closer to the origin than it is to the point $(3,1)$?
+ 
+$\mathrm{(A)}\ \frac 12 \qquad\mathrm{(B)}\ \frac 23 \qquad\mathrm{(C)}\ \frac 34 \qquad\mathrm{(D)}\ \frac 45 \qquad\mathrm{(E)}\ 1$
+ 

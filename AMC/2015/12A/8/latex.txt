@@ -1,0 +1,4 @@
+The ratio of the length to the width of a rectangle is $4$ : $3$. If the rectangle has diagonal of length $d$, then the area may be expressed as $kd^2$ for some constant $k$. What is $k$?
+ 
+$\textbf{(A)}\ \frac{2}{7}\qquad\textbf{(B)}\ \frac{3}{7}\qquad\textbf{(C)}\ \frac{12}{25}\qquad\textbf{(D)}\ \frac{16}{25}\qquad\textbf{(E)}\ \frac{3}{4}$
+ 

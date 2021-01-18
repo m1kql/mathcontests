@@ -1,0 +1,4 @@
+In the eight term sequence $A$, $B$, $C$, $D$, $E$, $F$, $G$, $H$, the value of $C$ is $5$ and the sum of any three consecutive terms is $30$. What is $A+H$?
+ 
+$\textbf{(A)}\ 17 \qquad \textbf{(B)}\ 18 \qquad \textbf{(C)}\ 25 \qquad \textbf{(D)}\ 26 \qquad \textbf{(E)}\ 43$
+ 

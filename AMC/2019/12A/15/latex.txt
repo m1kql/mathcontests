@@ -1,0 +1,8 @@
+Positive real numbers $a$ and $b$ have the property that
+ 
+ \begin{center} \[\sqrt{\log{a}} + \sqrt{\log{b}} + \log \sqrt{a} + \log \sqrt{b} = 100\] \end{center} 
+ 
+and all four terms on the left are positive integers, where log denotes the base 10 logarithm. What is $ab$?
+ 
+$\textbf{(A) }   10^{52}   \qquad        \textbf{(B) }   10^{100}   \qquad    \textbf{(C) }   10^{144}   \qquad   \textbf{(D) }  10^{164} \qquad  \textbf{(E) }   10^{200}$
+ 

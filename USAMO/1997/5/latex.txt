@@ -1,0 +1,2 @@
+Prove that, for all positive real numbers $a, b, c,$
+$(a^3+b^3+abc)^{-1}+(b^3+c^3+abc)^{-1}+(a^3+c^3+abc)^{-1}\le(abc)^{-1}$.

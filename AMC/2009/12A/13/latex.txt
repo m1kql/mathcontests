@@ -1,0 +1,8 @@
+A ship sails $10$ miles in a straight line from $A$ to $B$, turns through an angle between $45^{\circ}$ and $60^{\circ}$, and then sails another $20$ miles to $C$. Let $AC$ be measured in miles. Which of the following intervals contains $AC^2$?
+ 
+
+ 
+$\textbf{(A)}\ [400,500] \qquad \textbf{(B)}\ [500,600] \qquad \textbf{(C)}\ [600,700] \qquad \textbf{(D)}\ [700,800]$
+ 
+$\textbf{(E)}\ [800,900]$
+ 

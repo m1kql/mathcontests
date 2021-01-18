@@ -1,0 +1,4 @@
+For a real number $x$, define $\heartsuit(x)$ to be the average of $x$ and $x^2$. What is $\heartsuit(1)+\heartsuit(2)+\heartsuit(3)$?
+ 
+$\textbf{(A)}\ 3 \qquad \textbf{(B)}\ 6 \qquad \textbf{(C)}\ 10 \qquad \textbf{(D)}\ 12 \qquad \textbf{(E)}\ 20$
+ 

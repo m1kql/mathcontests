@@ -1,0 +1,4 @@
+A spider has one sock and one shoe for each of its eight legs. In how many different orders can the spider put on its socks and shoes, assuming that, on each leg, the sock must be put on before the shoe?
+ 
+$\text{(A) }8! \qquad \text{(B) }2^8 \cdot 8! \qquad \text{(C) }(8!)^2 \qquad \text{(D) }\frac {16!}{2^8} \qquad \text{(E) }16!$
+ 

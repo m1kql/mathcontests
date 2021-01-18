@@ -1,0 +1,4 @@
+The function $f$ is defined by  \begin{center} \[f(x) = \lfloor|x|\rfloor - |\lfloor x \rfloor|\] \end{center} for all real numbers $x$, where $\lfloor r \rfloor$ denotes the greatest integer less than or equal to the real number $r$. What is the range of $f$?
+ 
+$\textbf{(A) } \{-1, 0\} \qquad\textbf{(B) } \text{The set of nonpositive integers} \qquad\textbf{(C) } \{-1, 0, 1\} \qquad\textbf{(D) } \{0\} \qquad\textbf{(E) } \text{The set of nonnegative integers}$
+ 

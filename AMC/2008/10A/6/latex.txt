@@ -1,0 +1,4 @@
+A triathlete competes in a triathlon in which the swimming, biking, and running segments are all of the same length. The triathlete swims at a rate of 3 kilometers per hour, bikes at a rate of 20 kilometers per hour, and runs at a rate of 10 kilometers per hour. Which of the following is closest to the triathlete's average speed, in kilometers per hour, for the entire race?
+ 
+$\mathrm{(A)}\ 3\qquad\mathrm{(B)}\ 4\qquad\mathrm{(C)}\ 5\qquad\mathrm{(D)}\ 6\qquad\mathrm{(E)}\ 7$
+ 

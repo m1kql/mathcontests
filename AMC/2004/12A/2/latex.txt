@@ -1,0 +1,4 @@
+On the AMC 12, each correct answer is worth $6$ points, each incorrect answer is worth $0$ points, and each problem left unanswered is worth $2.5$ points. If Charlyn leaves $8$ of the $25$ problems unanswered, how many of the remaining problems must she answer correctly in order to score at least $100$?
+ 
+$\text {(A)} 11 \qquad \text {(B)} 13 \qquad \text {(C)} 14 \qquad \text {(D)} 16\qquad \text {(E)}17$
+ 

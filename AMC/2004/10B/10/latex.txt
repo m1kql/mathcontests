@@ -1,0 +1,4 @@
+A grocer makes a display of cans in which the top row has one can and each lower row has two more cans than the row above it. If the display contains $100$ cans, how many rows does it contain?
+ 
+$\mathrm{(A)\ }5\qquad\mathrm{(B)\ }8\qquad\mathrm{(C)\ }9\qquad\mathrm{(D)\ }10\qquad\mathrm{(E)\ }11$
+ 

@@ -1,0 +1,4 @@
+Let $a$, $b$, and $c$ be three distinct one-digit numbers. What is the maximum value of the sum of the roots of the equation $(x-a)(x-b)+(x-b)(x-c)=0$ ?
+ 
+$\textbf{(A)}\; 15 \qquad\textbf{(B)}\; 15.5 \qquad\textbf{(C)}\; 16 \qquad\textbf{(D)} 16.5 \qquad\textbf{(E)}\; 17$
+ 

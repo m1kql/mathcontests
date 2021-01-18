@@ -1,0 +1,4 @@
+A large urn contains $100$ balls, of which $36 \%$ are red and the rest are blue. How many of the blue balls must be removed so that the percentage of red balls in the urn will be $72 \%$? (No red balls are to be removed.)
+ 
+$\textbf{(A)}\ 28 \qquad\textbf{(B)}\  32 \qquad\textbf{(C)}\  36 \qquad\textbf{(D)}\   50 \qquad\textbf{(E)}\ 64$
+ 

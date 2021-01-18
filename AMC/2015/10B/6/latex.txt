@@ -1,0 +1,4 @@
+Marley practices exactly one sport each day of the week. She runs three days a week but never on two consecutive days. On Monday she plays basketball and two days later golf. She swims and plays tennis, but she never plays tennis the day after running or swimming. Which day of the week does Marley swim?
+ 
+$\textbf{(A) } \text{Sunday} \qquad\textbf{(B) } \text{Tuesday} \qquad\textbf{(C) } \text{Thursday} \qquad\textbf{(D) } \text{Friday} \qquad\textbf{(E) } \text{Saturday}$
+ 

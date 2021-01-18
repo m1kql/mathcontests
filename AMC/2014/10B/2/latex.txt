@@ -1,0 +1,4 @@
+What is $\frac{2^3 + 2^3}{2^{-3} + 2^{-3}}$?
+ 
+$\textbf {(A) } 16 \qquad \textbf {(B) } 24 \qquad \textbf {(C) } 32 \qquad \textbf {(D) } 48 \qquad \textbf {(E) } 64$
+ 

@@ -1,0 +1,6 @@
+The five small shaded squares inside this unit square are congruent and have disjoint interiors. The midpoint of each side of the middle square coincides with one of the vertices of the other four small squares as shown. The common side length is $\tfrac{a-\sqrt{2}}{b}$, where $a$ and $b$ are positive integers. What is $a+b$ ?
+ 
+
+ 
+$\textbf{(A)}\ 7\qquad\textbf{(B)}\ 8\qquad\textbf{(C)}\ 9\qquad\textbf{(D)}\ 10\qquad\textbf{(E)}\ 11$
+ 

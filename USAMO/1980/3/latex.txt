@@ -1,0 +1,1 @@
+$A + B + C$ is an integral multiple of $\pi$. $x, y,$ and $z$ are real numbers. If $x\sin(A)+y\sin(B)+z\sin(C)=x^2\sin(2A)+y^2\sin(2B)+z^2\sin(2C)=0$, show that $x^n\sin(nA)+y^n \sin(nB) +z^n \sin(nC)=0$ for any positive integer $n$.

@@ -1,0 +1,4 @@
+A $2 \times 3$ rectangle and a $3 \times 4$ rectangle are contained within a square without overlapping at any point, and the sides of the square are parallel to the sides of the two given rectangles. What is the smallest possible area of the square? 
+ 
+$\mathrm{(A) \ } 16\qquad \mathrm{(B) \ } 25\qquad \mathrm{(C) \ } 36\qquad \mathrm{(D) \ } 49\qquad \mathrm{(E) \ } 64$
+ 

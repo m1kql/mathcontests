@@ -1,0 +1,4 @@
+A set of three points is randomly chosen from the grid shown. Each three point set has the same probability of being chosen. What is the probability that the points lie on the same straight line?
+ 
+$\mathrm{(A) \ } \frac{1}{21} \qquad \mathrm{(B) \ } \frac{1}{14} \qquad \mathrm{(C) \ } \frac{2}{21} \qquad \mathrm{(D) \ } \frac{1}{7} \qquad \mathrm{(E) \ } \frac{2}{7}$
+ 

@@ -1,0 +1,4 @@
+Let $\angle ABC = 24^\circ$ and $\angle ABD = 20^\circ$. What is the smallest possible degree measure for angle CBD?
+ 
+$\textbf{(A)}\ 0\qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ 4\qquad\textbf{(D)}\ 6\qquad\textbf{(E)}\ 12$
+ 

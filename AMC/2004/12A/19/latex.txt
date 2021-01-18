@@ -1,0 +1,4 @@
+Circles $A, B$ and $C$ are externally tangent to each other, and internally tangent to circle $D$. Circles $B$ and $C$ are congruent. Circle $A$ has radius $1$ and passes through the center of $D$. What is the radius of circle $B$?
+ 
+$\text {(A)} \frac23 \qquad \text {(B)} \frac {\sqrt3}{2} \qquad \text {(C)}\frac78 \qquad \text {(D)}\frac89 \qquad \text {(E)}\frac {1 + \sqrt3}{3}$
+ 

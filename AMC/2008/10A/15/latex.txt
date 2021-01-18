@@ -1,0 +1,4 @@
+Yesterday Han drove 1 hour longer than Ian at an average speed 5 miles per hour faster than Ian. Jan drove 2 hours longer than Ian at an average speed 10 miles per hour faster than Ian. Han drove 70 miles more than Ian. How many more miles did Jan drive than Ian?
+ 
+$\mathrm{(A)}\ 120\qquad\mathrm{(B)}\ 130\qquad\mathrm{(C)}\ 140\qquad\mathrm{(D)}\ 150\qquad\mathrm{(E)}\ 160$
+ 

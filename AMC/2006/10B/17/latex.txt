@@ -1,0 +1,4 @@
+Bob and Alice each have a bag that contains one ball of each of the colors blue, green, orange, red, and violet. Alice randomly selects one ball from her bag and puts it into Bob's bag. Bob then randomly selects one ball from his bag and puts it into Alice's bag. What is the probability that after this process the contents of the two bags are the same? 
+ 
+$\mathrm{(A) \ } \frac{1}{10}\qquad \mathrm{(B) \ } \frac{1}{6}\qquad \mathrm{(C) \ } \frac{1}{5}\qquad \mathrm{(D) \ } \frac{1}{3}\qquad \mathrm{(E) \ } \frac{1}{2}$
+ 

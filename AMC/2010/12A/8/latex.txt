@@ -1,0 +1,4 @@
+Triangle $ABC$ has $AB=2 \cdot AC$. Let $D$ and $E$ be on $\overline{AB}$ and $\overline{BC}$, respectively, such that $\angle BAE = \angle ACD$. Let $F$ be the intersection of segments $AE$ and $CD$, and suppose that $\triangle CFE$ is equilateral. What is $\angle ACB$?
+ 
+$\textbf{(A)}\ 60^\circ \qquad \textbf{(B)}\ 75^\circ \qquad \textbf{(C)}\ 90^\circ \qquad \textbf{(D)}\ 105^\circ \qquad \textbf{(E)}\ 120^\circ$
+ 

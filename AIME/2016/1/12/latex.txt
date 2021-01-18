@@ -1,0 +1,2 @@
+Find the least positive integer $m$ such that $m^2 - m + 11$ is a product of at least four not necessarily distinct primes. 
+ 

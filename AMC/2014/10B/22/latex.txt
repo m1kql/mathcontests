@@ -1,0 +1,6 @@
+Eight semicircles line the inside of a square with side length 2 as shown. What is the radius of the circle tangent to all of these semicircles?
+ 
+$\text{(A) } \dfrac{1+\sqrt2}4 \quad \text{(B) } \dfrac{\sqrt5-1}2 \quad \text{(C) } \dfrac{\sqrt3+1}4 \quad \text{(D) } \dfrac{2\sqrt3}5 \quad \text{(E) } \dfrac{\sqrt5}3$
+ 
+
+ 

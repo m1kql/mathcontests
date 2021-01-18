@@ -1,0 +1,4 @@
+Suppose that $4^a = 5$, $5^b = 6$, $6^c = 7$, and $7^d = 8$. What is $a \cdot b\cdot c \cdot d$?
+ 
+$\mathrm{(A)} 1 \qquad \mathrm{(B)} \frac{3}{2} \qquad \mathrm{(C)} 2 \qquad \mathrm{(D)} \frac{5}{2} \qquad \mathrm{(E)} 3$
+ 

@@ -1,0 +1,4 @@
+Each third-grade classroom at Pearl Creek Elementary has $18$ students and $2$ pet rabbits. How many more students than rabbits are there in all $4$ of the third-grade classrooms?
+ 
+$\textbf{(A)}\ 48\qquad\textbf{(B)}\ 56\qquad\textbf{(C)}\ 64\qquad\textbf{(D)}\ 72\qquad\textbf{(E)}\ 80$
+ 

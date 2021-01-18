@@ -1,0 +1,4 @@
+For every composite positive integer $n$, define $r(n)$ to be the sum of the factors in the prime factorization of $n$. For example, $r(50) = 12$ because the prime factorization of $50$ is $2 \times 5^{2}$, and $2 + 5 + 5 = 12$. What is the range of the function $r$, $\{r(n): n \text{ is a composite positive integer}\}$ ?
+ 
+$\textbf{(A)}\; \text{the set of positive integers} \\ \textbf{(B)}\; \text{the set of composite positive integers} \\ \textbf{(C)}\; \text{the set of even positive integers} \\ \textbf{(D)}\; \text{the set of integers greater than 3} \\ \textbf{(E)}\; \text{the set of integers greater than 4}$
+ 

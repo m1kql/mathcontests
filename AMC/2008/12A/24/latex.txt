@@ -1,0 +1,4 @@
+Triangle $ABC$ has $\angle C = 60^{\circ}$ and $BC = 4$.  Point $D$ is the midpoint of $BC$.  What is the largest possible value of $\tan{\angle BAD}$?
+ 
+$\mathrm{(A)}\ \frac{\sqrt{3}}{6}\qquad\mathrm{(B)}\ \frac{\sqrt{3}}{3}\qquad\mathrm{(C)}\ \frac{\sqrt{3}}{2\sqrt{2}}\qquad\mathrm{(D)}\ \frac{\sqrt{3}}{4\sqrt{2}-3}\qquad\mathrm{(E)}\ 1$
+ 

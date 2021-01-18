@@ -1,0 +1,5 @@
+
+An envelope contains eight bills: 2 ones, 2 fives, 2 tens, and 2 twenties. Two bills are drawn at random without replacement. What is the probability that their sum is \textdollar 20 or more?
+
+$\textbf{(A)}\ {{{\frac{1}{4}}}} \qquad \textbf{(B)}\ {{{\frac{2}{5}}}} \qquad \textbf{(C)}\ {{{\frac{3}{7}}}} \qquad \textbf{(D)}\ {{{\frac{1}{2}}}} \qquad \textbf{(E)}\ {{{\frac{2}{3}}}}$
+

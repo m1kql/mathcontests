@@ -1,0 +1,4 @@
+A function $f$ has domain $[0,2]$ and range $[0,1]$. (The notation $[a,b]$ denotes $\{x:a \le x \le b \}$.) What are the domain and range, respectively, of the function $g$ defined by $g(x)=1-f(x+1)$?
+ 
+$\mathrm{(A)}\ [-1,1],[-1,0]\qquad\mathrm{(B)}\ [-1,1],[0,1]\qquad\textbf{(C)}\ [0,2],[-1,0]\qquad\mathrm{(D)}\ [1,3],[-1,0]\qquad\mathrm{(E)}\ [1,3],[0,1]$
+ 

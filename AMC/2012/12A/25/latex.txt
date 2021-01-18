@@ -1,0 +1,4 @@
+Let $f(x)=|2\{x\}-1|$ where $\{x\}$ denotes the fractional part of $x$.  The number $n$ is the smallest positive integer such that the equation  \begin{center} \[nf(xf(x))=x\] \end{center}  has at least $2012$ real solutions.  What is $n$?  Note: the fractional part of $x$ is a real number $y=\{x\}$ such that $0\le y<1$ and $x-y$ is an integer.
+ 
+$\textbf{(A)}\ 30\qquad\textbf{(B)}\ 31\qquad\textbf{(C)}\ 32\qquad\textbf{(D)}\ 62\qquad\textbf{(E)}\ 64$
+ 

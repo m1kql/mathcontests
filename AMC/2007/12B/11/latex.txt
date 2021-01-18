@@ -1,0 +1,4 @@
+The angles of quadrilateral $ABCD$ satisfy $\angle A=2 \angle B=3 \angle C=4 \angle D.$ What is the degree measure of $\angle A,$ rounded to the nearest whole number?
+ 
+$\textbf{(A) } 125 \qquad\textbf{(B) } 144 \qquad\textbf{(C) } 153 \qquad\textbf{(D) } 173 \qquad\textbf{(E) } 180$
+ 

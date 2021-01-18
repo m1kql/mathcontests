@@ -1,0 +1,4 @@
+At Megapolis Hospital one year, multiple-birth statistics were as follows: Sets of twins, triplets, and quadruplets accounted for $1000$ of the babies born. There were four times as many sets of triplets as sets of quadruplets, and there was three times as many sets of twins as sets of triplets. How many of these $1000$ babies were in sets of quadruplets?
+ 
+$\textbf{(A)}\ 25\qquad\textbf{(B)}\ 40\qquad\textbf{(C)}\ 64\qquad\textbf{(D)}\ 100\qquad\textbf{(E)}\ 160$
+ 

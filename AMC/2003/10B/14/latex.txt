@@ -1,0 +1,4 @@
+Given that $3^8\cdot5^2=a^b,$ where both $a$ and $b$ are positive integers, find the smallest possible value for $a+b$.
+ 
+$\textbf{(A) } 25 \qquad\textbf{(B) } 34 \qquad\textbf{(C) } 351 \qquad\textbf{(D) } 407 \qquad\textbf{(E) } 900$
+ 

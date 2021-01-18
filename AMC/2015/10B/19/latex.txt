@@ -1,0 +1,4 @@
+In $\triangle{ABC}$, $\angle{C} = 90^{\circ}$ and $AB = 12$. Squares $ABXY$ and $ACWZ$ are constructed outside of the triangle. The points $X, Y, Z$, and $W$ lie on a circle. What is the perimeter of the triangle?
+ 
+$\textbf{(A) }12+9\sqrt{3}\qquad\textbf{(B) }18+6\sqrt{3}\qquad\textbf{(C) }12+12\sqrt{2}\qquad\textbf{(D) }30\qquad\textbf{(E) }32$
+ 

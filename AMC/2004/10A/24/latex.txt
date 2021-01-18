@@ -1,0 +1,6 @@
+Let $f$ be a function with the following properties:
+ 
+What is the value of $f(2^{100})$?
+ 
+$\text {(A)}\ 1 \qquad \text {(B)}\ 2^{99} \qquad \text {(C)}\ 2^{100} \qquad \text {(D)}\ 2^{4950} \qquad \text {(E)}\ 2^{9999}$
+ 

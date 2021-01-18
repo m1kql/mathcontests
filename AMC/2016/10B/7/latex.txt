@@ -1,0 +1,6 @@
+The ratio of the measures of two acute angles is $5:4$, and the complement of one of these two angles is twice as large as the complement of the other. What is the sum of the degree measures of the two angles?
+ 
+$\textbf{(A)}\ 75\qquad\textbf{(B)}\ 90\qquad\textbf{(C)}\ 135\qquad\textbf{(D)}\ 150\qquad\textbf{(E)}\ 270$
+ 
+
+ 

@@ -1,0 +1,4 @@
+Many television screens are rectangles that are measured by the length of their diagonals. The ratio of the horizontal length to the height in a standard television screen is $4 : 3$. The horizontal length of a "$27$-inch" television screen is closest, in inches, to which of the following?
+ 
+$\textbf{(A) } 20 \qquad\textbf{(B) } 20.5 \qquad\textbf{(C) } 21 \qquad\textbf{(D) } 21.5 \qquad\textbf{(E) } 22$
+ 

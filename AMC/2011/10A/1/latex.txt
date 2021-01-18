@@ -1,0 +1,5 @@
+
+A cell phone plan costs $20 \mathdollar$ each month, plus 5 cents per text message sent, plus 10 cents for each minute used over 30 hours. In January, Michelle sent 100 text messages and talked for 30.5 hours. How much did she have to pay?
+
+\textbf{(A)}\\mathdollar 24.00 \qquad\textbf{(B)}\\mathdollar 24.50 \qquad\textbf{(C)}\\mathdollar  25.50\qquad\textbf{(D)}\\mathdollar 28.00\qquad\textbf{(E)}\\mathdollar 30.00
+

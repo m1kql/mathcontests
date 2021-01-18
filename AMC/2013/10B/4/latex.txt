@@ -1,0 +1,4 @@
+When counting from $3$ to $201$, $53$ is the $51^{st}$ number counted. When counting backwards from $201$ to $3$, $53$ is the $n^{th}$ number counted. What is $n$?
+ 
+$\textbf{(A)}\ 146 \qquad \textbf{(B)}\ 147 \qquad \textbf{(C)}\ 148 \qquad \textbf{(D)}\ 149 \qquad \textbf{(E)}\ 150$
+ 

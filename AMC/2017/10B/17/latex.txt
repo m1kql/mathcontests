@@ -1,0 +1,4 @@
+Call a positive integer $monotonous$ if it is a one-digit number or its digits, when read from left to right, form either a strictly increasing or a strictly decreasing sequence. For example, $3$, $23578$, and $987620$ are monotonous, but $88$, $7434$, and $23557$ are not. How many monotonous positive integers are there?
+ 
+$\textbf{(A)}\ 1024\qquad\textbf{(B)}\ 1524\qquad\textbf{(C)}\ 1533\qquad\textbf{(D)}\ 1536\qquad\textbf{(E)}\ 2048$
+ 

@@ -1,0 +1,4 @@
+Consider the operation "minus the reciprocal of," defined by $a\diamond b=a-\frac{1}{b}$. What is $((1\diamond2)\diamond3)-(1\diamond(2\diamond3))$?
+ 
+$\textbf{(A) } -\dfrac{7}{30} \qquad\textbf{(B) } -\dfrac{1}{6} \qquad\textbf{(C) } 0 \qquad\textbf{(D) } \dfrac{1}{6} \qquad\textbf{(E) } \dfrac{7}{30}$
+ 

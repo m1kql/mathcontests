@@ -1,0 +1,4 @@
+The arithmetic mean of two distinct positive integers $x$ and $y$ is a two-digit integer. The geometric mean of $x$ and $y$ is obtained by reversing the digits of the arithmetic mean. What is $|x - y|$?
+ 
+$\textbf{(A)}\ 24 \qquad \textbf{(B)}\ 48 \qquad \textbf{(C)}\ 54 \qquad \textbf{(D)}\ 66 \qquad \textbf{(E)}\ 70$
+ 

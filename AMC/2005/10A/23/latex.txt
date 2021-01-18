@@ -1,0 +1,6 @@
+Let $AB$ be a diameter of a circle and let $C$ be a point on $AB$ with $2\cdot AC=BC$. Let $D$ and $E$ be points on the circle such that $DC \perp AB$ and $DE$ is a second diameter. What is the ratio of the area of $\triangle DCE$ to the area of $\triangle ABD$?
+ 
+
+ 
+$\mathrm{(A) \ } \frac{1}{6}\qquad \mathrm{(B) \ } \frac{1}{4}\qquad \mathrm{(C) \ } \frac{1}{3}\qquad \mathrm{(D) \ } \frac{1}{2}\qquad \mathrm{(E) \ } \frac{2}{3}$
+ 

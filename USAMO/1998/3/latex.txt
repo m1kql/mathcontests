@@ -1,0 +1,3 @@
+Let $a_0,\cdots a_n$ be real numbers in the interval $\left(0,\frac {\pi}{2}\right)$ such that
+ \begin{center} \[\tan{\left(a_0 - \frac {\pi}{4}\right)} + \tan{\left(a_1 - \frac {\pi}{4}\right)} + \cdots + \tan{\left(a_n - \frac {\pi}{4}\right)}\ge n - 1\] \end{center} 
+Prove that $\tan{\left(a_0\right)}\tan{\left(a_1\right)}\cdots \tan{\left(a_n\right)}\ge n^{n + 1}$.

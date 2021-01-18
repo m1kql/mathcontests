@@ -1,0 +1,4 @@
+Kate rode her bicycle for 30 minutes at a speed of 16 mph, then walked for 90 minutes at a speed of 4 mph. What was her overall average speed in miles per hour?
+ 
+$\mathrm{(A)}\ 7\qquad \mathrm{(B)}\ 9\qquad \mathrm{(C)}\ 10\qquad \mathrm{(D)}\ 12\qquad \mathrm{(E)}\ 14$
+ 

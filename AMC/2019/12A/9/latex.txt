@@ -1,0 +1,6 @@
+A sequence of numbers is defined recursively by $a_1 = 1$, $a_2 = \frac{3}{7}$, and
+ 
+ \begin{center} \[a_n=\frac{a_{n-2} \cdot a_{n-1}}{2a_{n-2} - a_{n-1}}\] \end{center} for all $n \geq 3$ Then $a_{2019}$ can be written as $\frac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. What is $p+q ?$
+ 
+$\textbf{(A) } 2020 \qquad\textbf{(B) } 4039 \qquad\textbf{(C) } 6057 \qquad\textbf{(D) } 6061 \qquad\textbf{(E) } 8078$
+ 

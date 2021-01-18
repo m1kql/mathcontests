@@ -1,0 +1,6 @@
+What is the least possible value of
+ 
+ \begin{center} \[(x+1)(x+2)(x+3)(x+4)+2019\] \end{center} where $x$ is a real number?
+ 
+$\textbf{(A) } 2017 \qquad\textbf{(B) } 2018 \qquad\textbf{(C) } 2019 \qquad\textbf{(D) } 2020 \qquad\textbf{(E) } 2021$
+ 

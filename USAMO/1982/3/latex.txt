@@ -1,0 +1,4 @@
+If a point $A_1$ is in the interior of an equilateral triangle $ABC$ and point $A_2$ is in the interior of $\triangle{A_1BC}$, prove that
+$I.Q. (A_1BC) > I.Q.(A_2BC)$,
+where the isoperimetric quotient of a figure $F$ is defined by
+$I.Q.(F) = \frac{\text{Area (F)}}{\text{[Perimeter (F)]}^2}$

@@ -1,0 +1,4 @@
+Let points $A$ = $(0 ,0 ,0)$, $B$ = $(1, 0, 0)$, $C$ = $(0, 2, 0)$, and $D$ = $(0, 0, 3)$. Points $E$, $F$, $G$, and $H$ are midpoints of line segments $\overline{BD},\text{ }  \overline{AB}, \text{ } \overline {AC},$ and $\overline{DC}$ respectively. What is the area of $EFGH$?
+ 
+$\textbf{(A)}\ \sqrt{2}\qquad\textbf{(B)}\ \frac{2\sqrt{5}}{3}\qquad\textbf{(C)}\ \frac{3\sqrt{5}}{4}\qquad\textbf{(D)}\ \sqrt{3}\qquad\textbf{(E)}\ \frac{2\sqrt{7}}{3}$
+ 

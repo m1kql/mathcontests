@@ -1,0 +1,4 @@
+A triangle with vertices $(6, 5)$, $(8, -3)$, and $(9, 1)$ is reflected about the line $x=8$ to create a second triangle.  What is the area of the union of the two triangles?
+ 
+$\textbf{(A)}\ 9 \qquad\textbf{(B)}\ \frac{28}{3} \qquad\textbf{(C)}\ 10 \qquad\textbf{(D)}\ \frac{31}{3} \qquad\textbf{(E)}\ \frac{32}{3}$
+ 

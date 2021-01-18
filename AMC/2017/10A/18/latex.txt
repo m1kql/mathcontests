@@ -1,0 +1,4 @@
+Amelia has a coin that lands heads with probability $\frac{1}{3}$, and Blaine has a coin that lands on heads with probability $\frac{2}{5}$. Amelia and Blaine alternately toss their coins until someone gets a head; the first one to get a head wins. All coin tosses are independent. Amelia goes first. The probability that Amelia wins is $\frac{p}{q}$, where $p$ and $q$ are relatively prime positive integers. What is $q-p$?
+ 
+$\textbf{(A)}\ 1\qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ 3\qquad\textbf{(D)}\ 4\qquad\textbf{(E)}\ 5$
+ 

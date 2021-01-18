@@ -1,0 +1,6 @@
+For integer $n \ge 2$, let $x_1$, $x_2$, $\dots$, $x_n$ be real numbers satisfying
+ \begin{center} \[x_1 + x_2 + \dots + x_n = 0, \quad \text{and} \quad x_1^2 + x_2^2 + \dots + x_n^2 = 1.\] \end{center} 
+For each subset $A \subseteq \{1, 2, \dots, n\}$, define
+ \begin{center} \[S_A = \sum_{i \in A} x_i.\] \end{center} 
+(If $A$ is the empty set, then $S_A = 0$.)
+Prove that for any positive number $\lambda$, the number of sets $A$ satisfying $S_A \ge \lambda$ is at most $2^{n - 3}/\lambda^2$.  For what choices of $x_1$, $x_2$, $\dots$, $x_n$, $\lambda$ does equality hold?

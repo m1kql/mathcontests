@@ -1,0 +1,6 @@
+The tower function of twos is defined recursively as follows: $T(1) = 2$ and $T(n + 1) = 2^{T(n)}$ for $n\ge1$. Let $A = (T(2009))^{T(2009)}$ and $B = (T(2009))^A$. What is the largest integer $k$ such that
+ 
+ \begin{center} \[\underbrace{\log_2\log_2\log_2\ldots\log_2B}_{k\text{ times}}\] \end{center} is defined?
+ 
+$\textbf{(A)}\ 2009\qquad \textbf{(B)}\ 2010\qquad \textbf{(C)}\ 2011\qquad \textbf{(D)}\ 2012\qquad \textbf{(E)}\ 2013$
+ 

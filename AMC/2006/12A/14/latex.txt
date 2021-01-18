@@ -1,0 +1,4 @@
+Two farmers agree that pigs are worth $300$ dollars and that goats are worth $210$ dollars. When one farmer owes the other money, he pays the debt in pigs or goats, with "change" received in the form of goats or pigs as necessary. (For example, a $390$ dollar debt could be paid with two pigs, with one goat received in change.) What is the amount of the smallest positive debt that can be resolved in this way?
+ 
+$\mathrm{(A) \ } 5\qquad \mathrm{(B) \ } 10\qquad \mathrm{(C) \ } 30\qquad \mathrm{(D) \ } 90\qquad \mathrm{(E) \ }  210$
+ 

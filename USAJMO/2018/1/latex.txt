@@ -1,0 +1,3 @@
+For each positive integer $n$, find the number of $n$-digit positive integers that satisfy both of the following conditions:
+$\bullet$ no two consecutive digits are equal, and
+$\bullet$ the last digit is a prime.

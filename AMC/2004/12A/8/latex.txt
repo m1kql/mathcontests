@@ -1,0 +1,6 @@
+In the overlapping triangles $\triangle{ABC}$ and $\triangle{ABE}$ sharing common  side $AB$, $\angle{EAB}$ and $\angle{ABC}$ are right angles, $AB=4$, $BC=6$, $AE=8$, and $\overline{AC}$ and $\overline{BE}$ intersect at $D$. What is the difference between the areas of $\triangle{ADE}$ and $\triangle{BDC}$? 
+ 
+
+ 
+$\mathrm {(A)}\ 2 \qquad \mathrm {(B)}\ 4 \qquad \mathrm {(C)}\ 5 \qquad \mathrm {(D)}\ 8 \qquad \mathrm {(E)}\ 9 \qquad$
+ 

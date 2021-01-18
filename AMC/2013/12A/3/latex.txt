@@ -1,0 +1,4 @@
+A flower bouquet contains pink roses, red roses, pink carnations, and red carnations. One third of the pink flowers are roses, three fourths of the red flowers are carnations, and six tenths of the flowers are pink. What percent of the flowers are carnations?
+ 
+$\textbf{(A)}\ 15\qquad\textbf{(B)}\ 30\qquad\textbf{(C)}\ 40\qquad\textbf{(D)}\ 60\qquad\textbf{(E)}\ 70$
+ 

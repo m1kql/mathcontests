@@ -1,0 +1,4 @@
+The solutions to the equation $\log_{3x} 4 = \log_{2x} 8$, where $x$ is a positive real number other than $\tfrac{1}{3}$ or $\tfrac{1}{2}$, can be written as $\tfrac {p}{q}$ where $p$ and $q$ are relatively prime positive integers. What is $p + q$?
+ 
+$\textbf{(A) } 5   \qquad     \textbf{(B) } 13   \qquad     \textbf{(C) } 17   \qquad    \textbf{(D) } 31 \qquad   \textbf{(E) } 35$
+ 

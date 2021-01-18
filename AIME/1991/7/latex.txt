@@ -1,0 +1,2 @@
+Find $A^2_{}$, where $A^{}_{}$ is the sum of the absolute values of all roots of the following equation:
+ 

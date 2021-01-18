@@ -1,0 +1,4 @@
+Consider the set of all fractions $\frac{x}{y}$, where $x$ and $y$ are relatively prime positive integers. How many of these fractions have the property that if both numerator and denominator are increased by $1$, the value of the fraction is increased by $10\%$?
+ 
+$\textbf{(A) }0\qquad\textbf{(B) }1\qquad\textbf{(C) }2\qquad\textbf{(D) }3\qquad\textbf{(E) }\text{infinitely many}$
+ 

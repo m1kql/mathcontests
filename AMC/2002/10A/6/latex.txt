@@ -1,0 +1,6 @@
+Cindy was asked by her teacher to subtract 3 from a certain number and then divide the result by 9. Instead, she subtracted 9 and then divided the result by 3, giving an answer of 43. What would her answer have been had she worked the problem correctly?
+ 
+$\mathrm{(A) \ } 15\qquad \mathrm{(B) \ } 34\qquad \mathrm{(C) \ } 43\qquad \mathrm{(D) \ } 51\qquad \mathrm{(E) \ } 138$
+ 
+
+ 

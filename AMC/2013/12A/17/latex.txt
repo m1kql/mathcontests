@@ -1,0 +1,4 @@
+A group of $12$ pirates agree to divide a treasure chest of gold coins among themselves as follows. The $k^\text{th}$ pirate to take a share takes $\frac{k}{12}$ of the coins that remain in the chest. The number of coins initially in the chest is the smallest number for which this arrangement will allow each pirate to receive a positive whole number of coins. How many coins does the $12^{\text{th}}$ pirate receive?
+ 
+$\textbf{(A)} \ 720 \qquad  \textbf{(B)} \ 1296 \qquad  \textbf{(C)} \ 1728 \qquad  \textbf{(D)} \ 1925 \qquad  \textbf{(E)} \ 3850$
+ 

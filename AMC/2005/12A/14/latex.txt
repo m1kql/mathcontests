@@ -1,0 +1,4 @@
+On a standard die one of the dots is removed at random with each dot equally likely to be chosen. The die is then rolled. What is the probability that the top face has an odd number of dots?
+ 
+$(\mathrm {A}) \ \frac{5}{11} \qquad (\mathrm {B}) \ \frac{10}{21} \qquad (\mathrm {C})\ \frac{1}{2} \qquad (\mathrm {D}) \ \frac{11}{21} \qquad (\mathrm {E})\ \frac{6}{11}$
+ 

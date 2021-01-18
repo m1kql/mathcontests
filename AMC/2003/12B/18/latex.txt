@@ -1,0 +1,4 @@
+Let $x$ and $y$ be positive integers such that $7x^5 = 11y^{13}.$ The minimum possible value of $x$ has a prime factorization $a^cb^d.$ What is $a + b + c + d?$
+ 
+$\textbf{(A)}\ 30 \qquad \textbf{(B)}\ 31 \qquad \textbf{(C)}\ 32 \qquad \textbf{(D)}\ 33 \qquad \textbf{(E)}\ 34$
+ 

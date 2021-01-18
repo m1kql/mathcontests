@@ -1,0 +1,6 @@
+Circles with centers $A$ and $B$ have radii 3 and 8, respectively. A  common internal tangent intersects the circles at $C$ and $D$, respectively. Lines $AB$ and $CD$ intersect at $E$, and $AE=5$. What is $CD$?
+ 
+$\mathrm{(A) \ } 13\qquad\mathrm{(B) \ } \frac{44}{3}\qquad\mathrm{(C) \ } \sqrt{221}\qquad\mathrm{(D) \ } \sqrt{255}\qquad\mathrm{(E) \ } \frac{55}{3}\qquad$
+ 
+
+ 

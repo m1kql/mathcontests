@@ -1,0 +1,4 @@
+Distinct points $A$, $B$, $C$, and $D$ lie on a line, with $AB=BC=CD=1$. Points $E$ and $F$ lie on a second line, parallel to the first, with $EF=1$. A triangle with positive area has three of the six points as its vertices. How many possible values are there for the area of the triangle?
+ 
+$\text{(A) } 3 \qquad \text{(B) } 4 \qquad \text{(C) } 5 \qquad \text{(D) } 6 \qquad \text{(E) } 7$
+ 

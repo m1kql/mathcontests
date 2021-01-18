@@ -1,0 +1,8 @@
+When the mean, median, and mode of the list
+ 
+ \begin{center} \[10,2,5,2,4,2,x\] \end{center} 
+ 
+are arranged in increasing order, they form a non-constant arithmetic progression. What is the sum of all possible real values of $x$?
+ 
+$\text {(A)}\ 3 \qquad \text {(B)}\ 6 \qquad \text {(C)}\ 9 \qquad \text {(D)}\ 17 \qquad \text {(E)}\ 20$
+ 

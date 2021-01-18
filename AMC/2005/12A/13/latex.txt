@@ -1,0 +1,14 @@
+In the five-sided star shown, the letters $A$, $B$, $C$, $D$ and $E$ are replaced by the
+ 
+numbers 3, 5, 6, 7 and 9, although not necessarily in that order. The sums of the
+ 
+numbers at the ends of the line segments $\overline{AB}$, $\overline{BC}$, $\overline{CD}$, $\overline{DE}$, and $\overline{EA}$ form an
+ 
+arithmetic sequence, although not necessarily in that order. What is the middle
+ 
+term of the arithmetic sequence?
+ 
+
+ 
+$(\mathrm {A}) \ 9 \qquad (\mathrm {B}) \ 10 \qquad (\mathrm {C})\ 11 \qquad (\mathrm {D}) \ 12 \qquad (\mathrm {E})\ 13$
+ 

@@ -1,0 +1,4 @@
+The solutions of the equation $z^4+4z^3i-6z^2-4zi-i=0$ are the vertices of a convex polygon in the complex plane. What is the area of the polygon?
+ 
+$\mathrm{(A)}\ 2^{\frac{5}{8}}\qquad\mathrm{(B)}\ 2^{\frac{3}{4}}\qquad\mathrm{(C)}\ 2\qquad\mathrm{(D)}\ 2^{\frac{5}{4}}\qquad\mathrm{(E)}\ 2^{\frac{3}{2}}$
+ 

@@ -1,0 +1,14 @@
+Which of the cones listed below can be formed from a $252^\circ$ sector of a circle of radius $10$ by aligning the two straight sides? 
+ 
+
+ 
+$\text{(A) A cone with slant height of } 10 \text{ and radius } 6$
+ 
+$\text{(B) A cone with height of } 10 \text{ and radius } 6$
+ 
+$\text{(C) A cone with slant height of } 10 \text{ and radius } 7$
+ 
+$\text{(D) A cone with height of } 10 \text{ and radius } 7$
+ 
+$\text{(E) A cone with slant height of } 10 \text{ and radius } 8$
+ 

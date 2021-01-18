@@ -1,0 +1,4 @@
+A football game was played between two teams, the Cougars and the Panthers.  The two teams scored a total of 34 points, and the Cougars won by a margin of 14 points.  How many points did the Panthers score?
+ 
+$\text {(A) } 10 \qquad \text {(B) } 14 \qquad \text {(C) } 17 \qquad \text {(D) } 20 \qquad \text {(E) } 24$
+ 

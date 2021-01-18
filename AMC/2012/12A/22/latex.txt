@@ -1,0 +1,4 @@
+Distinct planes $p_1,p_2,....,p_k$ intersect the interior of a cube $Q$. Let $S$ be the union of the faces of $Q$ and let $P =\bigcup_{j=1}^{k}p_{j}$. The intersection of $P$ and $S$ consists of the union of all segments joining the midpoints of every pair of edges belonging to the same face of $Q$. What is the difference between the maximum and minimum possible values of $k$?
+ 
+$\textbf{(A)}\ 8\qquad\textbf{(B)}\ 12\qquad\textbf{(C)}\ 20\qquad\textbf{(D)}\ 23\qquad\textbf{(E)}\ 24$
+ 

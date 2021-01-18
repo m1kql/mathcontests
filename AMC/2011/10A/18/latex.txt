@@ -1,0 +1,6 @@
+Circles $A, B,$ and $C$ each have radius 1. Circles $A$ and $B$ share one point of tangency. Circle $C$ has a point of tangency with the midpoint of $\overline{AB}$. What is the area inside Circle $C$ but outside circle $A$ and circle $B$ ?
+ 
+
+ 
+$\textbf{(A)}\ 3 - \frac{\pi}{2} \qquad\textbf{(B)}\ \frac{\pi}{2} \qquad\textbf{(C)}\  2 \qquad\textbf{(D)}\ \frac{3\pi}{4} \qquad\textbf{(E)}\ 1 + \frac{\pi}{2}$
+ 

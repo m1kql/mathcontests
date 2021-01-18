@@ -1,0 +1,4 @@
+What is $100(100-3)-(100\cdot100-3)$?
+ 
+$\textbf{(A)}\ -20,000 \qquad \textbf{(B)}\ -10,000 \qquad \textbf{(C)}\ -297 \qquad \textbf{(D)}\ -6 \qquad \textbf{(E)}\ 0$
+ 

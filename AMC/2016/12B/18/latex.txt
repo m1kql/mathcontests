@@ -1,0 +1,4 @@
+What is the area of the region enclosed by the graph of the equation $x^2+y^2=|x|+|y|?$
+ 
+$\textbf{(A)}\ \pi+\sqrt{2} \qquad\textbf{(B)}\ \pi+2 \qquad\textbf{(C)}\ \pi+2\sqrt{2} \qquad\textbf{(D)}\ 2\pi+\sqrt{2} \qquad\textbf{(E)}\ 2\pi+2\sqrt{2}$
+ 

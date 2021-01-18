@@ -1,0 +1,4 @@
+The parabola with equation $p(x) = ax^2+bx+c$ and vertex $(h,k)$ is reflected about the line $y=k$. This results in the parabola with equation $q(x) = dx^2+ex+f$. Which of the following equals $a+b+c+d+e+f$?
+ 
+$(\mathrm{A})\ 2b \qquad (\mathrm{B})\ 2c \qquad (\mathrm{C})\ 2a+2b \qquad (\mathrm{D})\ 2h \qquad (\mathrm{E})\ 2k$
+ 

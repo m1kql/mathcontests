@@ -1,0 +1,4 @@
+A list of $2018$ positive integers has a unique mode, which occurs exactly $10$ times. What is the least number of distinct values that can occur in the list?
+ 
+$\textbf{(A)}\ 202\qquad\textbf{(B)}\ 223\qquad\textbf{(C)}\ 224\qquad\textbf{(D)}\ 225\qquad\textbf{(E)}\ 234$
+ 

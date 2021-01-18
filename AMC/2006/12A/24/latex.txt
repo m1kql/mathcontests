@@ -1,0 +1,8 @@
+The expression 
+ 
+$(x+y+z)^{2006}+(x-y-z)^{2006}$
+ 
+is simplified by expanding it and combining like terms. How many terms are in the simplified expression?
+ 
+$\mathrm{(A) \ } 6018\qquad \mathrm{(B) \ } 671,676\qquad \mathrm{(C) \ } 1,007,514\qquad \mathrm{(D) \ } 1,008,016\qquad\mathrm{(E) \ }  2,015,028$
+ 

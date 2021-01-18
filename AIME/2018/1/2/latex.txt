@@ -1,0 +1,4 @@
+
+ 
+The number $n$ can be written in base $14$ as $\underline{a}\text{ }\underline{b}\text{ }\underline{c}$, can be written in base $15$ as $\underline{a}\text{ }\underline{c}\text{ }\underline{b}$, and can be written in base $6$ as $\underline{a}\text{ }\underline{c}\text{ }\underline{a}\text{ }\underline{c}\text{ }$, where $a > 0$. Find the base-$10$ representation of $n$.
+ 

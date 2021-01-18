@@ -1,0 +1,4 @@
+What non-zero real value for $x$ satisfies $(7x)^{14}=(14x)^7$?
+ 
+$\mathrm{(A) \ } \frac17\qquad \mathrm{(B) \ } \frac27\qquad \mathrm{(C) \ } 1\qquad \mathrm{(D) \ } 7\qquad \mathrm{(E) \ } 14$
+ 

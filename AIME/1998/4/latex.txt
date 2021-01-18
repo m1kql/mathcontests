@@ -1,0 +1,2 @@
+Nine tiles are numbered $1, 2, 3, \cdots, 9,$ respectively.  Each of three players randomly selects and keeps three of the tiles, and sums those three values.  The probability that all three players obtain an odd sum is $m/n,$ where $m$ and $n$ are relatively prime positive integers.  Find $m+n.$
+ 

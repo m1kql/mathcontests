@@ -1,0 +1,4 @@
+How many ordered pairs $(m,n)$ of positive integers, with $m \ge n$, have the property that their squares differ by $96$? 
+ 
+$\text{(A)}\ 3 \qquad \text{(B)}\ 4 \qquad \text{(C)}\ 6 \qquad \text{(D)}\ 9 \qquad \text{(E)}\ 12$
+ 

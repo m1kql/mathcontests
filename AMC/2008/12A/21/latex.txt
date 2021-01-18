@@ -1,0 +1,5 @@
+
+A permutation $(a_1,a_2,a_3,a_4,a_5)$ of $(1,2,3,4,5)$ is heavy-tailed if $a_1 + a_2 < a_4 + a_5$. What is the number of heavy-tailed permutations?
+
+$\textbf{(A)}\ 36\qquad\textbf{(B)}\ 40\qquad\textbf{(C)}\ 44\qquad\textbf{(D)}\ 48\qquad\textbf{(E)}\ 52$
+

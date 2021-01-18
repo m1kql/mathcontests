@@ -1,0 +1,6 @@
+Josanna's test scores to date are $90, 80, 70, 60,$ and $85.$ Her goal is to raise her test average at least $3$ points with her next test. What is the minimum test score she would need to accomplish this goal?
+ 
+$\textbf{(A)}\ 80 \qquad \textbf{(B)}\ 82 \qquad \textbf{(C)}\ 85 \qquad \textbf{(D)}\ 90 \qquad \textbf{(E)}\ 95$
+ 
+
+ 

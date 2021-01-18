@@ -1,0 +1,4 @@
+A box contains $28$ red balls, $20$ green balls, $19$ yellow balls, $13$ blue balls, $11$ white balls, and $9$ black balls. What is the minimum number of balls that must be drawn from the box without replacement to guarantee that at least $15$ balls of a single color will be drawn$?$
+ 
+$\textbf{(A) } 75 \qquad\textbf{(B) } 76 \qquad\textbf{(C) } 79 \qquad\textbf{(D) } 84 \qquad\textbf{(E) } 91$
+ 

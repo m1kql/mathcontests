@@ -1,0 +1,6 @@
+In the figure, the length of side $AB$ of square $ABCD$ is $\sqrt{50}$ and $BE=1$. What is the area of the inner square $EFGH$?
+ 
+
+ 
+$\textbf{(A)}\ 25\qquad\textbf{(B)}\ 32\qquad\textbf{(C)}\ 36\qquad\textbf{(D)}\ 40\qquad\textbf{(E)}\ 42$
+ 

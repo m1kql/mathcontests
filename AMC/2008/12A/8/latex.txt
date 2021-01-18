@@ -1,0 +1,4 @@
+What is the volume of a cube whose surface area is twice that of a cube with volume 1? 
+ 
+$\mathrm{(A)}\ \sqrt{2}\qquad\mathrm{(B)}\ 2\qquad\mathrm{(C)}\ 2\sqrt{2}\qquad\mathrm{(D)}\ 4\qquad\mathrm{(E)}\ 8$
+ 

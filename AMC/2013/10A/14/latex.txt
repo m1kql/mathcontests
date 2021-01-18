@@ -1,0 +1,6 @@
+A solid cube of side length $1$ is removed from each corner of a solid cube of side length $3$.  How many edges does the remaining solid have?
+ 
+
+ 
+$\textbf{(A) }36\qquad\textbf{(B) }60\qquad\textbf{(C) }72\qquad\textbf{(D) }84\qquad\textbf{(E) }108\qquad$
+ 

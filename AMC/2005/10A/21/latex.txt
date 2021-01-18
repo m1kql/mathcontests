@@ -1,0 +1,4 @@
+For how many positive integers $n$ does $1+2+...+n$ evenly divide from $6n$? 
+ 
+$\mathrm{(A) \ } 3\qquad \mathrm{(B) \ } 5\qquad \mathrm{(C) \ } 7\qquad \mathrm{(D) \ } 9\qquad \mathrm{(E) \ } 11$
+ 

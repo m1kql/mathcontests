@@ -1,0 +1,6 @@
+Let $f(x) = x^{2}(1-x)^{2}$. What is the value of the sum
+ 
+ \begin{center} \[f \left(\frac{1}{2019} \right)-f  \left(\frac{2}{2019} \right)+f \left(\frac{3}{2019} \right)-f \left(\frac{4}{2019} \right)+\cdots + f \left(\frac{2017}{2019} \right) - f \left(\frac{2018}{2019} \right)?\] \end{center} 
+ 
+$\textbf{(A) }0\qquad\textbf{(B) }\frac{1}{2019^{4}}\qquad\textbf{(C) }\frac{2018^{2}}{2019^{4}}\qquad\textbf{(D) }\frac{2020^{2}}{2019^{4}}\qquad\textbf{(E) }1$
+ 

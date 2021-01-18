@@ -1,0 +1,2 @@
+Three planets orbit a star circularly in the same plane.  Each moves in the same direction and moves at constant speed.  Their periods are 60, 84, and 140.  The three planets and the star are currently collinear.  What is the fewest number of years from now that they will all be collinear again?
+ 

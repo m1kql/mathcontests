@@ -1,0 +1,4 @@
+How many four-digit integers $abcd$, with $a \neq 0$, have the property that the three two-digit integers $ab<bc<cd$ form an increasing arithmetic sequence? One such number is $4692$, where $a=4$, $b=6$, $c=9$, and $d=2$.
+ 
+$\textbf{(A)}\ 9\qquad\textbf{(B)}\ 15\qquad\textbf{(C)}\ 16\qquad\textbf{(D)}\ 17\qquad\textbf{(E)}\ 20$
+ 

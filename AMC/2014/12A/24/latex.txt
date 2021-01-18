@@ -1,0 +1,4 @@
+Let $f_0(x)=x+|x-100|-|x+100|$, and for $n\geq 1$, let $f_n(x)=|f_{n-1}(x)|-1$.  For how many values of $x$ is $f_{100}(x)=0$?
+ 
+$\textbf{(A) }299\qquad \textbf{(B) }300\qquad \textbf{(C) }301\qquad \textbf{(D) }302\qquad \textbf{(E) }303\qquad$
+ 

@@ -1,0 +1,4 @@
+Coin $A$ is flipped three times and coin $B$ is flipped four times.  What is the probability that the number of heads obtained from flipping the two fair coins is the same?
+ 
+$\mathrm{(A) \ } \frac{29}{128} \qquad \mathrm{(B) \ } \frac{23}{128} \qquad \mathrm{(C) \ } \frac14 \qquad \mathrm{(D) \ } \frac{35}{128} \qquad \mathrm{(E) \ } \frac12$
+ 

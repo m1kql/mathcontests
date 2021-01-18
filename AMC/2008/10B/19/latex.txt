@@ -1,0 +1,4 @@
+A cylindrical tank with radius $4$ feet and height $9$ feet is lying on its side. The tank is filled with water to a depth of $2$ feet. What is the volume of water, in cubic feet?
+ 
+$\mathrm{(A)}\ 24\pi - 36 \sqrt {2} \qquad \mathrm{(B)}\ 24\pi - 24 \sqrt {3} \qquad \mathrm{(C)}\ 36\pi - 36 \sqrt {3} \qquad \mathrm{(D)}\ 36\pi - 24 \sqrt {2} \qquad \mathrm{(E)}\ 48\pi - 36 \sqrt {3}$
+ 

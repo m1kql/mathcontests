@@ -1,0 +1,8 @@
+Let X and Y be the following sums of arithmetic sequences: 
+ 
+ \begin{center} \begin{eqnarray*}X &=& 10+12+14+\cdots+100,\\ Y &=& 12+14+16+\cdots+102.\end{eqnarray*} \end{center} 
+ 
+What is the value of $Y - X?$
+ 
+$\textbf{(A)}\ 92\qquad\textbf{(B)}\ 98\qquad\textbf{(C)}\ 100\qquad\textbf{(D)}\ 102\qquad\textbf{(E)}\ 112$
+ 

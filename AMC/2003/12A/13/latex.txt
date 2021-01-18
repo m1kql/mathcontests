@@ -1,0 +1,6 @@
+The polygon enclosed by the solid lines in the figure consists of 4 congruent  squares joined edge-to-edge. One more congruent square is attached to an edge at one of the nine positions indicated. How many of the nine resulting polygons can be folded to form a  cube with one face missing? 
+ 
+
+ 
+$\mathrm{(A) \ } 2\qquad \mathrm{(B) \ } 3\qquad \mathrm{(C) \ } 4\qquad \mathrm{(D) \ } 5\qquad \mathrm{(E) \ } 6$
+ 

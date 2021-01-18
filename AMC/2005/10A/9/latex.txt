@@ -1,0 +1,4 @@
+Three tiles are marked $X$ and two other tiles are marked $O$. The five tiles are randomly arranged in a row. What is the probability that the arrangement reads $XOXOX$?
+ 
+$\mathrm{(A) \ } \frac{1}{12}\qquad \mathrm{(B) \ } \frac{1}{10}\qquad \mathrm{(C) \ } \frac{1}{6}\qquad \mathrm{(D) \ } \frac{1}{4}\qquad \mathrm{(E) \ } \frac{1}{3}$
+ 

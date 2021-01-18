@@ -1,0 +1,4 @@
+The formula for converting a Fahrenheit temperature $F$ to the corresponding Celsius temperature $C$ is $C = \frac{5}{9}(F-32).$  An integer Fahrenheit temperature is converted to Celsius, rounded to the nearest integer, converted back to Fahrenheit, and again rounded to the nearest integer.
+ 
+For how many integer Fahrenheit temperatures between 32 and 1000 inclusive does the original temperature equal the final temperature?
+ 

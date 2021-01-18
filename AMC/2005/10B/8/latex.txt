@@ -1,0 +1,6 @@
+An $8$-foot by $10$-foot floor is tiles with square tiles of size $1$ foot by $1$ foot.  Each tile has a pattern consisting of four white quarter circles of radius $1/2$ foot centered at each corner of the tile.  The remaining portion of the tile is shaded.  How many square feet of the floor are shaded?
+ 
+
+ 
+$\mathrm{(A)}\ 80-20\pi      \qquad \mathrm{(B)}\ 60-10\pi      \qquad \mathrm{(C)}\ 80-10\pi      \qquad \mathrm{(D)}\ 60+10\pi      \qquad \mathrm{(E)}\ 80+10\pi$
+ 

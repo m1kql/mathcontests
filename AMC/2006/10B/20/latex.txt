@@ -1,0 +1,4 @@
+In rectangle $ABCD$, we have $A=(6,-22)$, $B=(2006,178)$, $D=(8,y)$, for some integer $y$. What is the area of rectangle $ABCD$?
+ 
+$\mathrm{(A) \ } 4000\qquad \mathrm{(B) \ } 4040\qquad \mathrm{(C) \ } 4400\qquad \mathrm{(D) \ } 40,000\qquad \mathrm{(E) \ } 40,400$
+ 

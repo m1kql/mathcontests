@@ -1,0 +1,6 @@
+The symbolism $\lfloor x \rfloor$ denotes the largest integer not exceeding $x$. For example, $\lfloor 3 \rfloor = 3,$ and $\lfloor 9/2 \rfloor = 4$. Compute
+ 
+ \begin{center} \[\lfloor \sqrt{1} \rfloor + \lfloor \sqrt{2} \rfloor + \lfloor \sqrt{3} \rfloor + \cdots + \lfloor \sqrt{16} \rfloor.\] \end{center} 
+ 
+$\textbf{(A) } 35 \qquad\textbf{(B) } 38 \qquad\textbf{(C) } 40 \qquad\textbf{(D) } 42 \qquad\textbf{(E) } 136$
+ 

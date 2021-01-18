@@ -1,0 +1,4 @@
+What is the sum of the roots of $z^{12}=64$ that have a positive real part? 
+ 
+$\textbf{(A)}\ 2 \qquad \textbf{(B)}\ 4 \qquad \textbf{(C)}\ \sqrt{2}+2\sqrt{3} \qquad \textbf{(D)}\ 2\sqrt{2}+\sqrt{6} \qquad \textbf{(E)}\ (1+\sqrt{3}) + (1+\sqrt{3})i$
+ 

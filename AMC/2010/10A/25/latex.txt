@@ -1,0 +1,10 @@
+Jim starts with a positive integer $n$ and creates a sequence of numbers. Each successive number is obtained by subtracting the largest possible integer square less than or equal to the current number until zero is reached. For example, if Jim starts with $n = 55$, then his sequence contains $5$ numbers:
+ 
+
+ 
+ \begin{center} \[\begin{array}{ccccc} {}&{}&{}&{}&55\\ 55&-&7^2&=&6\\ 6&-&2^2&=&2\\ 2&-&1^2&=&1\\ 1&-&1^2&=&0\\ \end{array}\] \end{center} 
+ 
+Let $N$ be the smallest number for which Jim’s sequence has $8$ numbers. What is the units digit of $N$?
+ 
+$\mathrm{(A)}\ 1 \qquad \mathrm{(B)}\ 3 \qquad \mathrm{(C)}\ 5 \qquad \mathrm{(D)}\ 7 \qquad \mathrm{(E)}\ 9$
+ 

@@ -1,0 +1,4 @@
+Triangle $ABC$ has side lengths $AB = 5$, $BC = 6$, and $AC = 7$. Two bugs start simultaneously from $A$ and crawl along the sides of the triangle in opposite directions at the same speed. They meet at point $D$. What is $BD$? 
+ 
+$\mathrm {(A)}\ 1 \qquad \mathrm {(B)}\ 2 \qquad \mathrm {(C)}\ 3 \qquad \mathrm {(D)}\ 4 \qquad \mathrm {(E)}\ 5$
+ 

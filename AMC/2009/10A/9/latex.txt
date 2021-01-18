@@ -1,0 +1,4 @@
+Positive integers $a$, $b$, and $2009$, with $a<b<2009$, form a geometric sequence with an integer ratio. What is $a$? 
+ 
+$\mathrm{(A)}\ 7 \qquad \mathrm{(B)}\ 41 \qquad \mathrm{(C)}\ 49 \qquad \mathrm{(D)}\ 289 \qquad \mathrm{(E)}\ 2009$
+ 

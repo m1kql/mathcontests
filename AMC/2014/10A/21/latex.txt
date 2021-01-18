@@ -1,0 +1,4 @@
+Positive integers $a$ and $b$ are such that the graphs of $y=ax+5$ and $y=3x+b$ intersect the $x$-axis at the same point. What is the sum of all possible $x$-coordinates of these points of intersection?
+ 
+$\textbf{(A)}\ {-20}\qquad\textbf{(B)}\ {-18}\qquad\textbf{(C)}\ {-15}\qquad\textbf{(D)}\ {-12}\qquad\textbf{(E)}\ {-8}$
+ 

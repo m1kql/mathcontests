@@ -1,0 +1,4 @@
+How many ordered triples of integers $(a,b,c)$, with $a \ge 2$, $b\ge 1$, and $c \ge 0$, satisfy both $\log_a b = c^{2005}$ and $a + b + c = 2005$?
+ 
+$\mathrm{(A)} \ 0 \qquad \mathrm{(B)} \ 1 \qquad \mathrm{(C)} \ 2 \qquad \mathrm{(D)} \ 3 \qquad \mathrm{(E)} \ 4$
+ 

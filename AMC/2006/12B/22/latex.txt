@@ -1,0 +1,4 @@
+Suppose $a$, $b$ and $c$ are positive integers with $a+b+c=2006$, and $a!b!c!=m\cdot 10^n$, where $m$ and $n$ are integers and $m$ is not divisible by $10$. What is the smallest possible value of $n$?
+ 
+$\mathrm{(A)}\ 489 \qquad \mathrm{(B)}\ 492  \qquad \mathrm{(C)}\ 495 \qquad \mathrm{(D)}\ 498 \qquad \mathrm{(E)}\ 501$
+ 

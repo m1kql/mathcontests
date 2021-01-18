@@ -1,0 +1,4 @@
+A cone-shaped mountain has its base on the ocean floor and has a height of 8000 feet. The top $\frac{1}{8}$ of the volume of the mountain is above water. What is the depth of the ocean at the base of the mountain in feet?
+ 
+$\textbf{(A)}\ 4000 \qquad \textbf{(B)}\ 2000(4-\sqrt{2}) \qquad \textbf{(C)}\ 6000 \qquad \textbf{(D)}\ 6400 \qquad \textbf{(E)}\ 7000$
+ 

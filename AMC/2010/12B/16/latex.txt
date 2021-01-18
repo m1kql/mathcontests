@@ -1,0 +1,4 @@
+Positive integers $a$, $b$, and $c$ are randomly and independently selected with replacement from the set $\{1, 2, 3,\dots, 2010\}$. What is the probability that $abc + ab + a$ is divisible by $3$?
+ 
+$\textbf{(A)}\ \dfrac{1}{3} \qquad \textbf{(B)}\ \dfrac{29}{81} \qquad \textbf{(C)}\ \dfrac{31}{81} \qquad \textbf{(D)}\ \dfrac{11}{27} \qquad \textbf{(E)}\ \dfrac{13}{27}$
+ 

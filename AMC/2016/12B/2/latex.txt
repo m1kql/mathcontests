@@ -1,0 +1,4 @@
+The harmonic mean of two numbers can be calculated as twice their product divided by their sum. The harmonic mean of $1$ and $2016$ is closest to which integer?
+ 
+$\textbf{(A)}\ 2 \qquad \textbf{(B)}\ 45 \qquad \textbf{(C)}\ 504 \qquad \textbf{(D)}\ 1008 \qquad \textbf{(E)}\ 2015$
+ 

@@ -1,0 +1,4 @@
+The average age of $33$ fifth-graders is $11$. The average age of $55$ of their parents is $33$. What is the average age of all of these parents and fifth-graders?
+ 
+$\textbf{(A)}\ 22 \qquad \textbf{(B)}\ 23.25 \qquad \textbf{(C)}\ 24.75 \qquad \textbf{(D)}\ 26.25 \qquad \textbf{(E)}\ 28$
+ 

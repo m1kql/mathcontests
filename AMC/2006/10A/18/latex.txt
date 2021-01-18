@@ -1,0 +1,4 @@
+A license plate in a certain state consists of 4 digits, not necessarily distinct, and 2 letters, also not necessarily distinct. These six characters may appear in any order, except that the two letters must appear next to each other. How many distinct license plates are possible? 
+ 
+$\mathrm{(A) \ } 10^4\times 26^2\qquad\mathrm{(B) \ } 10^3\times 26^3\qquad\mathrm{(C) \ } 5\times 10^4\times 26^2\qquad\mathrm{(D) \ } 10^2\times 26^4\qquad\mathrm{(E) \ } 5\times 10^3\times 26^3\qquad$
+ 

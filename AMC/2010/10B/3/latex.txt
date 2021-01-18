@@ -1,0 +1,8 @@
+A drawer contains red, green, blue, and white socks with at least 2 of each color. What is
+ 
+the minimum number of socks that must be pulled from the drawer to guarantee a matching
+ 
+pair?
+ 
+$\textbf{(A)}\ 3 \qquad \textbf{(B)}\ 4 \qquad \textbf{(C)}\ 5 \qquad \textbf{(D)}\ 8 \qquad \textbf{(E)}\ 9$
+ 

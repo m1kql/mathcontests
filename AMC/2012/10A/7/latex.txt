@@ -1,0 +1,4 @@
+In a bag of marbles, $\frac{3}{5}$ of the marbles are blue and the rest are red. If the number of red marbles is doubled and the number of blue marbles stays the same, what fraction of the marbles will be red?
+ 
+$\textbf{(A)}\ \frac{2}{5}\qquad\textbf{(B)}\ \frac{3}{7}\qquad\textbf{(C)}\ \frac{4}{7}\qquad\textbf{(D)}\ \frac{3}{5}\qquad\textbf{(E)}\ \frac{4}{5}$
+ 

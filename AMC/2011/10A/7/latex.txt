@@ -1,0 +1,14 @@
+Which of the following equations does NOT have a solution?
+ 
+$\text{(A)}\:(x+7)^2=0$
+ 
+$\text{(B)}\:|-3x|+5=0$
+ 
+$\text{(C)}\:\sqrt{-x}-2=0$
+ 
+$\text{(D)}\:\sqrt{x}-8=0$
+ 
+$\text{(E)}\:|-3x|-4=0$
+ 
+
+ 

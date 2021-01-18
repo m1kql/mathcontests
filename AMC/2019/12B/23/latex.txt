@@ -1,0 +1,4 @@
+How many sequences of $0$s and $1$s of length $19$ are there that begin with a $0$, end with a $0$, contain no two consecutive $0$s, and contain no three consecutive $1$s?
+ 
+$\textbf{(A) }55\qquad\textbf{(B) }60\qquad\textbf{(C) }65\qquad\textbf{(D) }70\qquad\textbf{(E) }75$
+ 

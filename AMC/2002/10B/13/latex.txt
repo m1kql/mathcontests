@@ -1,0 +1,4 @@
+Find the value(s) of $x$ such that $8xy - 12y + 2x - 3 = 0$ is true for all values of $y$.
+ 
+$\textbf{(A) } \frac23 \qquad \textbf{(B) } \frac32 \text{ or } -\frac14 \qquad \textbf{(C) } -\frac23 \text{ or } -\frac14 \qquad \textbf{(D) } \frac32 \qquad \textbf{(E) } -\frac32 \text{ or } -\frac14$
+ 

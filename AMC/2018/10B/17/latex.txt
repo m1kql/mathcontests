@@ -1,0 +1,4 @@
+In rectangle $PQRS$, $PQ=8$ and $QR=6$. Points $A$ and $B$ lie on $\overline{PQ}$, points $C$ and $D$ lie on $\overline{QR}$, points $E$ and $F$ lie on $\overline{RS}$, and points $G$ and $H$ lie on $\overline{SP}$ so that $AP=BQ<4$ and the convex octagon $ABCDEFGH$ is equilateral. The length of a side of this octagon can be expressed in the form $k+m\sqrt{n}$, where $k$, $m$, and $n$ are integers and $n$ is not divisible by the square of any prime. What is $k+m+n$?
+ 
+$\textbf{(A) } 1 \qquad \textbf{(B) } 7 \qquad \textbf{(C) } 21 \qquad \textbf{(D) } 92 \qquad \textbf{(E) } 106$
+ 

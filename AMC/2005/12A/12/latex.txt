@@ -1,0 +1,4 @@
+A line passes through $A\ (1,1)$ and $B\ (100,1000)$. How many other points with integer coordinates are on the line and strictly between $A$ and $B$?
+ 
+$(\mathrm {A}) \ 0 \qquad (\mathrm {B}) \ 2 \qquad (\mathrm {C})\ 3 \qquad (\mathrm {D}) \ 8 \qquad (\mathrm {E})\ 9$
+ 

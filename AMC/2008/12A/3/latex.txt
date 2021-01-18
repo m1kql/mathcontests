@@ -1,0 +1,4 @@
+Suppose that $\tfrac{2}{3}$ of $10$ bananas are worth as much as $8$ oranges. How many oranges are worth as much as $\tfrac{1}{2}$ of $5$ bananas?
+ 
+$\mathrm{(A)}\ 2\qquad\mathrm{(B)}\ \frac{5}{2}\qquad\mathrm{(C)}\ 3\qquad\mathrm{(D)}\ \frac{7}{2}\qquad\mathrm{(E)}\ 4$
+ 

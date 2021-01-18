@@ -1,0 +1,5 @@
+
+On a particular January day, the high temperature in Lincoln, Nebraska, was $16$ degrees higher than the low temperature, and the average of the high and low temperatures was $3 ^\circ$. In degrees, what was the low temperature in Lincoln that day?
+
+$\textbf{(A)}\ -13 \qquad \textbf{(B)}\ -8 \qquad \textbf{(C)}\ -5 \qquad \textbf{(D)}\ -3 \qquad \textbf{(E)}\ 11$
+

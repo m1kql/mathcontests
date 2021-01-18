@@ -1,0 +1,2 @@
+Triangle $ABC$ lies in the cartesian plane and has an area of $70$. The coordinates of $B$ and $C$ are $(12,19)$ and $(23,20),$ respectively, and the coordinates of $A$ are $(p,q).$ The line containing the  median to side $BC$ has slope $-5.$ Find the largest possible value of $p+q.$
+ 

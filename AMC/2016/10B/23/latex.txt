@@ -1,0 +1,6 @@
+In regular hexagon $ABCDEF$, points $W$, $X$, $Y$, and $Z$ are chosen on sides $\overline{BC}$, $\overline{CD}$, $\overline{EF}$, and $\overline{FA}$ respectively, so lines $AB$, $ZW$, $YX$, and $ED$ are parallel and equally spaced. What is the ratio of the area of hexagon $WCXYFZ$ to the area of hexagon $ABCDEF$?
+ 
+$\textbf{(A)}\ \frac{1}{3}\qquad\textbf{(B)}\ \frac{10}{27}\qquad\textbf{(C)}\ \frac{11}{27}\qquad\textbf{(D)}\ \frac{4}{9}\qquad\textbf{(E)}\ \frac{13}{27}$
+ 
+
+ 

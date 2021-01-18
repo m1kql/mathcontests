@@ -1,0 +1,4 @@
+Henry decides one morning to do a workout, and he walks $\tfrac{3}{4}$ of the way from his home to his gym. The gym is $2$ kilometers away from Henry's home. At that point, he changes his mind and walks $\tfrac{3}{4}$ of the way from where he is back toward home. When he reaches that point, he changes his mind again and walks $\tfrac{3}{4}$ of the distance from there back toward the gym. If Henry keeps changing his mind when he has walked $\tfrac{3}{4}$ of the distance toward either the gym or home from the point where he last changed his mind, he will get very close to walking back and forth between a point $A$ kilometers from home and a point $B$ kilometers from home. What is $|A-B|$?
+ 
+$\textbf{(A) } \frac{2}{3} \qquad \textbf{(B) } 1 \qquad \textbf{(C) } 1\frac{1}{5} \qquad \textbf{(D) } 1\frac{1}{4} \qquad \textbf{(E) } 1\frac{1}{2}$
+ 

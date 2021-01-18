@@ -1,0 +1,14 @@
+Points $M$ and $N$ are the midpoints of sides $PA$ and $PB$ of $\triangle PAB$. As $P$ moves along a line that is parallel to side $AB$, how many of the four quantities listed below change?
+ 
+(a) the length of the segment $MN$
+ 
+(b) the perimeter of $\triangle PAB$
+ 
+(c) the area of $\triangle PAB$
+ 
+(d) the area of trapezoid $ABNM$
+ 
+
+ 
+$\mathrm{(A)}\ 0 \qquad\mathrm{(B)}\ 1 \qquad\mathrm{(C)}\ 2 \qquad\mathrm{(D)}\ 3 \qquad\mathrm{(E)}\ 4$
+ 

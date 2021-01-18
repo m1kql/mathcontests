@@ -1,0 +1,4 @@
+A line that passes through the origin intersects both the line $x = 1$ and the line $y=1+ \frac{\sqrt{3}}{3} x$. The three lines create an equilateral triangle. What is the perimeter of the triangle?
+ 
+$\textbf{(A)}\ 2\sqrt{6} \qquad\textbf{(B)} \ 2+2\sqrt{3} \qquad\textbf{(C)} \ 6 \qquad\textbf{(D)} \ 3 + 2\sqrt{3} \qquad\textbf{(E)} \ 6 + \frac{\sqrt{3}}{3}$
+ 

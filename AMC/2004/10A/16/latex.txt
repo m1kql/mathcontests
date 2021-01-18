@@ -1,0 +1,6 @@
+The $5\times 5$ grid shown contains a collection of squares with sizes from $1\times 1$ to $5\times 5$. How many of these squares contain the black center square?
+ 
+
+ 
+$\mathrm{(A) \ } 12 \qquad \mathrm{(B) \ } 15 \qquad \mathrm{(C) \ } 17 \qquad \mathrm{(D) \ }  19\qquad \mathrm{(E) \ } 20$
+ 

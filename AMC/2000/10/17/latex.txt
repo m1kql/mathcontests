@@ -1,0 +1,14 @@
+
+
+Boris has an incredible coin changing machine. When he puts in a quarter, it returns five nickels; when he puts in a nickel, it returns five pennies; and when he puts in a penny, it returns five quarters. Boris starts with just one penny. Which of the following amounts could Boris have after using the machine repeatedly?
+
+$\textbf{(A)}$ \textdollar 3.63
+
+$\textbf{(B)}$ \textdollar 5.13
+
+$\textbf{(C)}$ \textdollar 6.30
+
+$\textbf{(D)}$ \textdollar 7.45
+
+$\textbf{(E)}$ \textdollar 9.07
+

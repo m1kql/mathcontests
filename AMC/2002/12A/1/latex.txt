@@ -1,0 +1,6 @@
+Compute the sum of all the roots of
+ 
+$(2x+3)(x-4)+(2x+3)(x-6)=0$
+ 
+$\mathrm{(A) \ } \frac{7}{2}\qquad \mathrm{(B) \ } 4\qquad \mathrm{(C) \ } 5\qquad \mathrm{(D) \ } 7\qquad \mathrm{(E) \ } 13$
+ 

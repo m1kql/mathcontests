@@ -1,0 +1,4 @@
+A regular octahedron has side length $1$. A plane parallel to two of its opposite faces cuts the octahedron into the two congruent solids. The polygon formed by the intersection of the plane and the octahedron has area $\frac {a\sqrt {b}}{c}$, where $a$, $b$, and $c$ are positive integers, $a$ and $c$ are relatively prime, and $b$ is not divisible by the square of any prime. What is $a + b + c$?
+ 
+$\textbf{(A)}\ 10\qquad \textbf{(B)}\ 11\qquad \textbf{(C)}\ 12\qquad \textbf{(D)}\ 13\qquad \textbf{(E)}\ 14$
+ 

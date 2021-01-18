@@ -1,0 +1,4 @@
+All the students in an algebra class took a $100$-point test. Five students scored $100$, each student scored at least $60$, and the mean score was $76$. What is the smallest possible number of students in the class?
+ 
+$\mathrm{(A)}\ 10 \qquad \mathrm{(B)}\ 11 \qquad \mathrm{(C)}\ 12 \qquad \mathrm{(D)}\ 13 \qquad \mathrm{(E)}\ 14$
+ 

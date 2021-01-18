@@ -1,0 +1,4 @@
+The set $\{3,6,9,10\}$ is augmented by a fifth element $n$, not equal to any of the other four. The median of the resulting set is equal to its mean. What is the sum of all possible values of $n$?
+ 
+$\mathrm{(A)}\ 7\qquad \mathrm{(B)}\ 9\qquad \mathrm{(C)}\ 19\qquad \mathrm{(D)}\ 24\qquad \mathrm{(E)}\ 26$
+ 

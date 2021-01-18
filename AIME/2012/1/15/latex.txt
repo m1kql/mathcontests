@@ -1,0 +1,4 @@
+There are $n$ mathematicians seated around a circular table with $n$ seats numbered $1,$ $2,$ $3,$ $...,$ $n$ in clockwise order. After a break they again sit around the table. The mathematicians note that there is a positive integer $a$ such that
+ 
+ \begin{itemize} \end{itemize} \begin{itemize} \end{itemize}Find the number of possible values of $n$ with $1 < n < 1000.$
+ 

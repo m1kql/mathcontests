@@ -1,0 +1,6 @@
+Let $ABCD$ be a unit square. Let $Q_1$ be the midpoint of $\overline{CD}$. For $i=1,2,\dots,$ let $P_i$ be the intersection of $\overline{AQ_i}$ and $\overline{BD}$, and let $Q_{i+1}$ be the foot of the perpendicular from $P_i$ to $\overline{CD}$. What is 
+ 
+ \begin{center} \[\sum_{i=1}^{\infty} \text{Area of } \triangle DQ_i P_i \, ?\] \end{center} 
+ 
+$\textbf{(A)}\ \frac{1}{6} \qquad \textbf{(B)}\ \frac{1}{4} \qquad \textbf{(C)}\ \frac{1}{3} \qquad \textbf{(D)}\ \frac{1}{2} \qquad \textbf{(E)}\ 1$
+ 

@@ -1,0 +1,6 @@
+A region is bounded by semicircular arcs constructed on the side of a square whose sides measure $\frac{2}{\pi}$, as shown. What is the perimeter of this region? 
+ 
+
+ 
+$\mathrm{(A) \ } \frac{4}{\pi}\qquad \mathrm{(B) \ } 2\qquad \mathrm{(C) \ } \frac{8}{\pi}\qquad \mathrm{(D) \ } 4\qquad \mathrm{(E) \ } \frac{16}{\pi}$
+ 

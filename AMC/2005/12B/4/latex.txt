@@ -1,0 +1,4 @@
+At the beginning of the school year, Lisa's goal was to earn an A on at least $80\%$ of her $50$ quizzes for the year.  She earned an A on $22$ of the first $30$ quizzes.  If she is to achieve her goal, on at most how many of the remaining quizzes can she earn a grade lower than an A?
+ 
+$\mathrm{(A)}\ 1      \qquad \mathrm{(B)}\ 2      \qquad \mathrm{(C)}\ 3      \qquad \mathrm{(D)}\ 4      \qquad \mathrm{(E)}\ 5$
+ 

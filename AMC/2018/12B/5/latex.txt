@@ -1,0 +1,4 @@
+How many subsets of  $\{2,3,4,5,6,7,8,9\}$  contain at least one prime number?
+ 
+$(\text{A}) \indent 128 \qquad (\text{B}) \indent 192  \qquad (\text{C}) \indent 224  \qquad (\text{D}) \indent 240 \qquad (\text{E}) \indent 256$
+ 

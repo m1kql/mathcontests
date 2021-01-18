@@ -1,0 +1,4 @@
+A square region $ABCD$ is externally tangent to the circle with equation $x^2+y^2=1$ at the point $(0,1)$ on the side $CD$.  Vertices $A$ and $B$ are on the circle with equation $x^2+y^2=4$.  What is the side length of this square?
+ 
+$\textbf{(A)}\ \frac{\sqrt{10}+5}{10}\qquad\textbf{(B)}\ \frac{2\sqrt{5}}{5}\qquad\textbf{(C)}\ \frac{2\sqrt{2}}{3}\qquad\textbf{(D)}\ \frac{2\sqrt{19}-4}{5}\qquad\textbf{(E)}\ \frac{9-\sqrt{17}}{5}$
+ 

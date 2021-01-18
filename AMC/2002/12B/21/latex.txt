@@ -1,0 +1,8 @@
+For all positive integers $n$ less than $2002$, let 
+ 
+ \begin{center} \begin{eqnarray*} a_n =\left\{ \begin{array}{lr} 11, & \text{if\ }n\ \text{is\ divisible\ by\ }13\ \text{and\ }14;\\ 13, & \text{if\ }n\ \text{is\ divisible\ by\ }14\ \text{and\ }11;\\ 14, & \text{if\ }n\ \text{is\ divisible\ by\ }11\ \text{and\ }13;\\ 0, & \text{otherwise}. \end{array} \right. \end{eqnarray*} \end{center} 
+ 
+Calculate $\sum_{n=1}^{2001} a_n$.
+ 
+$\mathrm{(A)}\ 448 \qquad\mathrm{(B)}\ 486 \qquad\mathrm{(C)}\ 1560 \qquad\mathrm{(D)}\ 2001 \qquad\mathrm{(E)}\ 2002$
+ 

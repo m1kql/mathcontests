@@ -1,0 +1,4 @@
+The parabola $y=ax^2+bx+c$ has vertex $(p,p)$ and $y$-intercept $(0,-p)$, where $p\ne 0$. What is $b$?
+ 
+$\text {(A) } -p \qquad \text {(B) } 0 \qquad \text {(C) } 2 \qquad \text {(D) } 4 \qquad \text {(E) } p$
+ 

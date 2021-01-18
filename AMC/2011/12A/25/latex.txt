@@ -1,0 +1,4 @@
+Triangle $ABC$ has $\angle BAC = 60^{\circ}$, $\angle CBA \leq 90^{\circ}$, $BC=1$, and $AC \geq AB$. Let $H$, $I$, and $O$ be the orthocenter, incenter, and circumcenter of $\triangle ABC$, respectively. Assume that the area of pentagon $BCOIH$ is the maximum possible. What is $\angle CBA$?
+ 
+$\textbf{(A)}\ 60^{\circ} \qquad \textbf{(B)}\ 72^{\circ} \qquad \textbf{(C)}\ 75^{\circ} \qquad \textbf{(D)}\ 80^{\circ} \qquad \textbf{(E)}\ 90^{\circ}$
+ 

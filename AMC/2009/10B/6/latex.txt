@@ -1,0 +1,4 @@
+Kiana has two older twin brothers.  The product of their three ages is 128.  What is the sum of their three ages?
+ 
+$\mathrm{(A)}\ 10\qquad \mathrm{(B)}\ 12\qquad \mathrm{(C)}\ 16\qquad \mathrm{(D)}\ 18\qquad \mathrm{(E)}\ 24$
+ 

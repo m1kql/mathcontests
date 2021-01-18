@@ -1,0 +1,4 @@
+Consider the equation 
+ \begin{center} \[\left(3x^3 + xy^2 \right) \left(x^2y + 3y^3 \right) = (x-y)^7.\] \end{center} 
+	(a) Prove that there are infinitely many pairs $(x,y)$ of positive integers satisfying the equation. 
+	(b) Describe all pairs $(x,y)$ of positive integers satisfying the equation.

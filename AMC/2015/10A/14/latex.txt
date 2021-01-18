@@ -1,0 +1,6 @@
+The diagram below shows the circular face of a clock with radius $20$ cm and a circular disk with radius $10$ cm externally tangent to the clock face at $12$ o' clock. The disk has an arrow painted on it, initially pointing in the upward vertical direction. Let the disk roll clockwise around the clock face. At what point on the clock face will the disk be tangent when the arrow is next pointing in the upward vertical direction?
+ 
+
+ 
+$\textbf{(A) }\text{2 o' clock} \qquad\textbf{(B) }\text{3 o' clock} \qquad\textbf{(C) }\text{4 o' clock} \qquad\textbf{(D) }\text{6 o' clock} \qquad\textbf{(E) }\text{8 o' clock}$
+ 

@@ -1,0 +1,2 @@
+For $n \ge 2$ let $a_1$, $a_2$, ..., $a_n$ be positive real numbers such that 
+$(a_1+a_2+ ... +a_n)\left( {1 \over a_1} + {1 \over a_2} + ... +{1 \over a_n} \right) \le \left(n+ {1 \over 2} \right) ^2$Prove that $\text{max}(a_1, a_2, ... ,a_n) \le  4 \text{min}(a_1, a_2, ... , a_n)$.

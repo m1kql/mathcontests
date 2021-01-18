@@ -1,0 +1,4 @@
+A positive integer $n$ has $60$ divisors and $7n$ has $80$ divisors.  What is the greatest integer $k$ such that $7^k$ divides $n$?
+ 
+$\mathrm{(A)}\ {{{0}}} \qquad \mathrm{(B)}\ {{{1}}} \qquad \mathrm{(C)}\ {{{2}}} \qquad \mathrm{(D)}\ {{{3}}} \qquad \mathrm{(E)}\ {{{4}}}$
+ 

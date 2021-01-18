@@ -1,0 +1,3 @@
+Suppose the sequence of nonnegative integers $a_1,a_2,...,a_{1997}$ satisfies 
+$a_i+a_j \le a_{i+j} \le a_i+a_j+1$
+for all $i, j \ge 1$ with $i+j \le 1997$. Show that there exists a real number $x$ such that $a_n=\lfloor{nx}\rfloor$ (the greatest integer $\le nx$) for all $1 \le n \le 1997$.

@@ -1,0 +1,4 @@
+On a trip from the United States to Canada, Isabella took $d$ U.S. dollars. At the border she exchanged them all, receiving $10$ Canadian dollars for every $7$ U.S. dollars. After spending $60$ Canadian dollars, she had $d$ Canadian dollars left. What is the sum of the digits of $d$? 
+ 
+$\mathrm{(A)\ }5\qquad\mathrm{(B)\ }6\qquad\mathrm{(C)\ }7\qquad\mathrm{(D)\ }8\qquad\mathrm{(E)\ }9$
+ 

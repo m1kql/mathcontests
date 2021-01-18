@@ -1,0 +1,4 @@
+A triangle with sides of 5, 12, and 13 has both an inscribed and a circumscribed circle. What is the distance between the centers of those circles?
+ 
+$\mathrm{(A) \ } \frac{3\sqrt{5}}{2} \qquad \mathrm{(B) \ } \frac{7}{2} \qquad \mathrm{(C) \ } \sqrt{15} \qquad \mathrm{(D) \ } \frac{\sqrt{65}}{2} \qquad \mathrm{(E) \ } \frac{9}{2}$
+ 

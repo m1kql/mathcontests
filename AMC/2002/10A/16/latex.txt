@@ -1,0 +1,4 @@
+Let $a + 1 = b + 2 = c + 3 = d + 4 = a + b + c + d + 5$. What is $a + b + c + d$?
+ 
+$\text{(A)}\ -5 \qquad \text{(B)}\ -10/3 \qquad \text{(C)}\ -7/3 \qquad \text{(D)}\ 5/3 \qquad \text{(E)}\ 5$
+ 

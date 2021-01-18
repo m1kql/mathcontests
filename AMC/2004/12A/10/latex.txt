@@ -1,0 +1,4 @@
+The sum of $49$ consecutive integers is $7^5$. What is their median?
+ 
+$\text {(A)}\ 7 \qquad \text {(B)}\ 7^2\qquad \text {(C)}\ 7^3\qquad \text {(D)}\ 7^4\qquad \text {(E)}\ 7^5$
+ 

@@ -1,0 +1,10 @@
+If all alligators are ferocious creatures and some creepy crawlers are alligators, which statement(s) must be true?
+ 
+ \begin{center} \[\textrm{I. All alligators are creepy crawlers.}\] \end{center} 
+ 
+ \begin{center} \[\textrm{II. Some ferocious creatures are creepy crawlers.}\] \end{center} 
+ 
+ \begin{center} \[\textrm{III. Some alligators are not creepy crawlers.}\] \end{center} 
+ 
+$\mathrm{(A)}\ \text{I only} \qquad\mathrm{(B)}\ \text{II only} \qquad\mathrm{(C)}\ \text{III only} \qquad\mathrm{(D)}\ \text{II and III only} \qquad\mathrm{(E)}\ \text{None must be true}$
+ 

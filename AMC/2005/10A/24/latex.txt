@@ -1,0 +1,4 @@
+For each positive integer $n > 1$, let $P(n)$ denote the greatest prime factor of $n$. For how many positive integers $n$ is it true that both $P(n) = \sqrt{n}$ and $P(n+48) = \sqrt{n+48}$?
+ 
+$\mathrm{(A) \ } 0\qquad \mathrm{(B) \ } 1\qquad \mathrm{(C) \ } 3\qquad \mathrm{(D) \ } 4\qquad \mathrm{(E) \ } 5$
+ 

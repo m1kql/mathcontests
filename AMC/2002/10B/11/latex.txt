@@ -1,0 +1,4 @@
+The product of three consecutive positive integers is $8$ times their sum. What is the sum of their squares?
+ 
+$\mathrm{(A)}\ 50 \qquad\mathrm{(B)}\ 77 \qquad\mathrm{(C)}\ 110 \qquad\mathrm{(D)}\ 149 \qquad\mathrm{(E)}\ 194$
+ 

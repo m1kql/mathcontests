@@ -1,0 +1,4 @@
+How many four-digit positive integers have at least one digit that is a 2 or a 3? 
+ 
+$\mathrm{(A) \ } 2439\qquad\mathrm{(B) \ } 4096\qquad\mathrm{(C) \ } 4903\qquad\mathrm{(D) \ } 4904\qquad\mathrm{(E) \ } 5416\qquad$
+ 

@@ -1,0 +1,4 @@
+A star-polygon is drawn on a clock face by drawing a chord from each number to the fifth number counted clockwise from that number. That is, chords are drawn from 12 to 5, from 5 to 10, from 10 to 3, and so on, ending back at 12. What is the degree measure of the angle at each vertex in the star polygon?
+ 
+$\mathrm{(A)}\ 20\qquad \mathrm{(B)}\ 24\qquad \mathrm{(C)}\ 30\qquad \mathrm{(D)}\ 36\qquad \mathrm{(E)}\ 60$
+ 

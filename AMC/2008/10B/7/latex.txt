@@ -1,0 +1,4 @@
+An equilateral triangle of side length $10$ is completely filled in by non-overlapping equilateral triangles of side length $1$. How many small triangles are required?
+ 
+$\mathrm{(A)}\ 10\qquad\mathrm{(B)}\ 25\qquad\mathrm{(C)}\ 100\qquad\mathrm{(D)}\ 250\qquad\mathrm{(E)}\ 1000$
+ 

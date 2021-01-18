@@ -1,0 +1,8 @@
+Let $m>1$ and $n>1$ be integers. Suppose that the product of the solutions for $x$ of the equation
+ 
+ \begin{center} \[8(\log_n x)(\log_m x)-7\log_n x-6 \log_m x-2013 = 0\] \end{center} 
+ 
+is the smallest possible integer. What is $m+n$?
+ 
+$\textbf{(A)}\ 12\qquad\textbf{(B)}\ 20\qquad\textbf{(C)}\ 24\qquad\textbf{(D)}\ 48\qquad\textbf{(E)}\ 272$
+ 

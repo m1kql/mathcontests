@@ -1,0 +1,8 @@
+What is the largest integer that is a divisor of
+ 
+ \begin{center} \[(n+1)(n+3)(n+5)(n+7)(n+9)\] \end{center} 
+ 
+for all positive even integers $n$?
+ 
+$\text {(A) } 3 \qquad \text {(B) } 5 \qquad \text {(C) } 11 \qquad \text {(D) } 15 \qquad \text {(E) } 165$
+ 

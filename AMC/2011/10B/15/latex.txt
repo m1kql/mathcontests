@@ -1,0 +1,4 @@
+Let $@$ denote the "averaged with" operation: $a @ b = \frac{a+b}{2}$. Which of the following distributive laws hold for all numbers $x, y,$ and $z$?  \begin{center} \[\text{I. x @ (y + z) = (x @ y) + (x @ z)}\] \end{center}   \begin{center} \[\text{II. x + (y @ z) = (x + y) @ (x + z)}\] \end{center}   \begin{center} \[\text{III. x @ (y @ z) = (x @ y) @ (x @ z)}\] \end{center} 
+ 
+$\textbf{(A)}\ \text{I only} \qquad\textbf{(B)}\ \text{II only} \qquad\textbf{(C)}\ \text{III only} \qquad\textbf{(D)}\ \text{I and III only} \qquad\textbf{(E)}\ \text{II and III only}$
+ 

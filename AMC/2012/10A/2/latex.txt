@@ -1,0 +1,4 @@
+A square with side length 8 is cut in half, creating two congruent rectangles. What are the dimensions of one of these rectangles?
+ 
+$\textbf{(A)}\ 2\ \text{by}\ 4\qquad\textbf{(B)}\ \ 2\ \text{by}\ 6\qquad\textbf{(C)}\ \ 2\ \text{by}\ 8\qquad\textbf{(D)}\ 4\ \text{by}\ 4\qquad\textbf{(E)}\ 4\ \text{by}\ 8$
+ 

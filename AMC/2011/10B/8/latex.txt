@@ -1,0 +1,12 @@
+At a certain beach if it is at least $80^{\circ} F$ and sunny, then the beach will be crowded. On June 10 the beach was not crowded. What can be concluded about the weather conditions on June 10?
+ 
+$\textbf{(A)}\ \text{The temperature was cooler than } 80^{\circ} \text{F and it was not sunny.}$
+ 
+$\textbf{(B)}\ \text{The temperature was cooler than } 80^{\circ} \text{F or it was not sunny.}$
+ 
+$\textbf{(C)}\ \text{If the temperature was at least } 80^{\circ} \text{F, then it was sunny.}$
+ 
+$\textbf{(D)}\ \text{If the temperature was cooler than } 80^{\circ} \text{F, then it was sunny.}$
+ 
+$\textbf{(E)}\ \text{If the temperature was cooler than } 80^{\circ} \text{F, then it was not sunny.}$
+ 

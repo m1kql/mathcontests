@@ -1,0 +1,4 @@
+The first four terms in an arithmetic sequence are $x+y$, $x-y$, $xy$, and $\frac{x}{y}$, in that order. What is the fifth term? 
+ 
+$\textbf{(A)}\ -\frac{15}{8}\qquad\textbf{(B)}\ -\frac{6}{5}\qquad\textbf{(C)}\ 0\qquad\textbf{(D)}\ \frac{27}{20}\qquad\textbf{(E)}\ \frac{123}{40}$
+ 

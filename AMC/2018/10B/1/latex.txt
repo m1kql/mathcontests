@@ -1,0 +1,4 @@
+Kate bakes a $20$-inch by $18$-inch pan of cornbread. The cornbread is cut into pieces that measure $2$ inches by $2$ inches. How many pieces of cornbread does the pan contain?
+ 
+$\textbf{(A) } 90 \qquad \textbf{(B) } 100 \qquad \textbf{(C) } 180 \qquad \textbf{(D) } 200 \qquad \textbf{(E) } 360$
+ 

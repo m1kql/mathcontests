@@ -1,0 +1,4 @@
+Six chairs are evenly spaced around a circular table. One person is seated in each chair. Each person gets up and sits down in a chair that is not the same and is not adjacent to the chair he or she originally occupied, so that again one person is seated in each chair. In how many ways can this be done?
+ 
+$\textbf{(A)}\; 14 \qquad\textbf{(B)}\; 16 \qquad\textbf{(C)}\; 18 \qquad\textbf{(D)}\; 20 \qquad\textbf{(E)}\; 24$
+ 

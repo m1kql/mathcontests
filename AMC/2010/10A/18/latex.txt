@@ -1,0 +1,4 @@
+Bernardo randomly picks 3 distinct numbers from the set $\{1,2,3,4,5,6,7,8,9\}$ and arranges them in descending order to form a 3-digit number. Silvia randomly picks 3 distinct numbers from the set $\{1,2,3,4,5,6,7,8\}$ and also arranges them in descending order to form a 3-digit number. What is the probability that Bernardo's number is larger than Silvia's number?
+ 
+$\textbf{(A)}\ \frac{47}{72} \qquad \textbf{(B)}\ \frac{37}{56} \qquad \textbf{(C)}\ \frac{2}{3} \qquad \textbf{(D)}\ \frac{49}{72} \qquad \textbf{(E)}\ \frac{39}{56}$
+ 

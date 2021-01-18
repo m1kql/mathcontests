@@ -1,0 +1,4 @@
+Among the positive integers less than 100, each of whose digits is a prime number, one is selected at random. What is the probability that the selected number is prime?
+ 
+$\textbf{(A)} \dfrac{8}{99}\qquad \textbf{(B)} \dfrac{2}{5}\qquad \textbf{(C)} \dfrac{9}{20}\qquad \textbf{(D)} \dfrac{1}{2}\qquad \textbf{(E)} \dfrac{9}{16}$
+ 

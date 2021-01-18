@@ -1,0 +1,4 @@
+On an algebra quiz, $10\%$ of the students scored $70$ points, $35\%$ scored $80$ points, $30\%$ scored $90$ points, and the rest scored $100$ points. What is the difference between the mean and median score of the students' scores on this quiz?
+ 
+$\textbf{(A)}\ 1\qquad\textbf{(B)}\ 2\qquad\textbf{(C)}\ 3\qquad\textbf{(D)}\ 4\qquad\textbf{(E)}\ 5$
+ 

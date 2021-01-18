@@ -1,0 +1,4 @@
+Nebraska, the home of the AMC, changed its license plate scheme. Each old license plate consisted of a letter followed by four digits. Each new license plate consists of the three letters followed by three digits. By how many times is the number of possible license plates increased?
+ 
+$\textbf{(A) } \frac{26}{10} \qquad\textbf{(B) } \frac{26^2}{10^2} \qquad\textbf{(C) } \frac{26^2}{10} \qquad\textbf{(D) } \frac{26^3}{10^3} \qquad\textbf{(E) } \frac{26^3}{10^2}$
+ 

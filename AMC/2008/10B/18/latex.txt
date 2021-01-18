@@ -1,0 +1,4 @@
+Bricklayer Brenda would take nine hours to build a chimney alone, and bricklayer Brandon would take $10$ hours to build it alone. When they work together, they talk a lot, and their combined output decreases by $10$ bricks per hour. Working together, they build the chimney in $5$ hours. How many bricks are in the chimney?
+ 
+$\mathrm{(A)}\ 500\qquad\mathrm{(B)}\ 900\qquad\mathrm{(C)}\ 950\qquad\mathrm{(D)}\ 1000\qquad\mathrm{(E)}\ 1900$
+ 

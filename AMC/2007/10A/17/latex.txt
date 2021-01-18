@@ -1,0 +1,4 @@
+Suppose that $m$ and $n$ are positive integers such that $75m = n^{3}$. What is a minimum possible value of $m + n$?
+ 
+$\text{(A)}\ 15 \qquad \text{(B)}\ 30 \qquad \text{(C)}\ 50 \qquad \text{(D)}\ 60 \qquad \text{(E)}\ 5700$
+ 

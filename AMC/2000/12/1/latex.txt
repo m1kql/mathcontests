@@ -1,0 +1,4 @@
+In the year $2001$, the United States will host the International Mathematical Olympiad.  Let $I,M,$ and $O$ be distinct positive integers such that the product $I \cdot M \cdot O = 2001$.  What is the largest possible value of the sum $I + M + O$?
+ 
+$\text{(A)}\ 23 \qquad \text{(B)}\ 55 \qquad \text{(C)}\ 99 \qquad \text{(D)}\ 111 \qquad \text{(E)}\ 671$
+ 

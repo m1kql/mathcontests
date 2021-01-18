@@ -1,0 +1,4 @@
+The number of $x$-intercepts on the graph of $y=\sin(1/x)$ in the interval $(0.0001,0.001)$ is closest to
+ 
+$\mathrm{(A)}\ 2900 \qquad\mathrm{(B)}\ 3000 \qquad\mathrm{(C)}\ 3100 \qquad\mathrm{(D)}\ 3200 \qquad\mathrm{(E)}\ 3300$
+ 

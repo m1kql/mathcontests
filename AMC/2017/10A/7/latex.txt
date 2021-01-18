@@ -1,0 +1,4 @@
+Jerry and Silvia wanted to go from the southwest corner of a square field to the northeast corner. Jerry walked due east and then due north to reach the goal, but Silvia headed northeast and reached the goal walking in a straight line. Which of the following is closest to how much shorter Silvia's trip was, compared to Jerry's trip?
+ 
+$\textbf{(A)}\ 30\%\qquad\textbf{(B)}\ 40\%\qquad\textbf{(C)}\ 50\%\qquad\textbf{(D)}\ 60\%\qquad\textbf{(E)}\ 70\%$
+ 

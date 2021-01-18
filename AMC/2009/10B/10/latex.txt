@@ -1,0 +1,4 @@
+A flagpole is originally $5$ meters tall. A hurricane snaps the flagpole at a point $x$ meters above the ground so that the upper part, still attached to the stump, touches the ground $1$ meter away from the base. What is $x$?
+ 
+$\text{(A) } 2.0 \qquad \text{(B) } 2.1 \qquad \text{(C) } 2.2 \qquad \text{(D) } 2.3 \qquad \text{(E) } 2.4$
+ 

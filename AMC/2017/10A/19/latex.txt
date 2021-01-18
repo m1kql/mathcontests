@@ -1,0 +1,4 @@
+Alice refuses to sit next to either Bob or Carl. Derek refuses to sit next to Eric. How many ways are there for the five of them to sit in a row of $5$ chairs under these conditions?
+ 
+$\textbf{(A)}\ 12\qquad\textbf{(B)}\ 16\qquad\textbf{(C)}\ 28\qquad\textbf{(D)}\ 32\qquad\textbf{(E)}\ 40$
+ 

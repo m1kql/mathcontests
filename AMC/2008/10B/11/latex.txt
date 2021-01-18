@@ -1,0 +1,6 @@
+Suppose that $(u_n)$ is a sequence of real numbers satifying $u_{n+2}=2u_{n+1}+u_n$,
+ 
+and that $u_3=9$ and $u_6=128$. What is $u_5$?
+ 
+$\mathrm{(A)}\ 40\qquad\mathrm{(B)}\ 53\qquad\mathrm{(C)}\ 68\qquad\mathrm{(D)}\ 88\qquad\mathrm{(E)}\ 104$
+ 

@@ -1,0 +1,4 @@
+Cozy the Cat and Dash the Dog are going up a staircase with a certain number of steps.  However, instead of walking up the steps one at a time, both Cozy and Dash jump.  Cozy goes two steps up with each jump (though if necessary, he will just jump the last step).  Dash goes five steps up with each jump (though if necessary, he will just jump the last steps if there are fewer than $5$ steps left).  Suppose the Dash takes $19$ fewer jumps than Cozy to reach the top of the staircase.  Let $s$ denote the sum of all possible numbers of steps this staircase can have.  What is the sum of the digits of $s$?
+ 
+$\textbf{(A) }9\qquad\textbf{(B) }11\qquad\textbf{(C) }12\qquad\textbf{(D) }13\qquad\textbf{(E) }15$
+ 

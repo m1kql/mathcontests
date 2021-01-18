@@ -1,0 +1,4 @@
+Forty slips are placed into a hat, each bearing a number $1$, $2$, $3$, $4$, $5$, $6$, $7$, $8$, $9$, or $10$, with each number entered on four slips. Four slips are drawn from the hat at random and without replacement. Let $p$ be the probability that all four slips bear the same number. Let $q$ be the probability that two of the slips bear a number $a$ and the other two bear a number $b \neq a$. What is the value of $q/p$?
+ 
+$\mathrm{(A)} 162 \qquad \mathrm{(B)} 180 \qquad \mathrm{(C)} 324 \qquad \mathrm{(D)} 360 \qquad \mathrm{(E)} 720$
+ 

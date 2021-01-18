@@ -1,0 +1,2 @@
+Let $x_1<x_2<x_3$ be the three real roots of the equation $\sqrt{2014}x^3-4029x^2+2=0$. Find $x_2(x_1+x_3)$.
+ 

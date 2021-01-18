@@ -1,0 +1,2 @@
+There are $N$ permutations $(a_{1}, a_{2}, ... , a_{30})$ of $1, 2, \ldots, 30$ such that for $m \in \left\{{2, 3, 5}\right\}$, $m$ divides $a_{n+m} - a_{n}$ for all integers $n$ with $1 \leq n < n+m \leq 30$. Find the remainder when $N$ is divided by $1000$.
+ 

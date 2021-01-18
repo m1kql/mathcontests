@@ -1,0 +1,4 @@
+Let $v, w, x, y,$ and $z$ be the degree measures of the five angles of a pentagon. Suppose that $v < w < x < y < z$ and $v, w, x, y,$ and $z$ form an arithmetic sequence. Find the value of $x$.
+ 
+$\mathrm{(A)}\ 72 \qquad\mathrm{(B)}\ 84 \qquad\mathrm{(C)}\ 90 \qquad\mathrm{(D)}\ 108 \qquad\mathrm{(E)}\ 120$
+ 

@@ -1,0 +1,4 @@
+The sum of the base-$10$ logarithms of the divisors of $10^n$ is $792$. What is $n$?
+ 
+$\text{(A)}\ 11\qquad \text{(B)}\ 12\qquad \text{(C)}\ 13\qquad \text{(D)}\ 14\qquad \text{(E)}\ 15$
+ 

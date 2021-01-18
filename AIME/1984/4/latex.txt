@@ -1,0 +1,2 @@
+Let $\displaystyle S$ be a list of positive integers - not necessarily distinct - in which the number $\displaystyle 68$ appears. The arithmetic mean of the numbers in $\displaystyle S$ is $\displaystyle 56$. However, if $\displaystyle 68$ is removed, the arithmetic mean of the numbers is $\displaystyle 55$. What's the largest number that can appear in $\displaystyle S$?
+ 

@@ -1,0 +1,4 @@
+How many ordered triples $(x,y,z)$ of positive integers satisfy $\text{lcm}(x,y) = 72, \text{lcm}(x,z) = 600$ and $\text{lcm}(y,z)=900$?
+ 
+$\textbf{(A)}\ 15\qquad\textbf{(B)}\ 16\qquad\textbf{(C)}\ 24\qquad\textbf{(D)}\ 27\qquad\textbf{(E)}\ 64$
+ 

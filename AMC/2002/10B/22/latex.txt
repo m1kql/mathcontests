@@ -1,0 +1,4 @@
+Let $\triangle XOY$ be a right-angled triangle with $m\angle XOY = 90^{\circ}$. Let $M$ and $N$ be the midpoints of legs $OX$ and $OY$, respectively. Given that $XN = 19$ and $YM = 22$, find $XY$. 
+ 
+$\mathrm{(A)}\ 24 \qquad\mathrm{(B)}\ 26 \qquad\mathrm{(C)}\ 28 \qquad\mathrm{(D)}\ 30 \qquad\mathrm{(E)}\ 32$
+ 

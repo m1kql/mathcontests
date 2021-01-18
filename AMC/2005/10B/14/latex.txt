@@ -1,0 +1,4 @@
+Equilateral $\triangle ABC$ has side length $2$, $M$ is the midpoint of $\overline{AC}$, and $C$ is the midpoint of $\overline{BD}$. What is the area of $\triangle CDM$?
+ 
+$\textrm{(A)}\ \frac {\sqrt {2}}{2}\qquad \textrm{(B)}\ \frac {3}{4}\qquad \textrm{(C)}\ \frac {\sqrt {3}}{2}\qquad \textrm{(D)}\ 1\qquad \textrm{(E)}\ \sqrt {2}$
+ 

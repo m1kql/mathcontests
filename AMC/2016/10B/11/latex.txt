@@ -1,0 +1,4 @@
+Carl decided to fence in his rectangular garden. He bought $20$ fence posts, placed one on each of the four corners, and spaced out the rest evenly along the edges of the garden, leaving exactly $4$ yards between neighboring posts. The longer side of his garden, including the corners, has twice as many posts as the shorter side, including the corners. What is the area, in square yards, of Carl’s garden?
+ 
+$\textbf{(A)}\ 256\qquad\textbf{(B)}\ 336\qquad\textbf{(C)}\ 384\qquad\textbf{(D)}\ 448\qquad\textbf{(E)}\ 512$
+ 

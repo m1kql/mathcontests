@@ -1,0 +1,4 @@
+A sequence of three real numbers forms an arithmetic progression with a first term of $9$. If $2$ is added to the second term and $20$ is added to the third term, the three resulting numbers form a geometric progression. What is the smallest possible value for the third term in the geometric progression?
+ 
+$\text {(A)}\ 1 \qquad \text {(B)}\ 4 \qquad \text {(C)}\ 36 \qquad \text {(D)}\ 49 \qquad \text {(E)}\ 81$
+ 

@@ -1,0 +1,5 @@
+
+Elmo makes $N$ sandwiches for a fundraiser. For each sandwich he uses $B$ globs of peanut butter at $4$ cents per glob and $J$ blobs of jam at $5$ cents per blob. The cost of the peanut butter and jam to make all the sandwiches is \textdollar 2.53. Assume that $B$, $J$, and $N$ are positive integers with $N>1$. What is the cost of the jam Elmo uses to make the sandwiches?
+
+\textbf{(A) \ } \textdollar 1.05\qquad \textbf{(B) \ } \textdollar 1.25\qquad \textbf{(C) \ } \textdollar  1.45\qquad \textbf{(D) \ } \textdollar 1.65\qquad \textbf{(E) \ } \textdollar 1.85
+

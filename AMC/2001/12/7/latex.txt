@@ -1,0 +1,5 @@
+
+A charity sells $140$ benefit tickets for a total of $2001$. Some tickets sell for full price (a whole dollar amount), and the rest sells for half price. How much money is raised by the full-price tickets?
+
+\textbf{(A) } \textdollar 782 \qquad \textbf{(B) } \textdollar 986 \qquad \textbf{(C) } \textdollar 1158 \qquad \textbf{(D) } \textdollar 1219 \qquad \textbf{(E) }\ \textdollar 1449
+

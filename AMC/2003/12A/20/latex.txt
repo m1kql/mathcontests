@@ -1,0 +1,4 @@
+How many $15$-letter arrangements of $5$ A's, $5$ B's, and $5$ C's have no A's in the first $5$ letters, no B's in the next $5$ letters, and no C's in the last $5$ letters?
+ 
+$\textrm{(A)}\ \sum_{k=0}^{5}\binom{5}{k}^{3}\qquad\textrm{(B)}\ 3^{5}\cdot 2^{5}\qquad\textrm{(C)}\ 2^{15}\qquad\textrm{(D)}\ \frac{15!}{(5!)^{3}}\qquad\textrm{(E)}\ 3^{15}$
+ 

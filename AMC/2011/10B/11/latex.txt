@@ -1,0 +1,4 @@
+There are $52$ people in a room. what is the largest value of $n$ such that the statement "At least $n$ people in this room have birthdays falling in the same month" is always true?
+ 
+$\textbf{(A)}\ 2 \qquad\textbf{(B)}\ 3 \qquad\textbf{(C)}\ 4 \qquad\textbf{(D)}\ 5 \qquad\textbf{(E)}\ 12$
+ 

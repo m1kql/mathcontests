@@ -1,0 +1,4 @@
+If $\sum_{n = 0}^{\infty}{\cos^{2n}}\theta = 5$, what is the value of $\cos{2\theta}$?
+ 
+$\text {(A)} \frac15 \qquad \text {(B)} \frac25 \qquad \text {(C)} \frac {\sqrt5}{5}\qquad \text {(D)} \frac35 \qquad \text {(E)}\frac45$
+ 

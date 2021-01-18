@@ -1,0 +1,4 @@
+The numbers $\log(a^3b^7)$, $\log(a^5b^{12})$, and $\log(a^8b^{15})$ are the first three terms of an arithmetic sequence, and the $12^\text{th}$ term of the sequence is $\log{b^n}$. What is $n$?
+ 
+$\mathrm{(A)}\ 40\qquad\mathrm{(B)}\ 56\qquad\mathrm{(C)}\ 76\qquad\mathrm{(D)}\ 112\qquad\mathrm{(E)}\ 143$
+ 

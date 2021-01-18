@@ -1,0 +1,6 @@
+The parabolas $y=ax^2 - 2$ and $y=4 - bx^2$ intersect the coordinate axes in exactly four points, and these four points are the vertices of a kite of area $12$. What is $a+b$?
+ 
+$\textbf{(A)}\ 1\qquad\textbf{(B)}\ 1.5\qquad\textbf{(C)}\ 2\qquad\textbf{(D)}\ 2.5\qquad\textbf{(E)}\ 3$
+ 
+
+ 

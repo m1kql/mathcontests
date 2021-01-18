@@ -1,0 +1,4 @@
+Let $f$ be a function satisfying $f(xy) = \frac{f(x)}y$ for all positive real numbers $x$ and $y$. If $f(500) =3$, what is the value of $f(600)$?
+ 
+$(\mathrm{A})\ 1 \qquad (\mathrm{B})\ 2 \qquad (\mathrm{C})\ \frac52 \qquad (\mathrm{D})\ 3 \qquad (\mathrm{E})\ \frac{18}5$
+ 

@@ -1,0 +1,6 @@
+Two circles of radius $5$ are externally tangent to each other and are internally tangent to a circle of radius $13$ at points  $A$ and $B$, as shown in the diagram. The distance $AB$ can be written in the form $\tfrac{m}{n}$, where $m$ and $n$ are relatively prime positive integers. What is $m+n$?
+ 
+
+ 
+$\textbf{(A) }   21   \qquad    \textbf{(B) }  29   \qquad    \textbf{(C) }  58   \qquad   \textbf{(D) } 69 \qquad  \textbf{(E) }   93$
+ 

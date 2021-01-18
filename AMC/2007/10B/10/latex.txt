@@ -1,0 +1,4 @@
+Two points $B$ and $C$ are in a plane. Let $S$ be the set of all points $A$ in the plane for which $\triangle ABC$ has area $1.$ Which of the following describes $S?$
+ 
+$\textbf{(A) } \text{two parallel lines} \qquad\textbf{(B) } \text{a parabola} \qquad\textbf{(C) } \text{a circle} \qquad\textbf{(D) } \text{a line segment} \qquad\textbf{(E) } \text{two points}$
+ 

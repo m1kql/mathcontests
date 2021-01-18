@@ -1,0 +1,4 @@
+A clock chimes once at $30$ minutes past each hour and chimes on the hour according to the hour. For example, at $1 \text{PM}$ there is one chime and at noon and midnight there are twelve chimes. Starting at $11:15 \text{AM}$ on $\text{February 26, 2003},$ on what date will the $2003^{\text{rd}}$ chime occur?
+ 
+$\textbf{(A) } \text{March 8} \qquad\textbf{(B) } \text{March 9} \qquad\textbf{(C) } \text{March 10} \qquad\textbf{(D) } \text{March 20} \qquad\textbf{(E) } \text{March 21}$
+ 

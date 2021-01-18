@@ -1,0 +1,4 @@
+The solutions to the equation $(z+6)^8=81$ are connected in the complex plane to form a convex regular polygon, three of whose vertices are labeled $A,B,$ and $C$. What is the least possible area of $\triangle ABC?$
+ 
+$\textbf{(A) } \frac{1}{6}\sqrt{6} \qquad \textbf{(B) } \frac{3}{2}\sqrt{2}-\frac{3}{2} \qquad \textbf{(C) } 2\sqrt3-3\sqrt2 \qquad \textbf{(D) } \frac{1}{2}\sqrt{2} \qquad \textbf{(E) } \sqrt 3-1$
+ 

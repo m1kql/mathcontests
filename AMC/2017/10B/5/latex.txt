@@ -1,0 +1,4 @@
+Camilla had twice as many blueberry jelly beans as cherry jelly beans. After eating 10 pieces of each kind, she now has three times as many blueberry jelly beans as cherry jelly beans. How many blueberry jelly beans did she originally have?
+ 
+$\textbf{(A)}\ 10\qquad\textbf{(B)}\ 20\qquad\textbf{(C)}\ 30\qquad\textbf{(D)}\ 40\qquad\textbf{(E)}\ 50$
+ 

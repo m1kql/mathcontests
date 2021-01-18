@@ -1,0 +1,2 @@
+The equation $2^{333x-2} + 2^{111x+2} = 2^{222x+1} + 1$ has three real roots. Given that their sum is $\frac mn$ where $m$ and $n$ are relatively prime positive integers, find $m+n.$
+ 

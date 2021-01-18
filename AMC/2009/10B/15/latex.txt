@@ -1,0 +1,4 @@
+When a bucket is two-thirds full of water, the bucket and water weigh $a$ kilograms. When the bucket is one-half full of water the total weight is $b$ kilograms. In terms of $a$ and $b$, what is the total weight in kilograms when the bucket is full of water?
+ 
+$\mathrm{(A)}\ \frac23a + \frac13b\qquad \mathrm{(B)}\ \frac32a - \frac12b\qquad \mathrm{(C)}\ \frac32a + b\qquad \mathrm{(D)}\ \frac32a + 2b\qquad \mathrm{(E)}\ 3a - 2b$
+ 

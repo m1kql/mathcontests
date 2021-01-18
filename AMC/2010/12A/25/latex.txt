@@ -1,0 +1,4 @@
+Two quadrilaterals are considered the same if one can be obtained from the other by a rotation and a translation. How many different convex cyclic quadrilaterals are there with integer sides and perimeter equal to 32?
+ 
+$\textbf{(A)}\ 560 \qquad \textbf{(B)}\ 564 \qquad \textbf{(C)}\ 568 \qquad \textbf{(D)}\ 1498 \qquad \textbf{(E)}\ 2255$
+ 

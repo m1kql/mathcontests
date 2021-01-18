@@ -1,0 +1,4 @@
+The two squares shown share the same center $O_{}$ and have sides of length 1. The length of $\overline{AB}$ is $43/99$ and the area of octagon $ABCDEFGH$ is $m/n,$ where $m_{}$ and $n_{}$ are relatively prime positive integers.  Find $m+n.$
+ 
+
+ 

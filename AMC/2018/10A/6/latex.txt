@@ -1,0 +1,4 @@
+Sangho uploaded a video to a website where viewers can vote that they like or dislike a video. Each video begins with a score of 0, and the score increases by 1 for each like vote and decreases by 1 for each dislike vote. At one point Sangho saw that his video had a score of 90, and that $65\%$ of the votes cast on his video were like votes. How many votes had been cast on Sangho's video at that point?
+ 
+$\textbf{(A) }   200   \qquad        \textbf{(B) }   300   \qquad    \textbf{(C) }   400   \qquad   \textbf{(D) }  500  \qquad  \textbf{(E) }   600$
+ 

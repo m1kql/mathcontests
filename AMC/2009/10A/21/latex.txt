@@ -1,0 +1,6 @@
+Many Gothic cathedrals have windows with portions containing a ring of congruent circles that are circumscribed by a larger circle, In the figure shown, the number of smaller circles is four. What is the ratio of the sum of the areas of the four smaller circles to the area of the larger circle? 
+ 
+
+ 
+$\mathrm{(A)}\ 3-2\sqrt2 \qquad \mathrm{(B)}\ 2-\sqrt2 \qquad \mathrm{(C)}\ 4(3-2\sqrt2) \qquad \mathrm{(D)}\ \frac12(3-\sqrt2) \qquad \mathrm{(E)}\ 2\sqrt2-2$
+ 

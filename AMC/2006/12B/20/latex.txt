@@ -1,0 +1,10 @@
+Let $x$ be chosen at random from the interval $(0,1)$. What is the probability that
+ 
+$\lfloor\log_{10}4x\rfloor - \lfloor\log_{10}x\rfloor = 0$?
+ 
+Here $\lfloor x\rfloor$ denotes the greatest integer that is less than or equal to $x$.
+ 
+
+ 
+$\mathrm{(A)}\ \frac 18 \qquad \mathrm{(B)}\ \frac 3{20} \qquad \mathrm{(C)}\ \frac 16 \qquad \mathrm{(D)}\ \frac 15  \qquad \mathrm{(E)}\ \frac 14$
+ 

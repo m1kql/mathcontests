@@ -1,0 +1,1 @@
+There are $n$ people at a party. Prove that there are two people such that, of the remaining $n-2$ people, there are at least $\lfloor n/2\rfloor -1$ of them, each of whom knows both or else  knows neither of the two. Assume that "know" is a symmetrical relation; $\lfloor x\rfloor$ denotes the greatest integer less than or equal to $x$.

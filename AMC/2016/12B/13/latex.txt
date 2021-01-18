@@ -1,0 +1,4 @@
+Alice and Bob live $10$ miles apart. One day Alice looks due north from her house and sees an airplane. At the same time Bob looks due west from his house and sees the same airplane. The angle of elevation of the airplane is $30^\circ$ from Alice's position and $60^\circ$ from Bob's position. Which of the following is closest to the airplane's altitude, in miles?
+ 
+$\textbf{(A)}\ 3.5 \qquad\textbf{(B)}\ 4 \qquad\textbf{(C)}\ 4.5 \qquad\textbf{(D)}\ 5 \qquad\textbf{(E)}\ 5.5$
+ 

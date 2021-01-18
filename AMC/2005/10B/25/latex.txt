@@ -1,0 +1,4 @@
+A subset $B$ of the set of integers from $1$ to $100$, inclusive, has the property that no two elements of $B$ sum to $125$. What is the maximum possible number of elements in $B$?
+ 
+$\mathrm{(A)} 50 \qquad \mathrm{(B)} 51 \qquad \mathrm{(C)} 62 \qquad \mathrm{(D)} 65 \qquad \mathrm{(E)} 68$
+ 

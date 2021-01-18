@@ -1,0 +1,4 @@
+Let $ABCDEF$ be a regular hexagon with side length $1$. Denote by $X$, $Y$, and $Z$ the midpoints of sides $\overline {AB}$, $\overline{CD}$, and $\overline{EF}$, respectively. What is the area of the convex hexagon whose interior is the intersection of the interiors of $\triangle ACE$ and $\triangle XYZ$?
+ 
+$\textbf{(A)} \frac {3}{8}\sqrt{3} \qquad \textbf{(B)} \frac {7}{16}\sqrt{3} \qquad \textbf{(C)} \frac {15}{32}\sqrt{3} \qquad  \textbf{(D)} \frac {1}{2}\sqrt{3} \qquad \textbf{(E)} \frac {9}{16}\sqrt{3} \qquad$
+ 

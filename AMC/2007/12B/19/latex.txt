@@ -1,0 +1,4 @@
+Rhombus $ABCD$, with side length $6$, is rolled to form a cylinder of volume $6$ by taping $\overline{AB}$ to $\overline{DC}$. What is $\sin(\angle ABC)$?
+ 
+$\mathrm{(A)}\ \frac{\pi}{9} \qquad \mathrm{(B)}\ \frac{1}{2} \qquad \mathrm{(C)}\ \frac{\pi}{6} \qquad \mathrm{(D)}\ \frac{\pi}{4} \qquad \mathrm{(E)}\ \frac{\sqrt{3}}{2}$
+ 

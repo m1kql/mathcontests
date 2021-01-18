@@ -1,0 +1,4 @@
+If $a,b,c,d$ are positive real numbers such that $a,b,c,d$ form an increasing arithmetic sequence and $a,b,d$ form a geometric sequence, then $\frac ad$ is
+ 
+$\mathrm{(A)}\ \frac 1{12} \qquad\mathrm{(B)}\ \frac 16 \qquad\mathrm{(C)}\ \frac 14 \qquad\mathrm{(D)}\ \frac 13 \qquad\mathrm{(E)}\ \frac 12$
+ 

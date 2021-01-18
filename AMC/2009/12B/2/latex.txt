@@ -1,0 +1,4 @@
+Paula the painter had just enough paint for 30 identically sized rooms.  Unfortunately, on the way to work, three cans of paint fell off her truck, so she had only enough paint for 25 rooms.  How many cans of paint did she use for the 25 rooms?
+ 
+$\mathrm{(A)}\ 10\qquad \mathrm{(B)}\ 12\qquad \mathrm{(C)}\ 15\qquad \mathrm{(D)}\ 18\qquad \mathrm{(E)}\ 25$
+ 

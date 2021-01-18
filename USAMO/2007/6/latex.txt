@@ -1,0 +1,3 @@
+(Kiran Kedlaya, Sungyoon Kim) Let $ABC$ be an acute triangle with $\omega$, $\Omega$, and $R$ being its incircle, circumcircle, and circumradius, respectively.  Circle $\omega_A$ is tangent internally to $\Omega$ at $A$ and tangent externally to $\omega$.  Circle $\Omega_A$ is tangent internally to $\Omega$ at $A$ and tangent internally to $\omega$.  Let $P_A$ and $Q_A$ denote the centers of $\omega_A$ and $\Omega_A$, respectively.  Define points $P_B$, $Q_B$, $P_C$, $Q_C$ analogously.  Prove that
+ \begin{center} \[8P_AQ_A \cdot P_BQ_B \cdot P_CQ_C \le R^3,\] \end{center} 
+with equality if and only if triangle $ABC$ is equilateral.

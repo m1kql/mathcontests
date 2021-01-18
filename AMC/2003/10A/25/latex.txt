@@ -1,0 +1,4 @@
+Let $n$ be a $5$-digit number, and let $q$ and $r$ be the quotient and the remainder, respectively, when $n$ is divided by $100$. For how many values of $n$ is $q+r$ divisible by $11$? 
+ 
+$\mathrm{(A) \ } 8180\qquad \mathrm{(B) \ } 8181\qquad \mathrm{(C) \ } 8182\qquad \mathrm{(D) \ } 9000\qquad \mathrm{(E) \ } 9090$
+ 

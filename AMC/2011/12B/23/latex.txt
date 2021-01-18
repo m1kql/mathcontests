@@ -1,0 +1,4 @@
+A bug travels in the coordinate plane, moving only along the lines that are parallel to the $x$-axis or $y$-axis. Let $A = (-3, 2)$ and $B = (3, -2)$. Consider all possible paths of the bug from $A$ to $B$ of length at most $20$. How many points with integer coordinates lie on at least one of these paths?
+ 
+$\textbf{(A)}\ 161 \qquad \textbf{(B)}\ 185 \qquad \textbf{(C)}\  195 \qquad \textbf{(D)}\  227 \qquad \textbf{(E)}\  255$
+ 

@@ -1,0 +1,4 @@
+Points $E$ and $F$ are located on square $ABCD$ so that $\triangle BEF$ is equilateral. What is the ratio of the area of $\triangle DEF$ to that of $\triangle ABE$?
+ 
+$\mathrm{(A) \ } \frac{4}{3} \qquad \mathrm{(B) \ } \frac{3}{2} \qquad \mathrm{(C) \ } \sqrt{3} \qquad \mathrm{(D) \ } 2 \qquad \mathrm{(E) \ } 1+\sqrt{3}$
+ 

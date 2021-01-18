@@ -1,0 +1,4 @@
+Johann has $64$ fair coins. He flips all the coins. Any coin that lands on tails is tossed again. Coins that land on tails on the second toss are tossed a third time. What is the expected number of coins that are now heads?
+ 
+$\textbf{(A) } 32 \qquad\textbf{(B) } 40 \qquad\textbf{(C) } 48 \qquad\textbf{(D) } 56 \qquad\textbf{(E) } 64$
+ 

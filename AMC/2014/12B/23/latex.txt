@@ -1,0 +1,4 @@
+The number 2017 is prime.  Let $S = \sum \limits_{k=0}^{62} \dbinom{2014}{k}$.  What is the remainder when $S$ is divided by 2017?
+ 
+$\textbf{(A) }32\qquad \textbf{(B) }684\qquad \textbf{(C) }1024\qquad \textbf{(D) }1576\qquad \textbf{(E) }2016\qquad$
+ 

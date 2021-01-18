@@ -1,0 +1,4 @@
+Objects $A$ and $B$ move simultaneously in the coordinate plane via a sequence of steps, each of length one. Object $A$ starts at $(0,0)$ and each of its steps is either right or up, both equally likely. Object $B$ starts at $(5,7)$ and each of its steps is either to the left or down, both equally likely. Which of the following is closest to the probability that the objects meet?
+ 
+$\mathrm{(A)} \ 0.10 \qquad \mathrm{(B)} \ 0.15 \qquad \mathrm{(C)} \ 0.20 \qquad \mathrm{(D)} \ 0.25 \qquad \mathrm{(E)} \ 0.30 \qquad$
+ 

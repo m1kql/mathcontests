@@ -1,0 +1,6 @@
+Square $ABCD$ has side length $2$. A semicircle with diameter $\overline{AB}$ is constructed inside the square, and the tangent to the semicircle from $C$ intersects side $\overline{AD}$ at $E$. What is the length of $\overline{CE}$?
+ 
+
+ 
+$\mathrm{(A) \ } \frac{2+\sqrt{5}}{2} \qquad \mathrm{(B) \ } \sqrt{5} \qquad \mathrm{(C) \ } \sqrt{6} \qquad \mathrm{(D) \ } \frac{5}{2} \qquad \mathrm{(E) \ } 5-\sqrt{5}$
+ 

@@ -1,0 +1,4 @@
+A bug starts at one vertex of a cube and moves along the edges of the cube according to the following rule. At each vertex the bug will choose to travel along one of the three edges emanating from that vertex. Each edge has equal probability of being chosen, and all choices are independent. What is the probability that after seven moves the bug will have visited every vertex exactly once?
+ 
+$\mathrm{(A) \ } \frac{1}{2187}\qquad \mathrm{(B) \ } \frac{1}{729}\qquad \mathrm{(C) \ } \frac{2}{243}\qquad \mathrm{(D) \ } \frac{1}{81} \qquad \mathrm{(E) \ }  \frac{5}{243}$
+ 

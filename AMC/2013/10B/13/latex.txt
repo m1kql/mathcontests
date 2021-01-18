@@ -1,0 +1,4 @@
+Jo and Blair take turns counting from $1$ to one more than the last number said by the other person. Jo starts by saying $``1"$, so Blair follows by saying $``1, 2"$. Jo then says $``1, 2, 3"$, and so on. What is the $53^{\text{rd}}$ number said?
+ 
+$\textbf{(A)}\ 2 \qquad \textbf{(B)}\ 3 \qquad \textbf{(C)}\ 5 \qquad \textbf{(D)}\ 6 \qquad \textbf{(E)}\ 8$
+ 

@@ -1,0 +1,4 @@
+Francesca uses 100 grams of lemon juce, 100 grams of sugar, and 400 grams of water to make lemonade. There are 25 calories in 100 grams of lemon juice and 386 calories in 100 grams of sugar. Water contains no calories. How many calories are in 200 grams of her lemonade? 
+ 
+$\mathrm{(A) \ } 129\qquad \mathrm{(B) \ } 137\qquad \mathrm{(C) \ } 174\qquad \mathrm{(D) \ } 233\qquad \mathrm{(E) \ } 411$
+ 

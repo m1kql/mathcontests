@@ -1,0 +1,6 @@
+In the figure, $ABCD$ is a square of side length $1$. The rectangles $JKHG$ and $EBCF$ are congruent. What is $BE$?
+ 
+
+ 
+$\textbf{(A) }\frac{1}{2}(\sqrt{6}-2)\qquad\textbf{(B) }\frac{1}{4}\qquad\textbf{(C) }2-\sqrt{3}\qquad\textbf{(D) }\frac{\sqrt{3}}{6}\qquad\textbf{(E) } 1-\frac{\sqrt{2}}{2}$
+ 

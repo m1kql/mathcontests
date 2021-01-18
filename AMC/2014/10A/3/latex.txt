@@ -1,0 +1,5 @@
+
+Bridget bakes 48 loaves of bread for her bakery. She sells half of them in the morning for \textdollar  2.50 each. In the afternoon she sells two thirds of what she has left, and because they are not fresh, she charges only half price. In the late afternoon she sells the remaining loaves at a dollar each. Each loaf costs \textdollar 0.75 for her to make. In dollars, what is her profit for the day?
+
+$\textbf{(A)}\ 24\qquad\textbf{(B)}\ 36\qquad\textbf{(C)}\ 44\qquad\textbf{(D)}\ 48\qquad\textbf{(E)}\ 52$
+

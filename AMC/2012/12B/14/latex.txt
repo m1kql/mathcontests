@@ -1,0 +1,4 @@
+Bernardo and Silvia play the following game. An integer between $0$ and $999$ inclusive is selected and given to Bernardo. Whenever Bernardo receives a number, he doubles it and passes the result to Silvia. Whenever Silvia receives a number, she adds $50$ to it and passes the result to Bernardo. The winner is the last person who produces a number less than $1000$. Let $N$ be the smallest initial number that results in a win for Bernardo. What is the sum of the digits of $N$?
+ 
+$\textbf{(A)}\ 7\qquad\textbf{(B)}\ 8\qquad\textbf{(C)}\ 9\qquad\textbf{(D)}\ 10\qquad\textbf{(E)}\ 11$
+ 

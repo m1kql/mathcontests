@@ -1,0 +1,4 @@
+How many three-digit numbers are composed of three distinct digits such that one digit is the average of the other two? 
+ 
+$\mathrm{(A)}\ 96\qquad \mathrm{(B)}\ 104\qquad \mathrm{(C)}\ 112\qquad \mathrm{(D)}\ 120\qquad \mathrm{(E)}\ 256$
+ 

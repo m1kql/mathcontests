@@ -1,0 +1,4 @@
+What is the remainder when $3^0 + 3^1 + 3^2 + \cdots + 3^{2009}$ is divided by 8?
+ 
+$\mathrm{(A)}\ 0\qquad \mathrm{(B)}\ 1\qquad \mathrm{(C)}\ 2\qquad \mathrm{(D)}\ 4\qquad \mathrm{(E)}\ 6$
+ 

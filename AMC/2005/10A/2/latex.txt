@@ -1,0 +1,8 @@
+For each pair of real numbers $a \neq b$, define the operation $\star$ as
+ 
+$(a \star b) = \frac{a+b}{a-b}$.
+ 
+What is the value of $((1 \star 2) \star 3)$?
+ 
+$\mathrm{(A) \ } -\frac{2}{3}\qquad \mathrm{(B) \ } -\frac{1}{5}\qquad \mathrm{(C) \ } 0\qquad \mathrm{(D) \ } \frac{1}{2}\qquad \mathrm{(E) \ } \textrm{This\, value\, is\, not\, defined.}$
+ 

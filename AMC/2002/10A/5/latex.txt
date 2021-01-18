@@ -1,0 +1,8 @@
+
+ 
+Each of the small circles in the figure has radius one. The innermost circle is tangent to the six circles that surround it, and each of those circles is tangent to the large circle and to its small-circle neighbors. Find the area of the shaded region.
+ 
+
+ 
+$\text{(A)}\ \pi \qquad \text{(B)}\ 1.5\pi \qquad \text{(C)}\ 2\pi \qquad \text{(D)}\ 3\pi \qquad \text{(E)}\ 3.5\pi$
+ 

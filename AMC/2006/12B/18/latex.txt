@@ -1,0 +1,4 @@
+An object in the plane moves from one lattice point to another. At each step, the object may move one unit to the right, one unit to the left, one unit up, or one unit down. If the object starts at the origin and takes a ten-step path, how many different points could be the final point?
+ 
+$\mathrm{(A)}\ 120 \qquad \mathrm{(B)}\ 121 \qquad \mathrm{(C)}\ 221 \qquad \mathrm{(D)}\ 230 \qquad \mathrm{(E)}\ 231$
+ 

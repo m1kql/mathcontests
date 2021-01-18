@@ -1,0 +1,4 @@
+A set $S$ is constructed as follows. To begin, $S = \{0,10\}$. Repeatedly, as long as possible, if $x$ is an integer root of some polynomial $a_{n}x^n + a_{n-1}x^{n-1} + ... + a_{1}x + a_0$ for some $n\geq{1}$, all of whose coefficients $a_i$ are elements of $S$, then $x$ is put into $S$. When no more elements can be added to $S$, how many elements does $S$ have?
+ 
+$\textbf{(A)}\ 4 \qquad \textbf{(B)}\ 5 \qquad\textbf{(C)}\ 7 \qquad\textbf{(D)}\ 9 \qquad\textbf{(E)}\ 11$
+ 

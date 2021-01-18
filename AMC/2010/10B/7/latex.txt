@@ -1,0 +1,6 @@
+A triangle has side lengths $10$, $10$, and $12$. A rectangle has width $4$ and area equal to the
+ 
+area of the triangle. What is the perimeter of this rectangle?
+ 
+$\textbf{(A)}\ 16 \qquad \textbf{(B)}\ 24 \qquad \textbf{(C)}\ 28 \qquad \textbf{(D)}\ 32 \qquad \textbf{(E)}\ 36$
+ 

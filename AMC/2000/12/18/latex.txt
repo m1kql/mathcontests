@@ -1,0 +1,7 @@
+
+
+In year $N$, the $300^{\textmd{th}}$ day of the year is a Tuesday. In year $N+1$, the $200^{\textmd{th}}$ day is also a Tuesday. On what day of the week did the $100$th day of year $N-1$ occur?
+
+$\textbf{(A)}\ \textbf{Thursday} \qquad \textbf {(B)}\ \textbf{Friday}\qquad \textbf {(C)}\ \textbf{Saturday}\qquad \textbf {(D)}\ \textbf{Sunday}\qquad \textbf {(E)}\ \textbf{Monday}$
+
+

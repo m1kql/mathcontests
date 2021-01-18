@@ -1,0 +1,4 @@
+Last year 100 adult cats, half of whom were female, were brought into the Smallville Animal Shelter. Half of the adult female cats were accompanied by a litter of kittens. The average number of kittens per litter was 4. What was the total number of cats and kittens received by the shelter last year?
+ 
+$\textbf{(A)}\ 150\qquad\textbf{(B)}\ 200\qquad\textbf{(C)}\ 250\qquad\textbf{(D)}\ 300\qquad\textbf{(E)}\ 400$
+ 

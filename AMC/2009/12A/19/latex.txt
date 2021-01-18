@@ -1,0 +1,4 @@
+Andrea inscribed a circle inside a regular pentagon, circumscribed a circle around the pentagon, and calculated the area of the region between the two circles.  Bethany did the same with a regular heptagon (7 sides).  The areas of the two regions were $A$ and $B$, respectively.  Each polygon had a side length of $2$.  Which of the following is true?
+ 
+$\textbf{(A)}\ A = \frac {25}{49}B\qquad \textbf{(B)}\ A = \frac {5}{7}B\qquad \textbf{(C)}\ A = B\qquad \textbf{(D)}\ A$ $= \frac {7}{5}B\qquad \textbf{(E)}\ A = \frac {49}{25}B$
+ 

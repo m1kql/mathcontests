@@ -1,0 +1,5 @@
+
+Raashan, Sylvia, and Ted play the following game. Each starts with \textdollar 1. A bell rings every $15$ seconds, at which time each of the players who currently have money simultaneously chooses one of the other two players independently and at random and gives \textdollar 1 to that player. What is the probability that after the bell has rung $2019$ times, each player will have \textdollar 1? (For example, Raashan and Ted may each decide to give \textdollar 1 to Sylvia, and Sylvia may decide to give her her dollar to Ted, at which point Raashan will have \textdollar 0, Sylvia will have \textdollar 2, and Ted will have \textdollar 1, and that is the end of the first round of play. In the second round Rashaan has no money to give, but Sylvia and Ted might choose each other to give their \textdollar 1 to, and the holdings will be the same at the end of the second round.)
+
+$\textbf{(A) } \frac{1}{7} \qquad\textbf{(B) } \frac{1}{4} \qquad\textbf{(C) } \frac{1}{3} \qquad\textbf{(D) } \frac{1}{2} \qquad\textbf{(E) } \frac{2}{3}$
+

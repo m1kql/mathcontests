@@ -1,0 +1,1 @@
+The repeating decimal $0.ab\cdots k\overline{pq\cdots u}=\frac mn$, where $m$ and $n$ are relatively prime integers, and there is at least one decimal before the repeating part. Show that $n$ is divisble by 2 or 5 (or both). (For example, $0.011\overline{36}=0.01136363636\cdots=\frac 1{88}$, and 88 is divisible by 2.)

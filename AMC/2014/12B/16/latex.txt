@@ -1,0 +1,4 @@
+Let $P$ be a cubic polynomial with $P(0) = k$, $P(1) = 2k$, and $P(-1) = 3k$.  What is $P(2) + P(-2)$ ?
+ 
+$\textbf{(A)}\ 0\qquad\textbf{(B)}\ k\qquad\textbf{(C)}\ 6k\qquad\textbf{(D)}\ 7k\qquad\textbf{(E)}\ 14k$
+ 

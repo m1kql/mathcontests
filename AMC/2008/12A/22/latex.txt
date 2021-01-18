@@ -1,0 +1,6 @@
+A round table has radius $4$. Six rectangular place mats are placed on the table. Each place mat has width $1$ and length $x$ as shown. They are positioned so that each mat has two corners on the edge of the table, these two corners being end points of the same side of length $x$. Further, the mats are positioned so that the inner corners each touch an inner corner of an adjacent mat. What is $x$?
+ 
+
+ 
+$\mathrm{(A)}\ 2\sqrt{5}-\sqrt{3}\qquad\mathrm{(B)}\ 3\qquad\mathrm{(C)}\ \frac{3\sqrt{7}-\sqrt{3}}{2}\qquad\mathrm{(D)}\ 2\sqrt{3}\qquad\mathrm{(E)}\ \frac{5+2\sqrt{3}}{2}$
+ 

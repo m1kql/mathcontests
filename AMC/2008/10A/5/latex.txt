@@ -1,0 +1,6 @@
+Which of the following is equal to the product
+ 
+ \begin{center} \[\frac{8}{4}\cdot\frac{12}{8}\cdot\frac{16}{12}\cdot\cdots\cdot\frac{4n+4}{4n}\cdot\cdots\cdot\frac{2008}{2004}?\] \end{center} 
+ 
+$\textbf{(A)}\ 251\qquad\textbf{(B)}\ 502\qquad\textbf{(C)}\ 1004\qquad\textbf{(D)}\ 2008\qquad\textbf{(E)}\ 4016$
+ 

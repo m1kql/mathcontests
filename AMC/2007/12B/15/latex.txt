@@ -1,0 +1,4 @@
+The geometric series $a+ar+ar^2\ldots$ has a sum of $7$, and the terms involving odd powers of $r$ have a sum of $3$. What is $a+r$?
+ 
+$\textbf{(A)}\ \frac{4}{3}\qquad\textbf{(B)}\ \frac{12}{7}\qquad\textbf{(C)}\ \frac{3}{2}\qquad\textbf{(D)}\ \frac{7}{3}\qquad\textbf{(E)}\ \frac{5}{2}$
+ 

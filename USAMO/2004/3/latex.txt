@@ -1,0 +1,1 @@
+(Ricky Liu) For what values of $k > 0$ is it possible to dissect a $1 \times k$ rectangle into two similar, but incongruent, polygons?

@@ -1,0 +1,4 @@
+For $k > 0$, let $I_k = 10\ldots 064$, where there are $k$ zeros between the $1$ and the $6$.  Let $N(k)$ be the number of factors of $2$ in the prime factorization of $I_k$.  What is the maximum value of $N(k)$?
+ 
+$\textbf{(A)}\ 6\qquad \textbf{(B)}\ 7\qquad \textbf{(C)}\ 8\qquad \textbf{(D)}\ 9\qquad \textbf{(E)}\ 10$
+ 

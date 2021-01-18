@@ -1,0 +1,6 @@
+The letter F shown below is rotated $90^\circ$ clockwise around the origin, then reflected in the $y$-axis, and then rotated a half turn around the origin. What is the final image?
+ 
+
+ 
+
+ 

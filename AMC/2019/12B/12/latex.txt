@@ -1,0 +1,6 @@
+Right triangle $ACD$ with right angle at $C$ is constructed outwards on the hypotenuse $\overline{AC}$ of isosceles right triangle $ABC$ with leg length $1$, as shown, so that the two triangles have equal perimeters. What is $\sin(2\angle BAD)$?
+ 
+
+ 
+$\textbf{(A) } \dfrac{1}{3}  \qquad\textbf{(B) } \dfrac{\sqrt{2}}{2} \qquad\textbf{(C) } \dfrac{3}{4} \qquad\textbf{(D) } \dfrac{7}{9} \qquad\textbf{(E) }  \dfrac{\sqrt{3}}{2}$
+ 

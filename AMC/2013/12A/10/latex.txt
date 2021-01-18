@@ -1,0 +1,4 @@
+Let $S$ be the set of positive integers $n$ for which $\tfrac{1}{n}$ has the repeating decimal representation $0.\overline{ab} = 0.ababab\cdots,$ with $a$ and $b$ different digits.  What is the sum of the elements of $S$?
+ 
+$\textbf{(A)}\ 11\qquad\textbf{(B)}\ 44\qquad\textbf{(C)}\ 110\qquad\textbf{(D)}\ 143\qquad\textbf{(E)}\ 155\qquad$
+ 

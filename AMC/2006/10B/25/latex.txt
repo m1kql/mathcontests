@@ -1,0 +1,4 @@
+Mr. Jones has eight children of different ages. On a family trip his oldest child, who is 9, spots a license plate with a 4-digit number in which each of two digits appears two times. "Look, daddy!" she exclaims. "That number is evenly divisible by the age of each of us kids!" "That's right," replies Mr. Jones, "and the last two digits just happen to be my age." Which of the following is not the age of one of Mr. Jones's children? 
+ 
+$\mathrm{(A) \ } 4\qquad \mathrm{(B) \ } 5\qquad \mathrm{(C) \ } 6\qquad \mathrm{(D) \ } 7\qquad \mathrm{(E) \ } 8$
+ 

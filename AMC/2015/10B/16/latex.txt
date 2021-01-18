@@ -1,0 +1,4 @@
+Al, Bill, and Cal will each randomly be assigned a whole number from $1$ to $10$, inclusive, with no two of them getting the same number. What is the probability that Al's number will be a whole number multiple of Bill's and Bill's number will be a whole number multiple of Cal's?
+ 
+$\textbf{(A) } \dfrac{9}{1000} \qquad\textbf{(B) } \dfrac{1}{90} \qquad\textbf{(C) } \dfrac{1}{80} \qquad\textbf{(D) } \dfrac{1}{72} \qquad\textbf{(E) } \dfrac{2}{121}$
+ 

@@ -1,0 +1,4 @@
+Brenda and Sally run in opposite directions on a circular track, starting at diametrically opposite points.  They first meet after Brenda has run 100 meters.  They next meet after Sally has run 150 meters past their first meeting point.  Each girl runs at a constant speed.  What is the length of the track in meters?
+ 
+$\mathrm{(A) \ } 250 \qquad \mathrm{(B) \ } 300 \qquad \mathrm{(C) \ } 350 \qquad \mathrm{(D) \ }  400\qquad \mathrm{(E) \ } 500$
+ 

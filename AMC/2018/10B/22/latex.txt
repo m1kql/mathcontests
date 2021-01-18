@@ -1,0 +1,4 @@
+Real numbers $x$ and $y$ are chosen independently and uniformly at random from the interval $[0,1]$. Which of the following numbers is closest to the probability that $x,y,$ and $1$ are the side lengths of an obtuse triangle?
+ 
+$\textbf{(A)} \text{ 0.21} \qquad \textbf{(B)} \text{ 0.25} \qquad \textbf{(C)} \text{ 0.29} \qquad \textbf{(D)} \text{ 0.50} \qquad \textbf{(E)} \text{ 0.79}$
+ 

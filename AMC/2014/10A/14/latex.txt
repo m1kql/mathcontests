@@ -1,0 +1,4 @@
+The $y$-intercepts, $P$ and $Q$, of two perpendicular lines intersecting at the point $A(6,8)$ have a sum of zero. What is the area of $\triangle APQ$?
+ 
+$\textbf{(A)}\ 45\qquad\textbf{(B)}\ 48\qquad\textbf{(C)}\ 54\qquad\textbf{(D)}\ 60\qquad\textbf{(E)}\ 72$
+ 

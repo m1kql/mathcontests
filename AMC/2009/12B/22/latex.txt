@@ -1,0 +1,4 @@
+Parallelogram $ABCD$ has area $1,\!000,\!000$. Vertex $A$ is at $(0,0)$ and all other vertices are in the first quadrant. Vertices $B$ and $D$ are lattice points on the lines $y = x$ and $y = kx$ for some integer $k > 1$, respectively. How many such parallelograms are there?
+ 
+$\textbf{(A)}\ 49\qquad \textbf{(B)}\ 720\qquad \textbf{(C)}\ 784\qquad \textbf{(D)}\ 2009\qquad \textbf{(E)}\ 2048$
+ 

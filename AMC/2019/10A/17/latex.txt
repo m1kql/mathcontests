@@ -1,0 +1,4 @@
+A child builds towers using identically shaped cubes of different color. How many different towers with a height $8$ cubes can the child build with $2$ red cubes, $3$ blue cubes, and $4$ green cubes? (One cube will be left out.)
+ 
+$\textbf{(A) } 24 \qquad\textbf{(B) } 288 \qquad\textbf{(C) } 312 \qquad\textbf{(D) } 1,260 \qquad\textbf{(E) } 40,320$
+ 

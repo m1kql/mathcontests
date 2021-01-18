@@ -1,0 +1,4 @@
+When $15$ is appended to a list of integers, the mean is increased by $2$. When $1$ is appended to the enlarged list, the mean of the enlarged list is decreased by $1$. How many integers were in the original list?
+ 
+$\mathrm{(A) \ } 4\qquad \mathrm{(B) \ } 5\qquad \mathrm{(C) \ } 6\qquad \mathrm{(D) \ } 7\qquad \mathrm{(E) \ } 8$
+ 

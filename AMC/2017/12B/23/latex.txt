@@ -1,0 +1,4 @@
+The graph of $y=f(x)$, where $f(x)$ is a polynomial of degree $3$, contains points $A(2,4)$, $B(3,9)$, and $C(4,16)$. Lines $AB$, $AC$, and $BC$ intersect the graph again at points $D$, $E$, and $F$, respectively, and the sum of the $x$-coordinates of $D$, $E$, and $F$ is 24. What is $f(0)$?
+ 
+$\textbf{(A)}\quad {-2} \qquad \qquad \textbf{(B)}\quad 0 \qquad\qquad \textbf{(C)}\quad 2 \qquad\qquad \textbf{(D)}\quad \dfrac{24}5 \qquad\qquad\textbf{(E)}\quad 8$
+ 

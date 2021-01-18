@@ -1,0 +1,2 @@
+Let $\, a =(m^{m+1} + n^{n+1})/(m^m + n^n), \,$ where $\,m\,$ and $\,n\,$ are positive integers.  Prove that $\,a^m + a^n \geq m^m + n^n$.
+[You may wish to analyze the ratio $\,(a^N - N^N)/(a-N),$ for real $\, a \geq 0 \,$ and integer $\, N \geq 1$.]

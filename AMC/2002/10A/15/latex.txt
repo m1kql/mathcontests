@@ -1,0 +1,4 @@
+Using the digits 1, 2, 3, 4, 5, 6, 7, and 9, form 4 two-digit prime numbers, using each digit only once. What is the sum of the 4 prime numbers?
+ 
+$\text{(A)}\ 150 \qquad \text{(B)}\ 160 \qquad \text{(C)}\ 170 \qquad \text{(D)}\ 180 \qquad \text{(E)}\ 190$
+ 

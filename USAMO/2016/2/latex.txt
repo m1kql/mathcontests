@@ -1,0 +1,3 @@
+Prove that for any positive integer $k,$
+ \begin{center} \[\left(k^2\right)!\cdot\prod_{j=0}^{k-1}\frac{j!}{\left(j+k\right)!}\] \end{center} 
+is an integer.

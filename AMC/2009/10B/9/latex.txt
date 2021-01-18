@@ -1,0 +1,6 @@
+Segment $BD$ and $AE$ intersect at $C$, as shown, $AB=BC=CD=CE$, and $\angle A = \frac 52 \angle B$. What is the degree measure of $\angle D$? 
+ 
+
+ 
+$\text{(A) } 52.5 \qquad \text{(B) } 55 \qquad \text{(C) } 57.7 \qquad \text{(D) } 60 \qquad \text{(E) } 62.5$
+ 

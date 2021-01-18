@@ -1,0 +1,14 @@
+Let $a > 0$, and let $P(x)$ be a polynomial with integer coefficients such that
+ 
+
+ 
+$P(1) = P(3) = P(5) = P(7) = a$, and
+ 
+$P(2) = P(4) = P(6) = P(8) = -a$.
+ 
+
+ 
+What is the smallest possible value of $a$?
+ 
+$\textbf{(A)}\ 105 \qquad \textbf{(B)}\ 315 \qquad \textbf{(C)}\ 945 \qquad \textbf{(D)}\ 7! \qquad \textbf{(E)}\ 8!$
+ 

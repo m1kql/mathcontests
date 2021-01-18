@@ -1,0 +1,4 @@
+Ms. Carroll promised that anyone who got all the multiple choice questions right on the upcoming exam would receive an A on the exam. Which one of these statements necessarily follows logically?
+ 
+$\textbf{(A)}\ \text{If Lewis did not receive an A, then he got all of the multiple choice questions wrong.}\\\qquad\textbf{(B)}\ \text{If Lewis did not receive an A, then he got at least one of the multiple choice questions wrong.}\\\qquad\textbf{(C)}\ \text{If Lewis got at least one of the multiple choice questions wrong, then he did not receive an A.}\\\qquad\textbf{(D)}\ \text{If Lewis received an A, then he got all of the multiple choice questions right.}\\\qquad\textbf{(E)}\ \text{If Lewis received an A, then he got at least one of the multiple choice questions right.}$
+ 

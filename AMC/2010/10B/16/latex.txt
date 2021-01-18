@@ -1,0 +1,4 @@
+A square of side length $1$ and a circle of radius $\dfrac{\sqrt{3}}{3}$ share the same center. What is the area inside the circle, but outside the square?
+ 
+$\textbf{(A)}\ \dfrac{\pi}{3}-1 \qquad \textbf{(B)}\ \dfrac{2\pi}{9}-\dfrac{\sqrt{3}}{3} \qquad \textbf{(C)}\ \dfrac{\pi}{18} \qquad \textbf{(D)}\ \dfrac{1}{4} \qquad \textbf{(E)}\ \dfrac{2\pi}{9}$
+ 

@@ -1,0 +1,4 @@
+Points $B$ and $C$ lie on $\overline{AD}$. The length of $\overline{AB}$ is $4$ times the length of $\overline{BD}$, and the length of $\overline{AC}$ is $9$ times the length of $\overline{CD}$. The length of $\overline{BC}$ is what fraction of the length of $\overline{AD}$?
+ 
+$\textbf{(A)}\ \frac {1}{36} \qquad \textbf{(B)}\ \frac {1}{13} \qquad \textbf{(C)}\ \frac {1}{10} \qquad \textbf{(D)}\ \frac {5}{36} \qquad \textbf{(E)}\ \frac {1}{5}$
+ 

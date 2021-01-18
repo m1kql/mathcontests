@@ -1,0 +1,8 @@
+For every $m$ and $k$ integers with $k$ odd, denote by $\left[\frac{m}{k}\right]$ the integer closest to $\frac{m}{k}$. For every odd integer $k$, let $P(k)$ be the probability that
+ 
+ \begin{center} \[\left[\frac{n}{k}\right] + \left[\frac{100 - n}{k}\right] = \left[\frac{100}{k}\right]\] \end{center} 
+ 
+for an integer $n$ randomly chosen from the interval $1 \leq n \leq 99!$. What is the minimum possible value of $P(k)$ over the odd integers $k$ in the interval $1 \leq k \leq 99$?
+ 
+$\textbf{(A)}\ \frac{1}{2} \qquad \textbf{(B)}\ \frac{50}{99} \qquad \textbf{(C)}\ \frac{44}{87} \qquad \textbf{(D)}\  \frac{34}{67} \qquad \textbf{(E)}\  \frac{7}{13}$
+ 

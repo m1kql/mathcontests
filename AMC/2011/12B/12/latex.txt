@@ -1,0 +1,6 @@
+A dart board is a regular octagon divided into regions as shown below. Suppose that a dart thrown at the board is equally likely to land anywhere on the board. What is the probability that the dart lands within the center square?
+ 
+
+ 
+$\textbf{(A)}\ \frac{\sqrt{2} - 1}{2} \qquad \textbf{(B)}\ \frac{1}{4} \qquad \textbf{(C)}\ \frac{2 - \sqrt{2}}{2} \qquad \textbf{(D)}\ \frac{\sqrt{2}}{4} \qquad \textbf{(E)}\ 2 - \sqrt{2}$
+ 

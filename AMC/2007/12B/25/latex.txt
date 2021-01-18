@@ -1,0 +1,4 @@
+Points $A,B,C,D$ and $E$ are located in 3-dimensional space with $AB=BC=CD=DE=EA=2$ and $\angle ABC=\angle CDE=\angle DEA=90^o$. The plane of $\triangle ABC$ is parallel to $\overline{DE}$. What is the area of $\triangle BDE$?
+ 
+$\mathrm {(A)} \sqrt{2}\qquad \mathrm {(B)} \sqrt{3}\qquad \mathrm {(C)} 2\qquad \mathrm {(D)} \sqrt{5}\qquad \mathrm {(E)} \sqrt{6}$
+ 
