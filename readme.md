@@ -1,7 +1,8 @@
 # contest problems
 
-AIME, AMC, USAMO, USAJMO contest problems and solutions. 
+AIME, AMC, USAMO, USAJMO, CMO contest problems and solutions. 
 
-All latex files and png images are provided. 
+TODO:
 
-Pulled from [veryboi/math-problems](https://github.com/veryboi/math-problems) and subsequently improved on
+- [ ] add in Pascal, Cayley and Fermat contests
+- [ ] add HMMT 
